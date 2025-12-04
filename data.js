@@ -3,6 +3,137 @@ const culturalData = {
     england: {
         name: "England",
         flag: "🇬🇧",
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct – A Practical Guide to Getting Along and Fitting In 🤝",
+            content: `
+                <p>Right, let's get into the nitty-gritty of how to behave in public and be a good neighbour. 🏘️ This is crucial stuff – get it wrong and you'll stick out like a sore thumb. Get it right, and people will barely notice you're new here (which is actually the goal 🎯).</p>
+                
+                <p>This isn't about changing who you are. It's about understanding the unwritten rules that keep British society ticking along smoothly. ⚙️ Think of it as learning the local dialect of "being considerate." Let's crack on! 💪</p>
+
+                <h3>🚨 Part 1: The Legal Essentials – What Can Actually Get You In Trouble ⚖️</h3>
+                <p>Before we get to the social stuff, here are the legal bits. Breaking these can result in fines 💸 or worse.</p>
+
+                <div class="warning">
+                    <strong>🚯 Anti-Social Behaviour Laws</strong>
+                    <ul>
+                        <li><strong>Littering:</strong> Dropping litter is a criminal offence. Fixed penalty fines range from £50-£150. 🗑️ If it goes to court, fines can reach £2,500.</li>
+                        <li><strong>Noise Nuisance:</strong> Making excessive noise, especially at night (11 PM - 7 AM) 🌙, can result in formal warnings and fines. Your local council has the power to confiscate equipment.</li>
+                        <li><strong>Public Drinking:</strong> Many town and city centres have "Public Space Protection Orders" banning alcohol. 🍺 Check for signs – you can be fined or have your drink confiscated.</li>
+                        <li><strong>Dog Fouling:</strong> Not picking up after your dog 🐕 can result in fines up to £1,000. Always carry bags.</li>
+                    </ul>
+                </div>
+
+                <div class="important">
+                    <strong>⚠️ Public Order Offences</strong>
+                    <ul>
+                        <li><strong>Threatening or Abusive Behaviour:</strong> Using threatening words or behaviour that could cause harassment, alarm, or distress is a crime. This includes racist or homophobic language. 🚫</li>
+                        <li><strong>Being Drunk and Disorderly:</strong> Being visibly drunk and causing a disturbance in public is an offence. 🍻 You can be arrested.</li>
+                        <li><strong>Harassment:</strong> Repeatedly following someone, making threats, or behaving in a way that causes fear is illegal under the Protection from Harassment Act.</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>📢 Freedom of Speech (and its limits)</strong>
+                    <p>You have the right to express opinions, protest peacefully ✊, and practice your religion. However, "hate speech" – speech that incites hatred against protected groups (race, religion, sexuality, disability) – is a crime. There's a line between robust debate and abuse. 🎭</p>
+                </div>
+
+                <h3>🤫 Part 2: The Unwritten Rules – Keeping the Peace</h3>
+                <p>Now for the stuff that won't get you arrested, but will make your life much easier (or much harder) if you ignore it. 🧐</p>
+
+                <h4>🔇 Noise and Disturbance:</h4>
+                <ul>
+                    <li>🌃 <strong>After 11 PM:</strong> Keep it down. No loud music 🎵, no shouting in the street, no slamming car doors repeatedly. Your neighbours are sleeping (or trying to).</li>
+                    <li>☀️ <strong>Sunday Mornings:</strong> Don't start drilling, mowing the lawn 🌿, or doing anything noisy before about 10 AM. Sunday is traditionally a quiet day.</li>
+                    <li>🔨 <strong>DIY and Construction:</strong> Try to keep disruptive work to reasonable weekday hours. Warn your neighbours if you're doing something particularly noisy.</li>
+                    <li>🐕 <strong>Dogs Barking:</strong> Persistent barking is a major source of neighbour disputes. Train your dog or address the issue. 🤫</li>
+                </ul>
+
+                <h4>🏡 Being a Good Neighbour:</h4>
+                <ul>
+                    <li>👋 <strong>Greet Your Neighbours:</strong> A simple "Hello" or "Morning" when you see them is enough. You don't need to become best friends 🤝, but basic acknowledgement is expected.</li>
+                    <li>🌳 <strong>Keep Your Garden Tidy:</strong> You don't need a perfect lawn, but an overgrown jungle can affect property values and annoy neighbours. 🪴</li>
+                    <li>🚗 <strong>Parking:</strong> Don't block anyone's driveway. Be considerate about how much street space you take up. Don't park over someone's dropped kerb.</li>
+                    <li>🗑️ <strong>Bin Days:</strong> Put your bins out on the correct day 📅 and bring them back in afterwards. Don't leave them cluttering the pavement for days.</li>
+                    <li>📬 <strong>Accepting Parcels:</strong> If a neighbour is out, it's common to accept parcels for them. It's a small gesture that builds goodwill. 📦</li>
+                </ul>
+
+                <h4>📢 Communication is Key:</h4>
+                <ul>
+                    <li>🎉 <strong>If You're Having a Party:</strong> Warn your immediate neighbours in advance. A quick knock on the door or a note through the letterbox goes a long way. ✉️</li>
+                    <li>🔧 <strong>If Something Bothers You:</strong> Talk to your neighbour calmly and politely <em>first</em>. Most issues can be resolved with a friendly word. 💬 Going straight to the council is seen as aggressive.</li>
+                    <li>😤 <strong>If There's a Dispute:</strong> Local councils often have free mediation services for neighbour disputes. Use them before things escalate. 🤝</li>
+                </ul>
+
+                <h3>🚇 Part 3: Public Transport and Shared Spaces – The Art of the Commute</h3>
+                <p>Public spaces are where British reserve is most visible. Here's how to navigate them. 🚶</p>
+
+                <ul>
+                    <li>📶 <strong>Queuing:</strong> This is sacred. 🙏 Always join the back of the queue. Never push in. Never. Seriously. It's basically a national religion. 🇬🇧</li>
+                    <li>⬅️ <strong>Escalators:</strong> Stand on the right, walk on the left. This applies on the London Underground especially, but is good practice everywhere. ⬆️</li>
+                    <li>🚌 <strong>Public Transport:</strong> Let people off before you get on. 🚪 Give up your seat for elderly, pregnant, or disabled passengers (look for priority seats). Keep your voice down. 🔇 Avoid taking up multiple seats with bags.</li>
+                    <li>📱 <strong>Phone Calls:</strong> Keep calls brief and quiet. Nobody wants to hear your entire conversation. 🙉 On trains, many carriages are "quiet carriages" where calls are discouraged.</li>
+                    <li>🎧 <strong>Music:</strong> Use headphones. 🎶 Playing music out loud on the bus or train is incredibly annoying and marks you out as inconsiderate.</li>
+                    <li>🚶 <strong>Pavements:</strong> Walk at a reasonable pace. Don't stop suddenly in the middle of a busy pavement. Be aware of people trying to get past. 👣</li>
+                    <li>🚪 <strong>Holding Doors:</strong> Hold the door open for the person behind you. 🙌 It's automatic courtesy. Say "thank you" when someone does it for you.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The "Sorry" Rule</strong>
+                    <p>The English apologise constantly, often for things that aren't their fault. "Sorry" is used to mean "excuse me" 🙏, to get someone's attention 👋, or just to fill awkward silence. You'll hear it hundreds of times a day. Join in! 😅</p>
+                </div>
+
+                <h3>🛒 Part 4: Shops, Pubs, and Public Services – How Things Work</h3>
+
+                <h4>🏪 Shops and Restaurants:</h4>
+                <ul>
+                    <li>👋 <strong>Greetings:</strong> Saying "Hello" to shop staff isn't compulsory, but it's polite. Always say "thank you" after a transaction. 🙏</li>
+                    <li>🔕 <strong>Browsing:</strong> You're generally left alone to browse. Staff won't follow you around (if they do, it's bad service). 🛍️</li>
+                    <li>✋ <strong>Getting Attention:</strong> Don't shout or snap your fingers at staff. 🙅 Make eye contact, raise a hand slightly, or wait for them to approach. Patience is valued.</li>
+                    <li>💷 <strong>Tipping:</strong> Not obligatory in most situations. Restaurants often add a service charge 📝 (check your bill). Tipping 10-15% is appreciated but not expected.</li>
+                </ul>
+
+                <h4>🍺 The Pub:</h4>
+                <ul>
+                    <li>🪑 <strong>Finding a Seat:</strong> Some pubs are "order at the bar," some have table service. Look around for clues or ask. 🧐</li>
+                    <li>🍻 <strong>Buying Rounds:</strong> If you're with a group, you'll take turns buying drinks for everyone. 🔄 This is called "getting a round in." It's a social contract – don't skip your turn, and don't accept drinks without offering to buy one back. 💸</li>
+                    <li>🧍 <strong>Don't Lean on the Bar:</strong> If others are waiting to order, get your drinks and move. 🚶 Don't hog the bar space.</li>
+                </ul>
+
+                <h4>🏥 Public Services (GP, Council, etc.):</h4>
+                <ul>
+                    <li>📅 <strong>Appointments:</strong> Be on time. ⏰ For GP appointments, arriving late often means you'll lose your slot.</li>
+                    <li>😌 <strong>Be Patient:</strong> Queues and waiting times are a fact of life. ⏳ Getting angry at frontline staff won't speed things up and makes you look unreasonable. 😤</li>
+                    <li>📄 <strong>Have Your Documents Ready:</strong> Whether it's ID, proof of address, or reference numbers – come prepared. 📋</li>
+                    <li>🙏 <strong>Say Please and Thank You:</strong> Always. Even if the service was slow. 😊</li>
+                </ul>
+
+                <h3>🌍 Part 5: Community and Integration – Getting Involved</h3>
+                <p>Being part of a community isn't just about not annoying people. It's about contributing. 🤗</p>
+
+                <ul>
+                    <li>🏠 <strong>Local Events:</strong> Look out for village fetes, community fairs, charity events, or seasonal celebrations. 🎪 Attending shows you're interested in your community.</li>
+                    <li>🙋 <strong>Volunteering:</strong> This is highly valued and a great way to meet people. 🤝 Charity shops, food banks, community groups, school PTAs – there are endless opportunities. 💪</li>
+                    <li>🏃 <strong>Sports Clubs and Societies:</strong> Joining a local football team ⚽, running club 🏃‍♀️, book club 📚, or hobby group is one of the best ways to integrate. The English open up more over shared activities.</li>
+                    <li>⛪ <strong>Religious and Community Groups:</strong> Many faith groups have active community outreach. Even non-religious community centres often run groups and activities. 🕌</li>
+                    <li>👨‍👩‍👧 <strong>School Community:</strong> If you have children 🧒, get involved with school events. It's a natural way to meet other local parents.</li>
+                </ul>
+
+                <h3>♻️ Part 6: Environmental Responsibility – Doing Your Bit</h3>
+                <p>The English take environmental responsibility increasingly seriously. 🌱</p>
+
+                <ul>
+                    <li>♻️ <strong>Recycling:</strong> This is mandatory. 🗑️ Councils provide different bins for different waste (general, recycling, garden, food). Learn your collection days and what goes where. Getting it wrong can mean your bins aren't collected. 📅</li>
+                    <li>💧 <strong>Water Conservation:</strong> In summer, there may be hosepipe bans. 🚿 Don't waste water unnecessarily.</li>
+                    <li>🐶 <strong>Dog Walking:</strong> Always clean up after your dog. 🐕 Carry poo bags. Use designated bins or take it home. 🗑️</li>
+                    <li>🌳 <strong>Countryside Code:</strong> If you're in the countryside, follow paths, close gates 🚪, don't litter, keep dogs under control, and respect wildlife. 🦔</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Public and community conduct in England can be summed up in three words: <strong>quiet, considerate, and patient</strong>. 🤫🤝⏳ Mind your own business (mostly), be polite even when frustrated, say please and thank you, and queue properly. Do that, and you'll fit in just fine! ✅🇬🇧</p>
+                </div>
+            `
+        },
         relationships: {
             title: "💕 Module 1: A Practical Guide to Relationships, Respect, and How Not to Make a Fool of Yourself 🤝",
             content: `
