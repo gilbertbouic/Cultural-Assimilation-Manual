@@ -1,0 +1,123 @@
+// Application State
+let currentCountry = null;
+let currentCategory = null;
+
+// DOM Elements
+const countrySelection = document.getElementById('country-selection');
+const categorySelection = document.getElementById('category-selection');
+const contentDisplay = document.getElementById('content-display');
+const countryNameDisplay = document.getElementById('country-name-display');
+const contentTitle = document.getElementById('content-title');
+const contentBody = document.getElementById('content-body');
+
+// Country Buttons
+const countryButtons = document.querySelectorAll('.country-btn');
+const categoryButtons = document.querySelectorAll('.category-btn');
+const backToCountriesBtn = document.getElementById('back-to-countries');
+const backToCategoriesBtn = document.getElementById('back-to-categories');
+
+// Event Listeners
+countryButtons.forEach(btn => {
+    btn.addEventListener('click', () => selectCountry(btn.dataset.country));
+});
+
+categoryButtons.forEach(btn => {
+    btn.addEventListener('click', () => selectCategory(btn.dataset.category));
+});
+
+backToCountriesBtn.addEventListener('click', showCountrySelection);
+backToCategoriesBtn.addEventListener('click', showCategorySelection);
+
+// Functions
+function selectCountry(country) {
+    currentCountry = country;
+    const countryData = culturalData[country];
+    countryNameDisplay.textContent = `${countryData.flag} ${countryData.name}`;
+    
+    countrySelection.classList.add('hidden');
+    categorySelection.classList.remove('hidden');
+    contentDisplay.classList.add('hidden');
+    
+    // Scroll to top
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function selectCategory(category) {
+    currentCategory = category;
+    const countryData = culturalData[currentCountry];
+    const categoryData = countryData[category];
+    
+    contentTitle.textContent = categoryData.title;
+    contentBody.innerHTML = categoryData.content;
+    
+    categorySelection.classList.add('hidden');
+    contentDisplay.classList.remove('hidden');
+    
+    // Scroll to top
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function showCountrySelection() {
+    currentCountry = null;
+    currentCategory = null;
+    
+    countrySelection.classList.remove('hidden');
+    categorySelection.classList.add('hidden');
+    contentDisplay.classList.add('hidden');
+    
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+function showCategorySelection() {
+    currentCategory = null;
+    
+    categorySelection.classList.remove('hidden');
+    contentDisplay.classList.add('hidden');
+    
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
+// Keyboard Navigation
+document.addEventListener('keydown', (e) => {
+    if (e.key === 'Escape') {
+        if (!contentDisplay.classList.contains('hidden')) {
+            showCategorySelection();
+        } else if (!categorySelection.classList.contains('hidden')) {
+            showCountrySelection();
+        }
+    }
+});
+
+// Add animation class when elements become visible
+const observerOptions = {
+    root: null,
+    rootMargin: '0px',
+    threshold: 0.1
+};
+
+const observer = new IntersectionObserver((entries) => {
+    entries.forEach(entry => {
+        if (entry.isIntersecting) {
+            entry.target.style.opacity = '1';
+            entry.target.style.transform = 'translateY(0)';
+        }
+    });
+}, observerOptions);
+
+// Apply initial styles and observe buttons
+document.querySelectorAll('.country-btn, .category-btn').forEach((btn, index) => {
+    btn.style.opacity = '0';
+    btn.style.transform = 'translateY(20px)';
+    btn.style.transition = `opacity 0.3s ease ${index * 0.05}s, transform 0.3s ease ${index * 0.05}s`;
+    observer.observe(btn);
+});
+
+// Initialize - trigger animations
+setTimeout(() => {
+    document.querySelectorAll('.country-btn').forEach(btn => {
+        btn.style.opacity = '1';
+        btn.style.transform = 'translateY(0)';
+    });
+}, 100);
+
+console.log('Cultural User Manual initialized successfully!');
