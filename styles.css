@@ -12,6 +12,11 @@ body {
     color: #333;
 }
 
+/* White background for country selection section */
+body.country-selection-active {
+    background: #ffffff;
+}
+
 /* Header Styles */
 header {
     text-align: center;
@@ -94,6 +99,49 @@ main {
     font-size: 1.3rem;
     font-weight: 600;
     color: #4a4a8a;
+}
+
+/* Couple figures container */
+.couple-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 0.5rem;
+    margin-top: 0.3rem;
+    font-size: 1.5rem;
+    transition: all 0.3s ease;
+    position: relative;
+}
+
+/* Individual person styles */
+.couple-container .person {
+    transition: all 0.3s ease;
+}
+
+/* Hugging heart that appears on hover */
+.couple-container .hug-heart {
+    font-size: 0.8rem;
+    opacity: 0;
+    transform: scale(0);
+    transition: all 0.3s ease;
+}
+
+/* Hover effect - people move together and heart appears */
+.country-btn:hover .couple-container {
+    gap: 0;
+}
+
+.country-btn:hover .couple-container .person-man {
+    transform: translateX(0.15rem);
+}
+
+.country-btn:hover .couple-container .person-woman {
+    transform: translateX(-0.15rem);
+}
+
+.country-btn:hover .couple-container .hug-heart {
+    opacity: 1;
+    transform: scale(1.2);
 }
 
 /* Category Grid */
