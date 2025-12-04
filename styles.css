@@ -295,3 +295,102 @@ footer {
         width: 100%;
     }
 }
+
+/* Country Flag Backgrounds */
+/* England/UK - Union Jack */
+body.country-england {
+    background: 
+        /* White diagonal from top-left */
+        linear-gradient(to bottom right, 
+            transparent 45%, white 45%, white 55%, transparent 55%),
+        /* White diagonal from top-right */
+        linear-gradient(to bottom left, 
+            transparent 45%, white 45%, white 55%, transparent 55%),
+        /* Red diagonal stripes */
+        linear-gradient(to bottom right, 
+            transparent 47%, #C8102E 47%, #C8102E 53%, transparent 53%),
+        linear-gradient(to bottom left, 
+            transparent 47%, #C8102E 47%, #C8102E 53%, transparent 53%),
+        /* White cross */
+        linear-gradient(to right, 
+            #012169 40%, white 40%, white 60%, #012169 60%),
+        linear-gradient(to bottom, 
+            #012169 40%, white 40%, white 60%, #012169 60%),
+        /* Red cross */
+        linear-gradient(to right, 
+            transparent 45%, #C8102E 45%, #C8102E 55%, transparent 55%),
+        linear-gradient(to bottom, 
+            transparent 45%, #C8102E 45%, #C8102E 55%, transparent 55%),
+        /* Blue base */
+        #012169;
+    background-attachment: fixed;
+}
+
+/* Germany - Black, Red, Gold horizontal stripes */
+body.country-germany {
+    background: linear-gradient(
+        to bottom,
+        #000000 0%, #000000 33.33%,
+        #DD0000 33.33%, #DD0000 66.66%,
+        #FFCE00 66.66%, #FFCE00 100%
+    );
+    background-attachment: fixed;
+}
+
+/* France - Blue, White, Red vertical stripes */
+body.country-france {
+    background: linear-gradient(
+        to right,
+        #002395 0%, #002395 33.33%,
+        #FFFFFF 33.33%, #FFFFFF 66.66%,
+        #ED2939 66.66%, #ED2939 100%
+    );
+    background-attachment: fixed;
+}
+
+/* Sweden - Blue with yellow cross */
+body.country-sweden {
+    background: 
+        /* Vertical yellow stripe */
+        linear-gradient(to right, 
+            #006AA7 30%, #FECC00 30%, #FECC00 40%, #006AA7 40%),
+        /* Horizontal yellow stripe overlay - positioned */
+        linear-gradient(to bottom,
+            #006AA7 40%, #FECC00 40%, #FECC00 60%, #006AA7 60%);
+    background-attachment: fixed;
+}
+
+/* Ensure content is readable over flag backgrounds */
+body.country-england main,
+body.country-germany main,
+body.country-france main,
+body.country-sweden main {
+    background: transparent;
+}
+
+body.country-england .selection-section,
+body.country-england .content-section,
+body.country-germany .selection-section,
+body.country-germany .content-section,
+body.country-france .selection-section,
+body.country-france .content-section,
+body.country-sweden .selection-section,
+body.country-sweden .content-section {
+    background: rgba(255, 255, 255, 0.95);
+}
+
+body.country-england header,
+body.country-germany header,
+body.country-france header,
+body.country-sweden header {
+    background: rgba(255, 255, 255, 0.95);
+}
+
+body.country-england footer,
+body.country-germany footer,
+body.country-france footer,
+body.country-sweden footer {
+    background: rgba(0, 0, 0, 0.3);
+    color: white;
+    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
+}
