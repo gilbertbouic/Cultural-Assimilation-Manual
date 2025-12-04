@@ -34,6 +34,16 @@ function selectCountry(country) {
     const countryData = culturalData[country];
     countryNameDisplay.textContent = `${countryData.flag} ${countryData.name}`;
     
+    // Show/hide category buttons based on available data for the selected country
+    categoryButtons.forEach(btn => {
+        const category = btn.dataset.category;
+        if (countryData[category]) {
+            btn.style.display = '';
+        } else {
+            btn.style.display = 'none';
+        }
+    });
+    
     countrySelection.classList.add('hidden');
     categorySelection.classList.remove('hidden');
     contentDisplay.classList.add('hidden');

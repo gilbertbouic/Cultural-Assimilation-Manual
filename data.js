@@ -3,6 +3,84 @@ const culturalData = {
     england: {
         name: "England",
         flag: "🇬🇧",
+        relationships: {
+            title: "💕 Module 1: A Practical Guide to Relationships, Respect, and How Not to Make a Fool of Yourself 🤝",
+            content: `
+                <p>Right then. Let's talk about the tricky stuff: men, women, dating, and everything in between. 🎭 This is likely the biggest difference you'll find from your home country, and it's where things can go wrong fastest. ⚠️</p>
+                
+                <p>This guide isn't here to judge. It's a practical manual to help you understand the landscape, avoid getting into hot water 🔥, and hopefully have a decent time. Pay attention, because these aren't just suggestions – they're the rules of the game! 🎯</p>
+
+                <h3>🚨 Part 1: The Absolute, Non-Negotiable Rules (The Legal Bits) 📜</h3>
+                <p>This isn't about culture; this is about the law. ⚖️ Breaking these rules can lead to prison. There are <strong>no exceptions</strong>.</p>
+
+                <div class="warning">
+                    <strong>🔞 The Age of Consent is 16 (England & Wales)</strong>
+                    <ul>
+                        <li>It is a <strong>serious crime</strong> to have any kind of sexual contact with someone under 16. The law is absolute on this.</li>
+                        <li>"I thought they were older" is <strong>never</strong> an excuse. The responsibility is 100% on you. If you have any doubt at all, walk away. 🚶</li>
+                        <li><strong>Important:</strong> For people in positions of trust (like teachers 👨‍🏫, coaches, or doctors 👩‍⚕️), it is illegal to have a sexual relationship with a 16 or 17-year-old in their care. The age limit is effectively 18 in these cases.</li>
+                    </ul>
+                </div>
+
+                <div class="important">
+                    <strong>✅ Consent is Freely and Enthusiastically Given</strong>
+                    <ul>
+                        <li>You must have a clear "yes." 👍 Silence is not a yes. Someone being friendly is not a yes. Someone being drunk 🍺 is not a yes.</li>
+                        <li>"No" means "No." 🛑 It is the end of the conversation. Pestering, begging, or arguing after a "no" is harassment.</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>⚖️ Equality is the Law</strong>
+                    <p>Men and women are equal. 👫 Same-sex relationships are legal, normal, and protected by law. 🏳️‍🌈 You will see gay couples holding hands or being affectionate; this is a normal part of life here. Disrespecting someone based on their gender or sexuality is not tolerated.</p>
+                </div>
+
+                <h3>👔 Part 2: Dress Code – The Art of Effort and Understatement</h3>
+                <p>First things first: in modern England, you can, and should, wear whatever makes you feel comfortable. 😎 Personal freedom is highly valued. The prevailing attitude is that you shouldn't judge a book by its cover. 📚 So, the primary rule is: <strong>be yourself</strong>.</p>
+
+                <p>However, this guide is here to give you practical advice. We don't have strict "dress codes," but we do have "contexts." 🎭 Choosing what to wear is less about following rules and more about showing you understand the situation. It boils down to one simple concept: <strong>"making an effort." ✨</strong></p>
+
+                <div class="tip">
+                    <strong>💡 What does "making an effort" mean?</strong>
+                    <p>It means you've thought about the occasion and dressed appropriately for it. It's a non-verbal way of saying "I respect this situation and the people I'm with." 🤝 It has very little to do with money 💰 and everything to do with care. Clean clothes, clean shoes 👟, and a tidy appearance are the foundation.</p>
+                </div>
+
+                <h4>🎯 Context is Everything:</h4>
+                <ul>
+                    <li>🏠 <strong>Daily Life</strong> (running errands): Comfort is key. Nobody will bat an eyelid at what you're wearing.</li>
+                    <li>🍺 <strong>A Casual Social Setting</strong> (e.g., the pub): You'll see everything, but the safe middle ground is "smart casual"—think clean jeans or chinos and a decent jumper or shirt. It says, "I'm relaxed, but I've made an effort."</li>
+                    <li>🍽️ <strong>A "Nice" Occasion</strong> (a good restaurant, a date): This is where "making an effort" is most appreciated. It shows respect for the person you're with and the place you're in.</li>
+                    <li>🎨 <strong>Expressing Yourself:</strong> If you have a unique personal style, wear it with confidence. In most places, people will either not notice or will appreciate the individuality.</li>
+                </ul>
+
+                <p>The real secret is that the English are masters of <strong>understatement</strong>. 🎩 The goal is often to look good without looking like you've tried too hard. So, forget rigid rules. Just ask yourself: "Am I showing the right amount of respect for this occasion?" If the answer is yes, you've got it right. ✅</p>
+
+                <h3>🎭 Part 3: The Social Dance – Public Behaviour and First Steps</h3>
+                <p>This is where the real English culture comes in. We are generally reserved and value privacy. 🤫</p>
+
+                <ul>
+                    <li>💑 <strong>Public Affection:</strong> Keep it subtle. Holding hands or a brief kiss is fine. 😘 Long, passionate embraces in the middle of a quiet café will make people uncomfortable. 😬</li>
+                    <li>📏 <strong>Personal Space:</strong> We like our space. Don't stand too close. A good rule is to keep about an arm's length away. 🤲 Uninvited touching, even if you mean it to be friendly, is often seen as an invasion of that space.</li>
+                    <li>💬 <strong>The Art of the Compliment:</strong> Be careful. Complimenting something someone <em>chose</em> (their jacket 🧥, their shoes 👞) is safe. Complimenting someone's body ("you have beautiful eyes" 👀) can come across as far too forward and may be seen as an unwanted advance.</li>
+                    <li>🗣️ <strong>Initiating a Conversation:</strong> It's fine to chat to someone in a pub or social setting. Use the situation as a starting point ("It's busy tonight 🌙"). If they give short, one-word answers and turn away, that's a polite signal to end the conversation. Take the hint gracefully. 😊</li>
+                </ul>
+
+                <h3>💕 Part 4: Dating – The Unspoken Rules</h3>
+                <ul>
+                    <li>🍻 <strong>Alcohol is Involved:</strong> A huge amount of socialising and dating revolves around alcohol. "Going for a drink" is the standard first date. It's casual, low-pressure, and has an easy time limit. ⏰</li>
+                    <li>💸 <strong>Who Pays?:</strong> The old "man always pays" rule is dead. ⚰️ Often, people will "get a round" in turn, or the bill is split ("going Dutch" 🇳🇱). A good policy is to always offer to pay your share.</li>
+                    <li>📅 <strong>Age Gaps:</strong> Large age gaps (10+ years) are less common and can sometimes be viewed with suspicion 🤔, especially if one person is very young (e.g., under 21). It's not illegal, but it's something to be aware of.</li>
+                    <li>🙅 <strong>Handling Rejection:</strong> If you ask someone out and they say no, the only acceptable response is a polite, "No problem, have a good evening," 👋 and then you move on. Pestering someone after rejection is considered socially unacceptable and will seriously damage your reputation. 🚫</li>
+                    <li>💔 <strong>Infidelity ("Cheating"):</strong> Loyalty is highly valued. Cheating on a partner is seen as a massive betrayal and a deeply dishonourable thing to do.</li>
+                    <li>🌙 <strong>The End of the Night:</strong> Do not assume a date will end in physical intimacy. It usually doesn't. A simple "I had a really nice time" 😊 is the best way to end the evening. If they feel the same, you can arrange another date. 📱</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>This guide might seem complex, but it boils down to one thing: <strong>respect</strong>. 🙏 Respect the law ⚖️, respect personal space 📏, and respect a person's right to say "no." 🛑 If you make that your starting point, you'll be absolutely fine! ✨🇬🇧</p>
+                </div>
+            `
+        },
         social: {
             title: "Social Ethics in England",
             content: `
