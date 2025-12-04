@@ -640,6 +640,168 @@ const culturalData = {
                     <li>No immigration restrictions on employment</li>
                 </ul>
             `
+        },
+        economicIntegration: {
+            title: "💷 Module 4: Economic Integration – A Realist Guide to Work, Money, and Getting By 💼",
+            content: `
+                <p>Right, let's talk about the thing that actually keeps the lights on: work and money. 💸 This isn't going to be a fluffy guide about "following your dreams" – it's a practical, honest look at what it takes to survive and thrive economically in England, especially outside the big cities. 🏡</p>
+                
+                <p>Economic self-sufficiency isn't just about paying bills – in English culture, it's deeply tied to self-respect, community standing, and how you're perceived by others. 🎯 Let's get into it! 💪</p>
+
+                <h3>🔧 Part 1: The English Work Ethic – What's Actually Expected</h3>
+                <p>Forget what you might have heard about "lazy Brits." 😅 The reality is that working hard is deeply valued here – but it comes with some very specific expectations.</p>
+
+                <div class="important">
+                    <strong>💼 Core Work Values</strong>
+                    <ul>
+                        <li><strong>Reliability:</strong> Turning up on time, every time, is non-negotiable. ⏰ Being consistently present matters more than occasional brilliance.</li>
+                        <li><strong>Honesty:</strong> If you can't do something, say so. Lying about skills or experience will catch up with you. 🤥❌</li>
+                        <li><strong>Getting on with it:</strong> Complaining is fine (in moderation!), but you're expected to get the job done regardless. 💪</li>
+                        <li><strong>Not being "above" any work:</strong> Taking any honest work while you find something better is respected. Turning down work because it's "beneath you" is not. 🙅</li>
+                    </ul>
+                </div>
+
+                <h4>⚠️ What "Hard Work" Actually Means Here:</h4>
+                <ul>
+                    <li>🕐 <strong>Punctuality:</strong> Arriving 5-10 minutes early is expected. Arriving on time is already borderline late. Being actually late regularly will cost you your job.</li>
+                    <li>📵 <strong>Focus:</strong> When you're at work, you work. Excessive phone use, long personal calls, or "looking busy" while doing nothing is noticed and resented.</li>
+                    <li>🤝 <strong>Teamwork:</strong> Don't be the person who does the bare minimum while others pick up the slack. It won't stay secret for long.</li>
+                    <li>🙊 <strong>No Drama:</strong> Keep personal problems at home. Coming to work with a "professional face" is expected, even when life is difficult.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Unwritten Rule</strong>
+                    <p>The English respect "grafters" – people who work hard without making a fuss about it. 🔨 Talking about how hard you work is less valued than simply doing it. Let your actions speak, and people will notice. 👀</p>
+                </div>
+
+                <h3>🏘️ Part 2: Job Market Realities in Non-Urban Areas</h3>
+                <p>If you're settling outside London or other major cities, here's the honest truth about employment. 📍 The opportunities are different – not necessarily worse, but definitely different.</p>
+
+                <h4>📊 What Jobs Are Actually Available:</h4>
+                <ul>
+                    <li>🏥 <strong>Health and Social Care:</strong> Massive demand. Care homes, NHS support roles, home care – always hiring. The work is hard, the pay modest, but it's stable employment. 👩‍⚕️</li>
+                    <li>🌾 <strong>Agriculture and Food Processing:</strong> Seasonal work on farms, packing, processing. Physical work, often early hours. Good for building a work history. 🥕</li>
+                    <li>🚚 <strong>Warehousing and Logistics:</strong> Distribution centres are often in non-urban areas. Amazon, supermarket distribution, delivery driving. Shift work is common. 📦</li>
+                    <li>🍽️ <strong>Hospitality:</strong> Pubs, hotels, restaurants, especially in tourist areas. Variable hours, often includes weekends. Tips can supplement income. 🍺</li>
+                    <li>🔧 <strong>Trades:</strong> Plumbing, electrical work, building, landscaping. If you have skills or are willing to train, there's always work. 🛠️</li>
+                    <li>🛒 <strong>Retail:</strong> Local shops, supermarkets, charity shops. Often part-time but can lead to management roles. 🏪</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ The Reality Check</strong>
+                    <ul>
+                        <li>💷 <strong>Pay may be lower:</strong> Outside cities, wages are often lower. But so is the cost of living, especially housing.</li>
+                        <li>🚗 <strong>Transport matters:</strong> A driving licence and access to a car can double your job options. Public transport in rural areas is often poor. 🚌❌</li>
+                        <li>🤐 <strong>Word travels:</strong> In smaller communities, your reputation matters. Being known as a good worker opens doors. Being known as unreliable closes them. 🚪</li>
+                        <li>📝 <strong>Fewer entry-level office jobs:</strong> White-collar roles are concentrated in cities. Be realistic about what's locally available.</li>
+                    </ul>
+                </div>
+
+                <h4>🎯 How to Find Work:</h4>
+                <ul>
+                    <li>🌐 <strong>Online:</strong> Indeed, Reed, Total Jobs, and the government's Find a Job service. Set up alerts for your area. 💻</li>
+                    <li>🚶 <strong>Walk around:</strong> Many local businesses still put "Help Wanted" signs in windows. Don't be afraid to ask in person. 🪟</li>
+                    <li>👥 <strong>Word of mouth:</strong> Tell everyone you're looking. In small communities, this is often how jobs are filled. 🗣️</li>
+                    <li>🏢 <strong>Agencies:</strong> Temp agencies can get you working quickly. It's not ideal long-term, but it's income and experience. 📋</li>
+                    <li>💼 <strong>Job Centre Plus:</strong> Register with them. They can help with job searches, training, and sometimes specific support for migrants. 🏛️</li>
+                </ul>
+
+                <h3>🏦 Part 3: The Cultural Importance of Economic Self-Sufficiency</h3>
+                <p>This is crucial to understand: in English culture, supporting yourself financially is deeply connected to respect – both self-respect and how others see you. 🎭</p>
+
+                <div class="important">
+                    <strong>🇬🇧 Why This Matters</strong>
+                    <p>The English have a strong cultural belief in "standing on your own two feet." 🦶🦶 While there's a welfare system for those who genuinely need it, there's also a cultural expectation that you'll do everything you can to support yourself before relying on the state or others.</p>
+                </div>
+
+                <h4>💪 What Self-Sufficiency Signals:</h4>
+                <ul>
+                    <li>✊ <strong>You're contributing:</strong> Paying taxes, supporting the local economy, not being a burden. This matters to people here.</li>
+                    <li>🤝 <strong>You're trustworthy:</strong> Landlords, banks, and employers all look at financial stability as a sign of reliability.</li>
+                    <li>👨‍👩‍👧 <strong>You can be counted on:</strong> Whether it's helping a neighbour or contributing to community events, having your own house in order comes first.</li>
+                    <li>🏠 <strong>You belong:</strong> Working and contributing to the local economy is one of the fastest ways to become "one of us" in a community.</li>
+                </ul>
+
+                <h4>⚠️ The Honest Reality About Benefits:</h4>
+                <ul>
+                    <li>✅ <strong>There's no shame in genuine need:</strong> The welfare system exists for good reasons. If you're between jobs, unwell, or in crisis, use it. That's what it's for. 🏥</li>
+                    <li>❌ <strong>BUT:</strong> Long-term benefit dependency, when you could work, is culturally stigmatised. Rightly or wrongly, it affects how people see you. 👀</li>
+                    <li>💭 <strong>Perception matters:</strong> Being seen to be trying – applying for jobs, doing casual work, volunteering – matters as much as the outcome.</li>
+                    <li>🔍 <strong>It affects integration:</strong> People are more likely to welcome and befriend someone who's working and contributing, regardless of the job.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Practical Tip</strong>
+                    <p>If you're struggling to find permanent work, do <em>something</em>. 🔧 Volunteer at a charity shop. Help a local business for cash-in-hand (legally!). Keep busy and visible. This shows the community you're willing to work, and often leads to actual job offers. 🌟</p>
+                </div>
+
+                <h3>📈 Part 4: Building Financial Stability</h3>
+                <p>Economic integration isn't just about getting a job – it's about building a stable foundation. 🏗️ Here's what matters:</p>
+
+                <h4>🏦 Banking and Credit:</h4>
+                <ul>
+                    <li>💳 <strong>Open a bank account:</strong> You'll need proof of address and ID. High street banks or digital banks like Monzo or Starling are options.</li>
+                    <li>📊 <strong>Build a credit history:</strong> Pay bills on time, get a basic credit card and pay it off in full. Your credit score matters for renting, phones, even some jobs.</li>
+                    <li>💰 <strong>Save something:</strong> Even £20 a month. Having an emergency fund is essential and shows financial responsibility. 🐷</li>
+                </ul>
+
+                <h4>📑 Understanding Your Rights:</h4>
+                <ul>
+                    <li>💵 <strong>National Minimum Wage:</strong> This is the legal minimum you can be paid. Check current rates – they vary by age. Report underpayment. 📢</li>
+                    <li>📅 <strong>Holiday Entitlement:</strong> You're legally entitled to paid holiday (at least 28 days including bank holidays for full-time workers).</li>
+                    <li>🏥 <strong>Sick Pay:</strong> Statutory Sick Pay exists, though it's not much. Some employers offer more.</li>
+                    <li>⚖️ <strong>Employment Rights:</strong> You have rights from day one. Unfair dismissal protection kicks in after 2 years. Know your rights! 📚</li>
+                </ul>
+
+                <h4>💸 Managing Money:</h4>
+                <ul>
+                    <li>📝 <strong>Budget:</strong> Know what comes in and what goes out. The 50/30/20 rule works: 50% needs, 30% wants, 20% savings.</li>
+                    <li>🏠 <strong>Housing costs:</strong> Try to keep rent/mortgage below 35% of income. In some areas this is hard – be realistic about where you can afford to live.</li>
+                    <li>🚗 <strong>Avoid car debt:</strong> An expensive car on finance is a common trap. A cheaper reliable car serves the same purpose.</li>
+                    <li>💳 <strong>Avoid high-interest debt:</strong> Payday loans, credit cards left unpaid – these spiral fast. 🌀</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>🚨 Scams and Exploitation</strong>
+                    <ul>
+                        <li>❌ <strong>Cash-in-hand below minimum wage:</strong> It's illegal, and if caught, YOU can face problems too.</li>
+                        <li>❌ <strong>"Deposit" jobs:</strong> Legitimate employers never ask you to pay upfront.</li>
+                        <li>❌ <strong>Unlicensed gangmasters:</strong> In agriculture and food processing, only work through licensed agencies.</li>
+                        <li>✅ <strong>If it sounds too good to be true:</strong> It probably is. Be cautious. 🔍</li>
+                    </ul>
+                </div>
+
+                <h3>🌱 Part 5: Long-Term Economic Success</h3>
+                <p>Getting a job is step one. Building a sustainable, successful economic life takes more. 📈</p>
+
+                <h4>📚 Upskilling:</h4>
+                <ul>
+                    <li>🎓 <strong>Free courses:</strong> Many colleges offer free courses for adults. English, maths, and basic skills are often available. 📖</li>
+                    <li>💻 <strong>Online learning:</strong> Platforms like FutureLearn offer free courses from UK universities. Build qualifications over time.</li>
+                    <li>🔧 <strong>Apprenticeships:</strong> Not just for young people. Adult apprenticeships in trades can lead to well-paid work.</li>
+                    <li>📜 <strong>Get UK qualifications:</strong> If you have qualifications from home, look into getting them recognised here. NARIC can help assess equivalence.</li>
+                </ul>
+
+                <h4>🚀 Starting a Business:</h4>
+                <ul>
+                    <li>🏪 <strong>It's very possible:</strong> England has relatively low barriers to starting a business. Many migrants succeed as self-employed or business owners.</li>
+                    <li>📝 <strong>Start small:</strong> A side hustle while employed. Test the market. Grow gradually.</li>
+                    <li>💼 <strong>Know the rules:</strong> You must register with HMRC if self-employed. Keep records. Pay your taxes. 📊</li>
+                    <li>🤝 <strong>Network:</strong> Local business groups, Chamber of Commerce, networking events – build connections.</li>
+                </ul>
+
+                <h4>🏘️ Community Integration Through Work:</h4>
+                <ul>
+                    <li>👋 <strong>Be known:</strong> The local worker who's always cheerful and reliable becomes part of the community fabric.</li>
+                    <li>🛒 <strong>Support local:</strong> Shopping locally, using local services – it builds relationships and reputation.</li>
+                    <li>🤲 <strong>Give back when you can:</strong> Once stable, helping others who are struggling (with advice, connections, even small jobs) builds enormous goodwill.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Economic integration in England is about more than just earning money. 💰 It's about showing up, working hard, supporting yourself, and contributing to your community. 🤝 The English respect people who graft, who don't complain (too much!), and who stand on their own two feet. 🦶 Do that, and you'll earn not just money – but respect and belonging. 🏠🇬🇧</p>
+                </div>
+            `
         }
     },
     germany: {
