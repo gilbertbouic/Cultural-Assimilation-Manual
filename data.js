@@ -1,7 +1,7 @@
 // Cultural data for all countries and categories
 const culturalData = {
     england: {
-        name: "England",
+        name: "United Kingdom",
         flag: "🇬🇧",
         publicConduct: {
             title: "🏛️ Module 2: Public & Community Conduct – A Practical Guide to Getting Along and Fitting In 🤝",
@@ -130,7 +130,7 @@ const culturalData = {
 
                 <div class="important">
                     <strong>🎯 The Bottom Line</strong>
-                    <p>Public and community conduct in England can be summed up in three words: <strong>quiet, considerate, and patient</strong>. 🤫🤝⏳ Mind your own business (mostly), be polite even when frustrated, say please and thank you, and queue properly. Do that, and you'll fit in just fine! ✅🇬🇧</p>
+                    <p>Public and community conduct in the United Kingdom can be summed up in three words: <strong>quiet, considerate, and patient</strong>. 🤫🤝⏳ Mind your own business (mostly), be polite even when frustrated, say please and thank you, and queue properly. Do that, and you'll fit in just fine! ✅🇬🇧</p>
                 </div>
             `
         },
@@ -145,7 +145,7 @@ const culturalData = {
                 <p>This isn't about culture; this is about the law. ⚖️ Breaking these rules can lead to prison. There are <strong>no exceptions</strong>.</p>
 
                 <div class="warning">
-                    <strong>🔞 The Age of Consent is 16 (England & Wales)</strong>
+                    <strong>🔞 The Age of Consent is 16 (United Kingdom)</strong>
                     <ul>
                         <li>It is a <strong>serious crime</strong> to have any kind of sexual contact with someone under 16. The law is absolute on this.</li>
                         <li>"I thought they were older" is <strong>never</strong> an excuse. The responsibility is 100% on you. If you have any doubt at all, walk away. 🚶</li>
@@ -167,7 +167,7 @@ const culturalData = {
                 </div>
 
                 <h3>👔 Part 2: Dress Code – The Art of Effort and Understatement</h3>
-                <p>First things first: in modern England, you can, and should, wear whatever makes you feel comfortable. 😎 Personal freedom is highly valued. The prevailing attitude is that you shouldn't judge a book by its cover. 📚 So, the primary rule is: <strong>be yourself</strong>.</p>
+                <p>First things first: in the modern United Kingdom, you can, and should, wear whatever makes you feel comfortable. 😎 Personal freedom is highly valued. The prevailing attitude is that you shouldn't judge a book by its cover. 📚 So, the primary rule is: <strong>be yourself</strong>.</p>
 
                 <p>However, this guide is here to give you practical advice. We don't have strict "dress codes," but we do have "contexts." 🎭 Choosing what to wear is less about following rules and more about showing you understand the situation. It boils down to one simple concept: <strong>"making an effort." ✨</strong></p>
 
@@ -267,7 +267,7 @@ const culturalData = {
 
                 <div class="warning">
                     <strong>⚠️ Don't Skip These Words!</strong>
-                    <p>Forgetting to say please, thank you, or sorry is one of the fastest ways to be seen as rude. 🚫 It doesn't matter if your culture considers these words excessive – in England, they're the basics of social interaction. Use them automatically! 🔄</p>
+                    <p>Forgetting to say please, thank you, or sorry is one of the fastest ways to be seen as rude. 🚫 It doesn't matter if your culture considers these words excessive – in the United Kingdom, they're the basics of social interaction. Use them automatically! 🔄</p>
                 </div>
 
                 <h3>💬 Part 3: Small Talk – The Great British Pastime ☕</h3>
@@ -383,7 +383,7 @@ const culturalData = {
             `
         },
         social: {
-            title: "Social Ethics in England",
+            title: "Social Ethics in the United Kingdom",
             content: `
                 <h3>General Social Norms</h3>
                 <p>English society values politeness, queuing (forming orderly lines), and respecting personal space. The British are known for their reserved nature, especially with strangers.</p>
@@ -412,7 +412,7 @@ const culturalData = {
             `
         },
         conversation: {
-            title: "Conversation Etiquette in England",
+            title: "Conversation Etiquette in the United Kingdom",
             content: `
                 <h3>Safe Topics</h3>
                 <ul>
@@ -443,7 +443,7 @@ const culturalData = {
             `
         },
         dating: {
-            title: "Dating Culture in England",
+            title: "Dating Culture in the United Kingdom",
             content: `
                 <h3>Meeting People</h3>
                 <p>Common ways to meet potential partners include:</p>
@@ -473,7 +473,7 @@ const culturalData = {
             `
         },
         marriage: {
-            title: "Marriage Customs in England",
+            title: "Marriage Customs in the United Kingdom",
             content: `
                 <h3>Engagement</h3>
                 <p>Engagements typically last 1-2 years. The proposal is usually done by the man, though women proposing is becoming more common.</p>
@@ -499,7 +499,7 @@ const culturalData = {
             `
         },
         work: {
-            title: "Work Ethics in England",
+            title: "Work Ethics in the United Kingdom",
             content: `
                 <h3>Workplace Culture</h3>
                 <p>British workplaces value professionalism, punctuality, and efficiency. There's often a clear hierarchy, though modern offices are becoming more egalitarian.</p>
@@ -529,7 +529,7 @@ const culturalData = {
             `
         },
         civic: {
-            title: "Civic Duties in England",
+            title: "Civic Duties in the United Kingdom",
             content: `
                 <h3>Voting</h3>
                 <p>Citizens over 18 can vote in elections. You must register to vote - this isn't automatic. Check your eligibility based on your residency status.</p>
@@ -554,7 +554,7 @@ const culturalData = {
             `
         },
         clothing: {
-            title: "Clothing Norms in England",
+            title: "Clothing Norms in the United Kingdom",
             content: `
                 <h3>General Style</h3>
                 <p>British style is often described as classic and understated. Quality over quantity is valued. Practical clothing for the changeable weather is essential.</p>
@@ -582,7 +582,7 @@ const culturalData = {
             `
         },
         hygiene: {
-            title: "Hygiene Standards in England",
+            title: "Hygiene Standards in the United Kingdom",
             content: `
                 <h3>Personal Hygiene Expectations</h3>
                 <p>Daily showering or bathing is the norm. Deodorant is considered essential. Clean, well-maintained clothing is expected.</p>
@@ -611,7 +611,7 @@ const culturalData = {
             `
         },
         citizenship: {
-            title: "Path to Citizenship in England",
+            title: "Path to Citizenship in the United Kingdom",
             content: `
                 <h3>Requirements for British Citizenship</h3>
                 <ul>
@@ -644,7 +644,7 @@ const culturalData = {
         economicIntegration: {
             title: "💷 Module 4: Economic Integration – A Realist Guide to Work, Money, and Getting By 💼",
             content: `
-                <p>Right, let's talk about the thing that actually keeps the lights on: work and money. 💸 This isn't going to be a fluffy guide about "following your dreams" – it's a practical, honest look at what it takes to survive and thrive economically in England, especially outside the big cities. 🏡</p>
+                <p>Right, let's talk about the thing that actually keeps the lights on: work and money. 💸 This isn't going to be a fluffy guide about "following your dreams" – it's a practical, honest look at what it takes to survive and thrive economically in the United Kingdom, especially outside the big cities. 🏡</p>
                 
                 <p>Economic self-sufficiency isn't just about paying bills – in English culture, it's deeply tied to self-respect, community standing, and how you're perceived by others. 🎯 Let's get into it! 💪</p>
 
@@ -784,7 +784,7 @@ const culturalData = {
 
                 <h4>🚀 Starting a Business:</h4>
                 <ul>
-                    <li>🏪 <strong>It's very possible:</strong> England has relatively low barriers to starting a business. Many migrants succeed as self-employed or business owners.</li>
+                    <li>🏪 <strong>It's very possible:</strong> The United Kingdom has relatively low barriers to starting a business. Many migrants succeed as self-employed or business owners.</li>
                     <li>📝 <strong>Start small:</strong> A side hustle while employed. Test the market. Grow gradually.</li>
                     <li>💼 <strong>Know the rules:</strong> You must register with HMRC if self-employed. Keep records. Pay your taxes. 📊</li>
                     <li>🤝 <strong>Network:</strong> Local business groups, Chamber of Commerce, networking events – build connections.</li>
@@ -799,7 +799,7 @@ const culturalData = {
 
                 <div class="important">
                     <strong>🎯 The Bottom Line</strong>
-                    <p>Economic integration in England is about more than just earning money. 💰 It's about showing up, working hard, supporting yourself, and contributing to your community. 🤝 The English respect people who graft, who don't complain (too much!), and who stand on their own two feet. 🦶 Do that, and you'll earn not just money – but respect and belonging. 🏠🇬🇧</p>
+                    <p>Economic integration in the United Kingdom is about more than just earning money. 💰 It's about showing up, working hard, supporting yourself, and contributing to your community. 🤝 The British respect people who graft, who don't complain (too much!), and who stand on their own two feet. 🦶 Do that, and you'll earn not just money – but respect and belonging. 🏠🇬🇧</p>
                 </div>
             `
         },
@@ -901,7 +901,7 @@ const culturalData = {
                 <ul>
                     <li>📝 <strong>Getting a prescription:</strong> Your GP writes a prescription (paper or electronic). Most are now sent electronically to your chosen pharmacy. 💻</li>
                     <li>🏪 <strong>Choose a pharmacy:</strong> You can nominate any pharmacy to receive your electronic prescriptions. Tell your GP practice which one. 🏥</li>
-                    <li>💰 <strong>Prescription charges:</strong> In England, each item on your prescription has a fixed charge (check current prices at nhs.uk). Some items are exempt. 💷</li>
+                    <li>💰 <strong>Prescription charges:</strong> In England, each item on your prescription has a fixed charge (check current prices at nhs.uk). Some items are exempt. Note: Prescriptions are free in Scotland, Wales, and Northern Ireland. 💷</li>
                     <li>🔄 <strong>Repeat prescriptions:</strong> For ongoing medications, you can order repeats online, by app, or by dropping the slip at your pharmacy.</li>
                 </ul>
 
@@ -1028,6 +1028,255 @@ const culturalData = {
                 <div class="important">
                     <strong>🎯 The Bottom Line</strong>
                     <p>The NHS is there for you – use it! 🏥 Register with a GP as soon as you arrive, download the NHS App, and don't hesitate to seek help when you need it. 💪 The system can seem complex at first, but once you understand how it works, you'll have access to excellent healthcare – free at the point of use. 🆓 Stay healthy! 🇬🇧❤️</p>
+                </div>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom and Bureaucracy – A Practical Guide to UK Government Systems 📋",
+            content: `
+                <p>Right, let's talk about something that can feel overwhelming when you first arrive: dealing with the government, official systems, and bureaucracy. 🏛️ The United Kingdom has its own way of doing things, and understanding how it all works will save you time, stress, and frustration. 😤➡️😌</p>
+                
+                <p>This guide will walk you through the key systems you'll encounter: getting your documents sorted, understanding local councils, dealing with HMRC (taxes), and navigating the various government services. Let's get you sorted! 💪</p>
+
+                <h3>📋 Part 1: Essential Documents – What You Need and How to Get Them</h3>
+                <p>First things first: you need to get your paperwork in order. 📄 Here are the essential documents you'll need to live and work in the UK:</p>
+
+                <div class="important">
+                    <strong>🔑 Key Documents for Life in the UK</strong>
+                    <ul>
+                        <li><strong>National Insurance Number (NI Number):</strong> Essential for working legally and paying taxes. Apply through the DWP (Department for Work and Pensions). 💼</li>
+                        <li><strong>Proof of Right to Work:</strong> Your visa, BRP (Biometric Residence Permit), or settled status documentation. Employers must check this. 🪪</li>
+                        <li><strong>Proof of Address:</strong> Utility bills, bank statements, or council tax bills. You'll need this for almost everything! 📬</li>
+                        <li><strong>NHS Number:</strong> You'll get this when you register with a GP. It's your identifier across the healthcare system. 🏥</li>
+                    </ul>
+                </div>
+
+                <h4>🔢 Getting Your National Insurance Number:</h4>
+                <ul>
+                    <li>📞 <strong>Apply by phone or online:</strong> Call the National Insurance number application line or apply through GOV.UK. 💻</li>
+                    <li>📝 <strong>What you'll need:</strong> Proof of identity (passport, BRP), proof of address, and details of why you need it (usually employment).</li>
+                    <li>📅 <strong>Interview:</strong> You may be invited to an "Evidence of Identity" interview at a Jobcentre Plus. Bring all your documents!</li>
+                    <li>⏰ <strong>Processing time:</strong> Can take several weeks. You can start work while waiting – your employer can use your application reference. 🏃</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Pro Tip</strong>
+                    <p>Keep copies of ALL your important documents – both physical and digital. Store them safely in the cloud. 🌐 You'll be asked for the same documents repeatedly by different organisations!</p>
+                </div>
+
+                <h3>🏠 Part 2: Local Councils – Your Local Government</h3>
+                <p>Local councils (also called local authorities) are responsible for many services in your area. 🏘️ Understanding what they do will help you know who to contact for what.</p>
+
+                <h4>📋 What Your Council Does:</h4>
+                <ul>
+                    <li>🗑️ <strong>Waste and Recycling:</strong> Bin collection schedules, recycling centres, and reporting missed collections.</li>
+                    <li>💷 <strong>Council Tax:</strong> A local tax based on your property. You must register and pay this! 🏡</li>
+                    <li>🏫 <strong>Schools:</strong> School admissions, catchment areas, and education services.</li>
+                    <li>🏠 <strong>Housing:</strong> Social housing, housing benefit, and housing advice.</li>
+                    <li>🚗 <strong>Parking and Roads:</strong> Parking permits, road maintenance, and traffic issues.</li>
+                    <li>📋 <strong>Planning:</strong> Building permits, planning applications, and local development.</li>
+                    <li>📖 <strong>Libraries:</strong> Free library services and community spaces.</li>
+                    <li>👶 <strong>Social Services:</strong> Support for vulnerable adults and children.</li>
+                </ul>
+
+                <h4>💰 Council Tax – What You Need to Know:</h4>
+                <ul>
+                    <li>📝 <strong>Register when you move:</strong> You must register for council tax when you move to a new property. Contact your local council.</li>
+                    <li>🏠 <strong>Based on property bands:</strong> Properties are in bands A-H based on their 1991 value. Your band determines how much you pay.</li>
+                    <li>💸 <strong>Discounts available:</strong> Single person discount (25% off), student exemption, and various other discounts. Check what you're eligible for!</li>
+                    <li>📅 <strong>Payment options:</strong> Usually paid monthly over 10 or 12 months. Set up a direct debit to avoid missing payments.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Don't Ignore Council Tax!</strong>
+                    <p>Council tax debt is taken very seriously. 😰 Unpaid council tax can result in court summons, bailiff action, and even imprisonment in extreme cases. If you're struggling to pay, contact your council immediately to discuss payment plans or support options. 🤝</p>
+                </div>
+
+                <h3>💷 Part 3: HMRC and Taxes – Understanding the Tax System</h3>
+                <p>HMRC (His Majesty's Revenue and Customs) is the UK's tax authority. 🏛️ They handle income tax, National Insurance, VAT, and other taxes. Here's what you need to know:</p>
+
+                <h4>📊 Income Tax Basics:</h4>
+                <ul>
+                    <li>💼 <strong>PAYE (Pay As You Earn):</strong> If you're employed, your employer deducts tax automatically from your salary. You don't usually need to do anything! ✅</li>
+                    <li>📋 <strong>Tax Code:</strong> This determines how much tax is taken. Check your payslip to make sure it's correct. Common codes start with numbers like "1257L".</li>
+                    <li>🆓 <strong>Personal Allowance:</strong> You can earn up to a certain amount tax-free each year (check current rates on GOV.UK). After that, you pay tax at different rates.</li>
+                    <li>💰 <strong>Tax Bands:</strong> Basic rate (20%), Higher rate (40%), Additional rate (45%) – only on earnings above certain thresholds.</li>
+                </ul>
+
+                <h4>📝 Self-Assessment:</h4>
+                <ul>
+                    <li>🧾 <strong>Who needs it:</strong> Self-employed people, those with additional income (rental, investments), or those earning over £100,000.</li>
+                    <li>📅 <strong>Deadline:</strong> Tax returns for the previous year must be filed by 31st January. Late filing = automatic fine! ⏰</li>
+                    <li>💻 <strong>Online filing:</strong> Register on GOV.UK and file online. It's easier than paper forms.</li>
+                    <li>📚 <strong>Keep records:</strong> Keep receipts, invoices, and financial records for at least 5 years. HMRC can ask to see them! 🗂️</li>
+                </ul>
+
+                <div class="important">
+                    <strong>📱 Your Personal Tax Account</strong>
+                    <p>Create a personal tax account on GOV.UK. 💻 This lets you:</p>
+                    <ul>
+                        <li>✅ Check your tax code and PAYE records</li>
+                        <li>📋 See your State Pension forecast</li>
+                        <li>💷 Claim tax refunds</li>
+                        <li>📝 Manage your Self Assessment</li>
+                        <li>🔍 Track any correspondence with HMRC</li>
+                    </ul>
+                </div>
+
+                <h4>🏢 National Insurance Contributions:</h4>
+                <ul>
+                    <li>💼 <strong>Deducted from wages:</strong> Like income tax, NI is usually taken automatically if you're employed.</li>
+                    <li>🏥 <strong>What it funds:</strong> State Pension, NHS, unemployment benefits, and other state benefits.</li>
+                    <li>📊 <strong>Your NI record:</strong> You need a certain number of years of contributions to qualify for full State Pension. Check your record on GOV.UK.</li>
+                    <li>📝 <strong>Self-employed:</strong> You pay Class 2 and Class 4 NI through Self Assessment.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Check Your Tax Code</strong>
+                    <p>Wrong tax codes are common, especially when you start a new job or have multiple jobs. 😅 If too much tax is taken, you're entitled to a refund. If too little is taken, you'll owe HMRC. Check your payslip and tax code regularly! 🔍</p>
+                </div>
+
+                <h3>🌐 Part 4: GOV.UK – Your One-Stop Shop for Government Services</h3>
+                <p>GOV.UK is the UK government's official website. 💻 Almost everything you need to do with government can be done here. It's well-designed and user-friendly.</p>
+
+                <h4>🔧 What You Can Do on GOV.UK:</h4>
+                <ul>
+                    <li>🪪 <strong>Apply for documents:</strong> Passport, driving licence, visa extensions.</li>
+                    <li>💷 <strong>Manage taxes:</strong> Personal tax account, Self Assessment, tax credits.</li>
+                    <li>🚗 <strong>Vehicle services:</strong> Tax your car, check MOT status, update vehicle details.</li>
+                    <li>📋 <strong>Benefits:</strong> Apply for Universal Credit, check benefit eligibility.</li>
+                    <li>🗳️ <strong>Electoral roll:</strong> Register to vote.</li>
+                    <li>📖 <strong>Find information:</strong> Rights, rules, and guidance on almost any topic.</li>
+                </ul>
+
+                <h4>🔐 GOV.UK Verify and Government Gateway:</h4>
+                <ul>
+                    <li>🆔 <strong>Government Gateway:</strong> Your login for tax services. Set this up early – you'll need it for Self Assessment and other tax matters.</li>
+                    <li>📱 <strong>GOV.UK ID:</strong> Newer identity verification system. Some services now use this instead.</li>
+                    <li>🔑 <strong>Keep your details safe:</strong> Your Government Gateway ID and password are important. Store them securely! 🔒</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Beware of Scams!</strong>
+                    <p>HMRC and government agencies will NEVER:</p>
+                    <ul>
+                        <li>❌ Call you threatening arrest for unpaid taxes</li>
+                        <li>❌ Ask for immediate payment via gift cards or cryptocurrency</li>
+                        <li>❌ Send text messages asking you to click links for tax refunds</li>
+                        <li>❌ Email asking for your personal or banking details</li>
+                    </ul>
+                    <p>If in doubt, contact HMRC directly through GOV.UK. Report scams to Action Fraud. 🚨</p>
+                </div>
+
+                <h3>🗳️ Part 5: Electoral Registration – Your Right to Vote</h3>
+                <p>Registering to vote is important – and it also helps with credit checks and other official processes. 📋</p>
+
+                <h4>✅ Who Can Vote:</h4>
+                <ul>
+                    <li>🇬🇧 <strong>British citizens:</strong> All elections.</li>
+                    <li>🇮🇪 <strong>Irish and Commonwealth citizens:</strong> All elections if resident in UK.</li>
+                    <li>🇪🇺 <strong>EU citizens:</strong> Local elections only (not general elections, unless you have settled status and qualifying Commonwealth citizenship).</li>
+                </ul>
+
+                <h4>📝 How to Register:</h4>
+                <ul>
+                    <li>💻 <strong>Online:</strong> Register at gov.uk/register-to-vote – takes about 5 minutes!</li>
+                    <li>📬 <strong>You'll need:</strong> National Insurance number and address details.</li>
+                    <li>📅 <strong>Deadline:</strong> You must be registered at least 12 working days before an election to vote in it.</li>
+                    <li>🏠 <strong>Update when you move:</strong> Re-register at your new address. You can only vote where you're registered!</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Why Register Even If You Can't Vote in All Elections?</strong>
+                    <p>Being on the electoral roll helps with:</p>
+                    <ul>
+                        <li>💳 Credit checks – lenders use it to verify your address</li>
+                        <li>🏦 Opening bank accounts</li>
+                        <li>📋 Identity verification for other services</li>
+                    </ul>
+                </div>
+
+                <h3>🚗 Part 6: DVLA – Driving and Vehicles</h3>
+                <p>The DVLA (Driver and Vehicle Licensing Agency) handles driving licences and vehicle registration. 🚙</p>
+
+                <h4>📋 Driving Licence:</h4>
+                <ul>
+                    <li>🌍 <strong>Using a foreign licence:</strong> You can usually drive on a valid foreign licence for 12 months after becoming UK resident. After that, you need a UK licence.</li>
+                    <li>🔄 <strong>Exchanging your licence:</strong> Some countries have exchange agreements – you can swap your licence without taking a test. Check GOV.UK for the list.</li>
+                    <li>📝 <strong>Taking the UK test:</strong> If no exchange agreement, you'll need to pass the UK theory and practical tests.</li>
+                    <li>📱 <strong>Check your licence:</strong> Use GOV.UK to check your licence details, penalty points, and what vehicles you can drive.</li>
+                </ul>
+
+                <h4>🚙 Vehicle Registration and Tax:</h4>
+                <ul>
+                    <li>💷 <strong>Vehicle tax (road tax):</strong> You must tax your vehicle to drive it on public roads. Do this online at GOV.UK.</li>
+                    <li>🔧 <strong>MOT:</strong> Annual safety check required for vehicles over 3 years old. No MOT = illegal to drive!</li>
+                    <li>📋 <strong>V5C (logbook):</strong> The registration document. Update DVLA when you buy, sell, or change details.</li>
+                    <li>🛡️ <strong>Insurance:</strong> You must have at least third-party insurance to drive. It's illegal to drive without it!</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ SORN – Statutory Off Road Notification</strong>
+                    <p>If your vehicle isn't taxed and isn't on the road, you must declare SORN. 🚫 Otherwise, you can be fined. Even a car sitting on a driveway needs to be either taxed or SORNed!</p>
+                </div>
+
+                <h3>🏡 Part 7: Benefits and Support – When You Need Help</h3>
+                <p>The UK has a welfare system to support people who need it. 🤝 Don't be afraid to claim what you're entitled to.</p>
+
+                <h4>💰 Key Benefits:</h4>
+                <ul>
+                    <li>🏠 <strong>Universal Credit:</strong> The main benefit for working-age people. Covers living costs, housing, and childcare support.</li>
+                    <li>👶 <strong>Child Benefit:</strong> Paid for each child under 16 (or under 20 in education/training).</li>
+                    <li>🏥 <strong>Personal Independence Payment (PIP):</strong> For people with long-term health conditions or disabilities.</li>
+                    <li>👴 <strong>State Pension:</strong> For people who've reached State Pension age with enough NI contributions.</li>
+                    <li>💷 <strong>Council Tax Support:</strong> Helps with council tax if you're on a low income.</li>
+                </ul>
+
+                <h4>📝 Applying for Benefits:</h4>
+                <ul>
+                    <li>💻 <strong>Online:</strong> Most benefits are applied for online through GOV.UK.</li>
+                    <li>📞 <strong>Phone:</strong> Helplines are available if you can't apply online.</li>
+                    <li>📋 <strong>Evidence needed:</strong> Bank statements, proof of income, ID, proof of address, medical evidence (for health-related benefits).</li>
+                    <li>⏰ <strong>Don't delay:</strong> Benefits are usually paid from when you apply, not before. Apply as soon as you're eligible!</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Use a Benefits Calculator</strong>
+                    <p>Not sure what you're entitled to? Use the benefits calculator on GOV.UK or Turn2Us. 🧮 Many people don't claim benefits they're entitled to!</p>
+                </div>
+
+                <h3>📞 Part 8: Practical Tips for Dealing with UK Bureaucracy</h3>
+                <p>Here are some hard-earned tips for navigating UK officialdom: 🎓</p>
+
+                <h4>✅ Do's:</h4>
+                <ul>
+                    <li>📝 <strong>Keep copies of everything:</strong> Every form, every letter, every email. You WILL be asked for things multiple times.</li>
+                    <li>✍️ <strong>Put things in writing:</strong> Follow up phone calls with emails. Create a paper trail. 📧</li>
+                    <li>⏰ <strong>Respond to deadlines:</strong> Government letters often have deadlines. Miss them and you create bigger problems.</li>
+                    <li>📞 <strong>Call at off-peak times:</strong> Government helplines are usually quieter early morning or mid-afternoon.</li>
+                    <li>🗓️ <strong>Use online services:</strong> They're usually faster and available 24/7.</li>
+                    <li>😊 <strong>Be polite but persistent:</strong> Staff deal with a lot. Being pleasant gets better results than being aggressive.</li>
+                </ul>
+
+                <h4>❌ Don'ts:</h4>
+                <ul>
+                    <li>🙈 <strong>Don't ignore letters:</strong> Especially from HMRC or courts. Ignoring problems makes them worse!</li>
+                    <li>🤥 <strong>Don't provide false information:</strong> Fraud is taken seriously and can affect your immigration status.</li>
+                    <li>😤 <strong>Don't lose your temper:</strong> It won't help and may hurt your case.</li>
+                    <li>📅 <strong>Don't leave things to the last minute:</strong> Processing times can be long. Apply early!</li>
+                </ul>
+
+                <h4>🆘 Getting Help:</h4>
+                <ul>
+                    <li>📍 <strong>Citizens Advice:</strong> Free, confidential advice on benefits, housing, employment, and more. Find your local bureau or use the website.</li>
+                    <li>🏛️ <strong>Your local council:</strong> Often has support services for new residents.</li>
+                    <li>🌐 <strong>Community organisations:</strong> Many areas have migrant support organisations that can help navigate systems.</li>
+                    <li>📚 <strong>GOV.UK:</strong> Has guidance on almost everything. Always check the official source first!</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>UK bureaucracy can feel complex, but it's generally logical once you understand it. 🧩 The key is: get your essential documents sorted early, register for everything you need to, keep good records, and don't be afraid to ask for help. 🤝 Most government services are designed to be accessible – use online services where possible, and remember that staff are usually trying to help, even if the system is frustrating! 😅🇬🇧</p>
                 </div>
             `
         }
