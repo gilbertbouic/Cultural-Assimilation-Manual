@@ -1932,6 +1932,132 @@ const culturalData = {
     germany: {
         name: "Germany",
         flag: "🇩🇪",
+        relationships: {
+            title: "💕 Module 1: A Practical Guide to Relationships, Respect, and How Not to Make a Fool of Yourself 🤝",
+            content: `
+                <p>So, let's get into the important stuff: men, women, dating, and everything in between. 🎭 This is likely one of the biggest differences you'll find from your home country, and it's where things can go wrong fastest. ⚠️</p>
+                
+                <p>This guide isn't here to judge. It's a practical manual to help you understand the landscape, avoid getting into trouble 🔥, and hopefully have a good time. Pay attention, because these aren't just suggestions – they're the rules of the game! 🎯</p>
+
+                <h3>🚨 Part 1: The Absolute, Non-Negotiable Rules (The Legal Bits) 📜</h3>
+                <p>This isn't about culture; this is about the law. ⚖️ Breaking these rules can lead to prison. There are <strong>no exceptions</strong>.</p>
+
+                <div class="warning">
+                    <strong>🔞 The Age of Consent is 14 (Germany) – But It's Complicated</strong>
+                    <ul>
+                        <li>The legal age of consent in Germany is 14, but this comes with significant restrictions and conditions.</li>
+                        <li>Sexual contact with someone under 14 is <strong>always a serious crime</strong> (Kindesmissbrauch).</li>
+                        <li>Adults over 21 can be prosecuted for sexual contact with 14-15 year olds if they exploit the young person's lack of sexual self-determination.</li>
+                        <li>Persons in positions of trust (teachers 👨‍🏫, coaches, employers 👩‍⚕️) face stricter rules – sexual relationships with minors in their care are prohibited.</li>
+                        <li><strong>Important:</strong> "I thought they were older" is <strong>never</strong> an excuse. The responsibility is 100% on you. If you have any doubt at all, walk away. 🚶</li>
+                        <li><strong>Practical advice:</strong> To stay safe, treat 18 as the age of consent for any romantic or sexual relationship.</li>
+                    </ul>
+                </div>
+
+                <div class="important">
+                    <strong>✅ Consent is Essential (Einvernehmlichkeit)</strong>
+                    <ul>
+                        <li>You must have clear consent. 👍 Silence is not a yes. Someone being friendly is not a yes. Someone being drunk 🍺 is not a yes.</li>
+                        <li>"Nein" means "Nein." 🛑 It is the end of the conversation. Continuing to pressure someone after a "no" is harassment (Belästigung).</li>
+                        <li>Germany's sexual criminal law was reformed in 2016 with the principle of "Nein heißt Nein" (No means No). Non-consensual sexual acts are prosecutable.</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>⚖️ Equality is the Law (Gleichberechtigung)</strong>
+                    <p>Men and women are equal under German law. 👫 Same-sex relationships are legal, normal, and protected by law. 🏳️‍🌈 Same-sex marriage has been legal since 2017 (Ehe für alle). You will see gay couples holding hands or being affectionate; this is a normal part of life here. Disrespecting someone based on their gender or sexuality is not tolerated and can be punishable under anti-discrimination laws (AGG).</p>
+                </div>
+
+                <h3>👔 Part 2: Dress Code – Practicality Meets Modesty</h3>
+                <p>First things first: in modern Germany, you can, and should, wear whatever makes you feel comfortable. 😎 Personal freedom is highly valued. However, this guide is here to give you practical advice, especially for rural areas where traditional values may be more prominent. 📚</p>
+
+                <p>Germans value functionality and quality over flashiness. The key concept is: <strong>"angemessen" (appropriate)</strong>. It means you've thought about the occasion and dressed suitably for it. ✨</p>
+
+                <div class="tip">
+                    <strong>💡 What does "appropriate" mean in rural Germany?</strong>
+                    <p>It means you've considered the occasion and dressed respectfully for it. 🤝 Rural Germans tend to be more conservative in dress than city dwellers. Clean, well-maintained clothing is the foundation – it's less about fashion and more about showing you take care of yourself and respect the situation.</p>
+                </div>
+
+                <h4>🎯 Context is Everything:</h4>
+                <ul>
+                    <li>🏠 <strong>Daily Life</strong> (running errands): Practical, clean clothing. Germans appreciate functionality – good walking shoes and weather-appropriate layers.</li>
+                    <li>🍺 <strong>At the Gasthof (local pub/inn)</strong>: Smart casual is safe – clean trousers or jeans, a decent shirt or jumper. Nothing too flashy or provocative.</li>
+                    <li>🍽️ <strong>A "Nice" Occasion</strong> (a good restaurant, meeting the family): This is where "making an effort" is most appreciated. Neat, conservative clothing shows respect.</li>
+                    <li>⛪ <strong>Church or Traditional Events:</strong> Dress conservatively. In Bavaria and rural areas, traditional clothing (Tracht) like Dirndl or Lederhosen may be worn at festivals.</li>
+                    <li>🎨 <strong>Expressing Yourself:</strong> In cities, unique personal style is accepted. In rural areas, be aware that very unusual clothing may draw unwanted attention.</li>
+                </ul>
+
+                <p>Germans value <strong>practicality and understatement</strong>. 🎩 The goal is to look presentable without appearing to show off. Quality basics trump flashy brands. So, ask yourself: "Am I dressed appropriately for this situation?" If the answer is yes, you're fine. ✅</p>
+
+                <h3>🎭 Part 3: The Social Dance – Public Behaviour and First Steps</h3>
+                <p>This is where real German culture comes in. Germans are generally private people who value their personal space. 🤫</p>
+
+                <ul>
+                    <li>💑 <strong>Public Affection:</strong> Germans are more reserved than some cultures. Holding hands is fine. A brief kiss is acceptable. 😘 Long, passionate embraces in public, especially in conservative rural areas, will make people uncomfortable. 😬</li>
+                    <li>📏 <strong>Personal Space (Persönliche Distanz):</strong> Germans value their space. Don't stand too close – about an arm's length is appropriate. 🤲 Uninvited touching, even if you mean it to be friendly, is generally unwelcome.</li>
+                    <li>💬 <strong>The Art of the Compliment:</strong> Germans appreciate directness but can be suspicious of excessive flattery. Complimenting something someone <em>chose</em> (their jacket 🧥, their car 🚗) is safer than personal comments. Be genuine – Germans can spot insincerity quickly.</li>
+                    <li>🗣️ <strong>Initiating a Conversation:</strong> Germans typically don't engage in small talk with strangers. At social events or in the Verein (club), it's different. Use the situation as a starting point ("Das Wetter ist heute schön" – "The weather is nice today"). If they give short answers and turn away, respect that signal. 😊</li>
+                </ul>
+
+                <h3>💕 Part 4: Dating – The Direct German Approach</h3>
+                <ul>
+                    <li>🍻 <strong>Less Alcohol, More Structure:</strong> While Germans enjoy beer 🍺, dating doesn't revolve around drinking as much as in some countries. A coffee date ☕ or a walk (Spaziergang) are common first dates.</li>
+                    <li>💸 <strong>Who Pays? (Wer zahlt?):</strong> Germans typically split the bill ("getrennt" or "going Dutch" 🇳🇱). This is standard and expected. Don't insist on paying for everything – it can seem odd or patronising.</li>
+                    <li>📅 <strong>Age Gaps:</strong> Large age gaps (10+ years) are viewed with some suspicion 🤔, especially if one person is very young. It's not illegal, but be prepared for raised eyebrows in rural communities.</li>
+                    <li>🙅 <strong>Handling Rejection:</strong> If you ask someone out and they say no, accept it gracefully: "Kein Problem, schönen Abend noch" ("No problem, have a nice evening") 👋 and move on. Pestering someone after rejection is absolutely unacceptable and will damage your reputation. 🚫</li>
+                    <li>💔 <strong>Infidelity (Untreue):</strong> Loyalty is highly valued in German relationships. Cheating is seen as a serious betrayal of trust (Vertrauensbruch).</li>
+                    <li>🌙 <strong>The End of the Evening:</strong> Do not assume a date will end in physical intimacy. Germans often take things slowly. A genuine "Ich hatte einen schönen Abend" ("I had a nice evening") 😊 is the best way to end. If they feel the same, arrange another date. 📱</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Understanding German Directness</strong>
+                    <p>Germans are known for being direct. If someone is interested, they will often make it clear. If they're not interested, they will also make that clear. Don't interpret directness as rudeness – it's honesty. And don't interpret politeness as romantic interest – they may just be being civil.</p>
+                </div>
+
+                <h3>👥 Part 5: Family and Community in Rural Germany</h3>
+                <p>Rural German communities (Dorfgemeinschaft) can be close-knit with strong traditional values. 🏘️ Understanding this context is important:</p>
+
+                <ul>
+                    <li>👨‍👩‍👧 <strong>Family is Important:</strong> Family ties are valued. Meeting the family is a significant step. Be punctual ⏰, bring a small gift (flowers 💐 or good wine 🍷), and be respectful.</li>
+                    <li>🏠 <strong>Neighbours Matter:</strong> In villages, people know each other. Your behaviour will be observed and discussed. Building a good reputation through reliability and friendliness is essential.</li>
+                    <li>🎉 <strong>Vereine (Clubs and Associations):</strong> Joining local clubs – sports clubs ⚽, music groups 🎵, volunteer fire brigade (Freiwillige Feuerwehr) 🚒, Schützenverein (shooting club) – is one of the best ways to integrate and meet people, including potential partners.</li>
+                    <li>⛪ <strong>Religious Context:</strong> Rural Germany can be more religious (Catholic in the south, Protestant in the north). Respect local religious traditions and holidays, even if you don't share the faith.</li>
+                    <li>🍺 <strong>Stammtisch:</strong> Many villages have a regular Stammtisch (regulars' table) at the local Gasthof. Being invited to join is a sign of acceptance.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Integration Tip</strong>
+                    <p>Rural Germans may take time to warm up to newcomers. Don't be discouraged by initial reserve – it's not personal. Consistent presence, reliability, and respect for local customs will gradually earn trust and friendship. 🤝</p>
+                </div>
+
+                <h3>🏠 Part 6: Living Together and Relationships</h3>
+                <p>German society has evolved significantly regarding relationships: 📈</p>
+
+                <ul>
+                    <li>👫 <strong>Cohabitation (Zusammenleben):</strong> Living together before marriage is completely normal and socially accepted in Germany, even in rural areas.</li>
+                    <li>💍 <strong>Marriage (Ehe):</strong> Marriage is valued but not seen as the only valid relationship form. Many couples live together long-term without marrying.</li>
+                    <li>👨‍👩‍👧 <strong>Children:</strong> Having children outside marriage carries no social stigma in modern Germany. The focus is on providing a stable, loving home.</li>
+                    <li>⚖️ <strong>Legal Rights:</strong> Unmarried partners have fewer automatic legal rights than married couples. Consider a partnership agreement (Partnerschaftsvertrag) for important matters.</li>
+                </ul>
+
+                <h3>🚫 Part 7: What Will Get You in Trouble</h3>
+                <p>Beyond the legal issues covered in Part 1, here are behaviours that will seriously harm your reputation and integration: ⚠️</p>
+
+                <ul>
+                    <li>📢 <strong>Being Too Loud or Flashy:</strong> Bragging, showing off wealth, or being excessively loud is viewed very negatively. Germans value modesty (Bescheidenheit).</li>
+                    <li>⏰ <strong>Being Unreliable:</strong> Not keeping appointments, being late repeatedly, or breaking promises will destroy trust. Reliability (Zuverlässigkeit) is core to German culture.</li>
+                    <li>🤐 <strong>Gossip and Indiscretion:</strong> Spreading rumours or sharing private information will quickly isolate you. Privacy is sacred.</li>
+                    <li>💢 <strong>Aggressive Behaviour:</strong> Raising your voice, making threats, or being physically aggressive – even in minor conflicts – is completely unacceptable.</li>
+                    <li>🙅 <strong>Disrespecting Boundaries:</strong> Continuing to pursue someone who has said no, or violating personal space, will be remembered and discussed.</li>
+                    <li>🏠 <strong>Ignoring Ruhezeiten:</strong> Not respecting quiet hours (typically 1-3 PM and after 10 PM, plus all day Sunday) will make you very unpopular very quickly.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>This guide might seem complex, but it boils down to one thing: <strong>Respect (Respekt)</strong>. 🙏 Respect the law ⚖️, respect personal space 📏, respect people's right to say "no" 🛑, and respect local customs. Germans appreciate honesty, reliability, and modesty. If you make these your foundation, you'll earn trust and acceptance – and you'll be absolutely fine! ✨🇩🇪</p>
+                </div>
+            `
+        },
         social: {
             title: "Social Ethics in Germany",
             content: `
