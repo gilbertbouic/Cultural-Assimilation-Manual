@@ -147,9 +147,11 @@ main {
 /* Category Grid */
 .category-grid {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: 1.2rem;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.5rem;
     justify-items: center;
+    max-width: 900px;
+    margin: 0 auto;
 }
 
 .category-btn {
@@ -157,14 +159,16 @@ main {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    width: 160px;
-    height: 140px;
+    width: 100%;
+    max-width: 200px;
+    height: 150px;
     border: none;
-    border-radius: 12px;
+    border-radius: 16px;
     background: linear-gradient(145deg, #e8e8ff, #ffffff);
     box-shadow: 4px 4px 12px rgba(0, 0, 0, 0.1), -4px -4px 12px rgba(255, 255, 255, 0.8);
     cursor: pointer;
     transition: all 0.3s ease;
+    padding: 1rem;
 }
 
 .category-btn:hover {
@@ -175,14 +179,15 @@ main {
 
 .category-btn .category-icon {
     font-size: 2.5rem;
-    margin-bottom: 0.5rem;
+    margin-bottom: 0.75rem;
 }
 
 .category-btn .category-name {
-    font-size: 0.95rem;
+    font-size: 0.9rem;
     font-weight: 600;
     color: #4a4a8a;
     text-align: center;
+    line-height: 1.3;
 }
 
 /* Content Section */
@@ -286,6 +291,22 @@ footer {
 }
 
 /* Responsive Design */
+@media (max-width: 992px) {
+    .category-grid {
+        grid-template-columns: repeat(4, 1fr);
+        gap: 1rem;
+    }
+    
+    .category-btn {
+        max-width: 180px;
+        height: 140px;
+    }
+    
+    .category-btn .category-name {
+        font-size: 0.8rem;
+    }
+}
+
 @media (max-width: 768px) {
     header h1 {
         font-size: 1.8rem;
@@ -316,9 +337,14 @@ footer {
         font-size: 1.1rem;
     }
 
+    .category-grid {
+        grid-template-columns: repeat(2, 1fr);
+        gap: 1rem;
+    }
+
     .category-btn {
-        width: 140px;
-        height: 120px;
+        max-width: 100%;
+        height: 130px;
     }
 
     .category-btn .category-icon {
@@ -326,7 +352,7 @@ footer {
     }
 
     .category-btn .category-name {
-        font-size: 0.85rem;
+        font-size: 0.8rem;
     }
 }
 
@@ -337,10 +363,25 @@ footer {
 
     .category-grid {
         grid-template-columns: repeat(2, 1fr);
+        gap: 0.75rem;
     }
 
     .country-btn, .category-btn {
         width: 100%;
+    }
+    
+    .category-btn {
+        height: 120px;
+        padding: 0.75rem;
+    }
+    
+    .category-btn .category-icon {
+        font-size: 1.8rem;
+        margin-bottom: 0.5rem;
+    }
+    
+    .category-btn .category-name {
+        font-size: 0.75rem;
     }
 }
 
