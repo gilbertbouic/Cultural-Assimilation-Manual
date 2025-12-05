@@ -1996,7 +1996,7 @@ const culturalData = {
                 </div>
 
                 <h3>🍺 Part 3: Pub Culture – The Heart of British Social Life</h3>
-                <p>The pub (public house) is central to British social life. 🏚️ It's where people meet friends, watch football, celebrate, commiserate, and generally just... be. Understanding pub culture is essential! 🍻</p>
+                <p>The pub (public house) is central to British social life. 🍺 It's where people meet friends, watch football, celebrate, commiserate, and generally just... be. Understanding pub culture is essential! 🍻</p>
 
                 <h4>🏪 Pub Basics:</h4>
                 <ul>
@@ -2152,7 +2152,7 @@ const culturalData = {
 
                 <ul>
                     <li>🥧 <strong>Try everything:</strong> Even things that sound odd (black pudding, haggis, mushy peas). You might be surprised! 🎲</li>
-                    <li>🍻 <strong>Go to the pub:</strong> Even if you don't drink alcohol, the pub is a social space. Order a lime and soda and soak up the atmosphere. 🏚️</li>
+                    <li>🍻 <strong>Go to the pub:</strong> Even if you don't drink alcohol, the pub is a social space. Order a lime and soda and soak up the atmosphere. 🏠</li>
                     <li>🫖 <strong>Learn to make tea properly:</strong> Boiling water, let it brew, milk after. Master this and you'll earn respect! ☕</li>
                     <li>🐟 <strong>Find your local chippy:</strong> Everyone has a favourite fish and chip shop. Find yours! 🍟</li>
                     <li>🌞 <strong>Sunday roast:</strong> Experience a proper Sunday roast – either at a pub or cook one yourself. It's a British institution! 🍖</li>
