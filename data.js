@@ -802,6 +802,234 @@ const culturalData = {
                     <p>Economic integration in England is about more than just earning money. 💰 It's about showing up, working hard, supporting yourself, and contributing to your community. 🤝 The English respect people who graft, who don't complain (too much!), and who stand on their own two feet. 🦶 Do that, and you'll earn not just money – but respect and belonging. 🏠🇬🇧</p>
                 </div>
             `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare & NHS – Your Complete Guide to the National Health Service 💊",
+            content: `
+                <p>Right, let's talk about something absolutely crucial: healthcare. 🏥 The National Health Service (NHS) is one of Britain's proudest institutions – free healthcare at the point of use for everyone. But navigating it can be confusing if you're new here. 🤔</p>
+                
+                <p>This guide will walk you through everything you need to know: registering with a GP, booking appointments, getting prescriptions, and understanding hospital care. 📋 Let's get you sorted! 💪</p>
+
+                <h3>🏛️ Part 1: Understanding the NHS – The Basics</h3>
+                <p>The NHS is the UK's publicly funded healthcare system. 🇬🇧 Here's what you need to know:</p>
+
+                <div class="important">
+                    <strong>💡 Key Facts About the NHS</strong>
+                    <ul>
+                        <li><strong>Free at the point of use:</strong> Most NHS services are free – you won't be charged when you see a doctor or go to hospital. 🆓</li>
+                        <li><strong>Funded by taxes:</strong> The NHS is paid for through National Insurance and general taxation. 💷</li>
+                        <li><strong>Universal coverage:</strong> Everyone legally resident in the UK can use the NHS. This includes migrants with valid visas. 🌍</li>
+                        <li><strong>Some exceptions:</strong> Dental care, eye tests, and prescriptions have charges (though many people are exempt). 💊</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>🔑 The Immigration Health Surcharge (IHS)</strong>
+                    <p>If you're on a visa, you've likely paid the Immigration Health Surcharge as part of your visa application. 📝 This gives you access to NHS services on the same basis as a UK resident. Keep your visa documents handy – you may need to prove your entitlement.</p>
+                </div>
+
+                <h3>👨‍⚕️ Part 2: Registering with a GP – Your First Step</h3>
+                <p>Your GP (General Practitioner) is your main doctor and the gateway to all NHS services. 🚪 Registering with a GP practice should be one of the first things you do when you arrive.</p>
+
+                <h4>📋 How to Register:</h4>
+                <ul>
+                    <li>🔍 <strong>Find a practice:</strong> Use the NHS website (nhs.uk) to find GP practices near you. Enter your postcode to see options.</li>
+                    <li>📍 <strong>Catchment areas:</strong> Most practices only accept patients living in their catchment area. Check before you apply. 🗺️</li>
+                    <li>📝 <strong>Fill in the forms:</strong> You'll need to complete a GMS1 registration form. Most practices also ask you to complete a health questionnaire.</li>
+                    <li>🪪 <strong>ID isn't always required:</strong> GP practices cannot refuse to register you because you don't have ID, proof of address, or an NHS number. 📄</li>
+                    <li>⏳ <strong>Processing time:</strong> Registration can take a few days to a couple of weeks. You may be asked to attend a new patient health check. ✅</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Important Notes on Registration</strong>
+                    <ul>
+                        <li>You can only be registered with <strong>one GP practice</strong> at a time.</li>
+                        <li>If you move house, you may need to re-register with a new practice if you're outside their area. 🏠</li>
+                        <li>Some practices have closed lists – they're not accepting new patients. Try another nearby. 🚫</li>
+                        <li>You <strong>don't need</strong> an NHS number to register – you'll be given one if you don't have one.</li>
+                    </ul>
+                </div>
+
+                <h4>📞 What Your GP Practice Provides:</h4>
+                <ul>
+                    <li>👩‍⚕️ <strong>Consultations:</strong> Appointments with doctors, nurses, and other healthcare professionals.</li>
+                    <li>💉 <strong>Vaccinations:</strong> Including flu jabs, COVID boosters, and travel vaccinations.</li>
+                    <li>📋 <strong>Health checks:</strong> Regular screening for conditions like diabetes, blood pressure, and cancer.</li>
+                    <li>💊 <strong>Prescriptions:</strong> Your GP can prescribe medications for you.</li>
+                    <li>📝 <strong>Referrals:</strong> If you need specialist care, your GP refers you to hospital consultants.</li>
+                    <li>🩺 <strong>Chronic condition management:</strong> Ongoing care for conditions like asthma, diabetes, or heart disease.</li>
+                </ul>
+
+                <h3>📅 Part 3: Booking Appointments – How the System Works</h3>
+                <p>Getting a GP appointment can sometimes be challenging. 😅 Here's how to navigate the system:</p>
+
+                <h4>📱 Ways to Book:</h4>
+                <ul>
+                    <li>📞 <strong>Phone:</strong> Call your practice – usually first thing in the morning (8am) for same-day appointments. Lines can be busy! 🕗</li>
+                    <li>💻 <strong>Online:</strong> Many practices use the NHS App or their own online booking system. Register for online services. 📲</li>
+                    <li>🚶 <strong>In person:</strong> You can visit the practice to book, though phone/online is usually preferred.</li>
+                </ul>
+
+                <h4>📊 Types of Appointments:</h4>
+                <ul>
+                    <li>⏰ <strong>Same-day/urgent:</strong> For problems that need attention today. Call early – these slots go fast! 🏃</li>
+                    <li>📅 <strong>Routine:</strong> For non-urgent issues. May be a few days to weeks wait. Book ahead for ongoing concerns.</li>
+                    <li>📹 <strong>Telephone/video:</strong> Many consultations now happen remotely. Be ready to describe your symptoms clearly. 🗣️</li>
+                    <li>🏠 <strong>Home visits:</strong> Available for patients too ill to travel. Request through your practice. 🚗</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Tips for Getting Appointments</strong>
+                    <ul>
+                        <li>📞 Call at exactly 8am for same-day appointments – this is when most practices release them.</li>
+                        <li>🖥️ Use online booking for routine appointments – often easier than phoning.</li>
+                        <li>📝 Be clear about your symptoms when booking – this helps them allocate the right time.</li>
+                        <li>❌ Cancel if you can't attend – missed appointments waste NHS resources. You can do this online or by phone.</li>
+                        <li>🔄 If you can't get through, try the online "e-consult" or "ask my GP" service if your practice offers it.</li>
+                    </ul>
+                </div>
+
+                <div class="warning">
+                    <strong>⚠️ Be Punctual!</strong>
+                    <p>Arrive on time for your appointment. ⏰ Being more than 10 minutes late usually means you'll lose your slot and have to rebook. GP appointments are typically only 10 minutes, so make the most of the time – prepare what you want to discuss! 📋</p>
+                </div>
+
+                <h3>💊 Part 4: Prescriptions – Getting Your Medications</h3>
+                <p>If your GP prescribes medication, here's how the system works: 💊</p>
+
+                <h4>📜 The Prescription Process:</h4>
+                <ul>
+                    <li>📝 <strong>Getting a prescription:</strong> Your GP writes a prescription (paper or electronic). Most are now sent electronically to your chosen pharmacy. 💻</li>
+                    <li>🏪 <strong>Choose a pharmacy:</strong> You can nominate any pharmacy to receive your electronic prescriptions. Tell your GP practice which one. 🏥</li>
+                    <li>💰 <strong>Prescription charges:</strong> In England, each item on your prescription has a fixed charge (check current prices at nhs.uk). Some items are exempt. 💷</li>
+                    <li>🔄 <strong>Repeat prescriptions:</strong> For ongoing medications, you can order repeats online, by app, or by dropping the slip at your pharmacy.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🆓 Who Gets Free Prescriptions?</strong>
+                    <ul>
+                        <li>👶 Children under 16 (or under 19 in full-time education)</li>
+                        <li>👴 People aged 60 and over</li>
+                        <li>🤰 Pregnant women and new mothers (up to 12 months after birth)</li>
+                        <li>🩺 People with certain medical conditions (diabetes, epilepsy, cancer, etc.)</li>
+                        <li>💷 People on low incomes or certain benefits</li>
+                        <li>🏴󠁧󠁢󠁳󠁣󠁴󠁿 Everyone in Scotland, Wales, and Northern Ireland (prescriptions are free there!)</li>
+                    </ul>
+                </div>
+
+                <h4>💳 Saving Money on Prescriptions:</h4>
+                <ul>
+                    <li>🎫 <strong>Prescription Prepayment Certificate (PPC):</strong> If you need regular medications, a PPC can save you money. 💰</li>
+                    <li>📅 <strong>3-month or 12-month PPC:</strong> Choose between a 3-month or 12-month certificate. Check current prices at nhsbsa.nhs.uk/ppc – if you need more than a few items, it's usually worth it.</li>
+                    <li>🌐 <strong>Buy online:</strong> Get your PPC at nhsbsa.nhs.uk/ppc – it starts immediately.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Pharmacy First</strong>
+                    <p>For minor ailments like coughs, colds, hay fever, or minor infections, try your local pharmacy first. 🏪 Pharmacists can give advice and sell over-the-counter medications – no GP appointment needed. Some pharmacies can now treat certain conditions directly under the "Pharmacy First" scheme. 👍</p>
+                </div>
+
+                <h3>🏨 Part 5: Hospital Care – When You Need More Than Your GP</h3>
+                <p>For more serious conditions, you may need hospital care. Here's how it works: 🏥</p>
+
+                <h4>📋 Types of Hospital Care:</h4>
+                <ul>
+                    <li>📝 <strong>Outpatient:</strong> You attend for appointments, tests, or treatments but go home the same day. 🏠</li>
+                    <li>🛏️ <strong>Inpatient:</strong> You stay overnight or longer in hospital. 🌙</li>
+                    <li>🚑 <strong>Emergency (A&E):</strong> For serious, life-threatening emergencies. Available 24/7. 🆘</li>
+                    <li>⏰ <strong>Day surgery:</strong> Operations where you go home the same day.</li>
+                </ul>
+
+                <h4>🔀 Getting Referred:</h4>
+                <ul>
+                    <li>👨‍⚕️ <strong>GP referral:</strong> Your GP refers you to a specialist if needed. You have the <strong>right to choose</strong> which hospital you're referred to. 🏥</li>
+                    <li>📧 <strong>e-Referral Service:</strong> You'll receive a booking letter with options to choose your hospital and appointment time. 📬</li>
+                    <li>⏳ <strong>Waiting times:</strong> The NHS has targets for how long you should wait. Check referral to treatment (RTT) times for your area.</li>
+                    <li>🔄 <strong>Follow-ups:</strong> After your first appointment, the hospital will arrange any follow-up care needed.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ A&E Is for Emergencies Only!</strong>
+                    <p>A&E (Accident & Emergency) departments are for <strong>serious, life-threatening</strong> conditions: 🚨</p>
+                    <ul>
+                        <li>💔 Chest pain or difficulty breathing</li>
+                        <li>🩸 Severe bleeding that won't stop</li>
+                        <li>🤕 Serious injuries from accidents</li>
+                        <li>🧠 Signs of stroke (face drooping, arm weakness, speech problems)</li>
+                        <li>😵 Loss of consciousness</li>
+                    </ul>
+                    <p>For non-emergencies, use your GP, pharmacy, or NHS 111. A&E wait times can be very long for minor issues! ⏰</p>
+                </div>
+
+                <h3>📞 Part 6: Other NHS Services You Should Know About</h3>
+
+                <h4>📱 NHS 111:</h4>
+                <ul>
+                    <li>📞 <strong>Call 111:</strong> For urgent medical problems that aren't emergencies. Available 24/7. 🕐</li>
+                    <li>💻 <strong>Online:</strong> Use 111.nhs.uk for a symptom checker that directs you to the right care.</li>
+                    <li>🏥 <strong>What they do:</strong> Give advice, book GP appointments, direct you to urgent care centres, or send an ambulance if needed. 🚑</li>
+                </ul>
+
+                <h4>🦷 Dental Care:</h4>
+                <ul>
+                    <li>🔍 <strong>Find a dentist:</strong> Use nhs.uk to find NHS dentists near you. Many have long waiting lists – start looking early! 📋</li>
+                    <li>💰 <strong>Charges apply:</strong> NHS dental treatment has three price bands – check current prices at nhs.uk/nhs-services/dentists/. 💷</li>
+                    <li>🆓 <strong>Free for some:</strong> Children, pregnant women, new mothers, and those on certain benefits get free NHS dental care.</li>
+                    <li>🚨 <strong>Emergencies:</strong> For dental emergencies, call NHS 111 or find an emergency dental service.</li>
+                </ul>
+
+                <h4>👁️ Eye Care:</h4>
+                <ul>
+                    <li>👓 <strong>Eye tests:</strong> Available at high street opticians. Tests cost around £20-30, but are free for some groups. 🆓</li>
+                    <li>🆓 <strong>Free for:</strong> Children, over 60s, people on benefits, those with certain conditions like diabetes or glaucoma.</li>
+                    <li>🏥 <strong>Hospital eye care:</strong> For serious eye conditions, your optician or GP can refer you to a hospital eye department.</li>
+                </ul>
+
+                <h4>🧠 Mental Health Services:</h4>
+                <ul>
+                    <li>👨‍⚕️ <strong>Through your GP:</strong> Talk to your GP about mental health concerns. They can provide treatment or refer you. 💬</li>
+                    <li>🔗 <strong>Self-referral:</strong> Many areas allow you to refer yourself to NHS talking therapies (IAPT) without seeing a GP first. 🗣️</li>
+                    <li>📞 <strong>Crisis support:</strong> If you're in mental health crisis, call 111, go to A&E, or contact the Samaritans (116 123). 🆘</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>📱 The NHS App</strong>
+                    <p>Download the NHS App! 📲 It lets you:</p>
+                    <ul>
+                        <li>📅 Book and manage GP appointments</li>
+                        <li>💊 Order repeat prescriptions</li>
+                        <li>📋 View your medical record</li>
+                        <li>💉 Check your vaccination records</li>
+                        <li>🏥 Register for organ donation</li>
+                    </ul>
+                    <p>Available on iOS and Android. Create an account with NHS login. 👍</p>
+                </div>
+
+                <h3>💡 Part 7: Practical Tips for Using the NHS</h3>
+
+                <h4>📝 Getting the Best from Your GP Appointment:</h4>
+                <ul>
+                    <li>✍️ <strong>Prepare beforehand:</strong> Write down your symptoms, when they started, and any questions you have.</li>
+                    <li>🎯 <strong>Be specific:</strong> Describe your symptoms clearly. Where does it hurt? How often? What makes it better or worse?</li>
+                    <li>💊 <strong>Know your medications:</strong> Bring a list of any medicines you're taking, including over-the-counter ones.</li>
+                    <li>❓ <strong>Ask questions:</strong> Don't be afraid to ask if you don't understand something. Ask for written information if helpful.</li>
+                    <li>📞 <strong>Follow up:</strong> If your symptoms don't improve, book another appointment. It's okay to come back!</li>
+                </ul>
+
+                <h4>🛡️ Your Rights as an NHS Patient:</h4>
+                <ul>
+                    <li>🏥 <strong>Right to choose:</strong> You can choose which hospital you're referred to for many treatments.</li>
+                    <li>⏳ <strong>Waiting time targets:</strong> The NHS has targets for treatment waiting times – ask about expected waits.</li>
+                    <li>🔒 <strong>Confidentiality:</strong> Your medical records are confidential. Information is only shared when necessary for your care.</li>
+                    <li>📋 <strong>Access to records:</strong> You have the right to see your medical records.</li>
+                    <li>😤 <strong>Complaints:</strong> If you're unhappy with your care, you can complain through the NHS complaints procedure.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>The NHS is there for you – use it! 🏥 Register with a GP as soon as you arrive, download the NHS App, and don't hesitate to seek help when you need it. 💪 The system can seem complex at first, but once you understand how it works, you'll have access to excellent healthcare – free at the point of use. 🆓 Stay healthy! 🇬🇧❤️</p>
+                </div>
+            `
         }
     },
     germany: {
