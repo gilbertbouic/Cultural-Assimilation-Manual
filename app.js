@@ -46,7 +46,7 @@ function selectCountry(country) {
     
     // Remove white background and apply country-specific background
     document.body.classList.remove('country-selection-active');
-    document.body.classList.remove('country-england');
+    document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
     document.body.classList.add(`country-${country}`);
     
     countrySelection.classList.add('hidden');
@@ -77,7 +77,7 @@ function showCountrySelection() {
     currentCategory = null;
     
     // Remove country-specific background
-    document.body.classList.remove('country-england');
+    document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
     
     // Add white background for country selection
     document.body.classList.add('country-selection-active');

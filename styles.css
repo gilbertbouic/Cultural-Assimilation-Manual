@@ -288,30 +288,24 @@ footer {
 /* Responsive Design */
 @media (max-width: 768px) {
     header h1 {
-        font-size: 1.6rem;
+        font-size: 1.8rem;
     }
 
     .subtitle {
-        font-size: 0.95rem;
+        font-size: 1rem;
     }
 
     main {
-        padding: 0.75rem;
+        padding: 1rem;
     }
 
     .selection-section {
-        padding: 1.25rem;
-        border-radius: 15px;
-    }
-
-    .selection-section h2 {
-        font-size: 1.4rem;
-        margin-bottom: 1.5rem;
+        padding: 1.5rem;
     }
 
     .country-btn {
-        width: 180px;
-        height: 160px;
+        width: 160px;
+        height: 150px;
     }
 
     .country-btn .flag {
@@ -322,166 +316,31 @@ footer {
         font-size: 1.1rem;
     }
 
-    .category-grid {
-        grid-template-columns: repeat(2, 1fr);
-        gap: 0.8rem;
-    }
-
     .category-btn {
-        width: 100%;
-        height: 110px;
-        padding: 0.5rem;
+        width: 140px;
+        height: 120px;
     }
 
     .category-btn .category-icon {
-        font-size: 1.8rem;
+        font-size: 2rem;
     }
 
     .category-btn .category-name {
-        font-size: 0.8rem;
-        line-height: 1.2;
-    }
-
-    .back-btn {
-        padding: 0.6rem 1.2rem;
-        font-size: 0.9rem;
-    }
-
-    #content-title {
-        font-size: 1.4rem;
-    }
-
-    #content-body {
-        font-size: 0.95rem;
-        line-height: 1.7;
-    }
-
-    #content-body h3 {
-        font-size: 1.15rem;
-    }
-
-    #content-body ul {
-        margin-left: 1rem;
-    }
-
-    .content-section {
-        padding: 1.25rem;
+        font-size: 0.85rem;
     }
 }
 
 @media (max-width: 480px) {
-    header {
-        padding: 1rem;
-    }
-
-    header h1 {
-        font-size: 1.4rem;
-    }
-
-    .subtitle {
-        font-size: 0.85rem;
-    }
-
-    main {
-        padding: 0.5rem;
-    }
-
-    .selection-section {
-        padding: 1rem;
-        border-radius: 12px;
-    }
-
-    .selection-section h2 {
-        font-size: 1.2rem;
-        margin-bottom: 1rem;
-    }
-
     .country-grid {
-        grid-template-columns: 1fr;
-        justify-items: center;
-    }
-
-    .country-btn {
-        width: 100%;
-        max-width: 220px;
-        height: 150px;
+        grid-template-columns: repeat(2, 1fr);
     }
 
     .category-grid {
         grid-template-columns: repeat(2, 1fr);
-        gap: 0.6rem;
     }
 
-    .category-btn {
+    .country-btn, .category-btn {
         width: 100%;
-        height: 100px;
-        padding: 0.4rem;
-    }
-
-    .category-btn .category-icon {
-        font-size: 1.5rem;
-        margin-bottom: 0.3rem;
-    }
-
-    .category-btn .category-name {
-        font-size: 0.7rem;
-        line-height: 1.15;
-    }
-
-    .back-btn {
-        padding: 0.5rem 1rem;
-        font-size: 0.85rem;
-        margin-bottom: 1rem;
-    }
-
-    #content-container {
-        padding: 0;
-    }
-
-    #content-title {
-        font-size: 1.2rem;
-        padding-bottom: 0.75rem;
-        margin-bottom: 1rem;
-    }
-
-    #content-body {
-        font-size: 0.9rem;
-        line-height: 1.65;
-    }
-
-    #content-body h3 {
-        font-size: 1.05rem;
-        margin: 1.2rem 0 0.6rem 0;
-    }
-
-    #content-body h4 {
-        font-size: 0.95rem;
-    }
-
-    #content-body ul {
-        margin-left: 0.8rem;
-    }
-
-    #content-body li {
-        margin-bottom: 0.4rem;
-    }
-
-    #content-body .tip,
-    #content-body .warning,
-    #content-body .important {
-        padding: 0.75rem;
-        margin: 0.75rem 0;
-        font-size: 0.85rem;
-    }
-
-    .content-section {
-        padding: 1rem;
-        border-radius: 12px;
-    }
-
-    footer {
-        padding: 1rem;
-        font-size: 0.8rem;
     }
 }
 
@@ -505,21 +364,70 @@ body.country-england {
     background-attachment: fixed;
 }
 
+/* Germany - Black, Red, Gold horizontal stripes */
+body.country-germany {
+    background: linear-gradient(
+        to bottom,
+        #000000 0%, #000000 33.33%,
+        #DD0000 33.33%, #DD0000 66.66%,
+        #FFCE00 66.66%, #FFCE00 100%
+    );
+    background-attachment: fixed;
+}
+
+/* France - Blue, White, Red vertical stripes */
+body.country-france {
+    background: linear-gradient(
+        to right,
+        #002395 0%, #002395 33.33%,
+        #FFFFFF 33.33%, #FFFFFF 66.66%,
+        #ED2939 66.66%, #ED2939 100%
+    );
+    background-attachment: fixed;
+}
+
+/* Sweden - Blue with yellow cross */
+body.country-sweden {
+    background: 
+        /* Vertical yellow stripe */
+        linear-gradient(to right, 
+            #006AA7 30%, #FECC00 30%, #FECC00 40%, #006AA7 40%),
+        /* Horizontal yellow stripe overlay - positioned */
+        linear-gradient(to bottom,
+            #006AA7 40%, #FECC00 40%, #FECC00 60%, #006AA7 60%);
+    background-attachment: fixed;
+}
+
 /* Ensure content is readable over flag backgrounds */
-body.country-england main {
+body.country-england main,
+body.country-germany main,
+body.country-france main,
+body.country-sweden main {
     background: transparent;
 }
 
 body.country-england .selection-section,
-body.country-england .content-section {
+body.country-england .content-section,
+body.country-germany .selection-section,
+body.country-germany .content-section,
+body.country-france .selection-section,
+body.country-france .content-section,
+body.country-sweden .selection-section,
+body.country-sweden .content-section {
     background: rgba(255, 255, 255, 0.95);
 }
 
-body.country-england header {
+body.country-england header,
+body.country-germany header,
+body.country-france header,
+body.country-sweden header {
     background: rgba(255, 255, 255, 0.95);
 }
 
-body.country-england footer {
+body.country-england footer,
+body.country-germany footer,
+body.country-france footer,
+body.country-sweden footer {
     background: rgba(0, 0, 0, 0.3);
     color: white;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
