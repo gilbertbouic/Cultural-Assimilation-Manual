@@ -1929,9 +1929,9 @@ const culturalData = {
             `
         }
     },
-    germany: {
-        name: "Germany",
-        flag: "🇩🇪",
+    centralEurope: {
+        name: "Central Europe",
+        flag: "🇩🇪🇦🇹🇨🇭",
         relationships: {
             title: "💕 Module 1: A Practical Guide to Relationships, Respect, and How Not to Make a Fool of Yourself 🤝",
             content: `
@@ -2492,7 +2492,7 @@ const culturalData = {
             `
         },
         social: {
-            title: "Social Ethics in Germany",
+            title: "Social Ethics in Central Europe",
             content: `
                 <h3>General Social Norms</h3>
                 <p>German society values punctuality, efficiency, and directness. There's a clear distinction between formal and informal relationships.</p>
@@ -2521,7 +2521,7 @@ const culturalData = {
             `
         },
         conversation: {
-            title: "Conversation Etiquette in Germany",
+            title: "Conversation Etiquette in Central Europe",
             content: `
                 <h3>Communication Style</h3>
                 <p>Germans tend to be direct and straightforward. This isn't rudeness - it's valued honesty. Say what you mean without excessive politeness formulas.</p>
@@ -2552,7 +2552,7 @@ const culturalData = {
             `
         },
         dating: {
-            title: "Dating Culture in Germany",
+            title: "Dating Culture in Central Europe",
             content: `
                 <h3>Meeting People</h3>
                 <p>Germans often meet through:</p>
@@ -2582,7 +2582,7 @@ const culturalData = {
             `
         },
         marriage: {
-            title: "Marriage Customs in Germany",
+            title: "Marriage Customs in Central Europe",
             content: `
                 <h3>Legal Marriage</h3>
                 <p>Only civil marriages at the Standesamt (registry office) are legally recognized. Religious ceremonies are optional and held after the civil ceremony.</p>
@@ -2607,7 +2607,7 @@ const culturalData = {
             `
         },
         work: {
-            title: "Work Ethics in Germany",
+            title: "Work Ethics in Central Europe",
             content: `
                 <h3>Workplace Culture</h3>
                 <p>German workplaces value efficiency, quality, and reliability. There's respect for expertise and hierarchical structures, though this varies by industry.</p>
@@ -2637,7 +2637,7 @@ const culturalData = {
             `
         },
         civic: {
-            title: "Civic Duties in Germany",
+            title: "Civic Duties in Central Europe",
             content: `
                 <h3>Registration (Anmeldung)</h3>
                 <p>Within two weeks of moving to a new address, you must register at the local Bürgeramt. This is mandatory and needed for almost everything else.</p>
@@ -2663,7 +2663,7 @@ const culturalData = {
             `
         },
         clothing: {
-            title: "Clothing Norms in Germany",
+            title: "Clothing Norms in Central Europe",
             content: `
                 <h3>General Style</h3>
                 <p>German fashion tends toward practical, quality clothing. Dark colors and classic styles are common, especially in professional settings.</p>
@@ -2692,7 +2692,7 @@ const culturalData = {
             `
         },
         hygiene: {
-            title: "Hygiene Standards in Germany",
+            title: "Hygiene Standards in Central Europe",
             content: `
                 <h3>Personal Hygiene</h3>
                 <p>Daily showering and use of deodorant is standard. Clean, pressed clothing is expected in professional settings.</p>
@@ -2722,7 +2722,7 @@ const culturalData = {
             `
         },
         citizenship: {
-            title: "Path to Citizenship in Germany",
+            title: "Path to Citizenship in Central Europe",
             content: `
                 <h3>Requirements for German Citizenship</h3>
                 <ul>
@@ -2754,18 +2754,18 @@ const culturalData = {
             `
         }
     },
-    france: {
-        name: "France",
-        flag: "🇫🇷",
+    mediterranean: {
+        name: "Mediterranean",
+        flag: "🇮🇹🇫🇷🇪🇸🇵🇹",
         social: {
-            title: "Social Ethics in France",
+            title: "Social Ethics in the Mediterranean",
             content: `
                 <h3>General Social Norms</h3>
-                <p>French society values elegance, intellectual conversation, and enjoying life. There's strong appreciation for culture, food, and proper social etiquette.</p>
+                <p>Mediterranean society values elegance, intellectual conversation, and enjoying life. There's strong appreciation for culture, food, and proper social etiquette.</p>
                 
                 <h3>Greetings</h3>
                 <ul>
-                    <li>"Bonjour" (daytime) and "Bonsoir" (evening) are essential</li>
+                    <li>"Bonjour" (daytime) and "Bonsoir" (evening) are essential in France</li>
                     <li>La bise: Cheek kisses (number varies by region, usually 2-4)</li>
                     <li>Handshakes for formal or first-time meetings</li>
                     <li>Always greet shopkeepers when entering/leaving stores</li>
@@ -2787,7 +2787,7 @@ const culturalData = {
             `
         },
         conversation: {
-            title: "Conversation Etiquette in France",
+            title: "Conversation Etiquette in the Mediterranean",
             content: `
                 <h3>The Art of Conversation</h3>
                 <p>The French love intellectual debate and discussion. Being able to express opinions eloquently is valued. Silence is often uncomfortable.</p>
@@ -2818,7 +2818,7 @@ const culturalData = {
             `
         },
         dating: {
-            title: "Dating Culture in France",
+            title: "Dating Culture in the Mediterranean",
             content: `
                 <h3>French Romance</h3>
                 <p>France has a reputation for romance, but dating is actually quite different from many countries. There's often no formal "dating" phase.</p>
@@ -2848,7 +2848,7 @@ const culturalData = {
             `
         },
         marriage: {
-            title: "Marriage Customs in France",
+            title: "Marriage Customs in the Mediterranean",
             content: `
                 <h3>Civil Ceremony</h3>
                 <p>Only civil marriages at the mairie (town hall) are legally valid. Religious ceremonies can follow but have no legal status.</p>
@@ -2873,7 +2873,7 @@ const culturalData = {
             `
         },
         work: {
-            title: "Work Ethics in France",
+            title: "Work Ethics in the Mediterranean",
             content: `
                 <h3>Workplace Culture</h3>
                 <p>French workplaces value intellectual contribution, proper hierarchies, and work-life balance. The 35-hour work week is standard.</p>
@@ -2903,7 +2903,7 @@ const culturalData = {
             `
         },
         civic: {
-            title: "Civic Duties in France",
+            title: "Civic Duties in the Mediterranean",
             content: `
                 <h3>Administrative Requirements</h3>
                 <p>France is known for its bureaucracy. Keep all documents organized. You'll need a carte de séjour (residence permit) as a non-EU citizen.</p>
@@ -2928,7 +2928,7 @@ const culturalData = {
             `
         },
         clothing: {
-            title: "Clothing Norms in France",
+            title: "Clothing Norms in the Mediterranean",
             content: `
                 <h3>French Style</h3>
                 <p>French fashion emphasizes quality basics, classic pieces, and looking "put together." Less is more - avoid over-accessorizing or trying too hard.</p>
@@ -2958,7 +2958,7 @@ const culturalData = {
             `
         },
         hygiene: {
-            title: "Hygiene Standards in France",
+            title: "Hygiene Standards in the Mediterranean",
             content: `
                 <h3>Personal Hygiene</h3>
                 <p>Despite stereotypes, modern French hygiene standards are high. Daily bathing and use of fragrance are common.</p>
@@ -2988,7 +2988,7 @@ const culturalData = {
             `
         },
         citizenship: {
-            title: "Path to Citizenship in France",
+            title: "Path to Citizenship in the Mediterranean",
             content: `
                 <h3>Requirements for French Citizenship</h3>
                 <ul>
@@ -3024,14 +3024,14 @@ const culturalData = {
             `
         }
     },
-    sweden: {
-        name: "Sweden",
-        flag: "🇸🇪",
+    scandinavia: {
+        name: "Scandinavia",
+        flag: "🇸🇪🇳🇴🇩🇰",
         social: {
-            title: "Social Ethics in Sweden",
+            title: "Social Ethics in Scandinavia",
             content: `
                 <h3>General Social Norms</h3>
-                <p>Swedish society values equality, consensus, and respect for others' privacy. There's strong emphasis on "Lagom" - not too much, not too little, just right.</p>
+                <p>Scandinavian society values equality, consensus, and respect for others' privacy. There's strong emphasis on "Lagom" - not too much, not too little, just right.</p>
                 
                 <h3>Greetings</h3>
                 <ul>
@@ -3042,7 +3042,7 @@ const culturalData = {
                 </ul>
                 
                 <h3>Personal Space</h3>
-                <p>Swedes value personal space. Leave distance when queuing, don't sit next to strangers on buses if other seats are available.</p>
+                <p>Scandinavians value personal space. Leave distance when queuing, don't sit next to strangers on buses if other seats are available.</p>
                 
                 <div class="tip">
                     <strong>Tip:</strong> Swedes may seem reserved at first, but once you become friends, relationships are genuine and lasting.
@@ -3057,7 +3057,7 @@ const culturalData = {
             `
         },
         conversation: {
-            title: "Conversation Etiquette in Sweden",
+            title: "Conversation Etiquette in Scandinavia",
             content: `
                 <h3>Communication Style</h3>
                 <p>Swedes are generally understated and avoid conflict. Silence is comfortable and doesn't need to be filled. Bragging is frowned upon (Jantelagen).</p>
@@ -3088,7 +3088,7 @@ const culturalData = {
             `
         },
         dating: {
-            title: "Dating Culture in Sweden",
+            title: "Dating Culture in Scandinavia",
             content: `
                 <h3>Meeting People</h3>
                 <p>Swedes often meet through:</p>
@@ -3118,7 +3118,7 @@ const culturalData = {
             `
         },
         marriage: {
-            title: "Marriage Customs in Sweden",
+            title: "Marriage Customs in Scandinavia",
             content: `
                 <h3>Sambo Culture</h3>
                 <p>Many Swedish couples live together as "sambo" (cohabiting partners) with legal rights similar to marriage. Marriage isn't necessary for social acceptance.</p>
@@ -3144,7 +3144,7 @@ const culturalData = {
             `
         },
         work: {
-            title: "Work Ethics in Sweden",
+            title: "Work Ethics in Scandinavia",
             content: `
                 <h3>Workplace Culture</h3>
                 <p>Swedish workplaces are flat and egalitarian. Consensus decision-making is valued. Titles and hierarchy matter less than in many countries.</p>
@@ -3174,7 +3174,7 @@ const culturalData = {
             `
         },
         civic: {
-            title: "Civic Duties in Sweden",
+            title: "Civic Duties in Scandinavia",
             content: `
                 <h3>Registration (Folkbokföring)</h3>
                 <p>You must register with Skatteverket (Tax Agency) when moving to Sweden. Your personnummer (personal ID number) is essential for everything.</p>
@@ -3199,7 +3199,7 @@ const culturalData = {
             `
         },
         clothing: {
-            title: "Clothing Norms in Sweden",
+            title: "Clothing Norms in Scandinavia",
             content: `
                 <h3>Swedish Style</h3>
                 <p>Swedish fashion is minimalist, functional, and practical. Clean lines, neutral colors, and quality materials are preferred.</p>
@@ -3229,7 +3229,7 @@ const culturalData = {
             `
         },
         hygiene: {
-            title: "Hygiene Standards in Sweden",
+            title: "Hygiene Standards in Scandinavia",
             content: `
                 <h3>Personal Hygiene</h3>
                 <p>Swedes have high hygiene standards. Daily showering, use of deodorant, and clean clothing are expected.</p>
@@ -3259,7 +3259,7 @@ const culturalData = {
             `
         },
         citizenship: {
-            title: "Path to Citizenship in Sweden",
+            title: "Path to Citizenship in Scandinavia",
             content: `
                 <h3>Requirements for Swedish Citizenship</h3>
                 <ul>
@@ -3287,6 +3287,614 @@ const culturalData = {
                     <li>Access to more jobs (some require citizenship)</li>
                     <li>Unconditional right to live in Sweden</li>
                     <li>Consular protection worldwide</li>
+                </ul>
+            `
+        }
+    },
+    balkans: {
+        name: "Balkans",
+        flag: "🇷🇸🇭🇷🇧🇦",
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in the Balkans 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>Balkan society is characterized by strong hospitality traditions, extended family ties, and warm interpersonal relationships. The region values generosity, loyalty, and community bonds.</p>
+                
+                <h3>Greetings</h3>
+                <ul>
+                    <li>Warm handshakes are common, often with direct eye contact</li>
+                    <li>Cheek kisses (usually 3) among friends and family</li>
+                    <li>Hugging is common between close acquaintances</li>
+                    <li>Greetings are often accompanied by inquiries about family</li>
+                </ul>
+                
+                <h3>Hospitality</h3>
+                <p>Hospitality is a cornerstone of Balkan culture. Guests are treated with great generosity, and refusing food or drink can be seen as impolite.</p>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> When visiting a Balkan home, expect to be offered food and drinks. It's polite to accept, even if just a small amount.
+                </div>
+                
+                <h3>Family Values</h3>
+                <p>Extended family networks are very important. Multiple generations often live together or in close proximity, and family obligations take priority.</p>
+                
+                <div class="important">
+                    <strong>Important:</strong> Respect for elders is fundamental. Always greet older family members first and show deference to their opinions.
+                </div>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in the Balkans 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>Balkan communication tends to be warm, expressive, and direct. Animated conversations with gestures are common and show engagement.</p>
+                
+                <h3>Good Topics</h3>
+                <ul>
+                    <li>Family and children</li>
+                    <li>Food and local cuisine</li>
+                    <li>Sports, especially football and basketball</li>
+                    <li>Music and cultural traditions</li>
+                    <li>Local history and heritage</li>
+                </ul>
+                
+                <h3>Topics to Approach Carefully</h3>
+                <ul>
+                    <li>Recent conflicts and wars (1990s)</li>
+                    <li>Ethnic and religious tensions</li>
+                    <li>Political affiliations</li>
+                    <li>Territorial disputes</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Note:</strong> Historical sensitivities vary greatly by country and region. Listen more than you speak until you understand the local context.
+                </div>
+                
+                <h3>Coffee Culture</h3>
+                <p>Coffee (often Turkish-style) is central to social life. Invitations for coffee are opportunities for conversation and relationship building. Never rush through coffee.</p>
+            `
+        },
+        dating: {
+            title: "Dating Culture in the Balkans",
+            content: `
+                <h3>Meeting People</h3>
+                <p>In the Balkans, people often meet through:</p>
+                <ul>
+                    <li>Extended family and friend networks</li>
+                    <li>Social gatherings and celebrations</li>
+                    <li>Cafés and nightlife venues</li>
+                    <li>Dating apps (increasingly popular)</li>
+                </ul>
+                
+                <h3>Dating Norms</h3>
+                <ul>
+                    <li>Traditional gender roles are more common, though this varies by generation</li>
+                    <li>Men often take the initiative in asking someone out</li>
+                    <li>Chivalry is appreciated - opening doors, paying for dates</li>
+                    <li>Family approval often matters in serious relationships</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Meeting the family is a significant step. Be prepared to be thoroughly welcomed (and fed) when this happens.
+                </div>
+                
+                <h3>Relationship Progression</h3>
+                <p>Relationships often develop within social circles. Once serious, partners are typically introduced to family relatively early compared to Western Europe.</p>
+            `
+        },
+        economicIntegration: {
+            title: "💷 Module 4: Economic Integration in the Balkans 💼",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>Balkan workplaces often blend formal hierarchies with personal relationships. Building trust and connections with colleagues is important for professional success.</p>
+                
+                <h3>Key Values</h3>
+                <ul>
+                    <li>Personal relationships often facilitate business</li>
+                    <li>Hierarchy is respected but relationships matter</li>
+                    <li>Flexibility and adaptability are valued</li>
+                    <li>Coffee breaks are important social rituals</li>
+                </ul>
+                
+                <h3>Professional Etiquette</h3>
+                <ul>
+                    <li>Formal dress is expected in business settings</li>
+                    <li>Titles and academic degrees are respected</li>
+                    <li>Business cards are exchanged formally</li>
+                    <li>Meetings may start with personal conversation</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> Building personal rapport before business discussions is common and expected. Don't rush straight to business matters.
+                </div>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in the Balkans 🤝",
+            content: `
+                <h3>Administrative Requirements</h3>
+                <p>Bureaucratic processes can be complex and time-consuming. Patience and persistence are necessary when dealing with official matters.</p>
+                
+                <h3>Documentation</h3>
+                <ul>
+                    <li>Keep multiple copies of all important documents</li>
+                    <li>Registration with local authorities is typically required</li>
+                    <li>Expect to need certified translations of foreign documents</li>
+                    <li>Apostilles may be required for official recognition</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Having a local contact who can help navigate bureaucracy is invaluable. Personal connections often help expedite processes.
+                </div>
+                
+                <h3>Community Involvement</h3>
+                <ul>
+                    <li>Neighborhood and community ties are strong</li>
+                    <li>Religious communities play significant social roles</li>
+                    <li>Volunteering through religious or community organizations is common</li>
+                </ul>
+            `
+        }
+    },
+    greece: {
+        name: "Greece",
+        flag: "🇬🇷",
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in Greece 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>Greek society is characterized by warmth, expressiveness, and strong family bonds. The concept of "philoxenia" (hospitality to strangers) is deeply embedded in the culture.</p>
+                
+                <h3>Greetings</h3>
+                <ul>
+                    <li>Warm handshakes with direct eye contact</li>
+                    <li>Cheek kisses (usually 2) between friends and family</li>
+                    <li>Hugging is common among close acquaintances</li>
+                    <li>"Yia sou" (informal) or "Yia sas" (formal) are standard greetings</li>
+                </ul>
+                
+                <h3>Philoxenia (Hospitality)</h3>
+                <p>Greeks take pride in their hospitality. Visitors to homes will be offered food and refreshments, and refusing is considered impolite.</p>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> When invited to a Greek home, bring a small gift such as pastries, wine, or flowers for the hostess.
+                </div>
+                
+                <h3>Mediterranean Pace</h3>
+                <p>Life in Greece often moves at a relaxed pace. Social relationships and quality of life take priority over strict schedules.</p>
+                
+                <div class="important">
+                    <strong>Important:</strong> Greeks are passionate communicators. Animated discussions with gestures and raised voices don't necessarily indicate conflict - it's often just enthusiastic conversation.
+                </div>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in Greece 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>Greek communication is warm, expressive, and often animated. Direct eye contact shows engagement and honesty.</p>
+                
+                <h3>Good Topics</h3>
+                <ul>
+                    <li>Greek history and ancient heritage</li>
+                    <li>Food and local cuisine</li>
+                    <li>Family and children</li>
+                    <li>Football and sports</li>
+                    <li>Greek islands and travel</li>
+                </ul>
+                
+                <h3>Topics to Handle Carefully</h3>
+                <ul>
+                    <li>Relations with Turkey and Cyprus</li>
+                    <li>Recent economic crisis</li>
+                    <li>Macedonia naming dispute</li>
+                    <li>Political parties</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Greeks enjoy debate and discussion. Having opinions and expressing them respectfully is appreciated.
+                </div>
+                
+                <h3>Coffee Culture</h3>
+                <p>Greek coffee culture is essential to social life. Cafés (kafeneia) are gathering places for conversation that can last for hours.</p>
+            `
+        },
+        dating: {
+            title: "Dating Culture in Greece",
+            content: `
+                <h3>Meeting People</h3>
+                <p>Greeks commonly meet potential partners through:</p>
+                <ul>
+                    <li>Extended social circles and friend groups</li>
+                    <li>Cafés, bars, and nightlife</li>
+                    <li>Work and university</li>
+                    <li>Dating apps (popular among younger generations)</li>
+                </ul>
+                
+                <h3>Dating Norms</h3>
+                <ul>
+                    <li>Dating often starts casually within social groups</li>
+                    <li>Men traditionally take more initiative</li>
+                    <li>Public displays of affection are accepted</li>
+                    <li>Family approval becomes important as relationships progress</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> Meeting the family is a significant milestone. Be prepared for warm welcomes, lots of food, and many questions.
+                </div>
+                
+                <h3>Relationship Progression</h3>
+                <p>Relationships in Greece often move from casual to serious relatively quickly. Family involvement in relationships is common and expected.</p>
+            `
+        },
+        economicIntegration: {
+            title: "💷 Module 4: Economic Integration in Greece 💼",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>Greek workplaces blend professionalism with personal relationships. Building rapport with colleagues is important for workplace harmony.</p>
+                
+                <h3>Key Values</h3>
+                <ul>
+                    <li>Personal relationships influence professional success</li>
+                    <li>Hierarchy is respected but relationships matter</li>
+                    <li>Flexibility in schedules is common</li>
+                    <li>Extended lunch breaks are traditional</li>
+                </ul>
+                
+                <h3>Work-Life Balance</h3>
+                <p>Greeks value quality of life. Family obligations and social commitments are respected, and work is not expected to dominate life.</p>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Many businesses observe a midday break during hot summer months. Plan meetings accordingly.
+                </div>
+                
+                <h3>Professional Etiquette</h3>
+                <ul>
+                    <li>Formal dress in business settings</li>
+                    <li>Building relationships before business discussions</li>
+                    <li>Name days are often celebrated more than birthdays</li>
+                    <li>Orthodox religious holidays are widely observed</li>
+                </ul>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in Greece 🤝",
+            content: `
+                <h3>Administrative Requirements</h3>
+                <p>Greek bureaucracy can be complex. Patience and persistence are necessary, and having local assistance is helpful.</p>
+                
+                <h3>Registration</h3>
+                <ul>
+                    <li>Register with local authorities when establishing residence</li>
+                    <li>Tax registration (AFM number) is required for most activities</li>
+                    <li>Health insurance enrollment is mandatory</li>
+                    <li>Document legalization may be required</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> Greek bureaucracy often requires multiple visits and patience. Arriving early and bringing all possible documentation helps.
+                </div>
+                
+                <h3>Religious and Cultural Observance</h3>
+                <ul>
+                    <li>Orthodox Christianity plays a significant role in public life</li>
+                    <li>Religious holidays affect business hours</li>
+                    <li>Name days are celebrated widely</li>
+                    <li>Easter is the most important holiday</li>
+                </ul>
+            `
+        }
+    },
+    finland: {
+        name: "Finland",
+        flag: "🇫🇮",
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in Finland 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>Finnish society values honesty, equality, and respect for personal space. The concept of "sisu" - inner strength and determination - is central to Finnish identity.</p>
+                
+                <h3>Greetings</h3>
+                <ul>
+                    <li>Firm handshake with direct eye contact</li>
+                    <li>"Hei" or "Moi" are common informal greetings</li>
+                    <li>Physical contact is minimal outside close relationships</li>
+                    <li>First names are used quickly in casual settings</li>
+                </ul>
+                
+                <h3>Personal Space</h3>
+                <p>Finns highly value personal space. Maintain distance in queues and public spaces. Sitting next to strangers when other seats are available is unusual.</p>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Silence is comfortable in Finnish culture. Don't feel obligated to fill pauses in conversation - Finns speak when they have something meaningful to say.
+                </div>
+                
+                <h3>Sauna Culture</h3>
+                <p>The sauna is central to Finnish life - it's a place for relaxation, cleansing, and even important conversations. Being invited to someone's sauna is an honor.</p>
+                
+                <div class="important">
+                    <strong>Important:</strong> Finns are famous for their comfort with silence. This isn't rudeness or awkwardness - it's respect for genuine communication.
+                </div>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in Finland 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>Finnish communication is direct, honest, and economical. Finns say what they mean and mean what they say.</p>
+                
+                <h3>Good Topics</h3>
+                <ul>
+                    <li>Nature and outdoor activities</li>
+                    <li>Sauna culture</li>
+                    <li>Ice hockey and sports</li>
+                    <li>Education and technology</li>
+                    <li>Music, especially metal and classical</li>
+                </ul>
+                
+                <h3>Topics to Handle Carefully</h3>
+                <ul>
+                    <li>Personal income and finances</li>
+                    <li>Bragging or self-promotion</li>
+                    <li>Comparisons with Sweden (the rivalry is real)</li>
+                    <li>Very personal questions too early</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Note:</strong> Finns value authenticity. Small talk for its own sake is less common. Meaningful conversation is preferred over filling silence.
+                </div>
+                
+                <h3>Sisu</h3>
+                <p>Sisu represents determination, resilience, and courage in the face of adversity. It's a core Finnish value that influences how people approach challenges.</p>
+            `
+        },
+        dating: {
+            title: "Dating Culture in Finland",
+            content: `
+                <h3>Meeting People</h3>
+                <p>Finns often meet potential partners through:</p>
+                <ul>
+                    <li>Mutual friends and social groups</li>
+                    <li>Hobbies and sports clubs</li>
+                    <li>Dating apps (very popular)</li>
+                    <li>Work or study</li>
+                    <li>Social events (alcohol often helps break Finnish reserve)</li>
+                </ul>
+                
+                <h3>Dating Norms</h3>
+                <ul>
+                    <li>Gender equality is strong - either person can initiate</li>
+                    <li>Splitting bills is standard and expected</li>
+                    <li>Physical intimacy may develop quickly once dating begins</li>
+                    <li>Relationships are typically egalitarian</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Finnish directness applies to dating too. If someone is interested, they'll usually be straightforward about it.
+                </div>
+                
+                <h3>Relationship Style</h3>
+                <p>Finnish relationships tend to be independent and egalitarian. Personal space remains important even in relationships. Cohabitation before marriage is very common.</p>
+            `
+        },
+        economicIntegration: {
+            title: "💷 Module 4: Economic Integration in Finland 💼",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>Finnish workplaces are flat, egalitarian, and trust-based. Efficiency and reliability are highly valued.</p>
+                
+                <h3>Key Values</h3>
+                <ul>
+                    <li>Punctuality is essential - being late is disrespectful</li>
+                    <li>Flat hierarchies - everyone's input is valued</li>
+                    <li>Work-life balance is protected</li>
+                    <li>Coffee breaks (kahvitauko) are important</li>
+                </ul>
+                
+                <h3>Work-Life Balance</h3>
+                <p>Finns value their free time. Working excessive overtime is not admired. Vacation time is generous and expected to be used.</p>
+                
+                <div class="important">
+                    <strong>Important:</strong> Finns mean what they say in professional settings. If they commit to something, they'll deliver. The same reliability is expected from you.
+                </div>
+                
+                <h3>Professional Etiquette</h3>
+                <ul>
+                    <li>First names are common even with superiors</li>
+                    <li>Meetings start and end on time</li>
+                    <li>Promises are taken seriously</li>
+                    <li>Showing off or boasting is viewed negatively</li>
+                </ul>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in Finland 🤝",
+            content: `
+                <h3>Registration</h3>
+                <p>Register with the Digital and Population Data Services Agency when moving to Finland. Your personal identity code is essential for most services.</p>
+                
+                <h3>Key Requirements</h3>
+                <ul>
+                    <li>Registration with local register office</li>
+                    <li>Personal identity code (henkilötunnus)</li>
+                    <li>Health insurance enrollment</li>
+                    <li>Tax registration</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Finnish administration is highly digitized. Many services can be handled online once you have your identity code and bank credentials.
+                </div>
+                
+                <h3>Social Contract</h3>
+                <ul>
+                    <li>High taxes fund comprehensive public services</li>
+                    <li>Education is free at all levels</li>
+                    <li>Healthcare is universal with small co-pays</li>
+                    <li>Following rules is expected and respected</li>
+                </ul>
+                
+                <h3>Environmental Responsibility</h3>
+                <ul>
+                    <li>Comprehensive recycling is mandatory</li>
+                    <li>Bottle/can return system (pantti) is efficient</li>
+                    <li>Respect for nature (jokamiehen oikeus - everyman's right)</li>
+                </ul>
+            `
+        }
+    },
+    baltics: {
+        name: "Baltics",
+        flag: "🇪🇪🇱🇻🇱🇹",
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in the Baltics 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>Baltic societies (Estonia, Latvia, Lithuania) value independence, hard work, and cultural heritage. Each nation maintains distinct traditions while sharing regional characteristics.</p>
+                
+                <h3>Greetings</h3>
+                <ul>
+                    <li>Firm handshakes with direct eye contact</li>
+                    <li>Reserved initial demeanor with strangers</li>
+                    <li>Warmth develops as relationships build</li>
+                    <li>Formal address is appropriate until familiarity develops</li>
+                </ul>
+                
+                <h3>Cultural Identity</h3>
+                <p>The Baltics have strong national identities, particularly important given their history of occupation. Language and cultural traditions are deeply valued.</p>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Learning basic phrases in the local language is highly appreciated and shows respect for the culture.
+                </div>
+                
+                <h3>Song and Dance</h3>
+                <p>Song festivals are central to Baltic identity. These massive events celebrate national heritage and were instrumental in independence movements.</p>
+                
+                <div class="important">
+                    <strong>Important:</strong> While the Baltic states share history and geography, each has a distinct language and culture. Don't assume they're interchangeable.
+                </div>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in the Baltics 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>Baltic communication tends to be direct and honest. Small talk is less common than in Western Europe, but this changes as relationships develop.</p>
+                
+                <h3>Good Topics</h3>
+                <ul>
+                    <li>Nature and outdoor activities</li>
+                    <li>Cultural festivals and traditions</li>
+                    <li>Technology and innovation (especially Estonia)</li>
+                    <li>History and independence</li>
+                    <li>Local cuisine and beverages</li>
+                </ul>
+                
+                <h3>Topics to Approach Carefully</h3>
+                <ul>
+                    <li>Soviet occupation period (listen first, learn sensitivity)</li>
+                    <li>Relations with Russia</li>
+                    <li>Ethnic minority issues</li>
+                    <li>Comparisons between Baltic states</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Note:</strong> The Soviet period left deep marks. Many families have personal stories of deportation or resistance. Approach this history with respect.
+                </div>
+                
+                <h3>Digital Culture</h3>
+                <p>Estonia in particular is known for digital innovation (e-residency, digital governance). Technological literacy is high across the region.</p>
+            `
+        },
+        dating: {
+            title: "Dating Culture in the Baltics",
+            content: `
+                <h3>Meeting People</h3>
+                <p>People in the Baltics commonly meet through:</p>
+                <ul>
+                    <li>Friend groups and social circles</li>
+                    <li>Work and university</li>
+                    <li>Dating apps (widely used)</li>
+                    <li>Cultural events and activities</li>
+                    <li>Nightlife venues</li>
+                </ul>
+                
+                <h3>Dating Norms</h3>
+                <ul>
+                    <li>Initial reserve that opens up with familiarity</li>
+                    <li>Gender equality is valued</li>
+                    <li>Relationships develop gradually from friendships</li>
+                    <li>Splitting bills or alternating who pays is common</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Cultural events like festivals, concerts, or outdoor activities are good settings for getting to know people.
+                </div>
+                
+                <h3>Relationship Style</h3>
+                <p>Baltic relationships tend to be serious and commitment-oriented once established. Living together before marriage is socially accepted.</p>
+            `
+        },
+        economicIntegration: {
+            title: "💷 Module 4: Economic Integration in the Baltics 💼",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>Baltic workplaces value efficiency, reliability, and professionalism. The work ethic is strong, reflecting the region's rapid development.</p>
+                
+                <h3>Key Values</h3>
+                <ul>
+                    <li>Punctuality and reliability are essential</li>
+                    <li>Direct communication is appreciated</li>
+                    <li>Results matter more than face time</li>
+                    <li>Digital literacy is expected</li>
+                </ul>
+                
+                <h3>Work-Life Balance</h3>
+                <p>Work-life balance is increasingly valued, especially among younger generations. Vacation time is important and respected.</p>
+                
+                <div class="important">
+                    <strong>Important:</strong> The Baltic economies have grown rapidly through hard work and innovation. A strong work ethic is respected and expected.
+                </div>
+                
+                <h3>Professional Etiquette</h3>
+                <ul>
+                    <li>Professional dress in business settings</li>
+                    <li>Email communication is formal initially</li>
+                    <li>Meetings are focused and efficient</li>
+                    <li>Following through on commitments is crucial</li>
+                </ul>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in the Baltics 🤝",
+            content: `
+                <h3>Registration</h3>
+                <p>Each Baltic state has its own registration requirements. Generally, you must register your residence and obtain necessary permits.</p>
+                
+                <h3>Key Requirements</h3>
+                <ul>
+                    <li>Residence registration with authorities</li>
+                    <li>Personal identification code</li>
+                    <li>Health insurance enrollment</li>
+                    <li>Tax registration</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Estonia's e-Residency program allows digital access to Estonian services for entrepreneurs worldwide. The Baltics are leaders in digital governance.
+                </div>
+                
+                <h3>National Pride</h3>
+                <ul>
+                    <li>Independence Day celebrations are significant</li>
+                    <li>Song festivals are major cultural events</li>
+                    <li>Midsummer (Jāņi, Joninės, Jaanipäev) is widely celebrated</li>
+                    <li>Respect for national symbols and heritage</li>
+                </ul>
+                
+                <h3>Environmental Awareness</h3>
+                <ul>
+                    <li>Strong connection to nature</li>
+                    <li>Recycling programs are standard</li>
+                    <li>Outdoor activities are popular year-round</li>
                 </ul>
             `
         }

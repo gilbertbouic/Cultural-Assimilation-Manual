@@ -586,8 +586,8 @@ body.country-england {
     background-attachment: fixed;
 }
 
-/* Germany - Black, Red, Gold horizontal stripes */
-body.country-germany {
+/* Central Europe - Black, Red, Gold horizontal stripes (German colors representing the region) */
+body.country-centralEurope {
     background: linear-gradient(
         to bottom,
         #000000 0%, #000000 33.33%,
@@ -597,19 +597,8 @@ body.country-germany {
     background-attachment: fixed;
 }
 
-/* France - Blue, White, Red vertical stripes */
-body.country-france {
-    background: linear-gradient(
-        to right,
-        #002395 0%, #002395 33.33%,
-        #FFFFFF 33.33%, #FFFFFF 66.66%,
-        #ED2939 66.66%, #ED2939 100%
-    );
-    background-attachment: fixed;
-}
-
-/* Sweden - Blue with yellow cross */
-body.country-sweden {
+/* Scandinavia - Blue with yellow cross (Nordic cross design) */
+body.country-scandinavia {
     background: 
         /* Vertical yellow stripe */
         linear-gradient(to right, 
@@ -620,36 +609,119 @@ body.country-sweden {
     background-attachment: fixed;
 }
 
+/* Mediterranean - Blue, White, Red vertical stripes (representing the region's maritime heritage) */
+body.country-mediterranean {
+    background: linear-gradient(
+        to right,
+        #002395 0%, #002395 33.33%,
+        #FFFFFF 33.33%, #FFFFFF 66.66%,
+        #ED2939 66.66%, #ED2939 100%
+    );
+    background-attachment: fixed;
+}
+
+/* Balkans - Blue, White, Red horizontal stripes (pan-Slavic colors) */
+body.country-balkans {
+    background: linear-gradient(
+        to bottom,
+        #0C4076 0%, #0C4076 33.33%,
+        #FFFFFF 33.33%, #FFFFFF 66.66%,
+        #C6363C 66.66%, #C6363C 100%
+    );
+    background-attachment: fixed;
+}
+
+/* Greece - Blue and white stripes */
+body.country-greece {
+    background: linear-gradient(
+        to bottom,
+        #0D5EAF 0%, #0D5EAF 11.11%,
+        #FFFFFF 11.11%, #FFFFFF 22.22%,
+        #0D5EAF 22.22%, #0D5EAF 33.33%,
+        #FFFFFF 33.33%, #FFFFFF 44.44%,
+        #0D5EAF 44.44%, #0D5EAF 55.55%,
+        #FFFFFF 55.55%, #FFFFFF 66.66%,
+        #0D5EAF 66.66%, #0D5EAF 77.77%,
+        #FFFFFF 77.77%, #FFFFFF 88.88%,
+        #0D5EAF 88.88%, #0D5EAF 100%
+    );
+    background-attachment: fixed;
+}
+
+/* Finland - White with blue cross */
+body.country-finland {
+    background: 
+        /* Vertical blue stripe */
+        linear-gradient(to right, 
+            #FFFFFF 30%, #002F6C 30%, #002F6C 40%, #FFFFFF 40%),
+        /* Horizontal blue stripe overlay - positioned */
+        linear-gradient(to bottom,
+            #FFFFFF 40%, #002F6C 40%, #002F6C 60%, #FFFFFF 60%);
+    background-attachment: fixed;
+}
+
+/* Baltics - Blended Baltic identity colors */
+body.country-baltics {
+    background: linear-gradient(
+        to bottom,
+        #0072CE 0%, #0072CE 33.33%,
+        #000000 33.33%, #000000 50%,
+        #9E3039 50%, #9E3039 66.66%,
+        #006A44 66.66%, #006A44 100%
+    );
+    background-attachment: fixed;
+}
+
 /* Ensure content is readable over flag backgrounds */
 body.country-england main,
-body.country-germany main,
-body.country-france main,
-body.country-sweden main {
+body.country-centralEurope main,
+body.country-scandinavia main,
+body.country-mediterranean main,
+body.country-balkans main,
+body.country-greece main,
+body.country-finland main,
+body.country-baltics main {
     background: transparent;
 }
 
 body.country-england .selection-section,
 body.country-england .content-section,
-body.country-germany .selection-section,
-body.country-germany .content-section,
-body.country-france .selection-section,
-body.country-france .content-section,
-body.country-sweden .selection-section,
-body.country-sweden .content-section {
+body.country-centralEurope .selection-section,
+body.country-centralEurope .content-section,
+body.country-scandinavia .selection-section,
+body.country-scandinavia .content-section,
+body.country-mediterranean .selection-section,
+body.country-mediterranean .content-section,
+body.country-balkans .selection-section,
+body.country-balkans .content-section,
+body.country-greece .selection-section,
+body.country-greece .content-section,
+body.country-finland .selection-section,
+body.country-finland .content-section,
+body.country-baltics .selection-section,
+body.country-baltics .content-section {
     background: rgba(255, 255, 255, 0.95);
 }
 
 body.country-england header,
-body.country-germany header,
-body.country-france header,
-body.country-sweden header {
+body.country-centralEurope header,
+body.country-scandinavia header,
+body.country-mediterranean header,
+body.country-balkans header,
+body.country-greece header,
+body.country-finland header,
+body.country-baltics header {
     background: rgba(255, 255, 255, 0.95);
 }
 
 body.country-england footer,
-body.country-germany footer,
-body.country-france footer,
-body.country-sweden footer {
+body.country-centralEurope footer,
+body.country-scandinavia footer,
+body.country-mediterranean footer,
+body.country-balkans footer,
+body.country-greece footer,
+body.country-finland footer,
+body.country-baltics footer {
     background: rgba(0, 0, 0, 0.3);
     color: white;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
