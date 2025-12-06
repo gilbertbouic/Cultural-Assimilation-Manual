@@ -54,7 +54,6 @@ function showIntro() {
     window.scrollTo({ top: 0, behavior: 'smooth' });
 }
 
-// Functions
 function selectCountry(country) {
     currentCountry = country;
     const countryData = culturalData[country];
