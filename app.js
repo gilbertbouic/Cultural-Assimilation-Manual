@@ -3,6 +3,7 @@ let currentCountry = null;
 let currentCategory = null;
 
 // DOM Elements
+const introSection = document.getElementById('intro-section');
 const countrySelection = document.getElementById('country-selection');
 const categorySelection = document.getElementById('category-selection');
 const contentDisplay = document.getElementById('content-display');
@@ -10,13 +11,18 @@ const countryNameDisplay = document.getElementById('country-name-display');
 const contentTitle = document.getElementById('content-title');
 const contentBody = document.getElementById('content-body');
 
-// Country Buttons
+// Buttons
+const startBtn = document.getElementById('start-btn');
+const backToIntroBtn = document.getElementById('back-to-intro');
 const countryButtons = document.querySelectorAll('.country-btn');
 const categoryButtons = document.querySelectorAll('.category-btn');
 const backToCountriesBtn = document.getElementById('back-to-countries');
 const backToCategoriesBtn = document.getElementById('back-to-categories');
 
 // Event Listeners
+startBtn.addEventListener('click', showCountrySelection);
+backToIntroBtn.addEventListener('click', showIntro);
+
 countryButtons.forEach(btn => {
     btn.addEventListener('click', () => selectCountry(btn.dataset.country));
 });
@@ -29,6 +35,25 @@ backToCountriesBtn.addEventListener('click', showCountrySelection);
 backToCategoriesBtn.addEventListener('click', showCategorySelection);
 
 // Functions
+function showIntro() {
+    currentCountry = null;
+    currentCategory = null;
+    
+    // Remove all background classes
+    document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
+    document.body.classList.remove('country-selection-active');
+    
+    // Add intro background
+    document.body.classList.add('intro-active');
+    
+    introSection.classList.remove('hidden');
+    countrySelection.classList.add('hidden');
+    categorySelection.classList.add('hidden');
+    contentDisplay.classList.add('hidden');
+    
+    window.scrollTo({ top: 0, behavior: 'smooth' });
+}
+
 function selectCountry(country) {
     currentCountry = country;
     const countryData = culturalData[country];
@@ -76,12 +101,14 @@ function showCountrySelection() {
     currentCountry = null;
     currentCategory = null;
     
-    // Remove country-specific background
+    // Remove country-specific background and intro-active
     document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
+    document.body.classList.remove('intro-active');
     
     // Add white background for country selection
     document.body.classList.add('country-selection-active');
     
+    introSection.classList.add('hidden');
     countrySelection.classList.remove('hidden');
     categorySelection.classList.add('hidden');
     contentDisplay.classList.add('hidden');
@@ -105,6 +132,8 @@ document.addEventListener('keydown', (e) => {
             showCategorySelection();
         } else if (!categorySelection.classList.contains('hidden')) {
             showCountrySelection();
+        } else if (!countrySelection.classList.contains('hidden')) {
+            showIntro();
         }
     }
 });

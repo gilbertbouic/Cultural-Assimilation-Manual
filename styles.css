@@ -17,6 +17,11 @@ body.country-selection-active {
     background: #ffffff;
 }
 
+/* Intro page background */
+body.intro-active {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+}
+
 /* Header Styles */
 header {
     text-align: center;
@@ -288,6 +293,182 @@ footer {
 /* Utility Classes */
 .hidden {
     display: none !important;
+}
+
+/* Intro Section Styles */
+.intro-content {
+    max-width: 900px;
+    margin: 0 auto;
+    text-align: center;
+}
+
+.intro-content h2 {
+    color: #4a4a8a;
+    font-size: 2.2rem;
+    margin-bottom: 0.5rem;
+}
+
+.intro-tagline {
+    color: #666;
+    font-size: 1.2rem;
+    font-style: italic;
+    margin-bottom: 2rem;
+}
+
+.intro-description {
+    text-align: left;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: linear-gradient(135deg, #f8f9ff, #e8ecff);
+    border-radius: 12px;
+}
+
+.intro-description p {
+    line-height: 1.7;
+    color: #444;
+    margin-bottom: 1rem;
+}
+
+.intro-description p:last-child {
+    margin-bottom: 0;
+}
+
+.cultural-overview {
+    margin-bottom: 2rem;
+}
+
+.cultural-overview h3 {
+    color: #5a5a9a;
+    font-size: 1.4rem;
+    margin-bottom: 1rem;
+}
+
+.cultural-overview > p {
+    color: #555;
+    margin-bottom: 1.5rem;
+    text-align: left;
+}
+
+.cultural-groups-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1rem;
+    margin-bottom: 2rem;
+}
+
+.cultural-group {
+    background: linear-gradient(145deg, #f5f6ff, #ffffff);
+    border-radius: 12px;
+    padding: 1rem;
+    text-align: center;
+    box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.08), -3px -3px 10px rgba(255, 255, 255, 0.9);
+    transition: transform 0.3s ease;
+}
+
+.cultural-group:hover {
+    transform: translateY(-3px);
+}
+
+.cultural-group .group-icon {
+    font-size: 1.8rem;
+    display: block;
+    margin-bottom: 0.5rem;
+}
+
+.cultural-group h4 {
+    color: #4a4a8a;
+    font-size: 0.95rem;
+    margin-bottom: 0.5rem;
+}
+
+.cultural-group p {
+    color: #666;
+    font-size: 0.8rem;
+    line-height: 1.4;
+}
+
+.intro-principles {
+    text-align: left;
+    margin-bottom: 2rem;
+    padding: 1.5rem;
+    background: linear-gradient(135deg, #e8f4e8, #d4edda);
+    border-radius: 12px;
+}
+
+.intro-principles h3 {
+    color: #2d6a4f;
+    font-size: 1.2rem;
+    margin-bottom: 1rem;
+}
+
+.intro-principles ul {
+    list-style: none;
+    padding: 0;
+}
+
+.intro-principles li {
+    padding: 0.5rem 0;
+    color: #444;
+    line-height: 1.5;
+}
+
+.start-btn {
+    background: linear-gradient(135deg, #6c63ff 0%, #5a52d4 100%);
+    color: white;
+    border: none;
+    padding: 1rem 2.5rem;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    font-weight: 600;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    display: inline-flex;
+    align-items: center;
+    gap: 0.5rem;
+    box-shadow: 0 4px 15px rgba(108, 99, 255, 0.3);
+}
+
+.start-btn:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 6px 20px rgba(108, 99, 255, 0.4);
+}
+
+.start-btn .btn-arrow {
+    transition: transform 0.3s ease;
+}
+
+.start-btn:hover .btn-arrow {
+    transform: translateX(5px);
+}
+
+/* Responsive styles for intro */
+@media (max-width: 992px) {
+    .cultural-groups-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+}
+
+@media (max-width: 480px) {
+    .intro-content h2 {
+        font-size: 1.6rem;
+    }
+    
+    .intro-tagline {
+        font-size: 1rem;
+    }
+    
+    .cultural-groups-grid {
+        grid-template-columns: 1fr;
+    }
+    
+    .cultural-group {
+        padding: 0.8rem;
+    }
+    
+    .start-btn {
+        padding: 0.8rem 2rem;
+        font-size: 1rem;
+    }
 }
 
 /* Responsive Design */
