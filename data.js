@@ -2044,7 +2044,7 @@ const culturalData = {
                 <p>Beyond the legal issues covered in Part 1, here are behaviours that will seriously harm your reputation and integration across Central Europe: ⚠️</p>
 
                 <ul>
-                    <li>📢 <strong>Being Too Loud or Flashy:</strong> Bragging, showing off wealth, or being excessively loud is viewed negatively everywhere in the region. Whether in Munich, Salzburg, or Geneva, modesty is valued.</li>
+                    <li>📢 <strong>Being Too Loud or Flashy:</strong> Bragging, showing off wealth, or being excessively loud is viewed negatively everywhere in the region. Whether in Munich, Salzburg, or Zurich, modesty is valued.</li>
                     <li>⏰ <strong>Being Unreliable:</strong> Not keeping appointments, being late repeatedly, or breaking promises will destroy trust. Reliability (German: Zuverlässigkeit, Swiss German: Zueverlässigkeit) is core to Central European culture.</li>
                     <li>🤐 <strong>Gossip and Indiscretion:</strong> Spreading rumours or sharing private information will quickly isolate you. Privacy is sacred across the region.</li>
                     <li>💢 <strong>Aggressive Behaviour:</strong> Raising your voice, making threats, or being physically aggressive – even in minor conflicts – is completely unacceptable.</li>
@@ -2290,7 +2290,7 @@ const culturalData = {
                     <li>🖕 <strong>No Insults:</strong> Road rage gestures are punishable, especially in Germany where fines are substantial.</li>
                     <li>🚗 <strong>Vehicle Inspections:</strong> Regular inspections required: TÜV/HU (Germany), §57a "Pickerl" (Austria), MFK (Switzerland).</li>
                     <li>🚑 <strong>Emergency Corridor:</strong> Form an emergency corridor when traffic stops: left lane moves left, all other lanes move right. Required in Germany and increasingly expected elsewhere.</li>
-                    <li>🛣️ <strong>Highway Tolls:</strong> Austria requires a Vignette (sticker). Switzerland requires a Vignette (CHF 40/year). Germany is toll-free for cars on most roads.</li>
+                    <li>🛣️ <strong>Highway Tolls:</strong> Austria requires a Vignette (sticker). Switzerland requires an annual Vignette. Germany is toll-free for cars on most roads. Check current prices before travelling.</li>
                 </ul>
 
                 <div class="important">
