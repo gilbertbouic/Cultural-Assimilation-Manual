@@ -2,7 +2,7 @@
 
 **Your Comprehensive Guide to Cultural Integration in Europe**
 
-A user manual designed to help immigrants moving to Europe successfully integrate into the traditional culture of their host country.
+A user manual designed to help immigrants moving to Europe successfully integrate into the local culture of their host country.
 
 ---
 
