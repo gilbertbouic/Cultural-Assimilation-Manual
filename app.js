@@ -16,7 +16,7 @@ const startBtn = document.getElementById('start-btn');
 const backToIntroBtn = document.getElementById('back-to-intro');
 const countryButtons = document.querySelectorAll('.country-btn');
 const categoryButtons = document.querySelectorAll('.category-btn');
-const backToCountriesBtn = document.getElementById('back-to-countries');
+const backToRegionsBtn = document.getElementById('back-to-regions');
 const backToCategoriesBtn = document.getElementById('back-to-categories');
 
 // Event Listeners
@@ -31,7 +31,7 @@ categoryButtons.forEach(btn => {
     btn.addEventListener('click', () => selectCategory(btn.dataset.category));
 });
 
-backToCountriesBtn.addEventListener('click', showCountrySelection);
+backToRegionsBtn.addEventListener('click', showCountrySelection);
 backToCategoriesBtn.addEventListener('click', showCategorySelection);
 
 // Functions
@@ -40,7 +40,7 @@ function showIntro() {
     currentCategory = null;
     
     // Remove all background classes
-    document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
+    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics');
     document.body.classList.remove('country-selection-active');
     
     // Add intro background
@@ -71,7 +71,7 @@ function selectCountry(country) {
     
     // Remove white background and apply country-specific background
     document.body.classList.remove('country-selection-active');
-    document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
+    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics');
     document.body.classList.add(`country-${country}`);
     
     countrySelection.classList.add('hidden');
@@ -102,7 +102,7 @@ function showCountrySelection() {
     currentCategory = null;
     
     // Remove country-specific background and intro-active
-    document.body.classList.remove('country-england', 'country-germany', 'country-france', 'country-sweden');
+    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics');
     document.body.classList.remove('intro-active');
     
     // Add white background for country selection
