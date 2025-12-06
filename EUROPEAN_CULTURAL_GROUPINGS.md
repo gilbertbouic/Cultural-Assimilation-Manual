@@ -70,19 +70,20 @@ The United Kingdom represents a distinct cultural sphere characterized by reserv
 
 ## Central Europe
 
-**Representative:** Germany  
-**Countries covered:** Germany, Austria, Switzerland (German-speaking regions), Liechtenstein
+**Countries covered:** Germany 🇩🇪, Austria 🇦🇹, Switzerland 🇨🇭 (German-speaking regions), Liechtenstein 🇱🇮
 
-Central Europe, represented primarily by Germany, is characterized by efficiency, directness, and a strong sense of order. The German cultural influence extends across the German-speaking world with regional variations.
+Central Europe is characterized by efficiency, directness, and a strong sense of order. While sharing a Germanic cultural foundation, each country maintains its distinct identity: Germany is the largest and most influential, Austria adds warmth and charm ("Wiener Schmäh"), Switzerland brings precision and consensus-oriented decision-making, and Liechtenstein shares traits with its neighbors while maintaining its unique character.
 
 **Distinguishing features:**
-- **Pünktlichkeit (punctuality):** Being on time is non-negotiable; 5 minutes early is expected
-- **Ordnung (order):** Systems, rules, and proper processes are highly valued
-- **Direct communication:** Honesty and clarity are prized; indirect speech can be confusing
-- **Sie/Du distinction:** Formal (Sie) vs. informal (Du) address matters; wait to be invited to use Du
+- **Pünktlichkeit (punctuality):** Being on time is non-negotiable across all countries; Swiss punctuality is legendary
+- **Ordnung (order):** Systems, rules, and proper processes are highly valued throughout the region
+- **Direct communication:** Honesty and clarity are prized; Germans are most direct, Austrians often softer, Swiss value harmony
+- **Sie/Du distinction:** Formal (Sie) vs. informal (Du) address matters everywhere; regional variations exist ("Grüß Gott" in Bavaria/Austria, "Grüezi" in Switzerland)
 - **Privacy:** Clear separation between professional and private life; personal questions come later
-- **Quiet hours (Ruhezeiten):** Respect for designated quiet times, especially Sundays
-- **Quality and thoroughness:** "Made in Germany" reflects cultural emphasis on doing things properly
+- **Quiet hours (Ruhezeiten):** Respect for designated quiet times, especially Sundays – strictly observed across all countries
+- **Quality and thoroughness:** "Made in Germany" and "Swiss Made" reflect cultural emphasis on doing things properly
+- **Regional identity:** Strong pride in regional traditions – Bavarians, Tyroleans, and Swiss cantons each have distinct identities
+- **Club culture (Vereine):** Joining local clubs is central to community integration throughout the region
 
 ---
 

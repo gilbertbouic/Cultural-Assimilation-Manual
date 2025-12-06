@@ -1931,563 +1931,569 @@ const culturalData = {
     },
     centralEurope: {
         name: "Central Europe",
-        flag: "🇩🇪🇦🇹🇨🇭",
+        flag: "🇩🇪🇦🇹🇨🇭🇱🇮",
         relationships: {
             title: "💕 Module 1: A Practical Guide to Relationships, Respect, and How Not to Make a Fool of Yourself 🤝",
             content: `
                 <p>So, let's get into the important stuff: men, women, dating, and everything in between. 🎭 This is likely one of the biggest differences you'll find from your home country, and it's where things can go wrong fastest. ⚠️</p>
                 
-                <p>This guide isn't here to judge. It's a practical manual to help you understand the landscape, avoid getting into trouble 🔥, and hopefully have a good time. Pay attention, because these aren't just suggestions – they're the rules of the game! 🎯</p>
+                <p>This guide covers Germany 🇩🇪, Austria 🇦🇹, Switzerland 🇨🇭, and Liechtenstein 🇱🇮 – while each has its own character, they share a common Germanic cultural foundation. This guide isn't here to judge. It's a practical manual to help you understand the landscape, avoid getting into trouble 🔥, and hopefully have a good time. Pay attention, because these aren't just suggestions – they're the rules of the game! 🎯</p>
 
                 <h3>🚨 Part 1: The Absolute, Non-Negotiable Rules (The Legal Bits) 📜</h3>
                 <p>This isn't about culture; this is about the law. ⚖️ Breaking these rules can lead to prison. There are <strong>no exceptions</strong>.</p>
 
                 <div class="warning">
-                    <strong>🔞 The Age of Consent is 14 (Germany) – But It's Complicated</strong>
+                    <strong>🔞 Age of Consent Across Central Europe – Know the Law</strong>
                     <ul>
-                        <li>The legal age of consent in Germany is 14, but this comes with significant restrictions and conditions.</li>
-                        <li>Sexual contact with someone under 14 is <strong>always a serious crime</strong> (Kindesmissbrauch).</li>
-                        <li>Adults over 21 can be prosecuted for sexual contact with 14-15 year olds if they exploit the young person's lack of sexual self-determination.</li>
-                        <li>Persons in positions of trust (teachers 👨‍🏫, coaches, employers 👩‍⚕️) face stricter rules – sexual relationships with minors in their care are prohibited.</li>
-                        <li><strong>Important:</strong> "I thought they were older" is <strong>never</strong> an excuse. The responsibility is 100% on you. If you have any doubt at all, walk away. 🚶</li>
+                        <li>The legal age of consent varies: Germany 🇩🇪 and Austria 🇦🇹 set it at 14, Switzerland 🇨🇭 and Liechtenstein 🇱🇮 at 16 – but all have significant restrictions and conditions.</li>
+                        <li>Sexual contact with someone under the age of consent is <strong>always a serious crime</strong> (Germany: Kindesmissbrauch, Austria: Sexueller Missbrauch, Switzerland: Sexuelle Handlungen mit Kindern).</li>
+                        <li>In Germany and Austria, adults over 21 can be prosecuted for sexual contact with 14-15 year olds if they exploit the young person's lack of sexual self-determination.</li>
+                        <li>Persons in positions of trust (teachers 👨‍🏫, coaches, employers 👩‍⚕️) face stricter rules across all countries – sexual relationships with minors in their care are prohibited.</li>
+                        <li><strong>Important:</strong> "I thought they were older" is <strong>never</strong> an excuse in any Central European country. The responsibility is 100% on you. If you have any doubt at all, walk away. 🚶</li>
                         <li><strong>Practical advice:</strong> To stay safe, treat 18 as the age of consent for any romantic or sexual relationship.</li>
                     </ul>
                 </div>
 
                 <div class="important">
-                    <strong>✅ Consent is Essential (Einvernehmlichkeit)</strong>
+                    <strong>✅ Consent is Essential (Einvernehmlichkeit / Zustimmung)</strong>
                     <ul>
-                        <li>You must have clear consent. 👍 Silence is not a yes. Someone being friendly is not a yes. Someone being drunk 🍺 is not a yes.</li>
-                        <li>"Nein" means "Nein." 🛑 It is the end of the conversation. Continuing to pressure someone after a "no" is harassment (Belästigung).</li>
-                        <li>Germany's sexual criminal law (StGB §177) was reformed in 2016 with the principle of "Nein heißt Nein" (No means No). Non-consensual sexual acts are prosecutable.</li>
+                        <li>You must have clear consent across all Central European countries. 👍 Silence is not a yes. Someone being friendly is not a yes. Someone being drunk 🍺 is not a yes.</li>
+                        <li>"Nein" means "Nein." 🛑 It is the end of the conversation. Continuing to pressure someone after a "no" is harassment in Germany (Belästigung), Austria (Belästigung), and Switzerland (Belästigung).</li>
+                        <li>Germany's sexual criminal law (StGB §177) was reformed in 2016 with the principle of "Nein heißt Nein" (No means No). Austria and Switzerland have similar strong consent laws.</li>
                     </ul>
                 </div>
 
                 <div class="tip">
-                    <strong>⚖️ Equality is the Law (Gleichberechtigung)</strong>
-                    <p>Men and women are equal under German law. 👫 Same-sex relationships are legal, normal, and protected by law. 🏳️‍🌈 Same-sex marriage has been legal since 2017 (Ehe für alle). You will see gay couples holding hands or being affectionate; this is a normal part of life here. Disrespecting someone based on their gender or sexuality is not tolerated and can be punishable under anti-discrimination laws (AGG).</p>
+                    <strong>⚖️ Equality is the Law Across Central Europe</strong>
+                    <p>Men and women are equal under the law in all Central European countries. 👫 Same-sex relationships are legal, normal, and protected. 🏳️‍🌈 Same-sex marriage is legal in Germany (since 2017), Austria (since 2019), and Switzerland (since 2022). Liechtenstein has registered partnerships. Disrespecting someone based on their gender or sexuality is not tolerated anywhere in the region.</p>
                 </div>
 
-                <h3>👔 Part 2: Dress Code – Practicality Meets Modesty</h3>
-                <p>First things first: in modern Germany, you can, and should, wear whatever makes you feel comfortable. 😎 Personal freedom is highly valued. However, this guide is here to give you practical advice, especially for rural areas where traditional values may be more prominent. 📚</p>
+                <h3>👔 Part 2: Dress Code – Practicality Meets Regional Variation</h3>
+                <p>First things first: in modern Central Europe, you can, and should, wear whatever makes you feel comfortable. 😎 Personal freedom is highly valued. However, this guide is here to give you practical advice, especially for rural areas where traditional values may be more prominent. 📚</p>
 
-                <p>Germans value functionality and quality over flashiness. The key concept is: <strong>"angemessen" (appropriate)</strong>. It means you've thought about the occasion and dressed suitably for it. ✨</p>
+                <p>Central Europeans value functionality and quality over flashiness. The key concept across the region is: <strong>"angemessen" (German), "passend" (Austrian), "angemessen" (Swiss)</strong> – meaning appropriate. It shows you've thought about the occasion and dressed suitably. ✨</p>
 
                 <div class="tip">
-                    <strong>💡 What does "appropriate" mean in rural Germany?</strong>
-                    <p>It means you've considered the occasion and dressed respectfully for it. 🤝 Rural Germans tend to be more conservative in dress than city dwellers. Clean, well-maintained clothing is the foundation – it's less about fashion and more about showing you take care of yourself and respect the situation.</p>
+                    <strong>💡 What does "appropriate" mean in rural Central Europe?</strong>
+                    <p>It means you've considered the occasion and dressed respectfully for it. 🤝 Rural communities across Germany, Austria, and Switzerland tend to be more conservative in dress than city dwellers. Clean, well-maintained clothing is the foundation – it's less about fashion and more about showing you take care of yourself and respect the situation.</p>
                 </div>
 
                 <h4>🎯 Context is Everything:</h4>
                 <ul>
-                    <li>🏠 <strong>Daily Life</strong> (running errands): Practical, clean clothing. Germans appreciate functionality – good walking shoes and weather-appropriate layers.</li>
-                    <li>🍺 <strong>At the Gasthof (local pub/inn)</strong>: Smart casual is safe – clean trousers or jeans, a decent shirt or jumper. Nothing too flashy or provocative.</li>
+                    <li>🏠 <strong>Daily Life</strong> (running errands): Practical, clean clothing. Central Europeans appreciate functionality – good walking shoes and weather-appropriate layers.</li>
+                    <li>🍺 <strong>At the local Gasthof 🇩🇪🇦🇹, Beiz 🇨🇭 (local pub/inn)</strong>: Smart casual is safe – clean trousers or jeans, a decent shirt or jumper. Nothing too flashy or provocative.</li>
                     <li>🍽️ <strong>A "Nice" Occasion</strong> (a good restaurant, meeting the family): This is where "making an effort" is most appreciated. Neat, conservative clothing shows respect.</li>
-                    <li>⛪ <strong>Church or Traditional Events:</strong> Dress conservatively. In Bavaria and rural areas, traditional clothing (Tracht) like Dirndl or Lederhosen may be worn at festivals.</li>
-                    <li>🎨 <strong>Expressing Yourself:</strong> In cities, unique personal style is accepted. In rural areas, be aware that very unusual clothing may draw unwanted attention.</li>
+                    <li>⛪ <strong>Church or Traditional Events:</strong> Dress conservatively. In Bavaria 🇩🇪 and Austria 🇦🇹, traditional clothing (Tracht) like Dirndl or Lederhosen may be worn at festivals. In Switzerland 🇨🇭, regional Trachten vary by canton.</li>
+                    <li>🎨 <strong>Expressing Yourself:</strong> In cities like Berlin, Vienna, or Zurich, unique personal style is accepted. In rural areas, be aware that very unusual clothing may draw attention.</li>
                 </ul>
 
-                <p>Germans value <strong>practicality and understatement</strong>. 🎩 The goal is to look presentable without appearing to show off. Quality basics trump flashy brands. So, ask yourself: "Am I dressed appropriately for this situation?" If the answer is yes, you're fine. ✅</p>
+                <p>Central Europeans value <strong>practicality and understatement</strong>. 🎩 The goal is to look presentable without appearing to show off. Quality basics trump flashy brands. So, ask yourself: "Am I dressed appropriately for this situation?" If the answer is yes, you're fine. ✅</p>
 
                 <h3>🎭 Part 3: The Social Dance – Public Behaviour and First Steps</h3>
-                <p>This is where real German culture comes in. Germans are generally private people who value their personal space. 🤫</p>
+                <p>This is where real Central European culture comes in. People across Germany, Austria, Switzerland, and Liechtenstein are generally private and value their personal space. 🤫</p>
 
                 <ul>
-                    <li>💑 <strong>Public Affection:</strong> Germans are more reserved than some cultures. Holding hands is fine. A brief kiss is acceptable. 😘 Long, passionate embraces in public, especially in conservative rural areas, will make people uncomfortable. 😬</li>
-                    <li>📏 <strong>Personal Space (Persönliche Distanz):</strong> Germans value their space. Don't stand too close – about an arm's length is appropriate. 🤲 Uninvited touching, even if you mean it to be friendly, is generally unwelcome.</li>
-                    <li>💬 <strong>The Art of the Compliment:</strong> Germans appreciate directness but can be suspicious of excessive flattery. Complimenting something someone <em>chose</em> (their jacket 🧥, their car 🚗) is safer than personal comments. Be genuine – Germans can spot insincerity quickly.</li>
-                    <li>🗣️ <strong>Initiating a Conversation:</strong> Germans typically don't engage in small talk with strangers. At social events or in the Verein (club), it's different. Use the situation as a starting point ("Das Wetter ist heute schön" – "The weather is nice today"). If they give short answers and turn away, respect that signal. 😊</li>
+                    <li>💑 <strong>Public Affection:</strong> Central Europeans are more reserved than some cultures. Holding hands is fine. A brief kiss is acceptable. 😘 Long, passionate embraces in public, especially in conservative rural areas, will make people uncomfortable. 😬</li>
+                    <li>📏 <strong>Personal Space (Persönliche Distanz):</strong> Personal space is valued across the region. Don't stand too close – about an arm's length is appropriate. 🤲 Uninvited touching, even if you mean it to be friendly, is generally unwelcome.</li>
+                    <li>💬 <strong>The Art of the Compliment:</strong> Central Europeans appreciate directness but can be suspicious of excessive flattery. Complimenting something someone <em>chose</em> (their jacket 🧥, their car 🚗) is safer than personal comments. Be genuine – whether in Munich, Vienna, Zurich, or Vaduz, people can spot insincerity quickly.</li>
+                    <li>🗣️ <strong>Initiating a Conversation:</strong> People across the region typically don't engage in small talk with strangers. At social events or in the Verein 🇩🇪🇦🇹 or Verein/Club 🇨🇭 (club), it's different. Use the situation as a starting point. If they give short answers and turn away, respect that signal. 😊</li>
                 </ul>
 
-                <h3>💕 Part 4: Dating – The Direct German Approach</h3>
+                <h3>💕 Part 4: Dating – The Direct Central European Approach</h3>
                 <ul>
-                    <li>🍻 <strong>Less Alcohol, More Structure:</strong> While Germans enjoy beer 🍺, dating doesn't revolve around drinking as much as in some countries. A coffee date ☕ or a walk (Spaziergang) are common first dates.</li>
-                    <li>💸 <strong>Who Pays? (Wer zahlt?):</strong> Germans typically split the bill ("getrennt" or "going Dutch" 🇳🇱). This is standard and expected. Don't insist on paying for everything – it can seem odd or patronising.</li>
-                    <li>📅 <strong>Age Gaps:</strong> Large age gaps (10+ years) are viewed with some suspicion 🤔, especially if one person is very young. It's not illegal, but be prepared for raised eyebrows in rural communities.</li>
-                    <li>🙅 <strong>Handling Rejection:</strong> If you ask someone out and they say no, accept it gracefully: "Kein Problem, schönen Abend noch" ("No problem, have a nice evening") 👋 and move on. Pestering someone after rejection is absolutely unacceptable and will damage your reputation. 🚫</li>
-                    <li>💔 <strong>Infidelity (Untreue):</strong> Loyalty is highly valued in German relationships. Cheating is seen as a serious betrayal of trust (Vertrauensbruch).</li>
-                    <li>🌙 <strong>The End of the Evening:</strong> Do not assume a date will end in physical intimacy. Germans often take things slowly. A genuine "Ich hatte einen schönen Abend" ("I had a nice evening") 😊 is the best way to end. If they feel the same, arrange another date. 📱</li>
+                    <li>🍻 <strong>Less Alcohol, More Structure:</strong> While Central Europeans enjoy beer 🍺 and wine 🍷 (Austria is famous for its wine culture, Switzerland for its beer traditions), dating doesn't revolve around drinking as much as in some countries. A coffee date ☕ or a walk (Spaziergang) are common first dates across the region.</li>
+                    <li>💸 <strong>Who Pays?:</strong> Across Germany, Austria, and Switzerland, people typically split the bill ("getrennt" or "going Dutch" 🇳🇱). This is standard and expected. Don't insist on paying for everything – it can seem odd or patronising.</li>
+                    <li>📅 <strong>Age Gaps:</strong> Large age gaps (10+ years) are viewed with some suspicion 🤔, especially if one person is very young. It's not illegal, but be prepared for raised eyebrows in rural communities from Bavaria to Tyrol to Graubünden.</li>
+                    <li>🙅 <strong>Handling Rejection:</strong> If you ask someone out and they say no, accept it gracefully: "Kein Problem, schönen Abend noch" / "Pas de problème" (Switzerland can be multilingual!) 👋 and move on. Pestering someone after rejection is absolutely unacceptable and will damage your reputation. 🚫</li>
+                    <li>💔 <strong>Infidelity (Untreue):</strong> Loyalty is highly valued in relationships across Central Europe. Cheating is seen as a serious betrayal of trust.</li>
+                    <li>🌙 <strong>The End of the Evening:</strong> Do not assume a date will end in physical intimacy. Central Europeans often take things slowly. A genuine "I had a nice evening" 😊 is the best way to end. If they feel the same, arrange another date. 📱</li>
                 </ul>
 
                 <div class="warning">
-                    <strong>⚠️ Understanding German Directness</strong>
-                    <p>Germans are known for being direct. If someone is interested, they will often make it clear. If they're not interested, they will also make that clear. Don't interpret directness as rudeness – it's honesty. And don't interpret politeness as romantic interest – they may just be being civil.</p>
+                    <strong>⚠️ Understanding Central European Directness</strong>
+                    <p>Germans, Austrians, and Swiss Germans are known for being direct (though Austrians can be slightly more indirect, and Swiss often prefer harmony). If someone is interested, they will often make it clear. If they're not interested, they will also make that clear. Don't interpret directness as rudeness – it's honesty. And don't interpret politeness as romantic interest – they may just be being civil.</p>
                 </div>
 
-                <h3>👥 Part 5: Family and Community in Rural Germany</h3>
-                <p>Rural German communities (Dorfgemeinschaft) can be close-knit with strong traditional values. 🏘️ Understanding this context is important:</p>
+                <h3>👥 Part 5: Family and Community in Rural Central Europe</h3>
+                <p>Rural communities across Central Europe (German Dorfgemeinschaft, Austrian Gemeinde, Swiss Gemeinde) can be close-knit with strong traditional values. 🏘️ Understanding this context is important:</p>
 
                 <ul>
-                    <li>👨‍👩‍👧 <strong>Family is Important:</strong> Family ties are valued. Meeting the family is a significant step. Be punctual ⏰, bring a small gift (flowers 💐 or good wine 🍷), and be respectful.</li>
-                    <li>🏠 <strong>Neighbours Matter:</strong> In villages, people know each other. Your behaviour will be observed and discussed. Building a good reputation through reliability and friendliness is essential.</li>
-                    <li>🎉 <strong>Vereine (Clubs and Associations):</strong> Joining local clubs – sports clubs ⚽, music groups 🎵, volunteer fire brigade (Freiwillige Feuerwehr) 🚒, Schützenverein (shooting club) – is one of the best ways to integrate and meet people, including potential partners.</li>
-                    <li>⛪ <strong>Religious Context:</strong> Rural Germany can be more religious (Catholic in the south, Protestant in the north). Respect local religious traditions and holidays, even if you don't share the faith.</li>
-                    <li>🍺 <strong>Stammtisch:</strong> Many villages have a regular Stammtisch (regulars' table) at the local Gasthof. Being invited to join is a sign of acceptance.</li>
+                    <li>👨‍👩‍👧 <strong>Family is Important:</strong> Family ties are valued across the region. Meeting the family is a significant step. Be punctual ⏰, bring a small gift (flowers 💐 or good wine 🍷), and be respectful.</li>
+                    <li>🏠 <strong>Neighbours Matter:</strong> In villages from the Black Forest to the Austrian Alps to the Swiss Jura, people know each other. Your behaviour will be observed and discussed. Building a good reputation through reliability and friendliness is essential.</li>
+                    <li>🎉 <strong>Clubs and Associations:</strong> Joining local clubs – sports clubs ⚽, music groups 🎵, volunteer fire brigade (Freiwillige Feuerwehr 🇩🇪🇦🇹, Feuerwehr 🇨🇭) 🚒, Schützenverein (shooting club), or Swiss Turnverein (gymnastics club) – is one of the best ways to integrate and meet people.</li>
+                    <li>⛪ <strong>Religious Context:</strong> Rural Central Europe can be more religious (Catholic in Bavaria, Austria, and parts of Switzerland; Protestant in northern Germany and some Swiss cantons). Respect local religious traditions and holidays, even if you don't share the faith.</li>
+                    <li>🍺 <strong>Stammtisch:</strong> Many villages across Germany and Austria have a regular Stammtisch (regulars' table) at the local pub. In Switzerland, similar traditions exist at the local Beiz. Being invited to join is a sign of acceptance.</li>
                 </ul>
 
                 <div class="tip">
                     <strong>💡 Integration Tip</strong>
-                    <p>Rural Germans may take time to warm up to newcomers. Don't be discouraged by initial reserve – it's not personal. Consistent presence, reliability, and respect for local customs will gradually earn trust and friendship. 🤝</p>
+                    <p>Rural Central Europeans may take time to warm up to newcomers – perhaps even more so in tight-knit Swiss villages or traditional Austrian valleys. Don't be discouraged by initial reserve – it's not personal. Consistent presence, reliability, and respect for local customs will gradually earn trust and friendship. 🤝</p>
                 </div>
 
                 <h3>🏠 Part 6: Living Together and Relationships</h3>
-                <p>German society has evolved significantly regarding relationships: 📈</p>
+                <p>Central European society has evolved significantly regarding relationships: 📈</p>
 
                 <ul>
-                    <li>👫 <strong>Cohabitation (Zusammenleben):</strong> Living together before marriage is completely normal and socially accepted in Germany, even in rural areas.</li>
-                    <li>💍 <strong>Marriage (Ehe):</strong> Marriage is valued but not seen as the only valid relationship form. Many couples live together long-term without marrying.</li>
-                    <li>👨‍👩‍👧 <strong>Children:</strong> Having children outside marriage carries no social stigma in modern Germany. The focus is on providing a stable, loving home.</li>
-                    <li>⚖️ <strong>Legal Rights:</strong> Unmarried partners have fewer automatic legal rights than married couples. Consider a partnership agreement (Partnerschaftsvertrag) for important matters.</li>
+                    <li>👫 <strong>Cohabitation:</strong> Living together before marriage is completely normal and socially accepted across Germany, Austria, Switzerland, and Liechtenstein, even in rural areas.</li>
+                    <li>💍 <strong>Marriage:</strong> Marriage is valued but not seen as the only valid relationship form. Many couples live together long-term without marrying.</li>
+                    <li>👨‍👩‍👧 <strong>Children:</strong> Having children outside marriage carries no social stigma in modern Central Europe. The focus is on providing a stable, loving home.</li>
+                    <li>⚖️ <strong>Legal Rights:</strong> Unmarried partners have fewer automatic legal rights than married couples across the region. Consider a partnership agreement for important matters.</li>
                 </ul>
 
                 <h3>🚫 Part 7: What Will Get You in Trouble</h3>
-                <p>Beyond the legal issues covered in Part 1, here are behaviours that will seriously harm your reputation and integration: ⚠️</p>
+                <p>Beyond the legal issues covered in Part 1, here are behaviours that will seriously harm your reputation and integration across Central Europe: ⚠️</p>
 
                 <ul>
-                    <li>📢 <strong>Being Too Loud or Flashy:</strong> Bragging, showing off wealth, or being excessively loud is viewed very negatively. Germans value modesty (Bescheidenheit).</li>
-                    <li>⏰ <strong>Being Unreliable:</strong> Not keeping appointments, being late repeatedly, or breaking promises will destroy trust. Reliability (Zuverlässigkeit) is core to German culture.</li>
-                    <li>🤐 <strong>Gossip and Indiscretion:</strong> Spreading rumours or sharing private information will quickly isolate you. Privacy is sacred.</li>
+                    <li>📢 <strong>Being Too Loud or Flashy:</strong> Bragging, showing off wealth, or being excessively loud is viewed negatively everywhere in the region. Whether in Munich, Salzburg, or Geneva, modesty is valued.</li>
+                    <li>⏰ <strong>Being Unreliable:</strong> Not keeping appointments, being late repeatedly, or breaking promises will destroy trust. Reliability (German: Zuverlässigkeit, Swiss German: Zueverlässigkeit) is core to Central European culture.</li>
+                    <li>🤐 <strong>Gossip and Indiscretion:</strong> Spreading rumours or sharing private information will quickly isolate you. Privacy is sacred across the region.</li>
                     <li>💢 <strong>Aggressive Behaviour:</strong> Raising your voice, making threats, or being physically aggressive – even in minor conflicts – is completely unacceptable.</li>
                     <li>🙅 <strong>Disrespecting Boundaries:</strong> Continuing to pursue someone who has said no, or violating personal space, will be remembered and discussed.</li>
-                    <li>🏠 <strong>Ignoring Ruhezeiten:</strong> Not respecting quiet hours (typically 1-3 PM and after 10 PM, plus all day Sunday) will make you very unpopular very quickly.</li>
+                    <li>🏠 <strong>Ignoring Quiet Hours (Ruhezeiten):</strong> Not respecting quiet hours will make you very unpopular very quickly – this applies in Germany, Austria, and Switzerland (where it's equally strict!).</li>
                 </ul>
 
                 <div class="important">
                     <strong>🎯 The Bottom Line</strong>
-                    <p>This guide might seem complex, but it boils down to one thing: <strong>Respect (Respekt)</strong>. 🙏 Respect the law ⚖️, respect personal space 📏, respect people's right to say "no" 🛑, and respect local customs. Germans appreciate honesty, reliability, and modesty. If you make these your foundation, you'll earn trust and acceptance – and you'll be absolutely fine! ✨🇩🇪</p>
+                    <p>This guide might seem complex, but it boils down to one thing: <strong>Respect (Respekt)</strong>. 🙏 Respect the law ⚖️, respect personal space 📏, respect people's right to say "no" 🛑, and respect local customs. Central Europeans – whether German, Austrian, Swiss, or Liechtensteiner – appreciate honesty, reliability, and modesty. If you make these your foundation, you'll earn trust and acceptance throughout the region! ✨🇩🇪🇦🇹🇨🇭🇱🇮</p>
                 </div>
             `
         },
         publicConduct: {
-            title: "🏛️ Module 2: Öffentliches Verhalten – How Germans Actually Live Together 🤝",
+            title: "🏛️ Module 2: Öffentliches Verhalten – How Central Europeans Actually Live Together 🤝",
             content: `
-                <p>Willkommen to the German way of doing things. 🇩🇪 Here, society functions because everyone follows the same invisible rulebook. It's not about being uptight – it's about Rücksichtnahme (mutual consideration). When 83 million people share a country smaller than Montana, everyone minding their own business while respecting others isn't just nice – it's necessary.</p>
+                <p>Willkommen to the Central European way of doing things. 🇩🇪🇦🇹🇨🇭🇱🇮 Here, society functions because everyone follows the same invisible rulebook. It's not about being uptight – it's about Rücksichtnahme (mutual consideration). When millions of people share these countries, everyone minding their own business while respecting others isn't just nice – it's necessary.</p>
                 
-                <p>Germans don't do things randomly. There's a system for everything, and the system works because people actually follow it. 📋 Your job is to learn the system. Once you do, life here becomes remarkably smooth. Alles klar? Let's begin. 💪</p>
+                <p>Central Europeans don't do things randomly. There's a system for everything, and the system works because people actually follow it. 📋 Your job is to learn the system. Once you do, life here becomes remarkably smooth. Alles klar? Let's begin. 💪</p>
 
                 <h3>⚖️ Teil 1: Gesetze und Verbote – The Legal Framework</h3>
-                <p>Germany is a Rechtsstaat – a state governed by law. Laws exist for everything, and Germans expect them to be followed. This isn't oppression; it's the foundation of the social contract. 📜</p>
+                <p>All Central European countries are governed by the rule of law. Laws exist for everything, and people expect them to be followed. This isn't oppression; it's the foundation of the social contract. 📜</p>
 
                 <div class="warning">
                     <strong>🚫 Absolut Verboten – Strictly Forbidden</strong>
                     <ul>
-                        <li><strong>Nazi-Symbole und Parolen:</strong> The display of swastikas, SS runes, the Hitler salute ("Hitlergruß"), or Holocaust denial is a <strong>criminal offence</strong> under §86a StGB. Punishable by up to 3 years in prison. There is no "ironic" exception, no "just joking." Germany's history demands this. ⛔</li>
-                        <li><strong>Volksverhetzung:</strong> Inciting hatred against groups based on nationality, race, religion, or ethnic origin is criminal. This includes online posts. Germany monitors and prosecutes. Think before you speak or type. 🚫</li>
-                        <li><strong>Beleidigung (§185 StGB):</strong> Insulting someone is legally actionable. The middle finger (Stinkefinger), calling someone an "Idiot," or the famous "Vogel zeigen" (tapping your temple to suggest someone is crazy) can result in fines of €750-€4,000. Road rage has real consequences here. 🖕❌</li>
+                        <li><strong>Nazi-Symbole und Parolen:</strong> The display of swastikas, SS runes, the Hitler salute, or Holocaust denial is a <strong>criminal offence</strong> in Germany 🇩🇪 (§86a StGB) and Austria 🇦🇹 (Verbotsgesetz). Switzerland 🇨🇭 and Liechtenstein 🇱🇮 also have laws against racial discrimination. Punishable by prison. There is no "ironic" exception. ⛔</li>
+                        <li><strong>Incitement to Hatred:</strong> Inciting hatred against groups based on nationality, race, religion, or ethnic origin is criminal across Central Europe. This includes online posts. Think before you speak or type. 🚫</li>
+                        <li><strong>Insults:</strong> Insulting someone is legally actionable in Germany (Beleidigung §185 StGB) and Austria. In Switzerland, defamation is also punishable. The middle finger or offensive gestures can result in significant fines. 🖕❌</li>
                     </ul>
                 </div>
 
                 <div class="important">
-                    <strong>💶 Bußgelder – The Fines You'll Actually Face</strong>
+                    <strong>💶 Common Fines You'll Actually Face</strong>
                     <ul>
-                        <li><strong>Bei Rot über die Ampel:</strong> Crossing the street on red – €5 as pedestrian, but if a child sees you, you've taught them to break rules. Germans will glare or even say something. It's not about the fine; it's about Vorbildfunktion (being a role model). 🚦</li>
-                        <li><strong>Lärmbelästigung:</strong> Noise violations during Ruhezeiten – €50 to €5,000. Your neighbours will call the Ordnungsamt (public order office), and they will come. 🔇</li>
-                        <li><strong>Hundekot:</strong> Not picking up after your dog – €10 to €150 depending on the municipality. Carry bags. Always. 🐕💩</li>
-                        <li><strong>Müllverstoß:</strong> Wrong items in the recycling bin – warnings first, then fines. Your neighbours are watching which bin you use. ♻️</li>
-                        <li><strong>Schwarzfahren:</strong> Riding without a valid ticket – minimum €60, and with repeated offences, it becomes a criminal matter. Controllers appear out of nowhere. Always have a ticket. 🎫</li>
+                        <li><strong>Jaywalking on Red:</strong> Crossing the street on red – small fines, but if a child sees you, you've taught them to break rules. Central Europeans will glare or even say something. In Switzerland 🇨🇭, expect particularly disapproving looks. 🚦</li>
+                        <li><strong>Noise Violations:</strong> Breaking Ruhezeiten (quiet hours) – fines vary by country and municipality. Your neighbours will call authorities. 🔇</li>
+                        <li><strong>Dog Waste:</strong> Not picking up after your dog – fines apply in all countries. Carry bags. Always. 🐕💩</li>
+                        <li><strong>Improper Recycling:</strong> Wrong items in the wrong bin – Switzerland 🇨🇭 is particularly strict, with potential fines and even investigation of garbage bags. ♻️</li>
+                        <li><strong>Fare Evasion:</strong> Riding without a valid ticket – Germany: minimum €60, Switzerland: CHF 100+, Austria: €100+. Controllers appear out of nowhere. Always have a ticket. 🎫</li>
                     </ul>
                 </div>
 
-                <h3>🤫 Teil 2: Die Ruhezeiten – Germany's Most Sacred Tradition</h3>
-                <p>No aspect of German culture is more serious than Ruhezeiten (quiet times). This is not a suggestion – it's practically a religion. Understanding this is essential to surviving in Germany. 🕐</p>
+                <h3>🤫 Teil 2: Die Ruhezeiten – Central Europe's Most Sacred Tradition</h3>
+                <p>No aspect of Central European culture is more serious than Ruhezeiten (quiet times). This is not a suggestion – it's practically a religion across Germany, Austria, Switzerland, and Liechtenstein. Understanding this is essential to surviving in the region. 🕐</p>
 
                 <div class="important">
                     <strong>⏰ When You Must Be Quiet</strong>
                     <ul>
-                        <li><strong>Nachtruhe (22:00 - 06:00/07:00):</strong> Complete silence. No music, no loud conversations, no vacuuming, no running washing machines in apartments. If neighbours can hear it, it's too loud. 🌙</li>
-                        <li><strong>Mittagsruhe (13:00 - 15:00):</strong> Still observed in many regions, especially Bavaria, Baden-Württemberg, and rural areas. No lawn mowing, no drilling, no loud activities. 🌞</li>
-                        <li><strong>Sonntags- und Feiertagsruhe:</strong> <strong>ALL DAY</strong> on Sundays and public holidays. No lawn mowing (it's actually illegal in many places). No drilling. No car washing. No construction. This is when Germans rest, and you will too. ☀️</li>
+                        <li><strong>Night Rest (22:00 - 06:00/07:00):</strong> Complete silence across all countries. No music, no loud conversations, no vacuuming. If neighbours can hear it, it's too loud. 🌙</li>
+                        <li><strong>Midday Rest (13:00 - 15:00):</strong> Still observed in many regions, especially Bavaria 🇩🇪, Austria 🇦🇹, and many Swiss cantons 🇨🇭. No lawn mowing, no drilling. 🌞</li>
+                        <li><strong>Sunday and Holiday Rest:</strong> <strong>ALL DAY</strong> on Sundays and public holidays across the region. Switzerland 🇨🇭 is particularly strict about Sunday rest. No lawn mowing (often illegal). No drilling. No car washing in some areas. No construction. ☀️</li>
                     </ul>
                 </div>
 
                 <div class="warning">
-                    <strong>⚠️ Warum Sonntag heilig ist</strong>
-                    <p>Sunday rest (Sonntagsruhe) is protected by Article 140 of the Grundgesetz (Basic Law). This isn't just tradition – it's constitutional. Shops are closed (by law), loud activities are forbidden, and Germans genuinely spend time with family or in nature. Break this rule, and you'll face not just fines, but complete social isolation in your neighbourhood. Respect it. 🙏</p>
+                    <strong>⚠️ Why Sundays Are Sacred Across Central Europe</strong>
+                    <p>Sunday rest is protected by law in Germany (Article 140 of the Grundgesetz), Austria, and Switzerland (varying by canton). Shops are closed (by law), loud activities are forbidden. In Switzerland, even hanging laundry on Sundays is frowned upon in some areas! Break this rule, and you'll face not just fines, but social isolation in your neighbourhood. Respect it. 🙏</p>
                 </div>
 
-                <h4>🏢 Im Mehrfamilienhaus (Apartment Living):</h4>
+                <h4>🏢 Apartment Living:</h4>
                 <ul>
-                    <li>🥿 <strong>Hausschuhe:</strong> Wear soft house shoes inside. Walking on hard floors in outdoor shoes creates noise that travels. This is standard German practice.</li>
-                    <li>🚿 <strong>Baden und Duschen:</strong> Many Hausordnungen (house rules) specifically prohibit bathing between 22:00 and 06:00. Water through pipes is loud. Check your rules.</li>
-                    <li>🎵 <strong>Zimmerlautstärke:</strong> Music must be at "room volume" (Zimmerlautstärke) – audible only within your own four walls. Test it: if you can hear it in the hallway, it's too loud.</li>
-                    <li>🎸 <strong>Musikinstrumente:</strong> Practising instruments is typically limited to 2-3 hours daily, never during Ruhezeiten. Talk to your neighbours and find agreed times.</li>
+                    <li>🥿 <strong>House Shoes:</strong> Wear soft house shoes inside. Walking on hard floors in outdoor shoes creates noise. This is standard practice across Germany, Austria, and Switzerland.</li>
+                    <li>🚿 <strong>Bathing:</strong> Many house rules (Hausordnung) prohibit bathing between 22:00 and 06:00. Water through pipes is loud. Check your rules.</li>
+                    <li>🎵 <strong>Room Volume:</strong> Music must be at "Zimmerlautstärke" – audible only within your own four walls. Test it: if you can hear it in the hallway, it's too loud.</li>
+                    <li>🎸 <strong>Musical Instruments:</strong> Practising is typically limited to 2-3 hours daily, never during Ruhezeiten. Talk to your neighbours and find agreed times.</li>
                 </ul>
 
                 <div class="tip">
-                    <strong>💡 Der deutsche Kompromiss</strong>
-                    <p>Germans aren't unreasonable. They understand that life makes noise. But they expect you to minimise it, to be aware of it, and to communicate. Planning a birthday party? Put a note in the letterbox: "Liebe Nachbarn, am Samstag feiern wir bis ca. 23 Uhr. Wir bemühen uns, den Lärm gering zu halten." (Dear neighbours, we're celebrating Saturday until approx. 11 PM. We'll try to keep noise low.) This gesture alone can prevent complaints. 📝</p>
+                    <strong>💡 The Central European Compromise</strong>
+                    <p>Central Europeans aren't unreasonable. They understand that life makes noise. But they expect you to minimise it, to be aware of it, and to communicate. Planning a party? In Germany or Austria, put a note in letterboxes. In Switzerland, it's even more important to inform neighbours personally beforehand. This gesture alone can prevent complaints. 📝</p>
                 </div>
 
-                <h3>🏘️ Teil 3: Die Nachbarschaft – The Art of German Neighbouring</h3>
-                <p>German neighbourly relations are defined by a concept called "distanzierte Höflichkeit" (distant politeness). You greet each other, you help when needed, but you respect boundaries. Nobody drops by unannounced. 🤝</p>
+                <h3>🏘️ Teil 3: Die Nachbarschaft – The Art of Central European Neighbouring</h3>
+                <p>Neighbourly relations across Central Europe are defined by "distanzierte Höflichkeit" (distant politeness). You greet each other, you help when needed, but you respect boundaries. Nobody drops by unannounced. 🤝</p>
 
-                <h4>👋 Der tägliche Umgang:</h4>
+                <h4>👋 Daily Interactions:</h4>
                 <ul>
-                    <li>🗣️ <strong>Grüßen ist Pflicht:</strong> Always greet neighbours when you see them. "Guten Tag," "Guten Morgen," "Hallo" – anything. Not greeting is actively rude and will mark you as antisocial. In villages, greet everyone you pass.</li>
-                    <li>🏠 <strong>Sich vorstellen:</strong> When moving in, briefly introduce yourself to immediate neighbours. It doesn't need to be a long conversation – "Guten Tag, ich bin [name], ich ziehe hier ein" is sufficient. Some bring a small gift (chocolate, wine).</li>
-                    <li>🚪 <strong>Niemals unangemeldet:</strong> Germans do not visit each other without prior arrangement. Even good friends call before coming over. Showing up unannounced puts people in an uncomfortable position.</li>
-                    <li>📦 <strong>Pakete annehmen:</strong> Accepting parcels for neighbours who aren't home is expected and appreciated. It builds goodwill.</li>
+                    <li>🗣️ <strong>Greeting is Mandatory:</strong> Always greet neighbours when you see them. "Guten Tag," "Grüß Gott" 🇦🇹🇨🇭 (Bavaria, Austria, Switzerland), "Hallo" – anything. Not greeting is actively rude. In Swiss 🇨🇭 and Austrian 🇦🇹 villages, greet everyone you pass.</li>
+                    <li>🏠 <strong>Introducing Yourself:</strong> When moving in, briefly introduce yourself to immediate neighbours. A short greeting is sufficient. Some bring a small gift (chocolate, wine). In Switzerland, this gesture is particularly appreciated.</li>
+                    <li>🚪 <strong>Never Unannounced:</strong> Central Europeans do not visit each other without prior arrangement. Even good friends call before coming over. Showing up unannounced puts people in an uncomfortable position.</li>
+                    <li>📦 <strong>Accepting Parcels:</strong> Accepting parcels for absent neighbours is expected and appreciated. It builds goodwill.</li>
                 </ul>
 
-                <h4>🧹 Die Kehrwoche – Cleaning Duty:</h4>
-                <p>In southern Germany especially, "Kehrwoche" is a rotating schedule where residents clean common areas – stairwells, sidewalks, basement. 🗓️</p>
+                <h4>🧹 Cleaning Duties:</h4>
+                <p>In southern Germany and Switzerland especially, "Kehrwoche" (Germany) or similar rotating cleaning schedules exist where residents clean common areas. 🗓️</p>
                 <ul>
-                    <li>📋 <strong>Find the schedule:</strong> Check the board in the stairwell or ask the Hausverwaltung (building management).</li>
-                    <li>✅ <strong>Do it properly:</strong> Sweep stairs, mop floors, clean railings, clear cobwebs. Half-hearted effort will be noticed.</li>
-                    <li>❄️ <strong>Winterdienst:</strong> You're responsible for clearing snow and ice from the sidewalk in front of your property by 7 AM on workdays, 8 or 9 AM on weekends. Slip injuries can make you liable.</li>
+                    <li>📋 <strong>Find the schedule:</strong> Check the board in the stairwell or ask building management.</li>
+                    <li>✅ <strong>Do it properly:</strong> Sweep stairs, mop floors, clean railings. In Switzerland, standards are particularly high. Half-hearted effort will be noticed.</li>
+                    <li>❄️ <strong>Winter Service:</strong> You're responsible for clearing snow and ice from the sidewalk in front of your property. Times vary: Germany and Austria typically by 7 AM on workdays; Switzerland has similar rules. Slip injuries can make you liable.</li>
                 </ul>
 
                 <div class="warning">
-                    <strong>⚠️ Die Hausordnung</strong>
-                    <p>Your Hausordnung (house rules) is a legal document, typically part of your lease. It covers everything: Ruhezeiten, cleaning duties, pet rules, grill restrictions, laundry room schedules. Read it completely when you move in. Repeated violations can lead to "Abmahnung" (formal warning) and eventually eviction. Germans take this document seriously. 📋</p>
+                    <strong>⚠️ House Rules (Hausordnung)</strong>
+                    <p>Your Hausordnung is a legal document across Central Europe. It covers everything: quiet times, cleaning duties, pet rules, grill restrictions, laundry schedules. Read it completely when you move in. In Switzerland 🇨🇭, house rules are often particularly detailed. Repeated violations can lead to formal warnings and eventually eviction. 📋</p>
                 </div>
 
-                <h4>🔥 Grillen – The Great German Debate:</h4>
+                <h4>🔥 Grilling – A Common Topic:</h4>
                 <ul>
-                    <li>⚖️ <strong>Know local rules:</strong> Some states/cities limit grill frequency (3-4 times per summer in some Munich court rulings). Check your Hausordnung.</li>
-                    <li>💨 <strong>Smoke direction:</strong> If smoke drifts into a neighbour's window, they have grounds for complaint. Use an electric or gas grill if possible.</li>
-                    <li>🗣️ <strong>Inform neighbours:</strong> A quick "Wir grillen heute Abend" gives them the chance to close windows.</li>
+                    <li>⚖️ <strong>Know local rules:</strong> Restrictions vary by region and building. Some limit frequency. Check your Hausordnung.</li>
+                    <li>💨 <strong>Smoke direction:</strong> If smoke drifts into a neighbour's window, they have grounds for complaint. Consider an electric or gas grill.</li>
+                    <li>🗣️ <strong>Inform neighbours:</strong> A quick word gives them the chance to close windows.</li>
                 </ul>
 
                 <h3>🚇 Teil 4: Im öffentlichen Raum – Public Spaces Done Right</h3>
-                <p>Germans have specific expectations about behaviour in shared spaces. The guiding principle is "Rücksichtnahme" – consideration for others. Follow these norms, and you'll navigate German public life without friction. 🚶</p>
+                <p>Central Europeans have specific expectations about behaviour in shared spaces. The guiding principle is "Rücksichtnahme" – consideration for others. Follow these norms across Germany, Austria, and Switzerland. 🚶</p>
 
-                <h4>🚌 Öffentliche Verkehrsmittel (Public Transport):</h4>
+                <h4>🚌 Public Transport:</h4>
                 <ul>
-                    <li>🎫 <strong>Fahrkarte immer:</strong> Buy a ticket. Validate it. Have it ready. Plainclothes controllers (Kontrolleure) check randomly. "Ich bin nur eine Station gefahren" is not an excuse. €60 minimum fine.</li>
-                    <li>🚪 <strong>Erst aussteigen lassen:</strong> This is fundamental. Stand to the side of the door. Let everyone exit. Then board. Trying to push in early will get you verbal reprimands from Germans who normally never speak up.</li>
-                    <li>🤫 <strong>Ruhe bewahren:</strong> Speak quietly. Phone conversations should be brief and in low voice, or better yet: "Ich ruf zurück, bin in der Bahn." Nobody wants to hear your life story.</li>
-                    <li>🎧 <strong>Kopfhörer:</strong> Audio without headphones is absolutely unacceptable. Even audio leakage from headphones that's too loud will earn disapproving looks.</li>
-                    <li>💺 <strong>Taschen vom Sitz:</strong> Never put bags on seats when others are standing. This will be challenged directly.</li>
-                    <li>👴 <strong>Platz anbieten:</strong> Offer your seat to elderly, pregnant, or disabled passengers. Look for the designated seats, but offer even if not sitting there.</li>
+                    <li>🎫 <strong>Always Have a Ticket:</strong> Buy it. Validate it (where required). Have it ready. Plainclothes controllers check randomly across all countries. No excuses accepted.</li>
+                    <li>🚪 <strong>Let People Exit First:</strong> This is fundamental across Central Europe. Stand to the side. Let everyone exit. Then board. Trying to push in early will earn verbal corrections.</li>
+                    <li>🤫 <strong>Stay Quiet:</strong> Speak quietly. Phone conversations should be brief and low-voiced. In Switzerland 🇨🇭, this is taken particularly seriously.</li>
+                    <li>🎧 <strong>Headphones:</strong> Audio without headphones is absolutely unacceptable throughout Central Europe.</li>
+                    <li>💺 <strong>Bags Off Seats:</strong> Never put bags on seats when others are standing.</li>
+                    <li>👴 <strong>Offer Your Seat:</strong> Offer your seat to elderly, pregnant, or disabled passengers.</li>
                 </ul>
 
-                <h4>🚶 Fußgänger-Regeln:</h4>
+                <h4>🚶 Pedestrian Rules:</h4>
                 <ul>
-                    <li>🚴 <strong>Fahrradweg beachten:</strong> Germany has excellent cycling infrastructure. The bike path (Radweg) is often red or marked. Stay off it. Cyclists have right of way and will use their bells aggressively if you're in their way. 🔔</li>
-                    <li>🚦 <strong>Bei Rot stehen:</strong> Wait for the green light. Even if the street is completely empty. Especially if children are nearby. Germans teach their children to follow rules; they expect you to model good behaviour.</li>
-                    <li>📱 <strong>Nicht blockieren:</strong> Walking slowly while staring at your phone, blocking the sidewalk, is antisocial. Step aside.</li>
-                    <li>➡️ <strong>Rechts gehen:</strong> Keep to the right on sidewalks and in corridors, same as traffic.</li>
+                    <li>🚴 <strong>Bike Paths:</strong> Excellent cycling infrastructure exists in Germany, Austria, and Switzerland. Stay off bike paths – cyclists will use their bells. 🔔</li>
+                    <li>🚦 <strong>Wait for Green:</strong> Wait for the green light across all countries. Even if the street is empty. Especially if children are nearby. The Swiss 🇨🇭 are particularly observant of this rule.</li>
+                    <li>📱 <strong>Don't Block:</strong> Walking slowly while staring at your phone, blocking the sidewalk, is antisocial everywhere.</li>
+                    <li>➡️ <strong>Keep Right:</strong> Keep to the right on sidewalks and in corridors, same as traffic.</li>
                 </ul>
 
-                <h4>⬆️ Rolltreppen und Aufzüge:</h4>
+                <h4>⬆️ Escalators and Elevators:</h4>
                 <ul>
-                    <li>➡️ <strong>Rechts stehen, links gehen:</strong> Stand on the right. Walk on the left. This is universal in Germany.</li>
-                    <li>🛗 <strong>Aufzug:</strong> Let people exit first. Don't crowd in. Take stairs if you're able and only going one floor.</li>
+                    <li>➡️ <strong>Stand Right, Walk Left:</strong> Stand on the right. Walk on the left. This is universal across Central Europe.</li>
+                    <li>🛗 <strong>Elevators:</strong> Let people exit first. Don't crowd in.</li>
                 </ul>
 
                 <div class="tip">
-                    <strong>💡 Das Nummernziehen</strong>
-                    <p>At bakeries, butchers, delis, and many service counters, you take a number (Nummernziehen) and wait for it to be called. Look for the red ticket machine near the entrance. Trying to order without a number, or ignoring the system, will result in public correction. Germans have no problem saying "Sie sind noch nicht dran" (It's not your turn yet). 🎫</p>
+                    <strong>💡 Taking Numbers</strong>
+                    <p>At bakeries, butchers, delis, and service counters across Germany, Austria, and Switzerland, you often take a number and wait. Look for the ticket machine near the entrance. Trying to order without following the system will result in correction. 🎫</p>
                 </div>
 
-                <h3>🛒 Teil 5: Einkaufen und Gastronomie – Shopping and Dining</h3>
+                <h3>🛒 Teil 5: Shopping and Dining</h3>
 
-                <h4>🏪 Im Laden:</h4>
+                <h4>🏪 In Shops:</h4>
                 <ul>
-                    <li>👋 <strong>Grüßen:</strong> "Guten Tag" when entering small shops. "Auf Wiedersehen" or "Tschüss" when leaving. Ignoring staff is rude.</li>
-                    <li>🛒 <strong>Einkaufswagen:</strong> Return your shopping cart to the designated area. The €1 or €2 deposit system (Pfandmünze) ensures most do, but leaving carts scattered is a social offence.</li>
-                    <li>💶 <strong>Bargeld:</strong> Germany remains a cash society. Many restaurants, bakeries, and small shops don't accept cards, or only EC-Karte (Girocard). Always carry cash.</li>
-                    <li>🛍️ <strong>Eigene Tüten:</strong> Bring your own bags. Plastic bags cost money (often €0.10-€0.25). Most Germans have reusable bags (Stoffbeutel) ready.</li>
-                    <li>⏰ <strong>Öffnungszeiten:</strong> Shops typically close at 20:00 on weekdays, 16:00-18:00 on Saturdays. Sundays: almost everything closed (Ladenschlussgesetz). Plan accordingly.</li>
-                    <li>📦 <strong>Kasse Tempo:</strong> Pack your items quickly at checkout. Other customers are waiting. Don't chat while blocking the process.</li>
+                    <li>👋 <strong>Greet:</strong> "Guten Tag" / "Grüß Gott" 🇦🇹🇨🇭 when entering small shops. "Auf Wiedersehen" when leaving. Ignoring staff is rude.</li>
+                    <li>🛒 <strong>Shopping Carts:</strong> Return your cart to the designated area. The deposit system ensures most do.</li>
+                    <li>💶 <strong>Cash:</strong> Germany 🇩🇪 remains particularly cash-oriented. Switzerland 🇨🇭 and Austria 🇦🇹 are slightly more card-friendly, but always carry cash.</li>
+                    <li>🛍️ <strong>Bring Your Own Bags:</strong> Bring reusable bags across all countries. Plastic bags cost money.</li>
+                    <li>⏰ <strong>Opening Hours:</strong> Shops close early by international standards. Germany: often 20:00 weekdays, earlier Saturdays. Switzerland: often 18:30-19:00. Sundays: almost everything closed across the region.</li>
+                    <li>📦 <strong>Checkout Speed:</strong> Pack your items quickly at checkout. Don't hold up the line.</li>
                 </ul>
 
-                <h4>🍽️ Im Restaurant:</h4>
+                <h4>🍽️ In Restaurants:</h4>
                 <ul>
-                    <li>🪑 <strong>Tisch teilen:</strong> In busy traditional restaurants (Gaststätten), sharing tables with strangers is normal. "Ist hier noch frei?" (Is this seat free?) is the standard question.</li>
-                    <li>🍻 <strong>Bestellen:</strong> Make eye contact with the server, raise your hand slightly. Never snap fingers or yell. They'll come when they can.</li>
-                    <li>💧 <strong>Wasser kostet:</strong> Tap water isn't free. Order mineral water: "Mit Kohlensäure" (sparkling) or "Ohne Kohlensäure / Still" (still).</li>
-                    <li>💰 <strong>Trinkgeld:</strong> 5-10% is standard. Round up on smaller bills. State the total you want to pay: "Stimmt so" (keep the change) or "Machen Sie 20" (make it 20).</li>
-                    <li>💳 <strong>Zahlen:</strong> Ask "Zahlen, bitte" and pay at the table. Splitting bills individually is normal and expected when requested ("Getrennt, bitte").</li>
+                    <li>🪑 <strong>Table Sharing:</strong> In busy traditional restaurants across the region, sharing tables with strangers is normal. "Ist hier noch frei?" is the standard question.</li>
+                    <li>🍻 <strong>Ordering:</strong> Make eye contact with the server, raise your hand slightly. Never snap fingers or yell.</li>
+                    <li>💧 <strong>Water Costs:</strong> Tap water isn't typically free across Central Europe. Order mineral water.</li>
+                    <li>💰 <strong>Tipping:</strong> 5-10% is standard across the region. Round up on smaller bills. In Switzerland 🇨🇭, service is often included but small tips are appreciated.</li>
+                    <li>💳 <strong>Paying:</strong> Ask to pay at the table. Splitting bills individually is normal and expected when requested.</li>
                 </ul>
 
-                <h4>🍺 Im Biergarten:</h4>
+                <h4>🍺 Regional Traditions:</h4>
                 <ul>
-                    <li>🧺 <strong>Brotzeit mitbringen:</strong> In traditional Bavarian beer gardens, you can bring your own food to tables without tablecloths. Only drinks must be purchased. This is unique German tradition.</li>
-                    <li>🍻 <strong>Prost mit Blickkontakt:</strong> When toasting, look each person in the eye. Not doing so supposedly brings seven years of bad luck (or bad sex, depending on who you ask). Germans take this seriously. 👀</li>
-                    <li>🪑 <strong>Stammtisch:</strong> Tables marked "Stammtisch" are reserved for regulars. Ask before sitting anywhere near them.</li>
+                    <li>🧺 <strong>Biergarten 🇩🇪:</strong> In traditional Bavarian beer gardens, you can bring your own food to tables without tablecloths. Only drinks must be purchased.</li>
+                    <li>🍷 <strong>Heurigen 🇦🇹:</strong> In Austrian wine taverns (Heurigen), you enjoy local wines with simple food in a relaxed atmosphere.</li>
+                    <li>🍻 <strong>Beiz 🇨🇭:</strong> In Swiss Beiz (local pubs), regional specialties and local beers are served in a traditional setting.</li>
+                    <li>🍻 <strong>Toasting:</strong> When toasting, look each person in the eye across all countries. "Prost!" (beer), "Zum Wohl!" (wine). 👀</li>
+                    <li>🪑 <strong>Stammtisch:</strong> Tables marked "Stammtisch" are reserved for regulars. Ask before sitting there.</li>
                 </ul>
 
-                <h3>🏛️ Teil 6: Behörden – Navigating German Bureaucracy</h3>
-                <p>German bureaucracy (Bürokratie) is legendary. It can be frustrating, but it's manageable if you understand how it works. 📋</p>
+                <h3>🏛️ Teil 6: Behörden – Navigating Central European Bureaucracy</h3>
+                <p>Central European bureaucracy can be challenging. Germany 🇩🇪 is legendary for paperwork, Austria 🇦🇹 follows closely, and even efficient Switzerland 🇨🇭 has its share. Here's how to manage: 📋</p>
 
                 <ul>
-                    <li>📅 <strong>Termin ist alles:</strong> Almost everything requires an appointment (Termin). Book online or by phone. Walking in without one usually means being turned away or waiting hours.</li>
-                    <li>📄 <strong>Alles in Papierform:</strong> Bring originals AND copies of everything: ID, passport, Meldebescheinigung (registration certificate), proof of income, photos, forms already filled out. Germans love paper trails.</li>
-                    <li>⏰ <strong>Pünktlich sein:</strong> Being late means losing your appointment. Arriving 5-10 minutes early is expected.</li>
-                    <li>🗣️ <strong>Deutsch sprechen:</strong> Many officials don't speak English. Learn basic phrases or bring someone who speaks German. Having a translator can be crucial.</li>
-                    <li>😤 <strong>Geduld:</strong> The process takes time. Don't show frustration – it won't help and may hurt your case. "Freundlich aber bestimmt" (friendly but firm) gets results.</li>
-                    <li>📝 <strong>Alles schriftlich:</strong> If something is promised verbally, get it in writing. "Können Sie mir das bitte schriftlich geben?"</li>
+                    <li>📅 <strong>Appointments Are Everything:</strong> Almost everything requires an appointment across all countries. Book online or by phone. Walking in usually means being turned away.</li>
+                    <li>📄 <strong>Bring Everything:</strong> Bring originals AND copies of everything: ID, passport, registration certificate, proof of income, photos, completed forms. All these countries love documentation.</li>
+                    <li>⏰ <strong>Be Punctual:</strong> Being late means losing your appointment. Arrive 5-10 minutes early.</li>
+                    <li>🗣️ <strong>Language:</strong> Many officials may not speak English. In Germany and Austria, German is essential. In Switzerland, know whether your canton is German, French, Italian, or Romansh speaking!</li>
+                    <li>😤 <strong>Patience:</strong> The process takes time. Stay calm and polite.</li>
+                    <li>📝 <strong>Get It In Writing:</strong> If something is promised verbally, request written confirmation.</li>
                 </ul>
 
                 <div class="tip">
-                    <strong>💡 Der Trick mit dem Anmelden</strong>
-                    <p>Within two weeks of moving to a new address, you must register at the Einwohnermeldeamt (residents' registration office). This "Anmeldung" is required for almost everything else: bank accounts, insurance, work contracts. Get your Meldebescheinigung (registration certificate) as soon as possible. Without it, you're basically a ghost in the system. 👻</p>
+                    <strong>💡 Registration Is Crucial</strong>
+                    <p>Register your residence as soon as you move: 🇩🇪 Germany: within two weeks at the Einwohnermeldeamt. 🇦🇹 Austria: within 3 days at the Meldeamt. 🇨🇭 Switzerland: within 14 days at the Einwohnerkontrolle. This registration is required for almost everything else: bank accounts, insurance, work contracts. Without it, you're invisible in the system. 👻</p>
                 </div>
 
                 <h3>🤝 Teil 7: Vereine und Integration – The Heart of Community Life</h3>
-                <p>Germany has over 600,000 registered Vereine (clubs/associations). This is not a hobby culture – it's the backbone of German social life. Want to integrate? Join a Verein. 🏆</p>
+                <p>Germany has over 600,000 registered Vereine (clubs/associations), and club culture is similarly strong in Austria and Switzerland. This is the backbone of Central European social life. Want to integrate? Join a Verein or local club. 🏆</p>
 
-                <h4>🏅 Was ein Verein bedeutet:</h4>
+                <h4>🏅 What Clubs Mean:</h4>
                 <ul>
-                    <li>⚽ <strong>Für alles gibt's einen Verein:</strong> Sports, music, gardening (Schrebergarten), carnival, volunteer fire brigade (Freiwillige Feuerwehr), shooting (Schützenverein), rabbit breeding (yes, really). Pick something that interests you.</li>
-                    <li>🤝 <strong>Aktive Teilnahme:</strong> Don't just pay dues and disappear. Show up regularly. Volunteer for events. Help set up, clean up. Germans notice who contributes.</li>
-                    <li>⏳ <strong>Es dauert:</strong> Acceptance takes time. You might feel like an outsider for months. Keep showing up. Reliability is everything. Eventually, you become "einer von uns."</li>
-                    <li>🚒 <strong>Freiwillige Feuerwehr:</strong> In rural areas, joining the volunteer fire brigade is one of the fastest paths to social integration. It's demanding, but you'll become part of the community fabric.</li>
+                    <li>⚽ <strong>There's a Club for Everything:</strong> Sports, music, gardening, carnival, volunteer fire brigade, shooting clubs (Schützenverein 🇩🇪🇦🇹, Schützengesellschaft 🇨🇭), yodeling clubs 🇨🇭🇦🇹, and more. Pick something that interests you.</li>
+                    <li>🤝 <strong>Active Participation:</strong> Don't just pay dues and disappear. Show up regularly. Volunteer for events. Help set up, clean up. People notice who contributes.</li>
+                    <li>⏳ <strong>It Takes Time:</strong> Acceptance takes time across Central Europe. You might feel like an outsider for months. Keep showing up. Reliability is everything.</li>
+                    <li>🚒 <strong>Volunteer Fire Brigade:</strong> In rural areas across Germany, Austria, and Switzerland, joining the volunteer fire brigade is one of the fastest paths to social integration.</li>
                 </ul>
 
-                <h4>🎪 Lokale Feste und Traditionen:</h4>
+                <h4>🎪 Local Festivals and Traditions:</h4>
                 <ul>
-                    <li>🎉 <strong>Dorffeste, Stadtfeste, Schützenfeste:</strong> Attend these. Participation shows you want to belong. Bring your family. Talk to people.</li>
-                    <li>🎄 <strong>Weihnachtsmärkte:</strong> Visit local Christmas markets. Drink Glühwein. Buy handmade gifts. It's quintessentially German winter culture.</li>
-                    <li>🎭 <strong>Karneval/Fasching:</strong> In the Rhineland, carnival is nearly sacred. In Bavaria, it's Fasching. Learn the local traditions. Dress up. Participate.</li>
-                    <li>🍺 <strong>Volksfeste:</strong> From Oktoberfest to local Weinfeste, these celebrations are community bonding experiences.</li>
+                    <li>🎉 <strong>Village and Town Festivals:</strong> Attend local Dorffeste 🇩🇪, Kirtage 🇦🇹, or Chilbi 🇨🇭. Participation shows you want to belong.</li>
+                    <li>🎄 <strong>Christmas Markets:</strong> Visit local Weihnachtsmärkte 🇩🇪🇦🇹 or Wienachtsmärkte 🇨🇭. Drink Glühwein. It's quintessential winter culture.</li>
+                    <li>🎭 <strong>Carnival:</strong> In the Rhineland 🇩🇪, it's Karneval. In Bavaria 🇩🇪 and Austria 🇦🇹, it's Fasching. In Switzerland 🇨🇭, the Basler Fasnacht is famous. Learn local traditions. Participate.</li>
+                    <li>🍺 <strong>Volksfeste:</strong> From Oktoberfest 🇩🇪 to Austrian Weinfeste 🇦🇹 to Swiss Alpabzüge 🇨🇭 (cattle drives), these celebrations are community bonding experiences.</li>
                 </ul>
 
                 <div class="important">
                     <strong>🎯 Ehrenamt – Volunteering</strong>
-                    <p>Germany runs on Ehrenamt (volunteer work). Over 30 million Germans volunteer regularly. It's not just nice – it's a social expectation. Volunteer at local events, refugee support, environmental groups, youth sports. It shows you want to contribute to society, not just take from it. This matters for integration and is genuinely noticed. 🙌</p>
+                    <p>Central Europe runs on volunteer work. Millions volunteer regularly across Germany, Austria, and Switzerland. It's a social expectation. Volunteer at local events, support organizations, environmental groups, youth sports. It shows you want to contribute to society. This matters for integration and is genuinely noticed. 🙌</p>
                 </div>
 
                 <h3>♻️ Teil 8: Umweltbewusstsein – Environmental Responsibility</h3>
-                <p>Environmental consciousness (Umweltbewusstsein) is deeply ingrained in German culture. This isn't political – it's practical and expected. 🌱</p>
+                <p>Environmental consciousness is deeply ingrained across Central Europe. This isn't political – it's practical and expected. Switzerland 🇨🇭 is particularly strict. 🌱</p>
 
-                <h4>🗑️ Die Mülltrennung:</h4>
+                <h4>🗑️ Recycling:</h4>
                 <ul>
-                    <li>⚫ <strong>Restmüll (schwarz/grau):</strong> Non-recyclable general waste.</li>
-                    <li>🟡 <strong>Gelber Sack/Gelbe Tonne:</strong> Packaging with the Grüner Punkt symbol – plastics, tetrapaks, aluminium.</li>
-                    <li>🔵 <strong>Altpapier (blau):</strong> Paper and cardboard.</li>
-                    <li>🟤 <strong>Biomüll (braun):</strong> Organic waste – food scraps, coffee filters, garden waste.</li>
-                    <li>🍾 <strong>Altglas:</strong> Glass containers sorted by colour (weiß, grün, braun) at local collection points. Don't throw glass during Ruhezeiten!</li>
-                    <li>🔋 <strong>Sondermüll:</strong> Batteries (in supermarket collection boxes), electronics (Wertstoffhof), chemicals (hazardous waste collection).</li>
+                    <li>⚫ <strong>General Waste:</strong> Non-recyclable waste (Restmüll 🇩🇪🇦🇹, Kehricht 🇨🇭).</li>
+                    <li>🟡 <strong>Packaging:</strong> Germany 🇩🇪 has the Gelber Sack/Gelbe Tonne system. In Switzerland 🇨🇭, you often pay for official garbage bags and sort recyclables separately.</li>
+                    <li>🔵 <strong>Paper:</strong> Paper and cardboard go in designated bins or collection points.</li>
+                    <li>🟤 <strong>Organic Waste:</strong> Food scraps, garden waste – composting is common, especially in Switzerland and rural areas.</li>
+                    <li>🍾 <strong>Glass:</strong> Sort by colour at collection points. Don't dispose of glass during quiet hours!</li>
+                    <li>🔋 <strong>Special Waste:</strong> Batteries, electronics, chemicals – take to designated collection points.</li>
                 </ul>
 
                 <div class="warning">
-                    <strong>⚠️ Das Pfandsystem</strong>
-                    <p>Most drink bottles and cans carry a deposit (Pfand). €0.25 for single-use plastic and cans, €0.08-€0.15 for reusable glass bottles. Return them to supermarket Pfandautomaten (reverse vending machines). Don't throw Pfand bottles in regular recycling – you're literally throwing away money. Many people leave their Pfand bottles next to public trash cans for collectors (Pfandsammler) – this is an accepted form of indirect charity. 🛒</p>
+                    <strong>⚠️ Deposit Systems</strong>
+                    <p>🇩🇪 Germany: Extensive Pfand system. €0.25 for single-use bottles/cans, €0.08-€0.15 for reusable glass. Return to supermarket machines. 🇦🇹 Austria: Similar deposit system being expanded. 🇨🇭 Switzerland: No universal deposit, but excellent voluntary recycling rates. Don't throw away Pfand bottles – it's literally throwing away money! 🛒</p>
                 </div>
 
-                <h4>🌳 Allgemeines Umweltverhalten:</h4>
+                <h4>🌳 General Environmental Behaviour:</h4>
                 <ul>
-                    <li>💧 <strong>Wasser sparen:</strong> Germans don't waste water. Turn off taps while brushing teeth. Don't run water unnecessarily.</li>
-                    <li>💡 <strong>Energie:</strong> Turn off lights when leaving rooms. Heat only rooms you use. This is both environmental and economic.</li>
-                    <li>🌲 <strong>In der Natur:</strong> Stay on marked paths in nature reserves. Don't pick flowers in protected areas. Keep dogs on leads during wildlife breeding seasons (Brut- und Setzzeit).</li>
-                    <li>🐕 <strong>Hundekot:</strong> Clean up after your dog. Always. Everywhere. This is non-negotiable.</li>
+                    <li>💧 <strong>Water Conservation:</strong> Central Europeans don't waste water. Be mindful of usage.</li>
+                    <li>💡 <strong>Energy:</strong> Turn off lights when leaving rooms. Heat only rooms you use.</li>
+                    <li>🌲 <strong>In Nature:</strong> Stay on marked paths. Don't pick flowers in protected areas. Keep dogs on leads during wildlife breeding seasons.</li>
+                    <li>🐕 <strong>Dog Waste:</strong> Clean up after your dog. Always. Everywhere. Non-negotiable.</li>
                 </ul>
 
-                <h3>🚗 Teil 9: Autofahren – Driving Culture</h3>
-                <p>Germans take driving seriously. The rules are strict, and following them precisely is expected. 🚗</p>
+                <h3>🚗 Teil 9: Driving Culture</h3>
+                <p>Central Europeans take driving seriously. Rules are strict across all countries, and following them precisely is expected. 🚗</p>
 
                 <ul>
-                    <li>🛣️ <strong>Autobahn-Etikette:</strong> Keep right (Rechtsfahrgebot). The left lane is for passing only. Finish your overtake and return right. Blocking the left lane while slower traffic passes on the right (Rechtsüberholen) is illegal and dangerous.</li>
-                    <li>⚡ <strong>Lichthupe:</strong> Flashing headlights means "I'm going fast, please move right." It's communication, not aggression (usually). Move over when safe.</li>
-                    <li>🚔 <strong>Blitzer:</strong> Speed cameras are everywhere. Fixed and mobile. Fines arrive by mail, sometimes weeks later. In towns: 50 km/h unless marked otherwise. Outside towns: 100 km/h. Autobahn: "Richtgeschwindigkeit" 130 km/h (advisory) where no limit posted.</li>
-                    <li>➡️ <strong>Rechts vor Links:</strong> At unmarked intersections, traffic from the right has priority. This catches many foreigners off guard.</li>
-                    <li>❄️ <strong>Winterreifen:</strong> Winter tyres are legally required when conditions demand ("Von O bis O" – October to Easter). Insurance won't cover accidents without proper tyres.</li>
-                    <li>🖕 <strong>Keine Beleidigungen:</strong> Road rage gestures are prosecutable. The "Stinkefinger" (middle finger) or "Vogel" (tapping temple) can cost hundreds in fines.</li>
-                    <li>🚗 <strong>TÜV/HU:</strong> Your car needs regular technical inspection. The sticker on your rear plate shows when. Don't let it expire.</li>
-                    <li>🚑 <strong>Rettungsgasse:</strong> On highways, when traffic stops, form an emergency corridor: left lane moves left, all other lanes move right. Blocking emergency vehicles is heavily fined.</li>
+                    <li>🛣️ <strong>Highway Etiquette:</strong> Keep right. The left lane is for passing only. Germany's 🇩🇪 Autobahn has sections with no speed limit, but most of Austria's 🇦🇹 motorways and all of Switzerland's 🇨🇭 have speed limits (120-130 km/h). Finish overtaking and return right.</li>
+                    <li>⚡ <strong>Headlight Flashing:</strong> On German Autobahns, flashing headlights means "I'm going fast, please move right." In Switzerland, aggressive flashing can result in fines.</li>
+                    <li>🚔 <strong>Speed Cameras:</strong> Speed cameras are everywhere, especially in Switzerland 🇨🇭 where fines are extremely high. Austria 🇦🇹 also has strict enforcement. In towns: 50 km/h unless marked otherwise.</li>
+                    <li>➡️ <strong>Right Before Left:</strong> At unmarked intersections, traffic from the right has priority across all countries.</li>
+                    <li>❄️ <strong>Winter Tyres:</strong> Required when conditions demand in Germany and Austria. Switzerland requires appropriate tyres and can fine drivers with summer tyres in winter conditions.</li>
+                    <li>🖕 <strong>No Insults:</strong> Road rage gestures are punishable, especially in Germany where fines are substantial.</li>
+                    <li>🚗 <strong>Vehicle Inspections:</strong> Regular inspections required: TÜV/HU (Germany), §57a "Pickerl" (Austria), MFK (Switzerland).</li>
+                    <li>🚑 <strong>Emergency Corridor:</strong> Form an emergency corridor when traffic stops: left lane moves left, all other lanes move right. Required in Germany and increasingly expected elsewhere.</li>
+                    <li>🛣️ <strong>Highway Tolls:</strong> Austria requires a Vignette (sticker). Switzerland requires a Vignette (CHF 40/year). Germany is toll-free for cars on most roads.</li>
                 </ul>
 
                 <div class="important">
-                    <strong>🎯 Das Fazit – The Bottom Line</strong>
-                    <p>German public conduct rests on three pillars: <strong>Ordnung</strong> (order – follow the rules), <strong>Ruhe</strong> (quiet – respect others' peace), and <strong>Rücksicht</strong> (consideration – think of how your actions affect others). 📋🤫🤝</p>
-                    <p>Germans aren't cold or unfriendly – they just express community differently. They show respect through following systems, maintaining cleanliness, being punctual, and not imposing on others. Do the same, and you won't just avoid conflict – you'll earn genuine respect. That's the real integration.</p>
-                    <p>The rules might seem strict at first, but there's a logic to everything. Once you understand it, life in Germany becomes remarkably orderly and, yes, even comfortable. Welcome to the system. 🇩🇪✅</p>
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Public conduct in Central Europe rests on three pillars: <strong>Ordnung</strong> (order – follow the rules), <strong>Ruhe</strong> (quiet – respect others' peace), and <strong>Rücksicht</strong> (consideration – think of how your actions affect others). 📋🤫🤝</p>
+                    <p>Central Europeans aren't cold or unfriendly – they just express community differently. They show respect through following systems, maintaining cleanliness, being punctual, and not imposing on others. Do the same across Germany, Austria, Switzerland, or Liechtenstein, and you'll earn genuine respect. Welcome to Central Europe! 🇩🇪🇦🇹🇨🇭🇱🇮✅</p>
                 </div>
             `
         },
         communicationMindset: {
-            title: "🗣️ Module 3: Kommunikation & Denkweise – How Germans Really Communicate 🧠",
+            title: "🗣️ Module 3: Kommunikation & Denkweise – How Central Europeans Really Communicate 🧠",
             content: `
-                <p>Let's talk about something that trips up almost every newcomer: how Germans actually communicate. 🗣️ It's not just about learning German – it's about understanding how Germans <em>use</em> language. Germany is famous for directness, but there's far more nuance than most people realise. 🎯</p>
+                <p>Let's talk about something that trips up almost every newcomer: how Central Europeans actually communicate. 🗣️ It's not just about learning German – it's about understanding how people across Germany 🇩🇪, Austria 🇦🇹, Switzerland 🇨🇭, and Liechtenstein 🇱🇮 <em>use</em> language. The region is known for directness, but there's more nuance than most people realise – and regional differences too! 🎯</p>
                 
-                <p>This module will help you decode what Germans really mean, how to express yourself without causing offence 🚫, and how to develop the mindset that'll help you thrive here. Los geht's! 💪</p>
+                <p>This module will help you decode what Central Europeans really mean, how to express yourself without causing offence 🚫, and how to develop the mindset that'll help you thrive here. Los geht's! 💪</p>
 
-                <h3>🎭 Teil 1: Deutsche Direktheit – What Directness Actually Means</h3>
-                <p>Germans have a reputation for being blunt, and it's deserved – but it's not the whole story. 🇩🇪 German directness is a communication style, not rudeness. Here's how to understand it:</p>
+                <h3>🎭 Teil 1: Central European Directness – What It Actually Means</h3>
+                <p>Germans, Austrians, and Swiss Germans have a reputation for being blunt, and it's partly deserved – but with important variations. 🇩🇪🇦🇹🇨🇭 German directness is strongest. Austrian communication can be slightly softer. Swiss Germans often value harmony and may be more diplomatic. Here's how to understand it:</p>
 
                 <div class="important">
-                    <strong>🔍 Understanding German Directness</strong>
+                    <strong>🔍 Understanding Regional Directness</strong>
                     <ul>
-                        <li><strong>"Das ist nicht gut"</strong> (That's not good) = It's genuinely not good. They're being honest, not rude. 😐</li>
-                        <li><strong>"Nein"</strong> = No. Full stop. Germans don't soften refusals with "maybe" or "we'll see" when they mean no. 🛑</li>
+                        <li><strong>"Das ist nicht gut" / "Das isch nöd guet" 🇨🇭</strong> (That's not good) = It's genuinely not good. They're being honest. 😐</li>
+                        <li><strong>"Nein" / "Nei" 🇨🇭</strong> = No. Full stop. Central Europeans don't soften refusals with "maybe" when they mean no. 🛑</li>
                         <li><strong>"Das stimmt nicht"</strong> (That's not correct) = They're correcting you because accuracy matters, not attacking you. 📊</li>
-                        <li><strong>"Warum?"</strong> (Why?) = A genuine question seeking understanding, not a challenge to your authority. 🤔</li>
-                        <li><strong>"Das ist interessant"</strong> (That's interesting) = Unlike in English, this usually means they're genuinely interested! ✅</li>
-                        <li><strong>"Mal sehen"</strong> (We'll see) = Genuinely undecided, or politely declining. Context matters. ⏳</li>
-                        <li><strong>"Passt schon"</strong> (It's fine) = It's acceptable, nothing more. Don't expect enthusiasm. 👍</li>
-                        <li><strong>"Geht so"</strong> (So-so) = It's mediocre or they have reservations. In other cultures, they might say "good" instead. 😐</li>
+                        <li><strong>"Warum?" / "Warum?" 🇦🇹 / "Wieso?" 🇨🇭</strong> (Why?) = A genuine question, not a challenge. 🤔</li>
+                        <li><strong>"Das ist interessant"</strong> (That's interesting) = Usually means genuine interest in German-speaking countries (unlike British English!). ✅</li>
+                        <li><strong>"Passt schon" / "Passt scho" 🇦🇹</strong> (It's fine) = It's acceptable, nothing more. Don't expect enthusiasm. 👍</li>
+                        <li><strong>"Geht so" / "Geht scho" 🇦🇹</strong> (So-so) = It's mediocre. They have reservations. 😐</li>
+                        <li><strong>Austrian Indirectness:</strong> Austrians can be more diplomatic than Germans. "Na ja..." or "Schau ma mal..." may mean they disagree but are being polite about it. 🇦🇹</li>
                     </ul>
                 </div>
 
                 <div class="tip">
                     <strong>💡 The Golden Rule</strong>
-                    <p>In Germany, words mean what they say. 📝 There's less reading between the lines than in many cultures. When a German says "gut" (good), it's actually good. When they say "nicht schlecht" (not bad), it's decent. And when they say something is "schlecht" (bad), believe them – they're being honest to help you improve! 🎯</p>
+                    <p>Across Central Europe, words generally mean what they say. 📝 There's less reading between the lines than in many cultures. But note: Germans are the most direct, Swiss often prioritise harmony and consensus, and Austrians fall somewhere in between with their famous "Schmäh" (gentle humour and charm). 🎯</p>
                 </div>
 
-                <h3>🤝 Teil 2: Höflichkeitsformen – Being Polite the German Way 🙏</h3>
-                <p>German politeness works differently than in English-speaking cultures. It's less about constant pleasantries and more about showing respect through correct behaviour. ⚙️</p>
+                <h3>🤝 Teil 2: Höflichkeitsformen – Being Polite Across Central Europe 🙏</h3>
+                <p>Politeness across Central Europe works differently than in English-speaking cultures. It's less about constant pleasantries and more about showing respect through correct behaviour. ⚙️</p>
 
-                <h4>👔 Sie vs. Du – The Foundation of German Politeness:</h4>
+                <h4>👔 Sie vs. Du (Formal vs. Informal "You") – The Foundation:</h4>
                 <ul>
-                    <li>🎩 <strong>Sie (formal "you"):</strong> Use with strangers, elders, professionals, officials, and anyone you don't know well. Always default to Sie.</li>
-                    <li>👋 <strong>Du (informal "you"):</strong> Only use when explicitly offered! Wait for "Wir können uns duzen" (We can use Du) or similar invitation.</li>
-                    <li>⚠️ <strong>The Duzen offer:</strong> In Germany, the older or higher-ranking person offers the Du. Never assume. Using Du prematurely is a real social error.</li>
-                    <li>💼 <strong>At work:</strong> Many modern companies use "Du-Kultur" (everyone uses Du). Others maintain Sie. Ask or observe carefully when you start.</li>
+                    <li>🎩 <strong>Sie (formal "you"):</strong> Use with strangers, elders, professionals, officials across Germany, Austria, and (German-speaking) Switzerland. Always default to Sie.</li>
+                    <li>👋 <strong>Du (informal "you"):</strong> Only use when explicitly offered! Wait for the invitation to use Du. In Switzerland 🇨🇭, the switch to Du may happen faster in some contexts.</li>
+                    <li>⚠️ <strong>The Du offer:</strong> The older or higher-ranking person offers the Du. Never assume. Using Du prematurely is a real social error.</li>
+                    <li>💼 <strong>At work:</strong> Many modern companies use "Du-Kultur." Others maintain Sie. Germany is more formal, Switzerland's startups often use Du, Austria varies. Ask or observe.</li>
                 </ul>
 
-                <h4>📋 Bitte und Danke – Please and Thank You:</h4>
+                <h4>📋 Please and Thank You:</h4>
                 <ul>
-                    <li>🙏 <strong>Bitte:</strong> Use it, but Germans use it less frequently than English speakers say "please." Still essential for requests.</li>
-                    <li>🙌 <strong>Danke:</strong> Important to say. "Danke schön" (thank you kindly) is warmer than just "Danke."</li>
-                    <li>🍽️ <strong>At meals:</strong> "Guten Appetit!" before eating. If someone says it to you, respond "Danke, gleichfalls" (Thanks, likewise) or "Ebenfalls" (Likewise).</li>
-                    <li>🍻 <strong>When toasting:</strong> "Prost!" for beer, "Zum Wohl!" for wine. Always make eye contact with each person you clink glasses with. 👀</li>
+                    <li>🙏 <strong>Bitte:</strong> Use it, but Central Europeans use it less frequently than English speakers say "please." Still essential for requests.</li>
+                    <li>🙌 <strong>Danke / Merci 🇨🇭:</strong> Important to say. In Switzerland, "Merci" (from French) is commonly used even in German-speaking areas.</li>
+                    <li>🍽️ <strong>At meals:</strong> "Guten Appetit!" / "En Guete!" 🇨🇭 before eating. Respond "Danke, gleichfalls" (Thanks, likewise).</li>
+                    <li>🍻 <strong>When toasting:</strong> "Prost!" for beer, "Zum Wohl!" for wine. Always make eye contact. 👀</li>
                 </ul>
 
-                <h4>👋 Grüßen – The Art of Greeting:</h4>
+                <h4>👋 The Art of Greeting:</h4>
                 <ul>
-                    <li>🌅 <strong>Time-appropriate greetings:</strong> "Guten Morgen" (until ~10-11), "Guten Tag" (daytime), "Guten Abend" (evening). Using the wrong one seems odd.</li>
-                    <li>🏔️ <strong>Regional variations:</strong> "Grüß Gott" (Bavaria, Austria), "Moin" (Northern Germany), "Servus" (Bavaria, informal). Learn what's local.</li>
-                    <li>🤝 <strong>Handshakes:</strong> Firm (not crushing), brief, with eye contact. Germans shake hands more often than many cultures – at every meeting and parting in formal situations.</li>
-                    <li>🚶 <strong>In the community:</strong> In villages and small towns, greet everyone you pass. "Guten Tag" to strangers on the street is expected. Not greeting is rude.</li>
+                    <li>🌅 <strong>Time-appropriate greetings:</strong> "Guten Morgen" (morning), "Guten Tag" (daytime), "Guten Abend" (evening).</li>
+                    <li>🏔️ <strong>Regional variations:</strong> 🇩🇪 "Grüß Gott" (Bavaria), "Moin" (Northern Germany). 🇦🇹 "Grüß Gott," "Servus" (informal). 🇨🇭 "Grüezi" (formal), "Grüessech" (Bernese), "Hoi" (informal). Learn what's local!</li>
+                    <li>🤝 <strong>Handshakes:</strong> Firm, brief, with eye contact. Common at every formal meeting across the region.</li>
+                    <li>🚶 <strong>In the community:</strong> In villages across all countries, greet everyone you pass. Not greeting is rude.</li>
                 </ul>
 
                 <div class="warning">
                     <strong>⚠️ Don't Skip the Greeting!</strong>
-                    <p>Walking into a shop, doctor's waiting room, or even an elevator and saying "Guten Tag" to those present is standard German behaviour. 🗣️ Entering silently and ignoring people is seen as unfriendly. In smaller communities, this is even more important. Greet first, then conduct your business. 🏪</p>
+                    <p>Walking into a shop, doctor's waiting room, or elevator and greeting those present is standard across Central Europe. 🗣️ In Austria 🇦🇹, "Grüß Gott" is ubiquitous. In Switzerland 🇨🇭, "Grüezi" is essential. Entering silently and ignoring people is seen as unfriendly everywhere. 🏪</p>
                 </div>
 
-                <h3>💬 Teil 3: Smalltalk – The German Approach ☕</h3>
-                <p>Germans have a complicated relationship with small talk. They do it – just differently than many cultures. 🤔</p>
+                <h3>💬 Teil 3: Smalltalk – The Central European Approach ☕</h3>
+                <p>Central Europeans have a complicated relationship with small talk. They do engage in it – just differently than many cultures. 🤔</p>
 
-                <h4>🌤️ Weather – Less Exciting in German:</h4>
+                <h4>🌤️ Weather – Less Exciting Here:</h4>
                 <ul>
-                    <li>⛅ Germans discuss weather, but it's usually practical: "Es soll regnen" (It's supposed to rain) = bring an umbrella. 🌂</li>
-                    <li>📝 Weather comments are observations, not conversation openers. Don't expect enthusiastic weather discussions.</li>
-                    <li>☀️ Good weather topics: extreme weather, unusual weather, weather that affects plans. 🌡️</li>
+                    <li>⛅ Weather discussions are usually practical: "Es soll regnen" (It's supposed to rain) = bring an umbrella. 🌂</li>
+                    <li>📝 Weather comments are observations, not extended conversation openers.</li>
+                    <li>☀️ Good weather topics: extreme weather, unusual weather, weather affecting outdoor plans. 🌡️</li>
                 </ul>
 
                 <h4>✅ Good Smalltalk Topics:</h4>
                 <ul>
-                    <li>⚽ <strong>Football (Fußball):</strong> "Haben Sie das Spiel gesehen?" (Did you see the match?) – but know your local team first!</li>
-                    <li>✈️ <strong>Holidays (Urlaub):</strong> "Wohin fahren Sie in den Urlaub?" Germans take holidays seriously and love discussing destinations.</li>
-                    <li>🚗 <strong>Cars:</strong> Germans are proud of their automotive industry. Interest in cars is welcome.</li>
-                    <li>🏡 <strong>Local events:</strong> Town festivals, local news, what's happening in the Gemeinde (community).</li>
-                    <li>🍺 <strong>Regional identity:</strong> Food, traditions, dialect, local pride. Germans are often regionally proud.</li>
+                    <li>⚽ <strong>Football:</strong> Works across all countries! Know your local teams – Bayern Munich 🇩🇪, Austria Wien 🇦🇹, FC Basel 🇨🇭.</li>
+                    <li>⛷️ <strong>Skiing and Mountains:</strong> Particularly relevant in Austria 🇦🇹, Switzerland 🇨🇭, and southern Germany. A shared passion!</li>
+                    <li>✈️ <strong>Holidays:</strong> Central Europeans love discussing travel destinations.</li>
+                    <li>🚗 <strong>Cars:</strong> Germans especially are proud of their automotive industry.</li>
+                    <li>🏡 <strong>Local events:</strong> Town festivals, local news, community happenings.</li>
+                    <li>🍺 <strong>Regional identity:</strong> Food, traditions, dialect. People are often regionally proud – Bavarians, Tyroleans, Swiss cantons all have distinct identities.</li>
                 </ul>
 
                 <h4>❌ Topics to Avoid (Until You Know Someone Well):</h4>
                 <ul>
-                    <li>💶 <strong>Income and money:</strong> Very private. Never ask what someone earns. 🚫</li>
-                    <li>📜 <strong>Nazi history:</strong> Germans take this extremely seriously. Don't make jokes. Don't make comparisons. Don't bring it up casually.</li>
-                    <li>🗳️ <strong>Politics:</strong> Can get intense quickly. Avoid until you understand the landscape and know the person.</li>
-                    <li>🛐 <strong>Religion:</strong> Generally private. Germany is increasingly secular, especially in the east.</li>
-                    <li>🏠 <strong>Personal life questions:</strong> Marital status, children, family – these come later, not in first conversations.</li>
+                    <li>💶 <strong>Income and money:</strong> Very private across all countries. Never ask what someone earns. 🚫</li>
+                    <li>📜 <strong>Nazi history:</strong> Taken extremely seriously. Don't make jokes. Don't make comparisons. Don't bring it up casually. Austria 🇦🇹 has its own complex relationship with this history.</li>
+                    <li>🗳️ <strong>Politics:</strong> Can get intense. Switzerland's 🇨🇭 direct democracy makes politics a more common topic, but still tread carefully.</li>
+                    <li>🛐 <strong>Religion:</strong> Generally private. Austria tends to be more Catholic, Switzerland mixed, Germany varies by region.</li>
+                    <li>🏔️ <strong>Regional Rivalries:</strong> Don't compare countries unfavourably. Don't call Swiss people "German." Don't confuse Bavarians with Prussians.</li>
                 </ul>
 
                 <div class="tip">
                     <strong>💡 Reading the Room</strong>
-                    <p>Germans separate Privatleben (private life) from everything else. 🔒 In the workplace, colleagues might chat about work topics but not share personal details. This isn't coldness – it's a boundary they value. If someone gives short answers about their weekend, don't push. Respect their privacy. 🤐</p>
+                    <p>Central Europeans separate Privatleben (private life) from public life. 🔒 Colleagues might chat about work but not share personal details. This isn't coldness – it's a valued boundary. If someone gives short answers about their weekend, don't push. Respect their privacy. 🤐</p>
                 </div>
 
-                <h3>🧠 Teil 4: Die deutsche Denkweise – Mindsets That Matter 🎯</h3>
-                <p>Beyond words, <em>how you think</em> about situations matters in Germany. These attitudes will help you fit in: 🔄</p>
+                <h3>🧠 Teil 4: Die Denkweise – Mindsets That Matter 🎯</h3>
+                <p>Beyond words, <em>how you think</em> about situations matters across Central Europe. These attitudes will help you fit in: 🔄</p>
 
                 <h4>📋 Ordnung muss sein (There must be order):</h4>
                 <ul>
-                    <li>✅ Germans value structure, systems, and doing things correctly. This isn't rigidity – it's efficiency.</li>
+                    <li>✅ Central Europeans value structure, systems, and doing things correctly. This is strongest in Germany and Switzerland.</li>
                     <li>📝 Follow processes even if they seem bureaucratic. There's usually a reason.</li>
-                    <li>📊 Be organised: have documents ready, be prepared for meetings, follow the proper channels.</li>
+                    <li>📊 Be organised: have documents ready, be prepared for meetings, follow proper channels.</li>
                     <li>⚙️ Respect that "how" something is done matters as much as "what" is achieved.</li>
                 </ul>
 
                 <h4>⏰ Pünktlichkeit (Punctuality):</h4>
                 <ul>
-                    <li>🕐 On time means 5 minutes early. Actually "on time" is already slightly late in German thinking.</li>
-                    <li>⚠️ Being late without notice is disrespectful. If you'll be late, always call ahead. "Ich verspäte mich um 10 Minuten."</li>
-                    <li>📅 Appointments are sacred. Germans plan ahead. Spontaneity is less valued than reliability.</li>
-                    <li>💼 For business meetings, 15 minutes early is appropriate. For social occasions, on time (not early!).</li>
+                    <li>🕐 On time means 5 minutes early across all countries. "On time" is already slightly late.</li>
+                    <li>⚠️ Being late without notice is disrespectful. Always call ahead if delayed.</li>
+                    <li>📅 Appointments are sacred across the region. Spontaneity is less valued than reliability.</li>
+                    <li>💼 For business: 15 minutes early. For social occasions: on time (not early!).</li>
+                    <li>🇨🇭 <strong>Swiss precision:</strong> Switzerland takes punctuality to an art form. Trains are famously on time, and so should you be!</li>
                 </ul>
 
                 <h4>🔧 Gründlichkeit (Thoroughness):</h4>
                 <ul>
-                    <li>📐 Germans value doing things properly the first time. "Ganz oder gar nicht" (All or nothing).</li>
-                    <li>🎯 Quality over speed. Rushing and making mistakes is worse than taking time to do it right.</li>
-                    <li>📖 Read instructions, follow procedures, do things completely. Half measures aren't appreciated.</li>
+                    <li>📐 "Ganz oder gar nicht" (All or nothing) applies across Central Europe.</li>
+                    <li>🎯 Quality over speed. Rushing is worse than taking time to do it right.</li>
+                    <li>📖 Read instructions, follow procedures, do things completely.</li>
                     <li>🔍 Attention to detail is noticed and respected.</li>
+                    <li>🇨🇭 <strong>Swiss quality:</strong> Swiss precision and quality standards are legendary worldwide.</li>
                 </ul>
 
                 <h4>🤫 Bescheidenheit (Modesty):</h4>
                 <ul>
-                    <li>🚫 Bragging about achievements is frowned upon. Let your work speak for itself.</li>
-                    <li>📉 Understatement is preferred to exaggeration. "Es ist ganz gut gelaufen" (It went quite well) = It was actually successful.</li>
-                    <li>💰 Showing off wealth is considered tasteless ("protzig" – showy/flashy). Quality over flashiness.</li>
-                    <li>🏆 If you achieve something, share credit. "Wir haben es geschafft" not "Ich habe es geschafft."</li>
+                    <li>🚫 Bragging is frowned upon across all countries. Let your work speak for itself.</li>
+                    <li>📉 Understatement is preferred to exaggeration everywhere in the region.</li>
+                    <li>💰 Showing off wealth is considered tasteless. Quality over flashiness.</li>
+                    <li>🏆 Share credit. "We" over "I."</li>
                 </ul>
 
                 <div class="important">
-                    <strong>🎭 Understanding German Humour</strong>
-                    <p>Germans do have a sense of humour – it's just different! 😄 German humour tends to be dry, clever, and often regional. Wordplay (Wortspiel) is popular. Slapstick is less common. Political satire is sharp. Don't expect constant joking in professional settings, but among friends, Germans can be very funny. The key: humour has its time and place, and workplace isn't usually the place. 🎪</p>
+                    <strong>🎭 Understanding Regional Humour</strong>
+                    <p>Central Europeans do have humour – it varies by region! 😄 German humour tends to be dry and clever. Austrian "Schmäh" is playful, ironic, and charming. Swiss humour is often self-deprecating and subtle. Don't expect constant joking in professional settings anywhere, but among friends, all nationalities can be very funny. 🎪</p>
                 </div>
 
                 <h3>🚫 Teil 5: Kommunikationsfehler – Mistakes to Avoid 🙅</h3>
-                <p>Here are common communication errors that can cause problems: ⚠️</p>
+                <p>Here are common communication errors across Central Europe: ⚠️</p>
 
                 <ul>
-                    <li>🔊 <strong>Being Too Loud:</strong> Germans speak relatively quietly, especially on public transport. Loud conversations attract negative attention.</li>
-                    <li>😁 <strong>Over-enthusiastic Friendliness:</strong> Excessive smiling, over-the-top compliments, or too much energy can seem fake or untrustworthy.</li>
-                    <li>❓ <strong>Excessive Small Talk:</strong> Getting straight to the point is often preferred over lengthy warm-ups. Don't circle around what you actually want to say.</li>
-                    <li>🤥 <strong>Vagueness:</strong> Be clear about what you mean. "Maybe" when you mean "no" or hedging when you should be direct creates confusion.</li>
-                    <li>🎭 <strong>Empty Promises:</strong> Don't say "We should get coffee sometime" unless you mean it. Germans may actually follow up, and you'll look unreliable if you don't.</li>
-                    <li>😢 <strong>Oversharing:</strong> Discussing personal problems with casual acquaintances makes Germans uncomfortable. Save it for close friends.</li>
-                    <li>🙈 <strong>Criticising Germany:</strong> At least initially, even if Germans complain about their country, newcomers shouldn't. Earn the right to criticise first.</li>
+                    <li>🔊 <strong>Being Too Loud:</strong> Central Europeans speak relatively quietly, especially on public transport. Switzerland 🇨🇭 is particularly sensitive to noise.</li>
+                    <li>😁 <strong>Over-enthusiastic Friendliness:</strong> Excessive smiling or over-the-top energy can seem fake or untrustworthy across the region.</li>
+                    <li>❓ <strong>Excessive Small Talk:</strong> Getting to the point is often preferred over lengthy warm-ups.</li>
+                    <li>🤥 <strong>Vagueness:</strong> Be clear about what you mean. Hedging creates confusion.</li>
+                    <li>🎭 <strong>Empty Promises:</strong> Don't say "We should meet up" unless you mean it. Central Europeans may actually follow up.</li>
+                    <li>😢 <strong>Oversharing:</strong> Discussing personal problems with casual acquaintances is uncomfortable for everyone.</li>
+                    <li>🙈 <strong>Criticising the Country:</strong> Initially, even if locals complain, newcomers shouldn't. Earn the right to criticise first. This applies across all countries!</li>
+                    <li>🏔️ <strong>National Confusion:</strong> Don't call the Swiss "German," or confuse Austrians with Germans. Each country has distinct identity and pride.</li>
                 </ul>
 
                 <h3>🏢 Teil 6: Kommunikation in verschiedenen Kontexten – Context Matters 📍</h3>
 
-                <h4>💼 Am Arbeitsplatz (At Work):</h4>
+                <h4>💼 At Work:</h4>
                 <ul>
-                    <li>✉️ <strong>E-Mail-Stil:</strong> Begin with "Sehr geehrte/r Frau/Herr [Name]" (formal) or "Liebe/r [Name]" (if Du terms). End with "Mit freundlichen Grüßen" (formal) or "Viele Grüße" (friendly).</li>
-                    <li>📋 <strong>Meetings:</strong> Be prepared, be punctual, stick to the agenda. Germans value efficient meetings that achieve their purpose.</li>
-                    <li>🗣️ <strong>Feedback:</strong> German feedback is direct. "Das müssen Sie verbessern" (You need to improve this) isn't harsh – it's helpful honesty.</li>
-                    <li>🤝 <strong>Hierarchy:</strong> Respect titles (Herr Doktor, Frau Professor). Germany is less hierarchical than some countries but titles still matter.</li>
+                    <li>✉️ <strong>Email Style:</strong> Begin with "Sehr geehrte/r Frau/Herr [Name]" (formal) or "Liebe/r [Name]" (if on Du terms). End with "Mit freundlichen Grüßen" (formal) or "Viele Grüße" (friendly).</li>
+                    <li>📋 <strong>Meetings:</strong> Be prepared, be punctual, stick to the agenda. Efficiency is valued across all Central European countries.</li>
+                    <li>🗣️ <strong>Feedback:</strong> Feedback is direct across the region. "This needs improvement" isn't harsh – it's helpful honesty.</li>
+                    <li>🤝 <strong>Hierarchy:</strong> Respect titles (Herr Doktor, Frau Professor). Austria 🇦🇹 is particularly fond of titles. Switzerland 🇨🇭 is somewhat more egalitarian.</li>
                 </ul>
 
-                <h4>🏛️ Beim Amt (Dealing with Officials):</h4>
+                <h4>🏛️ Dealing with Officials:</h4>
                 <ul>
-                    <li>📄 <strong>Be prepared:</strong> Have all documents ready, filled in correctly, with copies. German bureaucracy expects thoroughness.</li>
-                    <li>⏰ <strong>Keep appointments:</strong> Arriving late for a Behörde appointment may mean rebooking. They run on schedule.</li>
-                    <li>🗣️ <strong>Be polite but direct:</strong> State clearly what you need. "Ich möchte meinen Aufenthaltstitel verlängern" (I want to extend my residence permit).</li>
-                    <li>🙏 <strong>Say thank you:</strong> "Danke für Ihre Hilfe" at the end goes a long way, even if the process was frustrating.</li>
+                    <li>📄 <strong>Be prepared:</strong> Have all documents ready, filled in correctly, with copies across all countries.</li>
+                    <li>⏰ <strong>Keep appointments:</strong> Arriving late may mean rebooking everywhere.</li>
+                    <li>🗣️ <strong>Be polite but direct:</strong> State clearly what you need.</li>
+                    <li>🙏 <strong>Say thank you:</strong> "Danke für Ihre Hilfe" / "Merci vielmal" 🇨🇭 at the end goes a long way.</li>
                 </ul>
 
-                <h4>🛒 Im Laden (In Shops and Services):</h4>
+                <h4>🛒 In Shops and Services:</h4>
                 <ul>
-                    <li>👋 <strong>Greet first:</strong> "Guten Tag" when entering. Shop staff expect to be acknowledged.</li>
-                    <li>🙋 <strong>Getting help:</strong> "Entschuldigung, können Sie mir helfen?" (Excuse me, can you help me?) – wait politely for attention.</li>
-                    <li>💳 <strong>At checkout:</strong> Have payment ready. Germans value efficiency. Know what you're paying with before you reach the register.</li>
-                    <li>🙏 <strong>Saying goodbye:</strong> "Auf Wiedersehen" or "Tschüss" when leaving. Silent exits seem rude.</li>
+                    <li>👋 <strong>Greet first:</strong> Essential across all countries.</li>
+                    <li>🙋 <strong>Getting help:</strong> "Entschuldigung, können Sie mir helfen?" – wait politely.</li>
+                    <li>💳 <strong>At checkout:</strong> Have payment ready. Efficiency is valued.</li>
+                    <li>🙏 <strong>Saying goodbye:</strong> "Auf Wiedersehen" / "Uf Wiederluege" 🇨🇭 – silent exits seem rude.</li>
                 </ul>
 
-                <h4>🤝 Unter Freunden (Among Friends):</h4>
+                <h4>🤝 Among Friends:</h4>
                 <ul>
-                    <li>👥 <strong>Friendship takes time:</strong> Germans distinguish between Bekannte (acquaintances) and Freunde (true friends). Real friendship is earned over time.</li>
-                    <li>🍺 <strong>Once friends, always friends:</strong> German friendships run deep. Once accepted, you're in. They're loyal and reliable.</li>
-                    <li>📱 <strong>Communication:</strong> Don't expect constant messaging. Germans won't text every day but will be there when it matters.</li>
-                    <li>🎯 <strong>Honesty:</strong> German friends will tell you the truth, even when uncomfortable. This is care, not criticism.</li>
+                    <li>👥 <strong>Friendship takes time:</strong> The distinction between acquaintances and true friends exists across Central Europe. Real friendship is earned.</li>
+                    <li>🍺 <strong>Once friends, always friends:</strong> Central European friendships run deep. Loyalty and reliability are key.</li>
+                    <li>📱 <strong>Communication:</strong> Don't expect constant messaging. But friends will be there when it matters.</li>
+                    <li>🎯 <strong>Honesty:</strong> Friends will tell you the truth across all countries. This is care, not criticism.</li>
                 </ul>
 
                 <div class="tip">
-                    <strong>🌟 Vereine – The Secret to German Social Life</strong>
-                    <p>Vereine (clubs and associations) are central to German community life. 🏆 Sports clubs, music groups, volunteer organisations – these are where Germans socialise and make friends. Joining a Verein isn't just a hobby; it's a path to genuine social connection and integration. Find one that interests you, show up regularly, and participate actively. This is how you become part of the community. 🤝</p>
+                    <strong>🌟 Vereine – The Secret to Central European Social Life</strong>
+                    <p>Clubs and associations are central to community life across Germany, Austria, and Switzerland. 🏆 Sports clubs, music groups, volunteer organisations – these are where people socialise and make friends. Join one that interests you, show up regularly, and participate actively. This is how you become part of the community throughout Central Europe. 🤝</p>
                 </div>
 
                 <div class="important">
-                    <strong>🎯 Das Fazit – The Bottom Line</strong>
-                    <p>German communication is about <strong>clarity</strong> 📝, <strong>honesty</strong> 🎯, and <strong>respect through correct behaviour</strong> 🤝. Say what you mean, keep your promises, be punctual, and respect boundaries. Don't mistake directness for rudeness – it's actually a form of respect. And don't mistake reserve for coldness – Germans warm up, but it takes time and consistency.</p>
-                    <p>Master the Sie/Du distinction, greet properly, be punctual, and don't overshare. Once you adapt to German communication style, you'll find it refreshingly clear – no guessing what people really mean! Willkommen in Deutschland! 🇩🇪✨</p>
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Central European communication is about <strong>clarity</strong> 📝, <strong>honesty</strong> 🎯, and <strong>respect through correct behaviour</strong> 🤝. Say what you mean, keep your promises, be punctual, and respect boundaries. Regional variations exist – Germans most direct, Swiss valuing harmony, Austrians with their charm – but the fundamentals are shared.</p>
+                    <p>Master regional greetings, respect the Sie/Du distinction, be punctual, and don't overshare. You'll find Central European communication refreshingly clear! Willkommen in Zentraleuropa! 🇩🇪🇦🇹🇨🇭🇱🇮✨</p>
                 </div>
             `
         },
@@ -2495,28 +2501,30 @@ const culturalData = {
             title: "Social Ethics in Central Europe",
             content: `
                 <h3>General Social Norms</h3>
-                <p>German society values punctuality, efficiency, and directness. There's a clear distinction between formal and informal relationships.</p>
+                <p>Central European society (Germany 🇩🇪, Austria 🇦🇹, Switzerland 🇨🇭, Liechtenstein 🇱🇮) values punctuality, efficiency, and directness. There's a clear distinction between formal and informal relationships across all countries.</p>
                 
                 <h3>Greetings</h3>
                 <ul>
-                    <li>"Guten Tag" (Good day) is the standard formal greeting</li>
-                    <li>Firm handshake with direct eye contact is expected</li>
-                    <li>Use titles (Herr, Frau, Dr.) until invited to use first names</li>
-                    <li>"Sie" (formal you) vs "Du" (informal you) distinction is important</li>
+                    <li>"Guten Tag" (Good day) is the standard formal greeting in German-speaking areas</li>
+                    <li>"Grüß Gott" is common in Bavaria, Austria, and parts of Switzerland</li>
+                    <li>"Grüezi" is the Swiss German formal greeting</li>
+                    <li>Firm handshake with direct eye contact is expected across the region</li>
+                    <li>Use titles (Herr, Frau, Dr.) until invited to use first names – Austria is particularly fond of titles</li>
+                    <li>"Sie" (formal you) vs "Du" (informal you) distinction is important everywhere</li>
                 </ul>
                 
                 <h3>Punctuality</h3>
-                <p>Being on time is extremely important in Germany. Arriving even 5 minutes late without notice is considered rude.</p>
+                <p>Being on time is extremely important across Central Europe. Switzerland is particularly famous for precision. Arriving even 5 minutes late without notice is considered rude everywhere.</p>
                 
                 <div class="warning">
-                    <strong>Note:</strong> "Pünktlichkeit" (punctuality) is a core German value. If you're going to be late, always call ahead.
+                    <strong>Note:</strong> "Pünktlichkeit" (punctuality) is a core Central European value. If you're going to be late, always call ahead.
                 </div>
                 
                 <h3>Privacy</h3>
-                <p>Germans value their privacy. Avoid asking personal questions until you know someone well. Respect quiet hours (Ruhezeiten) - typically 1-3 PM and after 10 PM.</p>
+                <p>Central Europeans value their privacy. Avoid asking personal questions until you know someone well. Respect quiet hours (Ruhezeiten) – particularly strict in Switzerland and observed throughout the region.</p>
                 
                 <div class="tip">
-                    <strong>Tip:</strong> Sundays are traditionally quiet days. Many shops are closed, and noisy activities are discouraged.
+                    <strong>Tip:</strong> Sundays are traditionally quiet days across all countries. Many shops are closed by law, and noisy activities are discouraged or prohibited.
                 </div>
             `
         },
@@ -2524,113 +2532,116 @@ const culturalData = {
             title: "Conversation Etiquette in Central Europe",
             content: `
                 <h3>Communication Style</h3>
-                <p>Germans tend to be direct and straightforward. This isn't rudeness - it's valued honesty. Say what you mean without excessive politeness formulas.</p>
+                <p>Central Europeans tend to be direct and straightforward. Germans are the most direct, Austrians often add charm ("Schmäh"), and Swiss Germans may prioritise harmony. This directness isn't rudeness – it's valued honesty.</p>
                 
                 <h3>Safe Topics</h3>
                 <ul>
-                    <li>Travel and vacations</li>
-                    <li>Football (Fußball) and sports</li>
-                    <li>Cars and engineering</li>
-                    <li>Environmental issues</li>
+                    <li>Travel and vacations – highly valued across the region</li>
+                    <li>Football (Fußball) and sports – including skiing ⛷️ (especially in Austria and Switzerland)</li>
+                    <li>Cars and engineering (particularly in Germany)</li>
+                    <li>Mountains and outdoor activities (particularly in Austria, Switzerland, Bavaria)</li>
                     <li>Cultural events and arts</li>
+                    <li>Regional food and wine (Austria's wine culture, Swiss chocolate and cheese)</li>
                 </ul>
                 
                 <h3>Topics to Approach Carefully</h3>
                 <ul>
-                    <li>World War II and Nazi history (handled seriously)</li>
-                    <li>Personal finances and salary</li>
-                    <li>Age</li>
-                    <li>Comparisons with other countries</li>
+                    <li>World War II and Nazi history (handled very seriously in both Germany and Austria)</li>
+                    <li>Personal finances and salary – private across all countries</li>
+                    <li>Regional rivalries – don't confuse nationalities or regions</li>
+                    <li>Comparisons between countries (don't call Swiss people "German")</li>
                 </ul>
                 
                 <div class="important">
-                    <strong>Important:</strong> Germans separate work and private life. Colleagues may not socialize outside work. This isn't unfriendliness - it's respecting boundaries.
+                    <strong>Important:</strong> Central Europeans separate work and private life. Colleagues may not socialize outside work. This isn't unfriendliness – it's respecting boundaries.
                 </div>
                 
                 <h3>Humor</h3>
-                <p>German humor exists but may be different from what you're used to. Wordplay and irony are appreciated, but humor in professional settings is limited.</p>
+                <p>Humour exists across Central Europe but varies: German humour is dry and clever, Austrian "Schmäh" is playful and charming, Swiss humour is often subtle. Professional settings across all countries tend to be more serious.</p>
             `
         },
         dating: {
             title: "Dating Culture in Central Europe",
             content: `
                 <h3>Meeting People</h3>
-                <p>Germans often meet through:</p>
+                <p>Central Europeans often meet through:</p>
                 <ul>
                     <li>Friend groups and social circles</li>
-                    <li>Sports clubs (Vereine)</li>
-                    <li>Dating apps (very popular)</li>
+                    <li>Sports clubs (Vereine) – very popular across Germany, Austria, and Switzerland</li>
+                    <li>Dating apps (very popular, especially in urban areas)</li>
                     <li>Work or university</li>
+                    <li>Outdoor activities (hiking, skiing – particularly in Alpine regions)</li>
                 </ul>
                 
                 <h3>Dating Norms</h3>
-                <p>German dating can be direct. If someone is interested, they'll often make it clear. There's less "game-playing" than in some cultures.</p>
+                <p>Dating across Central Europe can be direct. If someone is interested, they'll often make it clear. There's less "game-playing" than in some cultures.</p>
                 
                 <ul>
                     <li>Either person can ask the other out</li>
-                    <li>Splitting bills is very common and expected</li>
-                    <li>Punctuality matters for dates too</li>
-                    <li>Public displays of affection are moderate</li>
+                    <li>Splitting bills is very common and expected across all countries</li>
+                    <li>Punctuality matters for dates too – especially in Switzerland!</li>
+                    <li>Public displays of affection are moderate throughout the region</li>
                 </ul>
                 
                 <div class="tip">
-                    <strong>Tip:</strong> Be direct about your intentions. Germans appreciate honesty over playing games.
+                    <strong>Tip:</strong> Be direct about your intentions. Central Europeans appreciate honesty over playing games. Austrians may appreciate a bit more charm (Schmäh), while Germans and Swiss tend to be very straightforward.
                 </div>
                 
                 <h3>Relationship Progression</h3>
-                <p>Relationships often develop from friendships. Germans may take time before committing but are serious once they do. Living together before marriage is common.</p>
+                <p>Relationships often develop from friendships across the region. Central Europeans may take time before committing but are serious once they do. Living together before marriage is common in all countries.</p>
             `
         },
         marriage: {
             title: "Marriage Customs in Central Europe",
             content: `
                 <h3>Legal Marriage</h3>
-                <p>Only civil marriages at the Standesamt (registry office) are legally recognized. Religious ceremonies are optional and held after the civil ceremony.</p>
+                <p>Only civil marriages are legally recognized across Central Europe. In Germany, this is done at the Standesamt (registry office), in Austria at the Standesamt, and in Switzerland at the Zivilstandsamt. Religious ceremonies are optional and held after the civil ceremony.</p>
                 
                 <h3>Traditions</h3>
                 <ul>
-                    <li>Polterabend: Pre-wedding party where guests break porcelain for luck</li>
-                    <li>Baumstamm sägen: Couple saws a log together to show teamwork</li>
-                    <li>Wedding pranks by friends are common</li>
-                    <li>Multiple-day celebrations are traditional</li>
+                    <li><strong>🇩🇪 Germany:</strong> Polterabend (pre-wedding party where guests break porcelain for luck), Baumstamm sägen (couple saws a log together)</li>
+                    <li><strong>🇦🇹 Austria:</strong> Brautentführung (bride kidnapping tradition), Hochzeitssuppe (wedding soup)</li>
+                    <li><strong>🇨🇭 Switzerland:</strong> Traditions vary by canton; often includes local folk music and regional customs</li>
+                    <li>Wedding pranks by friends are common across the region</li>
+                    <li>Multiple-day celebrations are traditional in many areas</li>
                 </ul>
                 
                 <h3>Legal Requirements</h3>
-                <p>You need various documents including birth certificate, proof of residence, and passport. Foreign documents often need apostille or legalization.</p>
+                <p>You need various documents including birth certificate, proof of residence, and passport across all countries. Foreign documents often need apostille or legalization.</p>
                 
                 <div class="important">
-                    <strong>Important:</strong> Start paperwork early - German bureaucracy is thorough. Allow several months for document processing.
+                    <strong>Important:</strong> Start paperwork early – bureaucracy is thorough across Central Europe. Allow several months for document processing.
                 </div>
                 
                 <h3>Modern Trends</h3>
-                <p>Cohabitation without marriage is socially accepted. Same-sex marriage has been legal since 2017. Many couples don't take the same surname.</p>
+                <p>Cohabitation without marriage is socially accepted across all countries. Same-sex marriage is legal in Germany (since 2017), Austria (since 2019), and Switzerland (since 2022). Liechtenstein has registered partnerships. Many couples don't take the same surname.</p>
             `
         },
         work: {
             title: "Work Ethics in Central Europe",
             content: `
                 <h3>Workplace Culture</h3>
-                <p>German workplaces value efficiency, quality, and reliability. There's respect for expertise and hierarchical structures, though this varies by industry.</p>
+                <p>Central European workplaces value efficiency, quality, and reliability. There's respect for expertise and structures, though this varies by country – Switzerland tends to be more consensus-oriented, Austria slightly more hierarchical, Germany in between.</p>
                 
                 <h3>Key Values</h3>
                 <ul>
-                    <li>Punctuality is non-negotiable</li>
+                    <li>Punctuality is non-negotiable across all countries – Swiss precision is legendary</li>
                     <li>Meetings are focused and efficient</li>
-                    <li>Quality work is expected - "Made in Germany" means quality</li>
-                    <li>Direct feedback is normal</li>
+                    <li>Quality work is expected – "Made in Germany" and "Swiss Made" are renowned quality marks</li>
+                    <li>Direct feedback is normal, especially in Germany</li>
                 </ul>
                 
                 <h3>Work-Life Balance</h3>
-                <p>Germans take work-life balance seriously. Working overtime is not glorified. Vacation time (usually 25-30 days) is expected to be taken.</p>
+                <p>Central Europeans take work-life balance seriously. Working overtime is not glorified. Vacation time is generous: Germany (25-30 days), Austria (25+ days), Switzerland (20-25 days) and is expected to be taken.</p>
                 
                 <div class="tip">
-                    <strong>Tip:</strong> "Feierabend" (end of work day) is sacred. Don't expect responses to emails after hours.
+                    <strong>Tip:</strong> "Feierabend" (end of work day) is respected across the region. Don't expect responses to emails after hours, particularly in Germany.
                 </div>
                 
                 <h3>Professional Etiquette</h3>
                 <ul>
-                    <li>Use formal address (Sie) until invited otherwise</li>
-                    <li>Titles (Dr., Prof.) should be used</li>
+                    <li>Use formal address (Sie) until invited otherwise across all countries</li>
+                    <li>Titles (Dr., Prof.) should be used – Austria is particularly title-conscious</li>
                     <li>Keep personal and professional life separate</li>
                     <li>Be prepared and organized for meetings</li>
                 </ul>
@@ -2639,26 +2650,31 @@ const culturalData = {
         civic: {
             title: "Civic Duties in Central Europe",
             content: `
-                <h3>Registration (Anmeldung)</h3>
-                <p>Within two weeks of moving to a new address, you must register at the local Bürgeramt. This is mandatory and needed for almost everything else.</p>
+                <h3>Registration</h3>
+                <p>Registration is mandatory across Central Europe:</p>
+                <ul>
+                    <li><strong>🇩🇪 Germany:</strong> Register at the Bürgeramt within two weeks (Anmeldung)</li>
+                    <li><strong>🇦🇹 Austria:</strong> Register at the Meldeamt within 3 days</li>
+                    <li><strong>🇨🇭 Switzerland:</strong> Register at the Einwohnerkontrolle within 14 days</li>
+                </ul>
                 
                 <h3>Taxes</h3>
-                <p>Germany has a comprehensive tax system. Income tax, solidarity surcharge, and potentially church tax are deducted from salaries. Annual tax returns may result in refunds.</p>
+                <p>All Central European countries have comprehensive tax systems. Switzerland's system varies by canton. Austria and Germany have similar progressive income tax systems. Keep all documents – these countries love paper trails.</p>
                 
                 <div class="important">
-                    <strong>Important:</strong> Get a tax ID (Steuer-ID) when you register. Keep all documents - Germans keep extensive records.
+                    <strong>Important:</strong> Get your tax ID when you register. In Germany: Steuer-ID. In Austria: Steuernummer. In Switzerland: AHV-Nummer (social security number is key).
                 </div>
                 
                 <h3>Health Insurance</h3>
-                <p>Health insurance is mandatory. Most employees are in statutory health insurance (gesetzliche Krankenversicherung). Private insurance is an option for higher earners.</p>
+                <p>Health insurance is mandatory across Central Europe. Systems vary: Germany has statutory and private options, Austria has a similar system, Switzerland requires private basic insurance (Grundversicherung) which is mandatory but from private providers.</p>
                 
-                <h3>Recycling (Mülltrennung)</h3>
+                <h3>Recycling</h3>
                 <ul>
-                    <li>Strict waste separation is required</li>
-                    <li>Yellow bin/bag: Packaging</li>
-                    <li>Blue bin: Paper</li>
-                    <li>Brown/green bin: Organic waste</li>
-                    <li>Glass containers: Separated by color</li>
+                    <li>Strict waste separation is required across all countries</li>
+                    <li>🇩🇪 Germany: Yellow bin/bag (packaging), Blue (paper), Brown (organic)</li>
+                    <li>🇦🇹 Austria: Similar system to Germany</li>
+                    <li>🇨🇭 Switzerland: Particularly strict – you often pay for official garbage bags and can be fined for improper disposal</li>
+                    <li>Glass containers: Separated by color at collection points everywhere</li>
                 </ul>
             `
         },
@@ -2666,28 +2682,29 @@ const culturalData = {
             title: "Clothing Norms in Central Europe",
             content: `
                 <h3>General Style</h3>
-                <p>German fashion tends toward practical, quality clothing. Dark colors and classic styles are common, especially in professional settings.</p>
+                <p>Central European fashion tends toward practical, quality clothing. Dark colors and classic styles are common, especially in professional settings. Switzerland tends toward understated elegance, Austria appreciates both tradition and style.</p>
                 
                 <h3>Workplace Attire</h3>
                 <ul>
-                    <li>Corporate: Conservative suits, minimal accessories</li>
+                    <li>Corporate: Conservative suits, minimal accessories across all countries</li>
                     <li>Business casual: Neat, understated clothing</li>
                     <li>Tech/creative: More relaxed, but still tidy</li>
+                    <li>Banking (especially in Switzerland): Particularly conservative</li>
                 </ul>
                 
                 <h3>Casual Wear</h3>
-                <p>Germans dress practically. Good walking shoes, functional outerwear, and weather-appropriate clothing are essential.</p>
+                <p>Central Europeans dress practically. Good walking shoes, functional outerwear, and weather-appropriate clothing are essential – the Alps and variable weather demand quality outdoor gear.</p>
                 
                 <div class="tip">
-                    <strong>Tip:</strong> Invest in good quality basics. Germans value durability and practicality over flashy fashion.
+                    <strong>Tip:</strong> Invest in good quality basics. Central Europeans value durability and practicality over flashy fashion. "Quality over quantity" is the motto.
                 </div>
                 
                 <h3>Special Occasions</h3>
                 <ul>
-                    <li>Traditional events: Dirndl/Lederhosen for Oktoberfest in Bavaria</li>
+                    <li>Traditional events: Dirndl/Lederhosen (Bavaria 🇩🇪, Austria 🇦🇹); regional Trachten vary across Swiss cantons 🇨🇭</li>
                     <li>Formal events: Dark suits, evening wear</li>
                     <li>Swimming pools: Proper swimwear required (no street clothes)</li>
-                    <li>Saunas: Often nude (mixed-gender)</li>
+                    <li>Saunas: Often nude (mixed-gender in many places), especially in Germany and Austria</li>
                 </ul>
             `
         },
@@ -2695,61 +2712,71 @@ const culturalData = {
             title: "Hygiene Standards in Central Europe",
             content: `
                 <h3>Personal Hygiene</h3>
-                <p>Daily showering and use of deodorant is standard. Clean, pressed clothing is expected in professional settings.</p>
+                <p>Daily showering and use of deodorant is standard across Central Europe. Clean, pressed clothing is expected in professional settings.</p>
                 
                 <h3>Public Hygiene</h3>
                 <ul>
-                    <li>Strict waste separation and recycling</li>
-                    <li>Dog owners must clean up after pets</li>
-                    <li>Public spaces are kept clean</li>
+                    <li>Strict waste separation and recycling across all countries – Switzerland is particularly rigorous</li>
+                    <li>Dog owners must clean up after pets everywhere</li>
+                    <li>Public spaces are kept clean – littering is heavily frowned upon</li>
                     <li>Cover mouth when coughing/sneezing</li>
                 </ul>
                 
                 <h3>Sauna Culture</h3>
-                <p>Saunas are popular and often nude. This is not sexual - it's about health and relaxation. Textile-only times may be available.</p>
+                <p>Saunas are popular across Central Europe, especially in Germany and Austria. They are often nude, and this is not sexual – it's about health and relaxation. Textile-only times may be available. Always bring a towel to sit on.</p>
                 
                 <div class="important">
-                    <strong>Important:</strong> Bring a large towel to sit on in saunas. Never put feet on benches without a towel.
+                    <strong>Important:</strong> Never put feet on sauna benches without a towel. Shower before entering pools and saunas. These rules apply across all countries.
                 </div>
                 
                 <h3>Home Hygiene</h3>
                 <ul>
                     <li>Regular cleaning is expected, especially in shared housing</li>
-                    <li>Kehrwoche (cleaning duty) may rotate in apartment buildings</li>
-                    <li>Shoes are often removed indoors</li>
-                    <li>Airing out rooms daily (Lüften) is common practice</li>
+                    <li>Kehrwoche (cleaning duty) may rotate in apartment buildings (especially in southern Germany and Switzerland)</li>
+                    <li>Shoes are often removed indoors across all countries</li>
+                    <li>Airing out rooms daily (Lüften) is common practice to prevent mold</li>
                 </ul>
             `
         },
         citizenship: {
             title: "Path to Citizenship in Central Europe",
             content: `
-                <h3>Requirements for German Citizenship</h3>
+                <h3>Requirements Vary by Country</h3>
+                <p>Each Central European country has different citizenship requirements:</p>
+                
+                <h4>🇩🇪 Germany</h4>
                 <ul>
-                    <li>Legal residence in Germany for 8 years (can be reduced to 6-7 with integration achievements)</li>
-                    <li>Indefinite residence permit or EU free movement</li>
-                    <li>Pass the naturalization test</li>
-                    <li>Proof of German language proficiency (B1 level)</li>
-                    <li>Financial self-sufficiency</li>
-                    <li>No criminal record</li>
+                    <li>8 years legal residence (can be reduced to 6-7 with integration achievements)</li>
+                    <li>Pass the naturalization test and German language proficiency (B1 level)</li>
+                    <li>Generally requires giving up other citizenships (exceptions for EU citizens)</li>
                 </ul>
                 
-                <h3>The Naturalization Test</h3>
-                <p>The test covers German history, politics, society, and laws. You have 60 minutes to answer 33 questions. You need 17 correct answers to pass.</p>
+                <h4>🇦🇹 Austria</h4>
+                <ul>
+                    <li>10 years continuous legal residence (can be reduced to 6 years)</li>
+                    <li>German language proficiency (B1 level) and citizenship test</li>
+                    <li>Generally requires renouncing other citizenships</li>
+                </ul>
+                
+                <h4>🇨🇭 Switzerland</h4>
+                <ul>
+                    <li>10 years legal residence (with specific rules for different age groups)</li>
+                    <li>Integration requirements including language proficiency</li>
+                    <li>Citizenship granted at federal, cantonal, and municipal levels</li>
+                    <li>Dual citizenship is allowed</li>
+                </ul>
                 
                 <div class="tip">
-                    <strong>Tip:</strong> All 310 possible questions are publicly available. Study the question catalog and take practice tests online.
+                    <strong>Tip:</strong> All countries have naturalization tests covering history, politics, and society. Study the official materials and take practice tests. Switzerland's process includes cantonal/municipal approval, which can vary significantly by location.
                 </div>
                 
-                <h3>Dual Citizenship</h3>
-                <p>Germany generally requires giving up other citizenships, with exceptions for EU citizens and cases where renunciation isn't possible.</p>
-                
-                <h3>Benefits of German Citizenship</h3>
+                <h3>Benefits of Central European Citizenship</h3>
                 <ul>
-                    <li>German and EU passport</li>
+                    <li>German/Austrian citizenship includes EU passport and full EU free movement</li>
+                    <li>Swiss citizenship includes one of the world's strongest passports</li>
                     <li>Voting rights</li>
                     <li>No visa requirements for many countries</li>
-                    <li>Full EU free movement rights</li>
+                    <li>Right to live and work freely in the country</li>
                 </ul>
             `
         }
