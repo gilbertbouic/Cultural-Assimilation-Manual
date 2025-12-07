@@ -2498,7 +2498,7 @@ const culturalData = {
             `
         },
         economicIntegration: {
-            title: "💷 Module 4: Wirtschaftliche Integration – A Practical Guide to Work, Money, and Economic Success in Central Europe 💼",
+            title: "💼 Module 4: Wirtschaftliche Integration – A Practical Guide to Work, Money, and Economic Success in Central Europe 💰",
             content: `
                 <p>Willkommen to arguably the most important module: work and money. 💰 In Central Europe – Germany 🇩🇪, Austria 🇦🇹, Switzerland 🇨🇭, and Liechtenstein 🇱🇮 – economic self-sufficiency isn't just about survival, it's about social standing, self-respect, and integration. These countries built world-class economies on the foundation of hard work, precision, and reliability. 🏗️</p>
                 
@@ -2623,7 +2623,7 @@ const culturalData = {
                 <ul>
                     <li>🏦 <strong>Germany:</strong> Deutsche Bank, Commerzbank, Sparkasse (savings banks – local and trusted), N26/online banks. You'll need your registration certificate (Meldebescheinigung) to open an account.</li>
                     <li>🏦 <strong>Austria:</strong> Erste Bank, Raiffeisen, Bank Austria. Similar requirements: residence registration and ID.</li>
-                    <li>🏦 <strong>Switzerland:</strong> UBS, Credit Suisse, PostFinance, Raiffeisen, cantonal banks. Opening an account can be more difficult for foreigners. Some banks charge monthly fees (CHF 5-15). Choose carefully!</li>
+                    <li>🏦 <strong>Switzerland:</strong> UBS, PostFinance, Raiffeisen, cantonal banks. Opening an account can be more difficult for foreigners. Some banks charge monthly fees (CHF 5-15). Choose carefully!</li>
                     <li>💳 <strong>Cash Culture:</strong> Germany still uses cash heavily. Austria moderately. Switzerland is more card-friendly but cash is still important. Always carry some cash!</li>
                 </ul>
 
@@ -2633,6 +2633,11 @@ const culturalData = {
                     <li>🇦🇹 <strong>Austria:</strong> €2,400-4,200+ similar to Germany, slightly lower</li>
                     <li>🇨🇭 <strong>Switzerland:</strong> CHF 4,500-8,000+ (€4,200-7,500+) – remember: higher costs!</li>
                 </ul>
+                
+                <div class="tip">
+                    <strong>💡 Note on Figures</strong>
+                    <p>Salary ranges, tax rates, and insurance costs mentioned in this module are approximate and based on current data. These figures can change with policy updates and economic conditions. Always verify current rates with official sources when making financial decisions. 📊</p>
+                </div>
 
                 <h4>💸 Taxes and Contributions:</h4>
                 <ul>
@@ -2674,9 +2679,9 @@ const culturalData = {
 
                 <h4>⚠️ About Unemployment Benefits:</h4>
                 <ul>
-                    <li>🇩🇪 <strong>Germany (Arbeitslosengeld):</strong> Good support if you've paid into the system. 60-67% of previous net salary for up to 12 months (longer if you're older). Then Bürgergeld (citizen's allowance) kicks in.</li>
-                    <li>🇦🇹 <strong>Austria (Arbeitslosengeld):</strong> 55% of previous net earnings, available for 20-52 weeks depending on work history.</li>
-                    <li>🇨🇭 <strong>Switzerland (Arbeitslosenversicherung):</strong> 70-80% of previous salary for up to 2 years, but strong expectation to actively seek work.</li>
+                    <li>🇩🇪 <strong>Germany (Arbeitslosengeld):</strong> Good support if you've paid into the system. Generally 60-67% of previous net salary for up to 12 months (longer if you're older). Then Bürgergeld (citizen's allowance) kicks in. Check current rates as policies update regularly.</li>
+                    <li>🇦🇹 <strong>Austria (Arbeitslosengeld):</strong> Generally around 55% of previous net earnings, available for 20-52 weeks depending on work history. Verify current rates.</li>
+                    <li>🇨🇭 <strong>Switzerland (Arbeitslosenversicherung):</strong> Typically 70-80% of previous salary for up to 2 years, but strong expectation to actively seek work.</li>
                     <li>✅ <strong>Use If Needed:</strong> These systems exist for good reasons. If you lose your job, use the support. That's what you paid into!</li>
                     <li>❌ <strong>But Don't Abuse:</strong> Long-term unemployment while capable of working carries social stigma across all three countries. Active job seeking is required and monitored.</li>
                 </ul>
