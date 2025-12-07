@@ -2497,6 +2497,342 @@ const culturalData = {
                 </div>
             `
         },
+        economicIntegration: {
+            title: "💷 Module 4: Wirtschaftliche Integration – A Practical Guide to Work, Money, and Economic Success in Central Europe 💼",
+            content: `
+                <p>Willkommen to arguably the most important module: work and money. 💰 In Central Europe – Germany 🇩🇪, Austria 🇦🇹, Switzerland 🇨🇭, and Liechtenstein 🇱🇮 – economic self-sufficiency isn't just about survival, it's about social standing, self-respect, and integration. These countries built world-class economies on the foundation of hard work, precision, and reliability. 🏗️</p>
+                
+                <p>This isn't a motivational speech – it's a practical guide to navigating Central European work culture, understanding what's truly expected of you, and building economic stability. Whether you're in Munich, Vienna, Zurich, or Vaduz, the principles are similar, with fascinating regional variations. Let's dive in! 💪</p>
+
+                <h3>🔧 Teil 1: Die Arbeitsethik – The Central European Work Ethic</h3>
+                <p>Central Europeans have a distinctive relationship with work. It's not just a means to an end – quality work is a source of pride. "Made in Germany," "Swiss Made," and Austria's craftsmanship reputation weren't built on shortcuts. 🎯</p>
+
+                <div class="important">
+                    <strong>💼 Core Work Values Across Central Europe</strong>
+                    <ul>
+                        <li><strong>Zuverlässigkeit (Reliability):</strong> This is THE foundation. Showing up on time, every time, and delivering what you promised. 🕐 In Switzerland, this is taken to an almost legendary level.</li>
+                        <li><strong>Gründlichkeit (Thoroughness):</strong> Doing things right, not just quickly. Cutting corners is career suicide across the region. 📏</li>
+                        <li><strong>Fachkompetenz (Professional Competence):</strong> Deep knowledge and skill in your field are highly respected. Germany's dual education system (Ausbildung) reflects this. 🎓</li>
+                        <li><strong>Ordnung (Order/Organisation):</strong> Systems, processes, proper documentation. Germany is famous for this, but it applies across the region. 📋</li>
+                        <li><strong>Pünktlichkeit (Punctuality):</strong> This isn't negotiable. 5 minutes early is on time. On time is late. Late without notice is unforgivable. ⏰</li>
+                    </ul>
+                </div>
+
+                <h4>⚙️ What "Hard Work" Means in Central Europe:</h4>
+                <ul>
+                    <li>🎯 <strong>Quality over Speed:</strong> Better to do it right the first time than rush and fix mistakes. This is gospel in Swiss manufacturing.</li>
+                    <li>📝 <strong>Documentation:</strong> Write things down. Track your work. Keep records. Germans especially appreciate thorough documentation.</li>
+                    <li>🤝 <strong>Professionalism:</strong> Clear separation between work and private life. Keep personal matters private. This is stricter in Germany and Switzerland than Austria.</li>
+                    <li>🎓 <strong>Continuous Learning:</strong> Professional development is valued. Weiterbildung (further education) is common and often supported by employers.</li>
+                    <li>🔇 <strong>Quiet Competence:</strong> Let your work speak. Bragging about your achievements is frowned upon, particularly in Switzerland and Germany. Austrians may be slightly more expressive.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Unspoken Rule</strong>
+                    <p>Central Europeans respect "Fachleute" (professionals) – people who know their craft inside out. 🔨 Whether you're a master craftsman (Meister), an engineer, or a shop assistant, doing your job with expertise and reliability earns more respect than any title. This is deeply embedded across the region. 🌟</p>
+                </div>
+
+                <h3>🏭 Teil 2: Job Market Realities Across Central Europe</h3>
+                <p>The economic landscape varies significantly across the region. Let's break it down by country and sector: 🗺️</p>
+
+                <h4>🇩🇪 Germany – Europe's Economic Powerhouse:</h4>
+                <ul>
+                    <li>🏭 <strong>Manufacturing & Engineering:</strong> Automotive (VW, BMW, Mercedes), machinery, chemicals. Strong demand for skilled workers.</li>
+                    <li>🏥 <strong>Healthcare & Social Care:</strong> Massive demand for nurses, care workers (Pflegekräfte), medical technicians. Good entry point for many.</li>
+                    <li>💻 <strong>IT & Technology:</strong> Berlin's startup scene, but also strong demand throughout the country for software developers, data analysts.</li>
+                    <li>🏗️ <strong>Skilled Trades (Handwerk):</strong> Electricians, plumbers, carpenters – constant demand, well-paid with proper qualifications (Meister system).</li>
+                    <li>🍽️ <strong>Hospitality & Gastronomy:</strong> Restaurants, hotels, tourism. Entry-level opportunities but often demanding hours.</li>
+                    <li>🏪 <strong>Retail:</strong> Supermarkets (Lidl, Aldi, Rewe), department stores, specialist shops. Reliable starter employment.</li>
+                </ul>
+
+                <h4>🇦🇹 Austria – Quality and Tourism:</h4>
+                <ul>
+                    <li>⛷️ <strong>Tourism & Hospitality:</strong> Huge sector, especially in Tyrol, Salzburg. Seasonal and year-round positions in hotels, restaurants, ski resorts.</li>
+                    <li>🏥 <strong>Healthcare:</strong> Similar to Germany – strong demand for nurses and care workers.</li>
+                    <li>🏭 <strong>Manufacturing:</strong> Machinery, automotive suppliers, specialized industrial production.</li>
+                    <li>🎨 <strong>Culture & Arts:</strong> Vienna's cultural sector, theaters, museums – competitive but opportunities exist.</li>
+                    <li>🏪 <strong>Retail & Services:</strong> Shops, cafés (Kaffeehäuser), service industries throughout Austria.</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland – Precision and Finance:</h4>
+                <ul>
+                    <li>💰 <strong>Banking & Finance:</strong> Zurich and Geneva are major financial centers. Requires strong qualifications and often excellent language skills.</li>
+                    <li>⌚ <strong>Precision Manufacturing:</strong> Watchmaking (Uhrenindustrie), pharmaceuticals, high-tech engineering. Switzerland's specialty.</li>
+                    <li>🏥 <strong>Healthcare:</strong> Excellent healthcare system with high demand for qualified staff. Good pay but high standards.</li>
+                    <li>🏨 <strong>Hospitality:</strong> Tourism in the Alps, major cities. High service standards expected.</li>
+                    <li>🏪 <strong>Retail:</strong> Migros, Coop, and countless smaller businesses. Note: Sunday closing laws are strict.</li>
+                    <li>💻 <strong>Technology:</strong> Growing IT sector, particularly in Zurich, Basel, and the Lake Geneva region.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ The Swiss Reality Check</strong>
+                    <p>Switzerland offers the highest salaries in Europe – but also the highest cost of living. 💰 Rent in Zurich or Geneva can consume 30-40% of a good salary. Health insurance is mandatory and expensive (CHF 300-500+ per month). Getting a work permit is difficult for non-EU citizens. Do the math carefully before moving to Switzerland! 🧮</p>
+                </div>
+
+                <h4>🎯 How to Find Work:</h4>
+                <ul>
+                    <li>🌐 <strong>Online Job Portals:</strong> 
+                        <ul>
+                            <li>🇩🇪 Germany: Indeed.de, StepStone, Arbeitsagentur.de (official employment service)</li>
+                            <li>🇦🇹 Austria: Karriere.at, StepStone.at, AMS.at (official service)</li>
+                            <li>🇨🇭 Switzerland: Jobs.ch, Indeed.ch, RAV.ch (official service)</li>
+                        </ul>
+                    </li>
+                    <li>📧 <strong>Direct Applications (Initiativbewerbung):</strong> Sending unsolicited applications to companies is common and accepted across Central Europe. Include a professional CV (Lebenslauf) and cover letter (Anschreiben).</li>
+                    <li>🤝 <strong>Networking:</strong> Professional networks matter. LinkedIn is used. Personal recommendations carry significant weight.</li>
+                    <li>🏢 <strong>Temp Agencies (Zeitarbeitsfirmen):</strong> Can get you started quickly. Germany has many: Randstad, Manpower, Adecco. Pay is lower but it's work experience.</li>
+                    <li>🎓 <strong>Qualification Recognition:</strong> Get foreign qualifications recognized: Germany (anabin.kmk.org), Austria (enic-naric.net), Switzerland (SBFI). This is crucial for regulated professions!</li>
+                </ul>
+
+                <h3>💪 Teil 3: The German "Ausbildung" System – A Game Changer</h3>
+                <p>Germany (and to a lesser extent Austria) has something special: the dual education system (Duales Ausbildungssystem). 🎓 This is worth understanding even if you're past typical apprenticeship age:</p>
+
+                <div class="important">
+                    <strong>🔧 What is Ausbildung?</strong>
+                    <p>A 2-3 year vocational training program combining practical work in a company with theoretical learning at a vocational school (Berufsschule). 📚 You get paid while learning (€800-1,200/month typically). You gain a recognized qualification (anerkannter Abschluss). There are over 300 recognized training occupations! 🏆</p>
+                </div>
+
+                <h4>💼 Why This Matters:</h4>
+                <ul>
+                    <li>✅ <strong>Recognized Qualifications:</strong> An Ausbildung certificate is highly respected across Germany and recognized throughout the EU.</li>
+                    <li>💰 <strong>Good Long-Term Prospects:</strong> After completing an Ausbildung, you're a qualified professional (Fachkraft) with solid earning potential.</li>
+                    <li>📈 <strong>Career Ladder:</strong> You can advance to become a Meister (master craftsman) or Techniker (technician), often earning more than university graduates!</li>
+                    <li>🌍 <strong>Open to Adults:</strong> While most apprentices are young, adult apprenticeships exist. Don't rule it out!</li>
+                </ul>
+
+                <h4>🔍 Common Ausbildung Fields:</h4>
+                <ul>
+                    <li>🔌 Electrician (Elektroniker)</li>
+                    <li>🔧 Mechanic (Mechatroniker, KFZ-Mechatroniker)</li>
+                    <li>🏗️ Construction trades (Maurer, Zimmermann)</li>
+                    <li>💼 Office/Commercial (Kaufmann/-frau)</li>
+                    <li>🍽️ Hospitality (Koch/Köchin, Hotelfachmann/-frau)</li>
+                    <li>💇 Personal services (Friseur/in)</li>
+                    <li>🏥 Healthcare (Gesundheits- und Krankenpfleger/in)</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Austria's Similar System</strong>
+                    <p>Austria has its own excellent dual education system (Lehre). 🇦🇹 The principles are similar to Germany's. Switzerland has Berufslehre – also highly respected. If you're serious about long-term integration and good employment in Central Europe, investigate these paths! 🚀</p>
+                </div>
+
+                <h3>🏦 Teil 4: Money, Taxes, and Financial Basics</h3>
+                <p>Understanding the financial system is crucial for stability. Central Europe is well-organised but complex. 💶</p>
+
+                <h4>💳 Banking:</h4>
+                <ul>
+                    <li>🏦 <strong>Germany:</strong> Deutsche Bank, Commerzbank, Sparkasse (savings banks – local and trusted), N26/online banks. You'll need your registration certificate (Meldebescheinigung) to open an account.</li>
+                    <li>🏦 <strong>Austria:</strong> Erste Bank, Raiffeisen, Bank Austria. Similar requirements: residence registration and ID.</li>
+                    <li>🏦 <strong>Switzerland:</strong> UBS, Credit Suisse, PostFinance, Raiffeisen, cantonal banks. Opening an account can be more difficult for foreigners. Some banks charge monthly fees (CHF 5-15). Choose carefully!</li>
+                    <li>💳 <strong>Cash Culture:</strong> Germany still uses cash heavily. Austria moderately. Switzerland is more card-friendly but cash is still important. Always carry some cash!</li>
+                </ul>
+
+                <h4>💰 Salary Expectations (Approximate Monthly Gross for Skilled Work):</h4>
+                <ul>
+                    <li>🇩🇪 <strong>Germany:</strong> €2,500-4,500+ depending on field, location, qualifications</li>
+                    <li>🇦🇹 <strong>Austria:</strong> €2,400-4,200+ similar to Germany, slightly lower</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> CHF 4,500-8,000+ (€4,200-7,500+) – remember: higher costs!</li>
+                </ul>
+
+                <h4>💸 Taxes and Contributions:</h4>
+                <ul>
+                    <li>📊 <strong>Germany:</strong> Progressive income tax (14-45%), plus solidarity surcharge. Church tax if you're registered as religious. Social contributions: pension, health, unemployment, long-term care (~20% total). Your payslip (Gehaltsabrechnung) will show deductions.</li>
+                    <li>📊 <strong>Austria:</strong> Similar to Germany. Progressive tax (0-55% on very high incomes). Social security contributions around 18%. You'll receive a Lohnzettel showing deductions.</li>
+                    <li>📊 <strong>Switzerland:</strong> Taxes vary significantly by canton! Federal tax is relatively low, but cantonal and municipal taxes vary. You pay taxes annually, not monthly (budget accordingly!). Social contributions are lower but health insurance is private and expensive. 🏥</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Tax Returns Are Mandatory</strong>
+                    <p>Germany: Some employees must file (Steuererklärung), others can to get refunds. 🇦🇹 Austria: File if required or to claim deductions (Arbeitnehmerveranlagung). 🇨🇭 Switzerland: Everyone files an annual tax return to their canton. Don't skip this – penalties can be severe! 📋 Consider hiring a Steuerberater (tax advisor) for your first year if finances are complex.</p>
+                </div>
+
+                <h4>💼 Employment Rights:</h4>
+                <ul>
+                    <li>📝 <strong>Contracts:</strong> Get everything in writing. Employment contracts (Arbeitsvertrag/Anstellungsvertrag) are standard across all countries.</li>
+                    <li>⏰ <strong>Working Hours:</strong> Typically 38-42 hours/week. Switzerland can be 42-45. Overtime rules vary – check your contract.</li>
+                    <li>🏖️ <strong>Vacation:</strong> Germany minimum 20-24 days (most get 25-30), Austria minimum 25, Switzerland 20-25 (4-5 weeks). This is sacred – always take your vacation!</li>
+                    <li>🤒 <strong>Sick Leave:</strong> All countries have good sick pay. Germany: employer pays for 6 weeks, then health insurance. Austria: similar. Switzerland: varies by contract, but typically well protected.</li>
+                    <li>🛡️ <strong>Job Security:</strong> Germany has strong dismissal protection (Kündigungsschutz) after probation. Austria similar. Switzerland has less rigid protections but still fair regulations.</li>
+                    <li>🤰 <strong>Parental Leave:</strong> Generous across the region. Germany offers Elterngeld (parental allowance) for up to 14 months. Austria has Kinderbetreuungsgeld. Switzerland varies by canton but is improving.</li>
+                </ul>
+
+                <h3>🚧 Teil 5: The Culture of Economic Self-Sufficiency</h3>
+                <p>This is where Central European culture gets serious. Economic independence isn't just practical – it's a moral virtue. 💪</p>
+
+                <div class="important">
+                    <strong>🇩🇪🇦🇹🇨🇭 Why Self-Sufficiency Matters</strong>
+                    <p>Central European culture is built on the principle of "Eigenverantwortung" (personal responsibility). 🎯 You're expected to take care of yourself and your family. While social safety nets exist (especially in Germany and Austria), relying on them long-term when you're capable of working is culturally frowned upon. In Switzerland, this expectation is even stronger. 🦶</p>
+                </div>
+
+                <h4>💡 What Economic Self-Sufficiency Signals:</h4>
+                <ul>
+                    <li>✊ <strong>You're Contributing:</strong> Paying taxes, social insurance contributions, supporting the system that supports society.</li>
+                    <li>🤝 <strong>You're Serious About Integration:</strong> Working shows you're committed to making a life in Central Europe, not just passing through.</li>
+                    <li>🏠 <strong>You're Reliable:</strong> Landlords, banks, officials all see stable employment as proof you're trustworthy.</li>
+                    <li>👥 <strong>You Belong:</strong> Work is where many Central Europeans build their social networks. Colleagues become friends, especially through work social activities.</li>
+                </ul>
+
+                <h4>⚠️ About Unemployment Benefits:</h4>
+                <ul>
+                    <li>🇩🇪 <strong>Germany (Arbeitslosengeld):</strong> Good support if you've paid into the system. 60-67% of previous net salary for up to 12 months (longer if you're older). Then Bürgergeld (citizen's allowance) kicks in.</li>
+                    <li>🇦🇹 <strong>Austria (Arbeitslosengeld):</strong> 55% of previous net earnings, available for 20-52 weeks depending on work history.</li>
+                    <li>🇨🇭 <strong>Switzerland (Arbeitslosenversicherung):</strong> 70-80% of previous salary for up to 2 years, but strong expectation to actively seek work.</li>
+                    <li>✅ <strong>Use If Needed:</strong> These systems exist for good reasons. If you lose your job, use the support. That's what you paid into!</li>
+                    <li>❌ <strong>But Don't Abuse:</strong> Long-term unemployment while capable of working carries social stigma across all three countries. Active job seeking is required and monitored.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Swiss Difference</strong>
+                    <p>Switzerland has less generous welfare than Germany or Austria, and cultural expectations for self-sufficiency are even stricter. 🇨🇭 The Swiss expect you to work hard, save privately, and not rely on the state. This mindset has created one of the world's wealthiest countries, but it's also more challenging if you're struggling. Plan accordingly! 💰</p>
+                </div>
+
+                <h3>📚 Teil 6: Professional Development and Qualifications</h3>
+                <p>Central Europeans never stop learning. Weiterbildung (continuing education) is a way of life. 📖</p>
+
+                <h4>🎓 Formal Qualifications Matter:</h4>
+                <ul>
+                    <li>📜 <strong>Get Recognition:</strong> If you have qualifications from abroad, get them officially recognized. This can significantly improve your job prospects and salary.</li>
+                    <li>🏆 <strong>Meister/Fachwirt:</strong> In Germany and Austria, becoming a Meister (master craftsman) or Fachwirt (specialist) after your Ausbildung can lead to excellent career prospects and the right to train apprentices.</li>
+                    <li>🎓 <strong>University Degrees:</strong> Respected across the region. Germany has many universities with low/no tuition. Austria similar. Switzerland has excellent universities but higher costs.</li>
+                    <li>💻 <strong>Certificates and Courses:</strong> Industry-specific certifications (IT, project management, languages) are valued. Volkshochschulen (adult education centers) offer affordable courses across Germany and Austria.</li>
+                </ul>
+
+                <h4>🗣️ Language Skills – Critical Investment:</h4>
+                <ul>
+                    <li>🇩🇪 <strong>German:</strong> Essential in Germany and Austria. English works in some international companies, but German opens doors everywhere. Aim for B2-C1 level for professional work.</li>
+                    <li>🇦🇹 <strong>Austrian German:</strong> Similar to standard German but with unique vocabulary and accent. Locals appreciate effort to learn Austrianisms!</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> German-speaking cantons use Swiss German (Schweizerdeutsch) in daily life, but High German (Hochdeutsch) in writing and formal settings. French in western cantons (Geneva, Lausanne), Italian in Ticino, Romansh in parts of Graubünden. Know which language region you're in!</li>
+                    <li>📚 <strong>Free Courses:</strong> Many integration courses (Integrationskurse) are free or subsidized for migrants in Germany. Austria offers similar (ÖIF courses). Switzerland varies by canton.</li>
+                </ul>
+
+                <h3>🏢 Teil 7: Workplace Culture – What to Expect</h3>
+                <p>Central European workplace culture has specific expectations. Here's how to navigate: 🎯</p>
+
+                <h4>👔 Formality and Hierarchy:</h4>
+                <ul>
+                    <li>🎩 <strong>Sie vs. Du:</strong> Start with Sie (formal "you") with everyone. Wait for the offer to use Du. This matters! In some modern tech companies, Du is standard, but assume Sie until told otherwise.</li>
+                    <li>📋 <strong>Titles:</strong> Use them! "Herr Doktor," "Frau Professorin" – especially in Austria, where titles are taken very seriously. In Switzerland and Germany, less emphasis but still respectful to use them.</li>
+                    <li>🏢 <strong>Hierarchy:</strong> Respect exists but varies. Germany: clear hierarchies in traditional companies, flatter in startups. Austria: somewhat more hierarchical. Switzerland: varies, but consensus-oriented decision making is valued.</li>
+                </ul>
+
+                <h4>⏰ Punctuality and Meetings:</h4>
+                <ul>
+                    <li>🕐 <strong>Meetings Start On Time:</strong> Be there 5 minutes early. No excuses. Swiss punctuality is legendary – they mean it literally!</li>
+                    <li>📋 <strong>Prepared and Organized:</strong> Bring documents, know your facts, have proposals ready. Germans especially value thorough preparation.</li>
+                    <li>🎯 <strong>Focused and Efficient:</strong> Meetings have agendas and stick to them. Small talk is minimal. Get to the point.</li>
+                    <li>📝 <strong>Minutes and Follow-up:</strong> Document everything (Protokoll). Follow through on commitments made in meetings.</li>
+                </ul>
+
+                <h4>💬 Communication Style:</h4>
+                <ul>
+                    <li>🎯 <strong>Direct Feedback:</strong> Germans are particularly direct. "Das ist falsch" (That's wrong) isn't personal – it's about accuracy. Don't take it to heart.</li>
+                    <li>🇦🇹 <strong>Austrian Charm:</strong> Austrians can be more diplomatic with their famous "Schmäh" (charming humor), but still fairly direct.</li>
+                    <li>🇨🇭 <strong>Swiss Consensus:</strong> Swiss Germans often seek consensus (Konkordanz). They avoid open conflict but are still clear communicators.</li>
+                    <li>📧 <strong>Email Etiquette:</strong> Formal emails are standard. "Sehr geehrte/r" (Dear), professional tone, proper sign-offs. First names only after you've established rapport.</li>
+                </ul>
+
+                <h4>⚙️ Work Culture:</h4>
+                <ul>
+                    <li>🏢 <strong>Separation of Work and Private:</strong> Keep your private life private. Central Europeans don't share personal details easily at work.</li>
+                    <li>🍺 <strong>After-Work Culture:</strong> Germany: sometimes Feierabendbier (after-work beer). Austria: Heurigenbesuch (wine tavern visit). Switzerland: less common, but exists. Attendance is semi-optional but helps with integration.</li>
+                    <li>🎄 <strong>Company Events:</strong> Weihnachtsfeier (Christmas party), summer fests – these are important for team bonding. Show up!</li>
+                    <li>☕ <strong>Breaks:</strong> Coffee breaks (Kaffeepause) are short and functional. Not like extended fika in Scandinavia!</li>
+                </ul>
+
+                <h3>💼 Teil 8: Starting a Business – Entrepreneurship in Central Europe</h3>
+                <p>All three countries have vibrant business environments, though with different approaches: 🚀</p>
+
+                <h4>🇩🇪 Germany – Strong Support, Lots of Rules:</h4>
+                <ul>
+                    <li>📋 <strong>Regulations:</strong> Lots of them! But they're clear and applied fairly. Know your Gewerbeordnung (trade regulations).</li>
+                    <li>🏢 <strong>Legal Forms:</strong> Einzelunternehmen (sole trader), GmbH (limited company), UG (mini-GmbH). Choose based on your needs and liability concerns.</li>
+                    <li>💰 <strong>Funding:</strong> KfW bank offers startup loans. Gründerzuschuss (startup grant) may be available if you're on benefits and have a solid business plan.</li>
+                    <li>📝 <strong>Registration:</strong> Register at the Gewerbeamt for trade business, or as Freiberufler if you're a freelancer (certain professions only).</li>
+                </ul>
+
+                <h4>🇦🇹 Austria – Similar to Germany:</h4>
+                <ul>
+                    <li>🏢 <strong>Legal Forms:</strong> Einzelunternehmen, GmbH, OG (general partnership). Process similar to Germany.</li>
+                    <li>📋 <strong>WKO:</strong> Wirtschaftskammer Österreich (Chamber of Commerce) – membership often mandatory for businesses. They provide support and services.</li>
+                    <li>💶 <strong>Funding:</strong> AWS (Austria Wirtschaftsservice) provides startup support and financing.</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland – Easy to Start, Expensive to Run:</h4>
+                <ul>
+                    <li>✅ <strong>Business-Friendly:</strong> Switzerland consistently ranks as one of the easiest places to start a business globally.</li>
+                    <li>💰 <strong>Costs:</strong> Higher than Germany/Austria. Rent, salaries, health insurance for employees – everything is more expensive.</li>
+                    <li>🏢 <strong>Legal Forms:</strong> Einzelfirma (sole proprietorship), GmbH, AG (joint-stock company). Straightforward registration through cantonal commerce offices.</li>
+                    <li>📊 <strong>Taxes:</strong> Business taxes vary by canton. Some cantons (Zug, Schwyz) are very business-friendly with low taxes. Others less so.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Get Professional Advice!</strong>
+                    <p>Starting a business in Central Europe requires navigating complex tax, legal, and regulatory frameworks. 📋 Hire a Steuerberater (tax advisor) and possibly a lawyer for setup. The upfront cost saves enormous headaches and potential fines later. This is money well spent across all three countries! 💼</p>
+                </div>
+
+                <h3>🏘️ Teil 9: Economic Integration in Rural vs. Urban Areas</h3>
+                <p>Job markets differ significantly between cities and countryside across Central Europe: 🏙️🌲</p>
+
+                <h4>🏙️ Urban Areas (Berlin, Munich, Vienna, Zurich, Geneva):</h4>
+                <ul>
+                    <li>✅ <strong>More Opportunities:</strong> Diverse job markets, international companies, startups, specialized positions.</li>
+                    <li>💰 <strong>Higher Salaries:</strong> But also much higher rents and living costs, especially in Munich, Zurich, Geneva.</li>
+                    <li>🌍 <strong>International Environment:</strong> More English speakers, more cosmopolitan, easier initial integration.</li>
+                    <li>🏃 <strong>Faster Pace:</strong> More competitive, potentially less personal workplace relationships.</li>
+                </ul>
+
+                <h4>🌲 Rural Areas:</h4>
+                <ul>
+                    <li>🏭 <strong>Different Sectors:</strong> Manufacturing, agriculture, tourism (especially in Alps), traditional trades, local retail.</li>
+                    <li>💶 <strong>Lower Salaries, Lower Costs:</strong> Pay is less but so is rent and daily living. Quality of life can be excellent.</li>
+                    <li>🚗 <strong>Car Essential:</strong> Public transport is limited. A driving license and car open up opportunities.</li>
+                    <li>👥 <strong>Tighter Communities:</strong> Your reputation matters more. Being a good employee and neighbor is noticed. Integration takes longer but can be deeper.</li>
+                    <li>🗣️ <strong>German Essential:</strong> English won't get you far in rural Bavaria, Austrian valleys, or Swiss villages. Local dialects common!</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Hidden Advantage</strong>
+                    <p>Rural Central Europe often has excellent "hidden champion" companies (Mittelstand in Germany) – medium-sized, world-leading companies in specialized fields. 🏆 They often struggle to find workers and offer stable employment, good training, and strong benefits. Don't overlook opportunities outside major cities! 🌟</p>
+                </div>
+
+                <h3>🛡️ Teil 10: Social Security and Insurance – The Safety Net</h3>
+                <p>Central European countries have comprehensive social security systems, but they work differently: 🏥</p>
+
+                <h4>🏥 Health Insurance (Krankenversicherung) – MANDATORY:</h4>
+                <ul>
+                    <li>🇩🇪 <strong>Germany:</strong> Statutory (gesetzlich) or private (privat). Most employees are in statutory (AOK, TK, Barmer, etc.). About 14.6% of gross salary (split with employer). Covers family members at no extra cost.</li>
+                    <li>🇦🇹 <strong>Austria:</strong> Similar to Germany. WGKK and other statutory providers. About 7.65% of gross salary. Very comprehensive coverage.</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> MANDATORY private insurance (Grundversicherung). You choose your provider. Costs CHF 300-500+ per month depending on age, canton, deductible. NOT free for family members – everyone pays! Budget carefully!</li>
+                </ul>
+
+                <h4>💼 Unemployment Insurance (Arbeitslosenversicherung):</h4>
+                <ul>
+                    <li>📊 Contributions are automatic from your salary in all countries.</li>
+                    <li>✅ Register immediately if you lose your job at the Arbeitsagentur (Germany), AMS (Austria), or RAV (Switzerland).</li>
+                    <li>📋 Active job seeking is required. They will monitor your efforts!</li>
+                </ul>
+
+                <h4>👴 Pension Insurance (Rentenversicherung):</h4>
+                <ul>
+                    <li>🏦 All countries have state pension systems funded by current workers' contributions.</li>
+                    <li>💰 Consider private pension supplements (Riester/Rürup in Germany, Pensionskasse in Austria, Säule 3a in Switzerland).</li>
+                    <li>⏳ The earlier you start, the better. State pensions alone may not be sufficient!</li>
+                </ul>
+
+                <h4>⚖️ Legal Insurance (Rechtsschutzversicherung) – Recommended:</h4>
+                <ul>
+                    <li>📋 Not mandatory but very useful. Covers legal costs for disputes with employers, landlords, etc.</li>
+                    <li>💶 Costs €10-30/month depending on coverage. Can save thousands if you need it!</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Economic integration in Central Europe rests on several pillars: <strong>Reliability (Zuverlässigkeit)</strong> ⏰ – show up, deliver, keep promises. <strong>Quality (Qualität)</strong> 🎯 – do things properly, take pride in your work. <strong>Self-Sufficiency (Eigenverantwortung)</strong> 💪 – support yourself and contribute to society. <strong>Continuous Learning (Weiterbildung)</strong> 📚 – never stop improving your skills.</p>
+                    <p>Germany 🇩🇪 offers strong worker protections and excellent training systems. Austria 🇦🇹 combines German thoroughness with Alpine charm and a thriving tourism sector. Switzerland 🇨🇭 provides the highest salaries but demands the highest standards and self-reliance. </p>
+                    <p>Work hard, work smart, respect the systems, and build your economic foundation. Central Europeans respect those who contribute and stand on their own two feet. Do that, and you'll build not just a career – but a solid, prosperous life in the heart of Europe! 🇩🇪🇦🇹🇨🇭🇱🇮✨</p>
+                </div>
+            `
+        },
         social: {
             title: "Social Ethics in Central Europe",
             content: `
