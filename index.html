@@ -3,13 +3,21 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Cultural User Manual - Assimilate Like a Pro</title>
+    <title>The Cultural User Manual - Your Interactive Guide to Cultural Integration</title>
     <link rel="stylesheet" href="styles.css">
+    <link rel="stylesheet" href="interactive-styles.css">
 </head>
 <body class="intro-active">
     <header>
         <h1>🌍 The Cultural User Manual</h1>
-        <p class="subtitle">Your guide to assimilating into European cultures</p>
+        <p class="subtitle">Your interactive guide to cultural integration in Europe</p>
+        <nav class="header-nav">
+            <button class="nav-btn" onclick="showSection('intro')">Home</button>
+            <button class="nav-btn" onclick="showSection('scenarios')">Scenarios</button>
+            <button class="nav-btn" onclick="showSection('quizzes')">Quizzes</button>
+            <button class="nav-btn" onclick="showSection('scoreboard')">My Progress</button>
+            <button class="nav-btn" onclick="showSection('b2b')">For Companies</button>
+        </nav>
     </header>
 
     <main>
@@ -273,18 +281,163 @@
                 <div id="content-body"></div>
             </div>
         </section>
+
+        <!-- New Interactive Sections -->
+        
+        <!-- Role Profile Selection -->
+        <section id="role-selection" class="selection-section hidden">
+            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
+            <div class="role-selector">
+                <h3>👤 Select Your Profile</h3>
+                <p class="text-center">Choose your role to get personalized cultural guidance</p>
+                <div class="role-grid" id="role-grid"></div>
+            </div>
+        </section>
+
+        <!-- Scenarios Section -->
+        <section id="scenarios-section" class="selection-section hidden">
+            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
+            <h2 class="text-center">🎭 Scenario-Based Cultural Guidance</h2>
+            <p class="text-center">Learn through real-life situations and interactive scenarios</p>
+            
+            <div class="scenario-categories">
+                <div class="scenario-category-card" onclick="showScenarioContext('workplace')">
+                    <div class="scenario-icon">🏢</div>
+                    <h3>Workplace Scenarios</h3>
+                    <p>Navigate professional situations with cultural awareness</p>
+                </div>
+                <div class="scenario-category-card" onclick="showScenarioContext('healthcare')">
+                    <div class="scenario-icon">🏥</div>
+                    <h3>Healthcare & Medical</h3>
+                    <p>Handle healthcare interactions confidently</p>
+                </div>
+                <div class="scenario-category-card" onclick="showScenarioContext('bureaucracy')">
+                    <div class="scenario-icon">🏛️</div>
+                    <h3>Bureaucracy & Admin</h3>
+                    <p>Navigate official procedures efficiently</p>
+                </div>
+                <div class="scenario-category-card" onclick="showScenarioContext('socialGatherings')">
+                    <div class="scenario-icon">🎉</div>
+                    <h3>Social Gatherings</h3>
+                    <p>Master social situations and etiquette</p>
+                </div>
+            </div>
+            
+            <div id="scenario-content" class="mt-2"></div>
+        </section>
+
+        <!-- Quizzes Section -->
+        <section id="quizzes-section" class="selection-section hidden">
+            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
+            <h2 class="text-center">📝 Test Your Cultural Knowledge</h2>
+            <p class="text-center">Take interactive quizzes to reinforce your understanding</p>
+            
+            <div class="quiz-selection-grid">
+                <div class="quiz-card" onclick="startQuiz('englandBasics')">
+                    <div class="quiz-icon">🇬🇧</div>
+                    <h3>UK Cultural Basics</h3>
+                    <p>Test your knowledge of British culture and etiquette</p>
+                    <span class="quiz-badge">4 Questions</span>
+                </div>
+                <div class="quiz-card" onclick="startQuiz('workplaceEtiquette')">
+                    <div class="quiz-icon">💼</div>
+                    <h3>Workplace Etiquette</h3>
+                    <p>Master professional cultural norms across Europe</p>
+                    <span class="quiz-badge">3 Questions</span>
+                </div>
+            </div>
+            
+            <div id="quiz-content" class="mt-2"></div>
+        </section>
+
+        <!-- Scoreboard Section -->
+        <section id="scoreboard-section" class="selection-section hidden">
+            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
+            <div id="scoreboard-content"></div>
+        </section>
+
+        <!-- B2B Section -->
+        <section id="b2b-section" class="selection-section hidden">
+            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
+            <div class="b2b-content">
+                <h2 class="text-center">🏢 Corporate Cultural Onboarding</h2>
+                <p class="intro-tagline text-center">Streamline multicultural team integration</p>
+                
+                <div class="b2b-features">
+                    <div class="feature-card">
+                        <div class="feature-icon">👥</div>
+                        <h3>Team Onboarding</h3>
+                        <p>Comprehensive cultural training programs for international hires</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">📊</div>
+                        <h3>Progress Tracking</h3>
+                        <p>Monitor team members' cultural competency development</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">✅</div>
+                        <h3>Compliance Ready</h3>
+                        <p>Meet diversity and inclusion requirements with documented training</p>
+                    </div>
+                    <div class="feature-card">
+                        <div class="feature-icon">🎯</div>
+                        <h3>Custom Content</h3>
+                        <p>Tailor scenarios and guidance to your industry and locations</p>
+                    </div>
+                </div>
+
+                <div class="b2b-cta">
+                    <h3>Interested in bringing this to your organization?</h3>
+                    <p>Contact us to learn about enterprise licensing and customization options</p>
+                    <button class="cta-button" onclick="alert('Contact form coming soon! Email: info@culturalmanual.com')">
+                        Get Enterprise Access
+                    </button>
+                </div>
+
+                <div class="b2b-benefits">
+                    <h3 class="text-center">Why Companies Choose Us</h3>
+                    <ul class="benefits-list">
+                        <li><strong>Reduce Integration Time:</strong> New international hires become productive faster</li>
+                        <li><strong>Improve Retention:</strong> Better cultural fit means lower turnover</li>
+                        <li><strong>Enhanced Collaboration:</strong> Cross-cultural teams work more effectively</li>
+                        <li><strong>Legal Compliance:</strong> Meet diversity training requirements</li>
+                        <li><strong>Privacy-Focused:</strong> No ads, minimal data collection, GDPR compliant</li>
+                    </ul>
+                </div>
+            </div>
+        </section>
+
     </main>
 
     <footer>
-        <p>© 2024 The Cultural User Manual | Helping migrants assimilate with confidence</p>
+        <div class="footer-content">
+            <div class="footer-section">
+                <h4>About</h4>
+                <p>Privacy-friendly cultural guidance for European integration</p>
+            </div>
+            <div class="footer-section">
+                <h4>Privacy</h4>
+                <p>Ad-free • No tracking • Local storage only</p>
+                <a href="#" onclick="showPrivacyPolicy()">Privacy Policy</a>
+            </div>
+            <div class="footer-section">
+                <h4>Resources</h4>
+                <a href="https://github.com/gilbertbouic/The-Cultural-User-Manual" target="_blank">GitHub</a>
+            </div>
+        </div>
+        <p class="copyright">© 2024 The Cultural User Manual | Open Source Cultural Integration Guide</p>
     </footer>
 
     <!-- TensorFlow.js and HandPose for hand tracking -->
     <script src="https://unpkg.com/@tensorflow/tfjs@3.11.0/dist/tf.min.js"></script>
     <script src="https://unpkg.com/@tensorflow-models/handpose@0.0.7/dist/handpose.min.js"></script>
     
+    <!-- Application Scripts -->
     <script src="data.js"></script>
+    <script src="scenarios.js"></script>
+    <script src="interactive.js"></script>
     <script src="app.js"></script>
     <script src="hand-tracking.js"></script>
+    <script src="navigation.js"></script>
 </body>
 </html>
