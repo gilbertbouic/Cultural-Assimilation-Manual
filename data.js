@@ -3120,6 +3120,1128 @@ const culturalData = {
                     <li>Right to live and work freely in the country</li>
                 </ul>
             `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems – Your Guide to Medical Care Across Central Europe 💊",
+            content: `
+                <p>Servus! Let's talk about something crucial: healthcare in Central Europe. 🏥 Germany 🇩🇪, Austria 🇦🇹, and Switzerland 🇨🇭 all have excellent healthcare systems, but they work differently from each other – and probably differently from what you're used to. Understanding how they work is essential for staying healthy and avoiding costly mistakes. 💰</p>
+                
+                <p>This module will walk you through health insurance requirements, finding doctors, getting treatment, and navigating each country's system. Los geht's! 💪</p>
+
+                <h3>🌍 Part 1: Overview – Three Different Systems</h3>
+                <p>While all Central European countries have high-quality healthcare, the systems differ significantly: 🏛️</p>
+
+                <div class="important">
+                    <strong>💡 The Three Systems at a Glance</strong>
+                    <ul>
+                        <li><strong>🇩🇪 Germany:</strong> Statutory health insurance (gesetzliche Krankenversicherung) for most, private option for high earners. Comprehensive coverage, relatively easy access. 🆓</li>
+                        <li><strong>🇦🇹 Austria:</strong> Similar to Germany – social insurance system (Sozialversicherung) with near-universal coverage through statutory providers. e-card system for easy access. 💳</li>
+                        <li><strong>🇨🇭 Switzerland:</strong> MANDATORY private insurance (Grundversicherung) from competing providers. You MUST buy your own insurance. Everyone pays, including children! 💰</li>
+                    </ul>
+                </div>
+
+                <div class="warning">
+                    <strong>⚠️ Critical Point: Insurance Is Mandatory Everywhere!</strong>
+                    <p>In all three countries, health insurance is legally required. 🚫 In Germany and Austria, it's automatic for most employees. In Switzerland, YOU must arrange it yourself within 3 months of arrival. Failure to insure can result in fines and backdated premium bills! ⚖️</p>
+                </div>
+
+                <h3>🇩🇪 Part 2: Germany – The Statutory/Private Dual System</h3>
+                <p>Germany's healthcare system is one of the world's oldest and most comprehensive. Here's how it works: 🏥</p>
+
+                <h4>💳 Health Insurance in Germany:</h4>
+                <ul>
+                    <li>🏥 <strong>Gesetzliche Krankenversicherung (GKV) – Statutory Insurance:</strong> For employees earning under ~€69,300/year (2024 threshold). About 90% of Germans have this. Providers include AOK, TK (Techniker Krankenkasse), Barmer, DAK, BKK, and others.</li>
+                    <li>💼 <strong>Private Krankenversicherung (PKV) – Private Insurance:</strong> Optional for high earners, self-employed, and civil servants. Can be cheaper when young but gets expensive with age.</li>
+                    <li>💰 <strong>Cost:</strong> GKV is ~14.6% of gross salary (split roughly 50-50 between employer and employee). Plus ~1-2% additional contribution varies by provider.</li>
+                    <li>👨‍👩‍👧 <strong>Family Coverage:</strong> GKV covers spouse and children at NO extra cost (Familienversicherung) if they earn little/no income. Private insurance requires separate policies for each person!</li>
+                </ul>
+
+                <h4>🏥 Choosing a Health Insurance Provider (Krankenkasse):</h4>
+                <ul>
+                    <li>🔍 <strong>All GKV providers offer same basic coverage:</strong> Legally mandated services are identical. Differences are in extra services (dental cleaning, travel vaccinations, alternative medicine).</li>
+                    <li>📊 <strong>Compare additional contributions:</strong> These vary by ~0.5-2% and are listed on provider websites.</li>
+                    <li>⭐ <strong>Popular options:</strong> TK (Techniker Krankenkasse) – good service, English support. AOK – regional providers. Barmer, DAK-Gesundheit – nationwide coverage.</li>
+                    <li>🔄 <strong>You can switch:</strong> After 18 months with a provider, you can change (with 2 months' notice).</li>
+                </ul>
+
+                <h4>👨‍⚕️ Finding a Doctor (Arzt):</h4>
+                <ul>
+                    <li>🔍 <strong>General Practitioners (Hausarzt):</strong> Find one near you. Use online directories or ask neighbors. You don't formally "register" like in the UK – just book an appointment.</li>
+                    <li>📞 <strong>Booking Appointments:</strong> Call the practice (Praxis). Say "Ich hätte gerne einen Termin" (I'd like an appointment). Many practices are moving to online booking.</li>
+                    <li>💳 <strong>Bring Your Insurance Card:</strong> Always bring your Gesundheitskarte (health insurance card). The practice will scan it – you pay nothing on the spot for standard care.</li>
+                    <li>🏥 <strong>Specialists (Fachärzte):</strong> You can often go directly without GP referral (unlike many countries). But getting a Überweisung (referral) from your Hausarzt can help with appointment priority.</li>
+                </ul>
+
+                <h4>💊 Prescriptions (Rezepte):</h4>
+                <ul>
+                    <li>📝 <strong>The Prescription:</strong> Your doctor gives you a paper or digital prescription (Rezept).</li>
+                    <li>🏪 <strong>Pharmacies (Apotheken):</strong> Take it to any Apotheke. They'll prepare your medication.</li>
+                    <li>💰 <strong>Cost:</strong> GKV members pay €5-10 per prescription (Rezeptgebühr) for most medicines. Some are exempt. Private insurance works differently.</li>
+                    <li>🌙 <strong>Emergency Pharmacy:</strong> "Apotheken-Notdienst" rotate 24/7 coverage. Check local listings or apotheken.de.</li>
+                </ul>
+
+                <h4>🆘 Emergencies:</h4>
+                <ul>
+                    <li>🚑 <strong>Emergency Number:</strong> 112 for ambulance/fire/police throughout Europe!</li>
+                    <li>🏥 <strong>Emergency Rooms (Notaufnahme):</strong> Go for serious emergencies only. Waiting times can be long for non-urgent cases.</li>
+                    <li>📞 <strong>Ärztlicher Bereitschaftsdienst (116 117):</strong> For non-life-threatening urgent care outside office hours. They'll direct you to open practices or arrange house calls.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 German Healthcare Tip</strong>
+                    <p>The Hausarzt system works well! 👨‍⚕️ Find a good Hausarzt you trust. They coordinate your care, have your medical history, and can refer you to specialists. Building this relationship is valuable. 🤝</p>
+                </div>
+
+                <h3>🇦🇹 Part 3: Austria – The E-Card System</h3>
+                <p>Austria's healthcare is similar to Germany's but with some unique features: 💳</p>
+
+                <h4>🏥 Health Insurance in Austria:</h4>
+                <ul>
+                    <li>📋 <strong>Automatically covered:</strong> Employees are automatically insured through their employer with regional Krankenkassen (ÖGK – Österreichische Gesundheitskasse is the main provider since 2020 merger).</li>
+                    <li>💰 <strong>Cost:</strong> About 7.65% of gross salary for employees (employer pays additional percentage). Contributions are automatic.</li>
+                    <li>💳 <strong>E-Card:</strong> You receive an e-card (Chipkarte) in the mail. THIS is your key to healthcare! Always bring it to doctor appointments.</li>
+                    <li>👨‍👩‍👧 <strong>Family Coverage:</strong> Like Germany – spouse and children covered at no extra cost if they meet income criteria.</li>
+                </ul>
+
+                <h4>👨‍⚕️ Finding Doctors in Austria:</h4>
+                <ul>
+                    <li>🏥 <strong>Vertragsärzte (Contract Doctors):</strong> Doctors with contracts with health insurance. Treatment is FREE (covered by your e-card). Find them on ÖGK website.</li>
+                    <li>💰 <strong>Wahlarzt (Private Doctors):</strong> Doctors without health insurance contracts. You pay upfront (can be expensive!) and claim partial reimbursement from your insurance (usually 80% of the official rate, which may be less than the actual bill!).</li>
+                    <li>📞 <strong>Booking:</strong> Call practices. "Ich hätte gerne einen Termin" (I'd like an appointment).</li>
+                    <li>💳 <strong>E-Card:</strong> Present it at every visit. The doctor scans it and billing is automatic.</li>
+                </ul>
+
+                <h4>💊 Prescriptions in Austria:</h4>
+                <ul>
+                    <li>📝 <strong>E-Rezept:</strong> Many prescriptions are now electronic. Your e-card carries the prescription.</li>
+                    <li>🏪 <strong>Apotheke:</strong> Take your e-card to any pharmacy. They access your prescription and dispense medication.</li>
+                    <li>💰 <strong>Rezeptgebühr:</strong> Small fee per prescription item (~€6-7). Some groups are exempt (children, low-income, certain chronic conditions).</li>
+                </ul>
+
+                <h4>🆘 Emergencies in Austria:</h4>
+                <ul>
+                    <li>🚑 <strong>Emergency Number:</strong> 112 (Europe-wide) or 144 (Austrian ambulance specifically).</li>
+                    <li>🏥 <strong>Ambulanz:</strong> Hospital emergency departments for serious cases.</li>
+                    <li>📞 <strong>Ärztefunkdienst (141):</strong> Emergency doctor service for urgent non-life-threatening issues outside office hours.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🇦🇹 Austrian Tip: The E-Card is Everything!</strong>
+                    <p>Don't lose your e-card! 💳 It's your passport to free healthcare at contract doctors. If lost, report immediately to ÖGK and request a replacement. Without it, you may have to pay upfront and claim reimbursement. 🚨</p>
+                </div>
+
+                <h3>🇨🇭 Part 4: Switzerland – Mandatory Private Insurance</h3>
+                <p>Switzerland's system is unique and potentially expensive. Understanding it is critical: ⚠️</p>
+
+                <h4>🏥 Health Insurance in Switzerland (Grundversicherung):</h4>
+                <ul>
+                    <li>🚨 <strong>MANDATORY for everyone:</strong> Within 3 months of arrival, you MUST buy basic insurance (Grundversicherung/assurance de base).</li>
+                    <li>🏢 <strong>Private but regulated:</strong> You buy from private insurers (CSS, Helsana, Swica, Sanitas, Assura, and many others) but the basic coverage is legally defined – it's the same everywhere.</li>
+                    <li>💰 <strong>Cost:</strong> Varies! CHF 300-600+ per month depending on:
+                        <ul>
+                            <li>📍 Your canton (Zurich expensive, Appenzell cheaper)</li>
+                            <li>🎂 Your age (older = more expensive)</li>
+                            <li>💵 Your deductible/Franchise choice (higher deductible = lower monthly premium)</li>
+                            <li>🏥 Your insurance model (standard, HMO, GP model, etc.)</li>
+                        </ul>
+                    </li>
+                    <li>👨‍👩‍👧 <strong>NO free family coverage:</strong> Every person – including children – needs their own policy and pays their own premium! 💰💰💰</li>
+                    <li>📅 <strong>Can switch annually:</strong> You can change insurers each year by end of November for next year.</li>
+                </ul>
+
+                <h4>💡 Choosing Swiss Health Insurance:</h4>
+                <ul>
+                    <li>🔍 <strong>Use comparison sites:</strong> comparis.ch and priminfo.ch (official) help you compare premiums.</li>
+                    <li>💵 <strong>Deductible (Franchise):</strong> You can choose from CHF 300 (lowest), 500, 1000, 1500, 2000, 2500 (highest). Higher deductible = lower monthly premium. Choose based on expected medical needs.</li>
+                    <li>🏥 <strong>Insurance Models:</strong> 
+                        <ul>
+                            <li>Standard model: Free choice of doctors (most expensive)</li>
+                            <li>HMO model: You visit a medical center first (cheaper)</li>
+                            <li>Hausarzt/GP model: You choose a family doctor as first contact (cheaper)</li>
+                            <li>Telmed model: Call insurance's medical hotline first (cheaper)</li>
+                        </ul>
+                    </li>
+                    <li>📊 <strong>Cheapest isn't always best:</strong> But since basic coverage is identical, cheaper is often fine. Check service quality reviews.</li>
+                </ul>
+
+                <h4>👨‍⚕️ Using Healthcare in Switzerland:</h4>
+                <ul>
+                    <li>📞 <strong>Finding Doctors:</strong> Search online or ask for recommendations. Book appointments (Termine).</li>
+                    <li>💳 <strong>Insurance Card:</strong> You receive an insurance card. Bring it to appointments.</li>
+                    <li>💰 <strong>Payment:</strong> Unlike Germany/Austria, you often receive a BILL (Rechnung) after treatment! You pay it, then your insurance reimburses you. Or the doctor bills the insurance directly – depends on the practice.</li>
+                    <li>💵 <strong>Deductible:</strong> YOU pay the first CHF 300-2500/year (your franchise) out of pocket. After that, you pay 10% of costs up to CHF 700/year. Insurance covers the rest.</li>
+                </ul>
+
+                <h4>💊 Prescriptions in Switzerland:</h4>
+                <ul>
+                    <li>📝 <strong>Paper Prescriptions:</strong> Doctor gives you a prescription (Rezept/ordonnance).</li>
+                    <li>🏪 <strong>Apotheke/Pharmacie:</strong> Take to any pharmacy. They'll prepare medications.</li>
+                    <li>💰 <strong>Cost:</strong> You pay upfront. Costs count toward your deductible/franchise.</li>
+                </ul>
+
+                <h4>🆘 Emergencies in Switzerland:</h4>
+                <ul>
+                    <li>🚑 <strong>Emergency Number:</strong> 112 or 144 (ambulance). Be aware: ambulance rides cost money (CHF 500-2000) and may not be fully covered! 🚨</li>
+                    <li>🏥 <strong>Notfall/Urgences:</strong> Hospital emergency rooms for serious cases.</li>
+                    <li>📞 <strong>Call your HMO/GP:</strong> If you're in an HMO or GP model, call them first for non-emergencies – going directly to emergency room can void coverage!</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Swiss Healthcare is EXPENSIVE!</strong>
+                    <p>Budget carefully! 💸 A family of 3 can easily pay CHF 1000+/month just for mandatory insurance premiums. Add deductibles and 10% copayments, and healthcare can consume 10-15% of your income. This is one reason Swiss salaries are higher. Plan accordingly! 📊</p>
+                </div>
+
+                <div class="tip">
+                    <strong>💡 Premium Reduction (Prämienverbilligung)</strong>
+                    <p>Lower-income families in Switzerland can apply for premium reductions (Prämienverbilligung/réduction de primes). 💰 This is cantonal, so check your canton's website. Many people are eligible but don't claim it! Check if you qualify. 🔍</p>
+                </div>
+
+                <h3>🦷 Part 5: Dental Care Across Central Europe</h3>
+                <p>Dental care works differently than general healthcare: 😬</p>
+
+                <ul>
+                    <li>🇩🇪 <strong>Germany:</strong> Basic dental care covered by GKV (checkups, basic fillings). Crowns, implants, cosmetic work require significant copayment (40-50% or more). Many get supplementary dental insurance (Zahnzusatzversicherung).</li>
+                    <li>🇦🇹 <strong>Austria:</strong> Similar to Germany. Basic care covered, more complex work partially covered. Bonus program rewards regular checkups with higher coverage.</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> Basic insurance (Grundversicherung) does NOT cover dental for adults! 🚫 You pay 100% out of pocket or buy supplementary dental insurance. Swiss dental bills can be shocking (CHF 200+ for cleaning, CHF 1500+ for crown).</li>
+                </ul>
+
+                <div class="important">
+                    <strong>💡 Take Care of Your Teeth!</strong>
+                    <p>Across Central Europe, prevention is cheaper than treatment. 🦷 Regular brushing, flossing, and checkups are essential. In Switzerland especially, avoid needing major dental work! 💰</p>
+                </div>
+
+                <h3>👁️ Part 6: Vision Care and Glasses</h3>
+                <ul>
+                    <li>🇩🇪 <strong>Germany:</strong> Eye tests covered for children and those with vision problems. Adults pay for tests (~€20-40). Glasses: insurance covers ~€10 for frames every 2 years for severe vision problems. Most people pay out of pocket.</li>
+                    <li>🇦🇹 <strong>Austria:</strong> Similar to Germany. Limited coverage for glasses.</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> NOT covered by basic insurance for adults. You pay everything yourself. 👓💰</li>
+                </ul>
+
+                <h3>🧠 Part 7: Mental Health Services</h3>
+                <p>Mental health is increasingly recognized across Central Europe: 💚</p>
+
+                <ul>
+                    <li>👨‍⚕️ <strong>Through your GP:</strong> Start with your Hausarzt/general practitioner. They can refer you to specialists (Psychiater, Psychotherapeut).</li>
+                    <li>🇩🇪 <strong>Germany:</strong> Psychotherapy covered by GKV. But waiting lists can be long (months). Private therapy available faster but expensive (€80-150/session).</li>
+                    <li>🇦🇹 <strong>Austria:</strong> Similar to Germany. Kassenplätze (insurance-covered therapy spots) are limited. Long wait times common.</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> Covered by Grundversicherung if prescribed by doctor and provided by licensed therapist. Subject to your deductible.</li>
+                    <li>📞 <strong>Crisis Help:</strong> 
+                        <ul>
+                            <li>🇩🇪 Germany: Telefonseelsorge 0800 111 0 111 or 0800 111 0 222 (24/7)</li>
+                            <li>🇦🇹 Austria: Telefonseelsorge 142 (24/7)</li>
+                            <li>🇨🇭 Switzerland: Die Dargebotene Hand 143 (24/7)</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h3>💡 Part 8: Practical Tips for Central European Healthcare</h3>
+
+                <h4>📋 Before Appointments:</h4>
+                <ul>
+                    <li>⏰ <strong>Be Punctual:</strong> This is Central Europe! Arrive 5-10 minutes early. Being late may mean losing your appointment.</li>
+                    <li>💳 <strong>Bring Your Card:</strong> Gesundheitskarte (Germany), e-card (Austria), insurance card (Switzerland). Always!</li>
+                    <li>📝 <strong>Prepare Your Symptoms:</strong> Write down what's wrong, when it started, what makes it better/worse. Doctors appreciate organized patients.</li>
+                    <li>🗣️ <strong>Language:</strong> Many doctors speak English in cities, but don't assume. Bring a German-speaking friend if needed, or use translation apps.</li>
+                </ul>
+
+                <h4>💊 Managing Medications:</h4>
+                <ul>
+                    <li>📋 <strong>Keep a List:</strong> Maintain a list of all medications you're taking.</li>
+                    <li>🌍 <strong>Generic Names:</strong> Know the generic (chemical) names of your medications, not just brand names which differ by country.</li>
+                    <li>🏪 <strong>Apotheke Advice:</strong> Pharmacists are highly trained across Central Europe. Ask them for advice on minor ailments – they can often help without needing a doctor visit.</li>
+                </ul>
+
+                <h4>📄 Medical Records:</h4>
+                <ul>
+                    <li>📋 <strong>Bring Previous Records:</strong> If moving from abroad, bring medical records translated to German if possible.</li>
+                    <li>💉 <strong>Vaccination Records:</strong> Keep track of your vaccinations. You may need boosters.</li>
+                    <li>📁 <strong>Patient Rights:</strong> You have the right to copies of your medical records in all three countries.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Healthcare across Central Europe is excellent but navigating it requires understanding each system: 🏥</p>
+                    <ul>
+                        <li>🇩🇪 <strong>Germany:</strong> Comprehensive statutory insurance for most, automatic coverage, free family coverage. User-friendly once you understand it. ✅</li>
+                        <li>🇦🇹 <strong>Austria:</strong> Similar to Germany with the convenient e-card system. Stick to Vertragsärzte to avoid unexpected bills. 💳</li>
+                        <li>🇨🇭 <strong>Switzerland:</strong> Excellent care but YOU must arrange and PAY for mandatory insurance. Budget carefully – it's expensive! Choose your deductible and model wisely. 💰</li>
+                    </ul>
+                    <p>Get insured immediately, find good doctors, take preventive care seriously (especially dental in Switzerland!), and don't hesitate to seek treatment when needed. Your health is your foundation for everything else in Central Europe! 🇩🇪🇦🇹🇨🇭💪</p>
+                </div>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom – Mastering Central European Bureaucracy 📋",
+            content: `
+                <p>Willkommen to perhaps the most "Central European" topic of all: bureaucracy! 📋 If you've heard that Germany, Austria, and Switzerland love paperwork, rules, and proper procedures... well, it's all true. But here's the thing: once you understand the system, it actually works remarkably well. ⚙️</p>
+                
+                <p>This module will guide you through registration requirements, dealing with government offices (Ämter/Behörden), taxes, residence permits, and all the essential officialdom you'll encounter. The key is being prepared, patient, and following procedures. Let's get you bureaucratically sorted! 💪</p>
+
+                <h3>📋 Part 1: The Foundation – Anmeldung (Registration)</h3>
+                <p>The FIRST thing you must do in any Central European country is register your residence. This is not optional! 🚨</p>
+
+                <div class="warning">
+                    <strong>⚠️ Anmeldung is MANDATORY!</strong>
+                    <ul>
+                        <li>🇩🇪 <strong>Germany:</strong> Within 14 days at the Bürgeramt/Einwohnermeldeamt</li>
+                        <li>🇦🇹 <strong>Austria:</strong> Within 3 days at the Meldeamt/Gemeindeamt</li>
+                        <li>🇨🇭 <strong>Switzerland:</strong> Within 14 days at the Einwohnerkontrolle/Einwohnerdienste (varies by canton)</li>
+                    </ul>
+                    <p>Failure to register on time can result in fines! Even if you're only staying temporarily, register. 💰</p>
+                </div>
+
+                <h4>📄 What You Need for Anmeldung:</h4>
+                <ul>
+                    <li>🪪 <strong>Valid Passport or ID card</strong></li>
+                    <li>🏠 <strong>Rental Contract (Mietvertrag/Wohnungsgeberbestätigung):</strong> In Germany, your landlord must sign a Wohnungsgeberbestätigung (landlord confirmation). In Austria and Switzerland, your rental contract usually suffices.</li>
+                    <li>👨‍👩‍👧 <strong>Family members:</strong> If registering family, bring their passports/IDs and marriage/birth certificates</li>
+                    <li>📅 <strong>Sometimes:</strong> Passport photos (Germany and Austria sometimes require them)</li>
+                </ul>
+
+                <h4>🎫 What You Get:</h4>
+                <ul>
+                    <li>📋 <strong>Germany:</strong> Meldebescheinigung (registration certificate) – essential for opening bank accounts, getting phone contracts, etc.</li>
+                    <li>📋 <strong>Austria:</strong> Meldezettel confirmation</li>
+                    <li>📋 <strong>Switzerland:</strong> Confirmation of registration</li>
+                    <li>🆔 <strong>Tax ID:</strong> Often assigned automatically upon registration (Steuer-ID in Germany, Steuernummer in Austria, AHV-Nummer in Switzerland)</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Book Appointments Early!</strong>
+                    <p>In many German and Austrian cities, you need appointments (Termin) for Anmeldung. 📅 Book online as soon as you know your move-in date. Some cities have waits of weeks! Berlin and Munich are notorious for this. In Switzerland, walk-ins are often possible but vary by municipality. 🏃</p>
+                </div>
+
+                <h3>🆔 Part 2: Key Identity Documents and Numbers</h3>
+                <p>Central European life revolves around various ID numbers. Get these sorted early: 🔢</p>
+
+                <h4>🇩🇪 Germany:</h4>
+                <ul>
+                    <li>🔢 <strong>Steuer-ID (Tax ID):</strong> 11-digit number. Automatically assigned when you register. Sent by mail. Keep it safe! You need it for work, taxes, everything.</li>
+                    <li>💳 <strong>Gesundheitskarte (Health Insurance Card):</strong> From your Krankenkasse after enrolling.</li>
+                    <li>🏦 <strong>Bank Account:</strong> Needs Meldebescheinigung. Essential for salary, rent payments, etc.</li>
+                    <li>🪪 <strong>Aufenthaltstitel (Residence Permit):</strong> If non-EU, you need this from the Ausländerbehörde (foreigners' office).</li>
+                </ul>
+
+                <h4>🇦🇹 Austria:</h4>
+                <ul>
+                    <li>🔢 <strong>Sozialversicherungsnummer (Social Security Number):</strong> 10 digits. Get it from ÖGK when you start working.</li>
+                    <li>📋 <strong>Steuernummer (Tax Number):</strong> From the Finanzamt (tax office).</li>
+                    <li>💳 <strong>e-card:</strong> Health insurance card from ÖGK.</li>
+                    <li>🪪 <strong>Aufenthaltstitel:</strong> If non-EU/EEA, from MA35 (Vienna) or local authorities elsewhere.</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland:</h4>
+                <ul>
+                    <li>🔢 <strong>AHV-Nummer (13-digit):</strong> Your social security number. Assigned upon registration. You need it for everything!</li>
+                    <li>🪪 <strong>Residence Permit (Aufenthaltsbewilligung):</strong> B-permit (temporary), C-permit (permanent), L-permit (short-term). EU/EFTA citizens get permits more easily. Non-EU much harder!</li>
+                    <li>🏦 <strong>Bank Account:</strong> Easier than in Germany/Austria but you still need proof of residence.</li>
+                </ul>
+
+                <h3>🏢 Part 3: Dealing with Ämter/Behörden (Government Offices)</h3>
+                <p>Government offices across Central Europe share certain characteristics. Here's how to navigate them successfully: 🎯</p>
+
+                <h4>📅 The Appointment System (Terminvereinbarung):</h4>
+                <ul>
+                    <li>⏰ <strong>Most services require appointments now:</strong> Book online via the office's website. Some still allow walk-ins but expect long waits.</li>
+                    <li>📞 <strong>Booking:</strong> Online preferred. Phone bookings also possible. In Switzerland, varies by canton – some are walk-in friendly.</li>
+                    <li>🕐 <strong>Be Punctual:</strong> Arrive 5-10 minutes early. Bringing late may mean losing your slot and rebooking!</li>
+                    <li>⏳ <strong>Wait Times:</strong> Even with appointments, expect some waiting. Bring a book or phone to occupy yourself.</li>
+                </ul>
+
+                <h4>📄 The Document Strategy:</h4>
+                <ul>
+                    <li>📋 <strong>Bring EVERYTHING:</strong> Original documents AND copies. Germans/Austrians/Swiss love paper trails!</li>
+                    <li>🪪 <strong>ID Always:</strong> Passport or national ID card. Non-negotiable.</li>
+                    <li>📝 <strong>Completed Forms:</strong> Download forms from the website and fill them in beforehand. Neat handwriting or typed is best.</li>
+                    <li>📸 <strong>Photos:</strong> Bring extra passport photos. You never know when they'll be needed.</li>
+                    <li>💰 <strong>Payment Method:</strong> Some offices only accept cash! Others card only. Check beforehand.</li>
+                    <li>🔄 <strong>Certified Copies (Beglaubigte Kopien):</strong> Sometimes required. Get them from notaries (Notar) or sometimes from the office itself.</li>
+                </ul>
+
+                <h4>🗣️ Communication Tips:</h4>
+                <ul>
+                    <li>🇩🇪 <strong>Language:</strong> German is essential for most officialdom. English is hit-or-miss. Bring a German-speaking friend if needed.</li>
+                    <li>🤝 <strong>Polite but Direct:</strong> "Guten Tag. Ich habe einen Termin um..." Be polite, professional, but get to the point.</li>
+                    <li>😤 <strong>Stay Calm:</strong> Even if frustrated, remain polite. Getting emotional or angry will not help and may make things worse.</li>
+                    <li>📋 <strong>Get It in Writing:</strong> If promised something verbally, ask for written confirmation (schriftliche Bestätigung).</li>
+                    <li>📧 <strong>Follow-up:</strong> If you don't hear back in promised timeframe, follow up politely by email or phone.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 Understanding the German "Amtsdeutsch"</strong>
+                    <p>Official German (Amtsdeutsch/Behördensprache) is formal, complex, and full of compound words. 📚 Don't be intimidated! Common terms:</p>
+                    <ul>
+                        <li><strong>Bescheid:</strong> Official decision/notice</li>
+                        <li><strong>Bearbeitungszeit:</strong> Processing time</li>
+                        <li><strong>Nachweis:</strong> Proof/evidence</li>
+                        <li><strong>Frist:</strong> Deadline</li>
+                        <li><strong>Antrag:</strong> Application</li>
+                        <li><strong>Einspruch/Widerspruch:</strong> Objection/appeal</li>
+                    </ul>
+                    <p>Use online translation and ask for clarification if you don't understand something! 🔍</p>
+                </div>
+
+                <h3>💰 Part 4: Taxes (Steuern) – Understanding the System</h3>
+                <p>Taxes across Central Europe are comprehensive but fair. Here's what you need to know: 📊</p>
+
+                <h4>🇩🇪 Germany:</h4>
+                <ul>
+                    <li>📊 <strong>Income Tax (Einkommensteuer):</strong> Progressive 0-45%. If employed, automatically deducted (Lohnsteuer).</li>
+                    <li>📋 <strong>Tax Classes (Steuerklasse):</strong> I (single), II (single parent), III/IV/V (married combos), VI (second job). Your class affects deductions.</li>
+                    <li>📝 <strong>Tax Return (Steuererklärung):</strong> Not always mandatory for employees, but usually worth doing! You can reclaim expenses and often get refunds. File by July 31st (or later with extension). Use ELSTER (online system) or Steuerberater (tax advisor).</li>
+                    <li>⛪ <strong>Church Tax (Kirchensteuer):</strong> 8-9% of income tax if you're registered as Catholic or Protestant. You can opt out (Kirchenaustritt) at the Standesamt.</li>
+                    <li>🤝 <strong>Solidarity Surcharge (Solidaritätszuschlag):</strong> Abolished for most people in 2021. Only applies to very high earners now.</li>
+                </ul>
+
+                <h4>🇦🇹 Austria:</h4>
+                <ul>
+                    <li>📊 <strong>Income Tax (Einkommensteuer):</strong> Progressive 0-55% (highest bracket). Automatically deducted for employees (Lohnsteuer).</li>
+                    <li>📝 <strong>Tax Return (Arbeitnehmerveranlagung):</strong> Voluntary for employees if only one employer. File within 5 years. Often worthwhile for refunds!</li>
+                    <li>💼 <strong>FinanzOnline:</strong> Austria's online tax portal. Create an account to file electronically.</li>
+                    <li>⛪ <strong>Church Tax (Kirchenbeitrag):</strong> Voluntary contribution requested by churches, not automatic deduction like Germany. You can decline.</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland:</h4>
+                <ul>
+                    <li>📊 <strong>Income Tax:</strong> Federal tax (low) + cantonal tax (varies wildly!) + municipal tax. Total can be 10-40%+ depending where you live. Zug and Schwyz = low tax. Geneva and Basel-Stadt = higher.</li>
+                    <li>📋 <strong>Direct Deduction vs. Annual Payment:</strong> If employed, tax withheld monthly (Quellensteuer) in most cantons. Swiss citizens and permit C holders file annual tax returns.</li>
+                    <li>📝 <strong>Tax Declaration (Steuererklärung):</strong> Due around March-April (deadlines vary by canton). Electronic filing available in most cantons.</li>
+                    <li>💰 <strong>Wealth Tax:</strong> Switzerland taxes net wealth (assets minus debts). Rate varies by canton. Unique to Switzerland in this region!</li>
+                    <li>📊 <strong>Tax Optimization:</strong> Legal tax optimization is common and accepted. Deductions for commuting, professional development, charitable giving, pension contributions (Säule 3a), etc.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Consider a Steuerberater (Tax Advisor)</strong>
+                    <p>Especially in your first years, hiring a tax advisor can be worth it. 💼 They'll ensure you claim all deductions, file correctly, and can save you more than their fee costs. In Germany: ~€100-300. Austria: similar. Switzerland: ~CHF 300-800. Complex situations (self-employed, multiple income sources) definitely warrant professional help! 🎯</p>
+                </div>
+
+                <h3>🪪 Part 5: Residence Permits for Non-EU/EEA Citizens</h3>
+                <p>If you're from outside the EU/EEA, residence permits are critical: 🌍</p>
+
+                <h4>🇩🇪 Germany:</h4>
+                <ul>
+                    <li>🏢 <strong>Office:</strong> Ausländerbehörde (foreigners' office). Book appointment EARLY – waits can be months in big cities!</li>
+                    <li>📋 <strong>Common Permits:</strong>
+                        <ul>
+                            <li>Aufenthaltserlaubnis (temporary residence): Work, family reunification, study</li>
+                            <li>Niederlassungserlaubnis (permanent residence): After 5 years usually</li>
+                            <li>Blaue Karte EU (EU Blue Card): For highly qualified workers</li>
+                        </ul>
+                    </li>
+                    <li>📄 <strong>Documents Needed:</strong> Passport, biometric photos, proof of income/insurance/housing, contract (work/university), application forms. Requirements vary by permit type.</li>
+                    <li>💰 <strong>Fees:</strong> €100+ depending on permit type.</li>
+                </ul>
+
+                <h4>🇦🇹 Austria:</h4>
+                <ul>
+                    <li>🏢 <strong>Office:</strong> MA35 in Vienna, local Bezirkshauptmannschaft elsewhere.</li>
+                    <li>📋 <strong>Common Permits:</strong>
+                        <ul>
+                            <li>Aufenthaltsbewilligung (temporary)</li>
+                            <li>Niederlassungsbewilligung (permanent)</li>
+                            <li>Rot-Weiß-Rot Karte (Red-White-Red Card): For skilled workers – points-based</li>
+                        </ul>
+                    </li>
+                    <li>📄 <strong>Requirements:</strong> Similar to Germany. Health insurance, sufficient income, housing, clear criminal record, etc.</li>
+                    <li>💰 <strong>Fees:</strong> Vary by type, €50-200+.</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland:</h4>
+                <ul>
+                    <li>🏢 <strong>Office:</strong> Cantonal migration office (Migrationsamt).</li>
+                    <li>⚠️ <strong>Difficult for Non-EU:</strong> Switzerland has strict immigration quotas. Work permits require employer sponsorship and justification that no EU/Swiss candidate was available.</li>
+                    <li>📋 <strong>Permit Types:</strong>
+                        <ul>
+                            <li>L-permit: Short-term (up to 1 year)</li>
+                            <li>B-permit: Residence/work (initially 1 year, renewable)</li>
+                            <li>C-permit: Permanent residence (after 5-10 years)</li>
+                        </ul>
+                    </li>
+                    <li>📄 <strong>Documents:</strong> Work contract, proof of qualification, employer justification, passport, housing confirmation.</li>
+                    <li>💰 <strong>Fees:</strong> Vary by canton, CHF 100-300+.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Don't Let Your Permit Expire!</strong>
+                    <p>Apply for renewal/extension BEFORE expiry! 📅 Late applications can cause serious problems. In Germany and Austria, apply 6-8 weeks before expiry. In Switzerland, timing varies by canton but don't wait until the last week! Missing deadlines can mean losing status. 🚨</p>
+                </div>
+
+                <h3>🏢 Part 6: Other Important Offices and Services</h3>
+
+                <h4>🏛️ Finanzamt (Tax Office):</h4>
+                <ul>
+                    <li>📋 <strong>What:</strong> Handles tax returns, tax number issuance, tax assessments.</li>
+                    <li>🇩🇪 <strong>Germany:</strong> Use ELSTER online for most interactions. Physical visits rare.</li>
+                    <li>🇦🇹 <strong>Austria:</strong> FinanzOnline is your portal. Regional Finanzämter for in-person needs.</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> Cantonal tax offices. Varies significantly by canton.</li>
+                </ul>
+
+                <h4>🏛️ Standesamt (Registry Office):</h4>
+                <ul>
+                    <li>📋 <strong>What:</strong> Civil marriages, birth registration, death certificates, church exit.</li>
+                    <li>💒 <strong>Marriage:</strong> Only civil marriage is legally recognized. Religious ceremonies optional and after civil.</li>
+                    <li>⛪ <strong>Church Exit (Kirchenaustritt):</strong> Done here in Germany and Austria to stop church tax.</li>
+                </ul>
+
+                <h4>🏛️ Arbeitsagentur (Germany) / AMS (Austria) / RAV (Switzerland):</h4>
+                <ul>
+                    <li>📋 <strong>What:</strong> Employment agency, unemployment insurance, job search support.</li>
+                    <li>🚨 <strong>If Unemployed:</strong> Register IMMEDIATELY! Benefits depend on quick registration.</li>
+                    <li>💼 <strong>Services:</strong> Job listings, career counseling, training courses, unemployment benefits.</li>
+                </ul>
+
+                <h4>🏛️ Sozialamt (Social Welfare Office):</h4>
+                <ul>
+                    <li>📋 <strong>What:</strong> Last resort financial assistance, housing support, emergency help.</li>
+                    <li>💰 <strong>When:</strong> If you're in genuine need and have exhausted other options. Requirements are strict.</li>
+                </ul>
+
+                <h3>📜 Part 7: Dealing with Bureaucratic Challenges</h3>
+
+                <h4>⏰ When Things Take Forever:</h4>
+                <ul>
+                    <li>📊 <strong>Expect Delays:</strong> Bearbeitungszeiten (processing times) can be weeks or months. Berlin's Bürgeramt, Vienna's MA35, and some Swiss cantonal offices are notorious.</li>
+                    <li>📧 <strong>Follow Up:</strong> After quoted processing time passes, politely inquire about status.</li>
+                    <li>🗂️ <strong>Track Everything:</strong> Keep copies of all submissions, note dates, keep reference numbers (Aktenzeichen).</li>
+                </ul>
+
+                <h4>❌ When You Get a Negative Decision (Ablehnungsbescheid):</h4>
+                <ul>
+                    <li>📋 <strong>Read Carefully:</strong> The Bescheid will explain the decision and your rights.</li>
+                    <li>⏰ <strong>Objection Deadline:</strong> Usually 1 month (Widerspruchsfrist). Don't miss it!</li>
+                    <li>📝 <strong>Widerspruch/Einspruch:</strong> You can object. State your reasons clearly, provide additional evidence.</li>
+                    <li>💼 <strong>Get Help:</strong> Consider a lawyer (Anwalt) or specialized advisor, especially for residence permit refusals.</li>
+                </ul>
+
+                <h4>🆘 When You're Completely Lost:</h4>
+                <ul>
+                    <li>🤝 <strong>Migrant Support Organizations:</strong> Many cities have integration centers (Integrationszentrum) that help with bureaucracy. Free or low-cost!</li>
+                    <li>💼 <strong>Professional Help:</strong> Steuerberater for taxes, immigration lawyers for residence permits, social workers for welfare issues.</li>
+                    <li>👥 <strong>Expat Groups:</strong> Online forums and Facebook groups for your city. Others have faced the same issues!</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Secret to Bureaucratic Success</strong>
+                    <p>Central European bureaucracy is actually logical once you understand it: ⚙️</p>
+                    <ol>
+                        <li>📋 <strong>Follow procedures exactly</strong> – don't improvise</li>
+                        <li>📄 <strong>Bring complete documentation</strong> – they won't process incomplete applications</li>
+                        <li>⏰ <strong>Be punctual and meet deadlines</strong> – this matters enormously</li>
+                        <li>😊 <strong>Be polite but persistent</strong> – rudeness gets nowhere, but polite persistence works</li>
+                        <li>📝 <strong>Document everything</strong> – keep paper trails</li>
+                    </ol>
+                    <p>The system works, but it requires playing by the rules. Do that, and you'll navigate it successfully! 🎯</p>
+                </div>
+
+                <h3>💻 Part 8: Digital Government Services</h3>
+                <p>Central Europe is increasingly digitizing bureaucracy: 🖥️</p>
+
+                <h4>🇩🇪 Germany:</h4>
+                <ul>
+                    <li>💻 <strong>ELSTER:</strong> Online tax filing. Essential!</li>
+                    <li>📱 <strong>Bürgerserviceportal:</strong> Many cities have online portals for appointments and services.</li>
+                    <li>🆔 <strong>eID Function:</strong> New ID cards have electronic function for online identification.</li>
+                </ul>
+
+                <h4>🇦🇹 Austria:</h4>
+                <ul>
+                    <li>💻 <strong>FinanzOnline:</strong> Tax portal.</li>
+                    <li>🆔 <strong>Bürgerkarte/Handy-Signatur:</strong> Digital signature for official transactions.</li>
+                    <li>📱 <strong>oesterreich.gv.at:</strong> Central portal for government services.</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland:</h4>
+                <ul>
+                    <li>💻 <strong>Cantonal Portals:</strong> Each canton has its own digital services. Quality varies!</li>
+                    <li>📋 <strong>eUmzug:</strong> Electronic change of address notification across cantons.</li>
+                    <li>🆔 <strong>SwissID:</strong> Digital identity for online services.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Central European bureaucracy has a reputation, but it's manageable with the right approach: 📋</p>
+                    <ul>
+                        <li>✅ <strong>Register immediately</strong> – Anmeldung is your foundation for everything</li>
+                        <li>📄 <strong>Collect key documents and numbers</strong> – Steuer-ID, AHV-Nummer, health insurance</li>
+                        <li>⏰ <strong>Book appointments early</strong> – don't wait for emergencies</li>
+                        <li>📋 <strong>Bring complete documentation</strong> – and copies!</li>
+                        <li>🗣️ <strong>Learn German</strong> – essential for navigating officialdom</li>
+                        <li>😊 <strong>Stay patient and polite</strong> – it pays off</li>
+                        <li>💼 <strong>Get professional help when needed</strong> – tax advisors, lawyers for complex issues</li>
+                        <li>⏳ <strong>Expect delays</strong> – processing times are real</li>
+                    </ul>
+                    <p>Germany 🇩🇪, Austria 🇦🇹, and Switzerland 🇨🇭 all have thorough, rules-based systems. They can seem slow and document-heavy, but they're also fair, transparent, and ultimately functional. Master the bureaucracy, and you've mastered a key part of Central European life! 🇩🇪🇦🇹🇨🇭✨</p>
+                </div>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools – Navigating Central European School Systems 📚",
+            content: `
+                <p>Guten Tag! If you're moving to Central Europe with children, or planning to further your own education, understanding the education system is crucial. 🎓 Germany 🇩🇪, Austria 🇦🇹, and Switzerland 🇨🇭 all have excellent, well-organized education systems – but they work quite differently from many other countries. Early tracking, strong vocational education, and high academic standards are common across the region. ⭐</p>
+                
+                <p>This module will guide you through kindergartens, primary schools, secondary education options, vocational training (the famous dual system!), universities, and how to navigate school enrollment. Let's get your family educated! 💪</p>
+
+                <h3>🌍 Part 1: Overview – Three Similar but Different Systems</h3>
+                <p>While all Central European countries value education highly, their systems have important differences: 📚</p>
+
+                <div class="important">
+                    <strong>💡 Key Characteristics Across Central Europe</strong>
+                    <ul>
+                        <li><strong>High Quality:</strong> All three countries rank highly in international education assessments (PISA scores). Education is taken seriously! 📊</li>
+                        <li><strong>Early Tracking:</strong> Students are sorted into different school types based on ability relatively early (age 10-12). This is controversial but deeply embedded. 🎯</li>
+                        <li><strong>Strong Vocational Track:</strong> The dual education system (Ausbildung/Lehre) combining work and school is highly developed. Not everyone goes to university! 🔧</li>
+                        <li><strong>Public Schools Dominate:</strong> Most students attend free public schools. Private schools exist but are less common than in many countries. 🏫</li>
+                        <li><strong>Federalism (Germany & Switzerland):</strong> Education is controlled at state (Bundesland) or cantonal level, creating significant regional variation. Austria is more centralized. 🗺️</li>
+                    </ul>
+                </div>
+
+                <div class="warning">
+                    <strong>⚠️ Register Your Children Immediately!</strong>
+                    <p>School attendance is mandatory across Central Europe! 🚨 When you register your residence (Anmeldung), you must also register school-age children with local schools. Failure to enroll children in school can result in fines and legal action. Compulsory education starts at age 6 (sometimes 5) and runs until age 15-16 in most regions. 📅</p>
+                </div>
+
+                <h3>👶 Part 2: Early Childhood Education (Age 3-6)</h3>
+
+                <h4>🇩🇪 Germany – Kindergarten:</h4>
+                <ul>
+                    <li>🎨 <strong>Ages 3-6 (sometimes 1-6):</strong> Kindergarten is optional but most children attend.</li>
+                    <li>🆓 <strong>Increasingly Free:</strong> Many Bundesländer now offer free Kindergarten (at least part-time). Full-day may cost €100-300/month depending on region and income.</li>
+                    <li>🎪 <strong>Focus:</strong> Play-based learning, social skills, creativity. Less academic than many countries!</li>
+                    <li>📝 <strong>Enrollment:</strong> Apply directly to Kindergartens (Kitas). Waiting lists can be long in cities! Apply early (even before birth in some areas like Munich!).</li>
+                    <li>🏫 <strong>Types:</strong> Public (städtisch), church-affiliated (katholisch/evangelisch), Waldorf, Montessori, private.</li>
+                </ul>
+
+                <h4>🇦🇹 Austria – Kindergarten:</h4>
+                <ul>
+                    <li>🎨 <strong>Ages 3-6:</strong> Similar to Germany. Kindergarten is standard.</li>
+                    <li>🆓 <strong>Free in Many Cases:</strong> Most Bundesländer offer free half-day Kindergarten. Full-day costs vary.</li>
+                    <li>📚 <strong>Last Year Mandatory:</strong> The final year before school (age 5-6) is compulsory in most regions.</li>
+                    <li>📝 <strong>Enrollment:</strong> Through local government (Gemeinde/Stadt). Apply well in advance!</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland – Kindergarten:</h4>
+                <ul>
+                    <li>🎨 <strong>Ages 4-6 (varies by canton):</strong> 1-2 years of Kindergarten/école enfantine/scuola dell'infanzia.</li>
+                    <li>🆓 <strong>Free and Mandatory:</strong> Kindergarten is free and compulsory in most cantons now!</li>
+                    <li>📍 <strong>Cantonal Variations:</strong> Age of entry, duration, and structure vary by canton. Check your local system!</li>
+                    <li>📝 <strong>Automatic Enrollment:</strong> Usually automatic when you register residence. You'll be notified which school your child is assigned to based on address.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Language Immersion at Kindergarten</strong>
+                    <p>Kindergarten is excellent for language acquisition! 🗣️ Children pick up German (or French/Italian in Switzerland) quickly through play. Don't worry if they start with no German – they'll learn fast. Teachers are experienced with multilingual children. 🌍</p>
+                </div>
+
+                <h3>📚 Part 3: Primary School (Grundschule/Primarschule) Age 6-10/12</h3>
+
+                <h4>🇩🇪 Germany – Grundschule (Ages 6-10):</h4>
+                <ul>
+                    <li>📖 <strong>Years 1-4:</strong> All children attend Grundschule together (some Bundesländer extend to year 6).</li>
+                    <li>🏫 <strong>Assignment:</strong> Usually assigned based on residence (Schulbezirk/catchment area).</li>
+                    <li>🆓 <strong>Free:</strong> Public Grundschulen are free. Books and materials mostly free too.</li>
+                    <li>📊 <strong>Subjects:</strong> German, Math, Sachunterricht (science/social studies), Art, Music, P.E., sometimes English from grade 3.</li>
+                    <li>🎓 <strong>Crucial Years:</strong> Grades 3-4 determine which secondary school type (Gymnasium, Realschule, Hauptschule) your child can attend! Pressure can be high. 📈</li>
+                    <li>🏠 <strong>Homework:</strong> Generally light in early years, increasing by grade 3-4.</li>
+                </ul>
+
+                <h4>🇦🇹 Austria – Volksschule (Ages 6-10):</h4>
+                <ul>
+                    <li>📖 <strong>Years 1-4:</strong> Volksschule for all children.</li>
+                    <li>🏫 <strong>Very Similar to Germany:</strong> Structure, subjects, and approach largely parallel German Grundschule.</li>
+                    <li>🆓 <strong>Free Public Education:</strong> Books, materials provided.</li>
+                    <li>📊 <strong>Grade 4 Decision:</strong> Teachers' recommendations and grades determine secondary school options (Gymnasium vs. Mittelschule).</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland – Primarschule (Ages 6-12):</h4>
+                <ul>
+                    <li>📖 <strong>6 Years:</strong> Primarschule typically runs 6 years (after Kindergarten).</li>
+                    <li>🗺️ <strong>Cantonal Differences:</strong> Structure, curriculum, and even textbooks vary by canton! HarmoS is an attempt at harmonization but implementation varies.</li>
+                    <li>🆓 <strong>Free and High Quality:</strong> Public schools are excellent.</li>
+                    <li>📚 <strong>Subjects:</strong> Language (German, French, or Italian depending on canton), Math, Sciences, Music, Art, P.E. Foreign languages start early (often English and another Swiss national language).</li>
+                    <li>🏠 <strong>Short Days:</strong> Swiss primary school days are often short – children may come home for lunch! After-school care (Tagesschule/Mittagstisch) available but may cost extra.</li>
+                </ul>
+
+                <h3>🎓 Part 4: Secondary Education – The Tracking System</h3>
+                <p>Here's where Central European systems differ most from Anglo-American models: after primary school, students are tracked into different school types. 🎯</p>
+
+                <h4>🇩🇪 Germany – Three-Track System (After Grade 4/6):</h4>
+                <ul>
+                    <li>🏆 <strong>Gymnasium (Ages 10-18/19):</strong> Academic track leading to Abitur (university entrance qualification). Most demanding. ~40% of students. Subjects include advanced sciences, languages, humanities. Leads to university. 🎓</li>
+                    <li>📊 <strong>Realschule (Ages 10-16):</strong> Intermediate track. Leads to Mittlere Reife (intermediate school leaving certificate). ~25% of students. Can continue to Fachoberschule for Fachabitur, or enter Ausbildung. 💼</li>
+                    <li>🔧 <strong>Hauptschule (Ages 10-15/16):</strong> Basic track. Leads to Hauptschulabschluss. ~15% of students. Typically leads to Ausbildung (vocational training). Being phased out in some Bundesländer. 🛠️</li>
+                    <li>🔄 <strong>Gesamtschule:</strong> Comprehensive school combining all tracks under one roof. Exists in some Bundesländer. Students still stream into different levels. 🏫</li>
+                    <li>↗️ <strong>Mobility:</strong> It's possible but not easy to switch tracks upward. Switching down is easier. System is criticized for limiting social mobility. ⚠️</li>
+                </ul>
+
+                <h4>🇦🇹 Austria – Two-Track System (After Grade 4):</h4>
+                <ul>
+                    <li>🏆 <strong>AHS (Allgemeinbildende Höhere Schule) – Gymnasium (Ages 10-18):</strong> Academic track leading to Matura (university entrance). Unterstufe (grades 5-8) then Oberstufe (grades 9-12). ~35% of students. 🎓</li>
+                    <li>🏫 <strong>Mittelschule (Ages 10-14):</strong> Replaces the old Hauptschule. Leads to further vocational education or can transfer to AHS-Oberstufe. ~65% of students. 📚</li>
+                    <li>💼 <strong>After Mittelschule:</strong> Students can enter Lehre (apprenticeship), BHS (vocational secondary school leading to Matura + vocational qualification), or other options. 🔧</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland – Complex Cantonal Systems (After Age 12):</h4>
+                <ul>
+                    <li>🗺️ <strong>Huge Variation by Canton:</strong> Names and structures differ! German-speaking: Sekundarschule, Bezirksschule, Gymnasium. French-speaking: Collège, Cycle d'orientation. Italian-speaking: Scuola media.</li>
+                    <li>🎯 <strong>Generally 2-3 Levels:</strong> 
+                        <ul>
+                            <li>Highest: Leads to Gymnasium/Matura (university track) 🏆</li>
+                            <li>Middle: Prepares for Berufslehre (apprenticeships) or further vocational schools 💼</li>
+                            <li>Basic: Prepares for practical apprenticeships 🔧</li>
+                        </ul>
+                    </li>
+                    <li>📊 <strong>Assessment:</strong> Based on grades, teacher recommendations, and sometimes entrance exams. Systems vary by canton!</li>
+                    <li>🔄 <strong>Permeability:</strong> Switching levels is possible but depends on canton and school.</li>
+                </ul>
+
+                <div class="important">
+                    <strong>⚠️ The Tracking Controversy</strong>
+                    <p>Early tracking is criticized for perpetuating social inequality. 📊 Children from immigrant or lower-income families are disproportionately steered away from Gymnasium. Be aware of this bias and advocate for your children if needed! Request meetings with teachers, ask about options for advancing tracks, and consider tutoring if your child is capable but needs language support. 💪</p>
+                </div>
+
+                <h3>🔧 Part 5: Vocational Education – The Dual System (Ausbildung/Lehre)</h3>
+                <p>This is where Central Europe truly shines! The dual education system is world-renowned: 🌟</p>
+
+                <h4>🇩🇪 Germany – Ausbildung (Ages 15-19+):</h4>
+                <ul>
+                    <li>💼 <strong>What Is It:</strong> Apprenticeship combining practical work in a company (3-4 days/week) with theoretical learning at Berufsschule (1-2 days/week). 2-3.5 years typically.</li>
+                    <li>💰 <strong>You Get Paid:</strong> Apprentices earn ~€800-1,300/month (varies by field and year). Not much but it's income while learning!</li>
+                    <li>🏆 <strong>Recognized Qualification:</strong> Over 300 recognized training occupations. Certificate is respected across Germany and EU.</li>
+                    <li>🔧 <strong>Popular Fields:</strong> Mechatronics, electronics, IT, healthcare (nursing), retail/commercial, hospitality, crafts (plumbing, electrical, carpentry).</li>
+                    <li>📈 <strong>Career Path:</strong> After Ausbildung, you're a Fachkraft (skilled worker). Can advance to Meister (master), Techniker, or Fachwirt. Or go to university!</li>
+                    <li>🔍 <strong>Finding Ausbildung:</strong> Companies advertise open positions. Apply like a job! Good grades and motivation matter.</li>
+                </ul>
+
+                <h4>🇦🇹 Austria – Lehre (Ages 15-19):</h4>
+                <ul>
+                    <li>💼 <strong>Very Similar to Germany:</strong> Dual system combining company work and Berufsschule.</li>
+                    <li>🏢 <strong>Regulated by Wirtschaftskammer:</strong> WKO (Chamber of Commerce) oversees the system.</li>
+                    <li>💰 <strong>Apprentice Pay:</strong> Lower than Germany but still paid. Increases each year of training.</li>
+                    <li>📚 <strong>Lehre mit Matura:</strong> Option to earn Matura (university entrance) alongside vocational training. Takes longer but opens university path!</li>
+                    <li>🎓 <strong>Or BHS:</strong> Berufsbildende Höhere Schule – vocational secondary school (ages 14-19) leading to both Matura AND vocational qualification. Very popular!</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland – Berufslehre (Ages 15-19):</h4>
+                <ul>
+                    <li>💼 <strong>Most Popular Path:</strong> ~2/3 of Swiss youth choose vocational training! It's highly respected, not seen as second-class. 🏆</li>
+                    <li>🏢 <strong>Company-Based:</strong> Apprentices work for companies 3-4 days/week, attend Berufsfachschule 1-2 days. 3-4 years typically.</li>
+                    <li>💰 <strong>Competitive Salaries:</strong> Swiss apprentices can earn CHF 500-1,500/month depending on field and year. Higher than Germany/Austria!</li>
+                    <li>🔧 <strong>Over 200 Professions:</strong> Everything from banking to carpentry to IT to healthcare.</li>
+                    <li>🎓 <strong>Berufsmaturität:</strong> Option to earn Berufsmatura alongside Lehre – this allows university access (especially Universities of Applied Sciences/Fachhochschulen).</li>
+                    <li>📈 <strong>Excellent Outcomes:</strong> Swiss vocational graduates have very low unemployment and good career prospects. 📊</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Don't Dismiss Vocational Education!</strong>
+                    <p>In Central Europe, vocational training is NOT inferior to university! 🚫 Many vocational graduates earn more than university graduates. The system produces highly skilled workers who are in demand. Master craftspeople (Meister) command great respect and excellent salaries. If your child is practically minded, vocational education may be a better path than forcing academic study. 🎯</p>
+                </div>
+
+                <h3>🎓 Part 6: University Education (Higher Education)</h3>
+
+                <h4>🇩🇪 Germany:</h4>
+                <ul>
+                    <li>🆓 <strong>Tuition-Free (Mostly):</strong> Public universities charge little/no tuition (~€300/semester admin fees). Education is seen as public good! 🎉</li>
+                    <li>📚 <strong>Types:</strong>
+                        <ul>
+                            <li>Universität: Research-focused, academic. Requires Abitur. Bachelor 3 years, Master 2 years. 🎓</li>
+                            <li>Fachhochschule (University of Applied Sciences): More practical, applied. Requires Abitur or Fachabitur. 💼</li>
+                        </ul>
+                    </li>
+                    <li>📝 <strong>Numerus Clausus (NC):</strong> Limited spots in popular subjects (medicine, psychology, law). Admission by Abitur grade. Very competitive! 📊</li>
+                    <li>🌍 <strong>International Students:</strong> Non-EU students may need visa and proof of financial means (~€11,000/year blocked account). Language requirements vary (often German for Bachelor, English for some Masters).</li>
+                    <li>🏠 <strong>Student Life:</strong> Housing can be difficult in university cities. Student dormitories (Studentenwohnheim) have long waiting lists. Shared apartments (WG – Wohngemeinschaft) common.</li>
+                </ul>
+
+                <h4>🇦🇹 Austria:</h4>
+                <ul>
+                    <li>🆓 <strong>Low Tuition:</strong> ~€750/semester for non-EU students. EU students free (if studying within normal duration).</li>
+                    <li>🎓 <strong>Similar to Germany:</strong> Universities and Fachhochschulen. Bachelor + Master system.</li>
+                    <li>📝 <strong>Open Access (Mostly):</strong> Most programs open to anyone with Matura. Some popular fields (medicine, psychology) have entrance exams.</li>
+                    <li>🏙️ <strong>Vienna:</strong> Huge student city. Relatively affordable compared to other European capitals.</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland:</h4>
+                <ul>
+                    <li>💰 <strong>Low Tuition by Swiss Standards:</strong> CHF 500-800/semester at public universities. Much less than private but still more than Germany/Austria.</li>
+                    <li>🎓 <strong>Types:</strong>
+                        <ul>
+                            <li>Universitäten: Academic, research-focused. Require Matura. ETH Zurich and EPFL Lausanne are world-renowned! 🏆</li>
+                            <li>Fachhochschulen: Practical, require Berufsmatura or Matura + practical experience. 💼</li>
+                        </ul>
+                    </li>
+                    <li>🌍 <strong>International Students:</strong> English-taught programs exist (especially Masters). Admission requirements vary. Expensive cost of living (CHF 20,000-30,000/year)! 💸</li>
+                    <li>📚 <strong>Excellent Quality:</strong> Swiss universities rank highly globally. Small class sizes, good professor access. 📊</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 Recognition of Foreign Qualifications</strong>
+                    <p>If you have degrees from outside Central Europe, get them recognized! 📋</p>
+                    <ul>
+                        <li>🇩🇪 Germany: anabin.kmk.org database. Regulated professions (doctor, lawyer, teacher) need formal recognition from authorities.</li>
+                        <li>🇦🇹 Austria: ENIC-NARIC Austria handles recognition.</li>
+                        <li>🇨🇭 Switzerland: swissuniversities.ch or SBFI for recognition.</li>
+                    </ul>
+                    <p>Process can take months. Start early if you need recognition for work! 💼</p>
+                </div>
+
+                <h3>📝 Part 7: Enrolling Your Children in School</h3>
+
+                <h4>🔍 Step-by-Step Process:</h4>
+                <ol>
+                    <li>🏠 <strong>Register Your Residence:</strong> First step for everything! You'll declare school-age children during Anmeldung.</li>
+                    <li>📋 <strong>School Assignment:</strong> Primary schools usually assign based on address (Schulbezirk). You'll be notified which school.</li>
+                    <li>📞 <strong>Contact the School:</strong> Call or visit to arrange enrollment appointment.</li>
+                    <li>📄 <strong>Bring Documents:</strong>
+                        <ul>
+                            <li>Birth certificate (translated to German if necessary)</li>
+                            <li>Vaccination records (important!)</li>
+                            <li>Passport/ID for child and parents</li>
+                            <li>Proof of residence (Meldebescheinigung)</li>
+                            <li>Previous school records if coming from abroad</li>
+                        </ul>
+                    </li>
+                    <li>🗣️ <strong>Language Assessment:</strong> If child doesn't speak German, school may assess level and offer language support (DaZ – Deutsch als Zweitsprache classes).</li>
+                    <li>📚 <strong>Class Placement:</strong> Based on age and prior schooling. May repeat a grade if coming mid-year or language skills need development.</li>
+                    <li>✅ <strong>Start School:</strong> Schools provide lists of needed supplies. Books often provided free in public schools.</li>
+                </ol>
+
+                <h4>🗣️ Language Support:</h4>
+                <ul>
+                    <li>📚 <strong>Integration Classes:</strong> Many schools offer special German classes for non-native speakers (DaZ/DaF – Deutsch als Zweitsprache/Fremdsprache).</li>
+                    <li>🏫 <strong>Willkommensklassen (Germany):</strong> Some schools have dedicated "welcome classes" for newly arrived children to intensively learn German before joining regular classes.</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> Cantonal systems vary. Most offer German support. In multilingual cantons, check which language of instruction the school uses!</li>
+                    <li>💪 <strong>Be Proactive:</strong> Ask about all support options. Private tutoring can also help with transition.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Schultüte Tradition 🎉</strong>
+                    <p>In Germany and Austria, children starting first grade receive a Schultüte (school cone) – a large decorated cone filled with school supplies, sweets, and small gifts. 🍬 Parents prepare these. It's a big tradition marking the start of formal education! Make one for your child to fit in on their first day. 🎨</p>
+                </div>
+
+                <h3>🏫 Part 8: School Culture and Parent Involvement</h3>
+
+                <h4>📅 School Structure:</h4>
+                <ul>
+                    <li>⏰ <strong>School Hours:</strong> Often 8:00 AM - 1:00 PM for primary (half-day traditional model). Ganztagsschule (full-day school) increasingly available. Varies by school and region.</li>
+                    <li>🏠 <strong>Homework:</strong> Expected from early grades. Parents are expected to support but not do it for children!</li>
+                    <li>📅 <strong>School Year:</strong> Starts in August/September. Summer holidays ~6 weeks. Plus Christmas, Easter, and other breaks. Dates vary by region!</li>
+                    <li>📊 <strong>Grading:</strong> 
+                        <ul>
+                            <li>Germany/Austria: 1 (excellent) to 6 (fail). Lower numbers are better!</li>
+                            <li>Switzerland: Often 6 (best) to 1 (worst) – opposite! Or percentage-based. Check local system!</li>
+                        </ul>
+                    </li>
+                </ul>
+
+                <h4>👨‍👩‍👧 Parent Engagement:</h4>
+                <ul>
+                    <li>📋 <strong>Elternabend (Parent Evenings):</strong> Regular meetings to discuss class progress, school events, issues. Attendance expected!</li>
+                    <li>🗣️ <strong>Parent-Teacher Conferences:</strong> Sprechstunden – scheduled meetings to discuss individual child's progress. Take these seriously!</li>
+                    <li>🏫 <strong>Elternbeirat/Elternverein (Parent Council):</strong> Parent representatives who liaise with school administration. You can volunteer!</li>
+                    <li>🎉 <strong>School Events:</strong> Sommerfest, Weihnachtsmarkt, sports days. Parents often volunteer to help organize. Good way to integrate!</li>
+                </ul>
+
+                <h4>📚 School Supplies and Costs:</h4>
+                <ul>
+                    <li>📖 <strong>Books:</strong> Usually provided free in public schools (Germany/Austria). Switzerland may charge or require purchases.</li>
+                    <li>✏️ <strong>Supplies:</strong> Parents buy pencils, notebooks, folders, etc. Schools provide lists at start of year. Budget €50-150.</li>
+                    <li>🎒 <strong>School Bag (Schulranzen):</strong> Serious business! Germans especially invest in ergonomic backpacks for primary school (€150-250). Important for back health!</li>
+                    <li>🍎 <strong>Lunch:</strong> If Ganztagsschule, lunch may be provided (often for fee, €3-5/day). Otherwise, children bring packed lunch (Pausenbrot).</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Central European education is rigorous, well-structured, and highly valued: 🎓</p>
+                    <ul>
+                        <li>📚 <strong>Start early with Kindergarten</strong> – especially for language acquisition</li>
+                        <li>🎯 <strong>Understand the tracking system</strong> – grades in primary school matter for secondary placement</li>
+                        <li>🔧 <strong>Don't overlook vocational education</strong> – it's excellent and respected!</li>
+                        <li>🗣️ <strong>Support German language learning</strong> – this is crucial for academic success</li>
+                        <li>🤝 <strong>Engage with schools</strong> – attend parent evenings, communicate with teachers</li>
+                        <li>🌍 <strong>Advocate for your children</strong> – especially if they're tracked below their potential due to language barriers</li>
+                    </ul>
+                    <p>Germany 🇩🇪 offers free university and strong dual education. Austria 🇦🇹 combines similar benefits with slightly more flexibility. Switzerland 🇨🇭 has world-class education but more variation by canton and higher costs. All three produce well-educated graduates! Master the system, support your children's learning, and they'll thrive. 🇩🇪🇦🇹🇨🇭✨</p>
+                </div>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith – Understanding Religious Life in Central Europe 🤝",
+            content: `
+                <p>Grüß Gott! Let's talk about something that's both deeply personal and publicly visible in Central Europe: religion. 🛐 Germany 🇩🇪, Austria 🇦🇹, and Switzerland 🇨🇭 all have Christian heritage visible in architecture, holidays, and social structures – but modern society is increasingly secular. Understanding how religion works in public and private life will help you navigate cultural norms, legal requirements (yes, there's a church tax!), and social expectations. Let's dive in! 💪</p>
+                
+                <p>This module covers the religious landscape, church tax, religious freedom, faith communities, and how religion intersects with daily life. Whether you're religious, secular, or something in between, here's what you need to know. 🌍</p>
+
+                <h3>⛪ Part 1: The Religious Landscape – Christian Heritage, Secular Present</h3>
+                <p>Central Europe was shaped by Christianity for centuries, but things have changed dramatically: 📊</p>
+
+                <div class="important">
+                    <strong>💡 Religious Demographics (Approximate)</strong>
+                    <ul>
+                        <li><strong>🇩🇪 Germany:</strong>
+                            <ul>
+                                <li>~26% Catholic (stronger in south: Bavaria, Rhineland)</li>
+                                <li>~24% Protestant/Evangelical (EKD) (stronger in north and east)</li>
+                                <li>~5% Muslim (mainly Turkish and Arab communities)</li>
+                                <li>~40%+ No religion (Konfessionslos) – especially in former East Germany</li>
+                                <li>~1% Jewish, plus smaller Hindu, Buddhist, other communities</li>
+                            </ul>
+                        </li>
+                        <li><strong>🇦🇹 Austria:</strong>
+                            <ul>
+                                <li>~55% Catholic (historically dominant, still culturally significant)</li>
+                                <li>~4% Protestant</li>
+                                <li>~8% Muslim (growing community, mainly Turkish and Balkan)</li>
+                                <li>~25% No religion (growing, especially among youth)</li>
+                                <li>Small Jewish, Orthodox Christian, Buddhist communities</li>
+                            </ul>
+                        </li>
+                        <li><strong>🇨🇭 Switzerland:</strong>
+                            <ul>
+                                <li>~35% Catholic (strong in central and southern cantons)</li>
+                                <li>~23% Protestant/Reformed (strong in Zurich, Bern, Basel areas)</li>
+                                <li>~6% Muslim (growing, diverse origins)</li>
+                                <li>~28% No religion (increasing rapidly)</li>
+                                <li>Regional variation is significant – some cantons very Catholic, others very Protestant</li>
+                            </ul>
+                        </li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>💡 Visible But Not Dominant</strong>
+                    <p>You'll see churches everywhere, hear church bells, and get public holidays for Christian festivals. ⛪🔔 But actual church attendance is LOW across Central Europe (5-15% weekly). Religion is more cultural heritage than active practice for most people. Society is largely secular in daily life, while maintaining Christian traditions. 🎄</p>
+                </div>
+
+                <h3>💰 Part 2: Church Tax (Kirchensteuer/Kirchenbeitrag) – The Unique System</h3>
+                <p>Here's something that surprises many newcomers: if you're registered as a member of certain churches, you PAY for it through your taxes! 💸</p>
+
+                <h4>🇩🇪 Germany – Kirchensteuer:</h4>
+                <ul>
+                    <li>📊 <strong>What:</strong> Automatic tax deduction if you're registered as Catholic or Protestant (EKD). 8-9% of your income tax (varies by Bundesland).</li>
+                    <li>💰 <strong>Example:</strong> If your income tax is €5,000/year, church tax could be €400-450/year. Not small!</li>
+                    <li>📝 <strong>Automatic:</strong> Based on your registered religion (Konfession) when you do Anmeldung. If you state "katholisch" or "evangelisch," you'll be charged automatically!</li>
+                    <li>⛪ <strong>Who Collects:</strong> Government collects it and transfers to churches. Churches use it for clergy salaries, building maintenance, social programs, etc.</li>
+                    <li>🚪 <strong>Opt Out:</strong> You can leave the church (Kirchenaustritt) at the Standesamt. Costs ~€25-35 (one-time fee). Then no more church tax! But you also lose certain rights (religious wedding in church, church burial, etc.).</li>
+                </ul>
+
+                <h4>🇦🇹 Austria – Kirchenbeitrag:</h4>
+                <ul>
+                    <li>📋 <strong>Different System:</strong> NOT automatic tax deduction! Churches send you a bill (Zahlschein) directly.</li>
+                    <li>💰 <strong>Amount:</strong> Calculated by church based on your income (~1.1% typically). Catholic Church in Austria is very organized about this!</li>
+                    <li>📧 <strong>Billing:</strong> Church will find you and send invoices. They're persistent!</li>
+                    <li>🚪 <strong>Opt Out:</strong> You can leave the church (Austritt) at your local church office or online (katholisch.at/austritt for Catholics). Then they stop billing you.</li>
+                    <li>⚠️ <strong>Consequences:</strong> Similar to Germany – can't have church wedding, church funeral, godparents for baptisms must be members, etc.</li>
+                </ul>
+
+                <h4>🇨🇭 Switzerland – Varied by Canton:</h4>
+                <ul>
+                    <li>📊 <strong>Most Cantons:</strong> Church tax exists for recognized churches (Catholic, Protestant/Reformed, sometimes Jewish community).</li>
+                    <li>💰 <strong>Rate Varies:</strong> By canton and municipality. Could be 5-15% of cantonal tax. Significant in some areas!</li>
+                    <li>🏢 <strong>Corporations Too:</strong> Even businesses pay church tax in some cantons! (They can't "leave" like individuals.)</li>
+                    <li>🚪 <strong>Opt Out:</strong> Declare yourself konfessionslos (no religion) with your Gemeinde. Process varies by canton.</li>
+                    <li>📍 <strong>Some Cantons Dropped It:</strong> Geneva, Neuchâtel no longer have church tax. Others maintain it.</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Be Careful During Anmeldung!</strong>
+                    <p>When registering your residence, you'll be asked about religion (Konfession/Religion). 📋 If you say "Catholic" or "Protestant" just because you were baptized as a child, you're signing up for church tax! Many people put "keine" (none) or "konfessionslos" to avoid it – even if they're nominally Christian. This is legally fine and very common. 🚫💰</p>
+                </div>
+
+                <h3>🗽 Part 3: Religious Freedom – Your Rights</h3>
+                <p>Central Europe has strong constitutional protections for religious freedom: 🛡️</p>
+
+                <h4>📜 What's Protected:</h4>
+                <ul>
+                    <li>🛐 <strong>Freedom of Belief:</strong> You can believe (or not believe) whatever you want. Protected in constitutions of Germany (Art. 4 GG), Austria, Switzerland.</li>
+                    <li>⛪ <strong>Freedom of Worship:</strong> You can practice your religion, attend services, build places of worship (though building permits still required!).</li>
+                    <li>👶 <strong>Raise Children in Your Faith:</strong> Parents can raise children with their religious beliefs.</li>
+                    <li>🚫 <strong>Freedom FROM Religion:</strong> You can't be forced to participate in religious activities. This includes school!</li>
+                    <li>🏫 <strong>School Religious Education:</strong> In Germany and Austria, religious education is standard in public schools. But parents can opt children out! In Switzerland, varies by canton.</li>
+                </ul>
+
+                <h4>⚖️ Limits on Religious Freedom:</h4>
+                <ul>
+                    <li>📜 <strong>Must Respect Law:</strong> Religious freedom doesn't override secular law. Example: forced marriage is illegal regardless of religious justification.</li>
+                    <li>👧 <strong>Children's Rights:</strong> Practices harmful to children are illegal (example: FGM is criminal regardless of cultural/religious justification).</li>
+                    <li>🏛️ <strong>Public Order:</strong> Practices that threaten public order or others' rights can be restricted (though this is controversial – see headscarf debates).</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 Anti-Discrimination Laws</strong>
+                    <p>Discrimination based on religion is illegal across Central Europe in employment, housing, and services. ⚖️ If you face religious discrimination, you have legal recourse. Document incidents and seek legal advice (Antidiskriminierungsstelle in Germany, Gleichbehandlungsanwaltschaft in Austria, cantonal ombudspersons in Switzerland). 📋</p>
+                </div>
+
+                <h3>🕌 Part 4: Major Faith Communities</h3>
+
+                <h4>⛪ Christian Churches:</h4>
+                <ul>
+                    <li>🇻🇦 <strong>Catholic Church:</strong> Strongest in southern Germany (Bavaria), Austria, and Catholic Swiss cantons. Traditional Mass in Latin less common now; services mostly in German. Active in social services (Caritas).</li>
+                    <li>✝️ <strong>Protestant/Evangelical (EKD):</strong> Strongest in northern Germany, parts of Switzerland. EKD is actually a federation of Lutheran and Reformed churches. More progressive than Catholic on many issues (women priests, LGBTQ+ acceptance).</li>
+                    <li>🇬🇷 <strong>Orthodox Churches:</strong> Growing communities (Greek, Serbian, Russian, Romanian). Mostly in urban areas. Liturgy often in original languages.</li>
+                    <li>📿 <strong>Free Churches:</strong> Baptists, Methodists, Pentecostals, etc. Smaller but active communities. Often more conservative than mainstream churches.</li>
+                </ul>
+
+                <h4>🕌 Islam:</h4>
+                <ul>
+                    <li>🌙 <strong>Significant Communities:</strong> Especially Turkish diaspora in Germany/Austria, Balkan Muslims in Austria, diverse communities in Switzerland.</li>
+                    <li>🕌 <strong>Mosques:</strong> Mosques exist in most cities. Finding one: search online or ask at Islamic cultural centers.</li>
+                    <li>🥩 <strong>Halal Food:</strong> Widely available in urban areas. Turkish supermarkets are everywhere in Germany/Austria. Halal butchers in most cities.</li>
+                    <li>⚖️ <strong>Challenges:</strong> Muslims face some discrimination and integration challenges. Debates over headscarves, mosque construction, integration have been contentious.</li>
+                    <li>🏛️ <strong>Organized Differently:</strong> Unlike Christian churches, Islam isn't centrally organized or state-recognized the same way in most regions (though this is changing – some Islamic communities gaining official recognition).</li>
+                </ul>
+
+                <h4>✡️ Judaism:</h4>
+                <ul>
+                    <li>🕍 <strong>Historic Communities:</strong> Long history in Central Europe, devastated in Holocaust. Communities rebuilding since.</li>
+                    <li>🇩🇪 <strong>Germany:</strong> Growing Jewish community (~200,000), many recent immigrants from former Soviet Union. Synagogues in major cities. Berlin, Munich, Frankfurt have significant communities.</li>
+                    <li>🇦🇹 <strong>Austria:</strong> Vienna has historic Jewish community. Active synagogues and cultural centers.</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> Small but established communities, especially Zurich, Geneva, Basel.</li>
+                    <li>🛡️ <strong>Security:</strong> Synagogues and Jewish institutions often have security due to antisemitism concerns. This is sad reality.</li>
+                    <li>🥩 <strong>Kosher Food:</strong> Available in major cities with Jewish communities.</li>
+                </ul>
+
+                <h4>🕉️ Other Faiths:</h4>
+                <ul>
+                    <li>🇮🇳 <strong>Hinduism:</strong> Temples in larger cities. Indian and Tamil communities.</li>
+                    <li>☸️ <strong>Buddhism:</strong> Growing interest. Buddhist centers exist. Mix of Asian immigrants and European converts.</li>
+                    <li>🔯 <strong>Sikhism:</strong> Gurdwaras in cities with significant Indian/Punjabi populations.</li>
+                    <li>🌟 <strong>Other:</strong> Baháʼí, various new religious movements, etc.</li>
+                </ul>
+
+                <h3>🎄 Part 5: Religious Holidays and Public Life</h3>
+                <p>Christian holidays shape the public calendar across Central Europe: 📅</p>
+
+                <h4>🏛️ Public Holidays (Varies by Region!):</h4>
+                <ul>
+                    <li>🎄 <strong>Christmas (Weihnachten):</strong> Dec 25-26. Major holiday. Everything closes. Dec 24 (Heiligabend) is THE important evening – family gatherings, gift-giving.</li>
+                    <li>🐣 <strong>Easter (Ostern):</strong> Good Friday (Karfreitag), Easter Sunday/Monday. Variable date. Everything closed.</li>
+                    <li>⬆️ <strong>Ascension Day (Christi Himmelfahrt):</strong> 40 days after Easter. Public holiday. Also "Father's Day" (Vatertag) in Germany – men go hiking/drinking!</li>
+                    <li>🕊️ <strong>Pentecost (Pfingsten):</strong> 50 days after Easter. Whit Monday is public holiday.</li>
+                    <li>⛪ <strong>Assumption (Maria Himmelfahrt):</strong> Aug 15. Public holiday in Catholic regions (Bavaria, Austria, some Swiss cantons).</li>
+                    <li>🎃 <strong>All Saints' Day (Allerheiligen):</strong> Nov 1. Public holiday in Catholic regions. Cemetery visits to honor dead.</li>
+                    <li>📿 <strong>Corpus Christi (Fronleichnam):</strong> Thursday 60 days after Easter. Public holiday in Catholic regions.</li>
+                    <li>🇨🇭 <strong>Swiss Cantonal Saints' Days:</strong> Many Catholic cantons have patron saint days as holidays!</li>
+                </ul>
+
+                <div class="important">
+                    <strong>⚠️ Regional Variation!</strong>
+                    <p>Not all religious holidays are public holidays everywhere! 🗺️ Bavaria has more Catholic holidays than Protestant northern Germany. Austrian regions vary. Swiss cantons completely different! Check your specific location. Some businesses close even when it's not officially a public holiday in Catholic/Protestant strongholds. 🏪🚫</p>
+                </div>
+
+                <h4>🎅 Christmas Season:</h4>
+                <ul>
+                    <li>🎄 <strong>Advent (4 weeks before Christmas):</strong> Advent wreaths, Advent calendars, Christmas markets (Weihnachtsmärkte) everywhere!</li>
+                    <li>🍪 <strong>St. Nicholas Day (Nikolaustag):</strong> Dec 6. Children get candy/small gifts in shoes. Different from Christmas!</li>
+                    <li>🎁 <strong>Christmas Eve (Heiligabend):</strong> Dec 24 evening is THE main event. Church services at 6pm or midnight. Family dinner. Gifts exchanged.</li>
+                    <li>🦃 <strong>Dec 25-26:</strong> More family gatherings, eating. Quiet days.</li>
+                </ul>
+
+                <h4>🐰 Easter Season:</h4>
+                <ul>
+                    <li>🥚 <strong>Egg Decorating:</strong> Tradition across the region. Easter egg hunts for children.</li>
+                    <li>🔥 <strong>Easter Fires (Osterfeuer):</strong> Bonfires on Easter Saturday night in many areas.</li>
+                    <li>🍫 <strong>Easter Bunny (Osterhase):</strong> Brings eggs and chocolate. Major commercial holiday!</li>
+                </ul>
+
+                <h4>🌙 Accommodation for Other Religions:</h4>
+                <ul>
+                    <li>🕌 <strong>Eid al-Fitr / Eid al-Adha:</strong> NOT public holidays, but increasingly recognized. Some companies allow Muslims to take these as vacation days.</li>
+                    <li>✡️ <strong>Jewish Holidays:</strong> Not public holidays. Jewish employees typically use vacation days.</li>
+                    <li>🪔 <strong>Diwali, Vaisakhi, etc.:</strong> Not officially recognized but growing awareness in diverse cities.</li>
+                </ul>
+
+                <h3>🏫 Part 6: Religion and Education</h3>
+
+                <h4>📚 Religious Education in Schools:</h4>
+                <ul>
+                    <li>🇩🇪 <strong>Germany:</strong> Religionsunterricht (Catholic or Protestant) is standard subject in public schools. But parents can opt children out! Alternative: Ethics (Ethik) classes. Islamic religious education slowly being introduced in some Bundesländer.</li>
+                    <li>🇦🇹 <strong>Austria:</strong> Similar to Germany. Catholic or Protestant religion classes standard. Can opt out for ethics.</li>
+                    <li>🇨🇭 <strong>Switzerland:</strong> Varies by canton! Some have confessional religion classes, some non-confessional "religion and culture" classes, some nothing. In French-speaking cantons, more secular.</li>
+                    <li>✅ <strong>Opt-Out Process:</strong> Usually simple – inform school in writing that child won't attend religion class. No penalties!</li>
+                </ul>
+
+                <h4>⛪ Church-Run Schools:</h4>
+                <ul>
+                    <li>🏫 <strong>Catholic/Protestant Schools:</strong> Exist but less common than public schools. Often have excellent reputations. Usually charge tuition even though they receive state funding.</li>
+                    <li>🎓 <strong>Not Exclusionary:</strong> Church schools often admit non-religious students too. Focus is often on values education and academic excellence rather than strict religious indoctrination.</li>
+                </ul>
+
+                <h3>💒 Part 7: Religious Ceremonies – Weddings, Funerals, etc.</h3>
+
+                <h4>💍 Religious Weddings:</h4>
+                <ul>
+                    <li>⚖️ <strong>Civil Marriage First:</strong> In Germany and Austria, ONLY civil marriage at Standesamt is legally valid! Religious ceremony optional, held AFTER civil marriage.</li>
+                    <li>🇨🇭 <strong>Switzerland Too:</strong> Civil ceremony at Zivilstandsamt required for legal marriage. Church wedding is optional extra.</li>
+                    <li>⛪ <strong>Church Requirements:</strong> Catholic church requires at least one partner be Catholic. Protestant churches often more flexible. Preparation courses common. Churches can refuse (divorced Catholics may have issues).</li>
+                    <li>🕌 <strong>Islamic Marriages:</strong> Nikah ceremony has no legal standing – must do civil marriage too!</li>
+                </ul>
+
+                <h4>👶 Baptisms and Naming Ceremonies:</h4>
+                <ul>
+                    <li>⛪ <strong>Christian Baptism:</strong> Still common even among non-practicing families. Cultural tradition.</li>
+                    <li>🎉 <strong>Secular Alternatives:</strong> Welcoming ceremonies, naming parties for non-religious families.</li>
+                    <li>📋 <strong>Legal Name Registration:</strong> Done at Standesamt, separate from any religious ceremony.</li>
+                </ul>
+
+                <h4>⚰️ Funerals:</h4>
+                <ul>
+                    <li>⛪ <strong>Religious Funerals:</strong> Church funerals common for church members. Burial in church cemeteries often possible.</li>
+                    <li>🏛️ <strong>Secular Funerals:</strong> Perfectly acceptable! Secular humanist celebrants available. Municipal cemeteries serve everyone.</li>
+                    <li>🕌 <strong>Muslim Burials:</strong> Islamic burial sections exist in many cemeteries. Repatriation to home countries also common.</li>
+                    <li>✡️ <strong>Jewish Burials:</strong> Jewish cemeteries in cities with Jewish communities. Specific traditions accommodated.</li>
+                </ul>
+
+                <h3>🤝 Part 8: Practical Interfaith Considerations</h3>
+
+                <h4>🏢 Workplace:</h4>
+                <ul>
+                    <li>📅 <strong>Christian Holidays Off:</strong> Automatically. Other religions must use vacation days for their holidays (not ideal but that's the system).</li>
+                    <li>🍽️ <strong>Dietary Needs:</strong> Company cafeterias increasingly offer vegetarian/halal options. But not always! Bring your own lunch if needed.</li>
+                    <li>🙏 <strong>Prayer Breaks:</strong> Not legally required. Some companies accommodate if reasonable. Muslims may use breaks for Salah.</li>
+                    <li>🧕 <strong>Religious Clothing:</strong> Generally permitted (headscarves, turbans, etc.). Exceptions: certain public sector jobs have restrictions (varies by state/canton). Banks and corporations usually no issues.</li>
+                </ul>
+
+                <h4>🏠 Daily Life:</h4>
+                <ul>
+                    <li>🥩 <strong>Halal/Kosher Food:</strong> Widely available in cities. Turkish shops ubiquitous in Germany/Austria. Kosher requires more searching but exists.</li>
+                    <li>🍖 <strong>Restaurants:</strong> Increasing awareness. Many restaurants mark vegetarian/vegan options. Halal restaurants common in diverse neighborhoods.</li>
+                    <li>👗 <strong>Modest Clothing:</strong> No restrictions. Women can wear headscarves. Some pools may have women-only swimming hours (check local pools).</li>
+                </ul>
+
+                <h4>🤝 Interfaith Families:</h4>
+                <ul>
+                    <li>💑 <strong>Very Common:</strong> Mixed-religion couples are normal. No legal restrictions.</li>
+                    <li>👶 <strong>Children:</strong> Parents decide how to raise children religiously. Some choose one faith, some expose to both, some choose secular upbringing.</li>
+                    <li>⛪🕌 <strong>Religious Communities:</strong> Reactions vary. Some conservative communities may be less welcoming, but overall society is tolerant.</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Finding Your Community</strong>
+                    <p>Whatever your faith (or lack thereof), communities exist: 🤝</p>
+                    <ul>
+                        <li>🔍 Search online for places of worship in your area</li>
+                        <li>🌐 Expat and immigrant organizations often have religious connections</li>
+                        <li>👥 Facebook groups for your faith community in your city</li>
+                        <li>🏛️ Integration centers can point you to faith communities</li>
+                        <li>📚 Many cities have interfaith dialogue groups</li>
+                    </ul>
+                    <p>Don't be shy about reaching out. Most communities welcome newcomers! 🙏</p>
+                </div>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Religion in Central Europe is a mix of Christian heritage and secular modernity: ⛪🔬</p>
+                    <ul>
+                        <li>⛪ <strong>Visible Christian culture</strong> – churches, holidays, symbols – but low active practice</li>
+                        <li>💰 <strong>Church tax exists</strong> – opt in/out carefully during registration!</li>
+                        <li>🗽 <strong>Strong religious freedom</strong> – you can practice (or not) as you choose</li>
+                        <li>🌍 <strong>Increasing diversity</strong> – Islam, other faiths growing, recognized, but still face challenges</li>
+                        <li>📅 <strong>Christian holidays dominate calendar</strong> – but society largely secular in practice</li>
+                        <li>🤝 <strong>Respectful pluralism</strong> – most people tolerant of different beliefs (though discrimination exists)</li>
+                    </ul>
+                    <p>Germany 🇩🇪 is most diverse and secular (especially former East). Austria 🇦🇹 maintains stronger Catholic cultural influence. Switzerland 🇨🇭 varies dramatically by canton. Understand the system, know your rights, opt out of church tax if you want, and practice your faith freely. Religion is personal in Central Europe – your beliefs are your own business! 🇩🇪🇦🇹🇨🇭✨</p>
+                </div>
+            `
         }
     },
     mediterranean: {
