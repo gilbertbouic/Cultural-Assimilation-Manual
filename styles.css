@@ -96,10 +96,32 @@ main {
 
 /* Star circles for EU flag representation */
 .star-circle {
-    position: absolute;
+    position: relative;
     width: 80px;
     height: 80px;
     pointer-events: none;
+}
+
+/* Container for heading with star circles on either side */
+.heading-with-stars {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 20px;
+    margin-bottom: 1rem;
+}
+
+.heading-with-stars h2 {
+    margin: 0 0 0 0;
+}
+
+.heading-with-stars h3 {
+    margin: 0;
+}
+
+/* Add extra margin for the country selection heading */
+#country-selection .heading-with-stars {
+    margin-bottom: 2rem;
 }
 
 .star-circle .star {
