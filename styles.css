@@ -1,6 +1,8 @@
 /* Base Styles */
 :root {
     --star-scale: 1; /* Default scale for hand-tracked stars */
+    --circle-scale: 1; /* Default scale for the star circle itself */
+    --circle-rotation: 0deg; /* Default rotation angle for the star circle */
 }
 
 * {
@@ -100,6 +102,8 @@ main {
     width: 80px;
     height: 80px;
     pointer-events: none;
+    transform: scale(var(--circle-scale)) rotate(var(--circle-rotation));
+    transition: transform 0.3s ease;
 }
 
 /* Container for heading with star circles on either side */
