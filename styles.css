@@ -12,14 +12,46 @@ body {
     color: #333;
 }
 
-/* White background for country selection section */
+/* EU Flag background for country selection section */
 body.country-selection-active {
-    background: #ffffff;
+    background-color: #003399;
+    background-image: 
+        /* Circle of 12 stars - positioned in a circle, made larger and more visible */
+        radial-gradient(circle at 50% 30%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* Top star (12 o'clock) */
+        radial-gradient(circle at 57.32% 32.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 1 o'clock */
+        radial-gradient(circle at 62.99% 37.99%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 2 o'clock */
+        radial-gradient(circle at 65.5% 45.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 3 o'clock */
+        radial-gradient(circle at 62.99% 53.01%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 4 o'clock */
+        radial-gradient(circle at 57.32% 58.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 5 o'clock */
+        radial-gradient(circle at 50% 61%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* Bottom star (6 o'clock) */
+        radial-gradient(circle at 42.68% 58.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 7 o'clock */
+        radial-gradient(circle at 37.01% 53.01%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 8 o'clock */
+        radial-gradient(circle at 34.5% 45.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 9 o'clock */
+        radial-gradient(circle at 37.01% 37.99%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 10 o'clock */
+        radial-gradient(circle at 42.68% 32.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px);  /* 11 o'clock */
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 
-/* Intro page background */
+/* EU Flag background for intro page */
 body.intro-active {
-    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    background-color: #003399;
+    background-image: 
+        /* Circle of 12 stars - positioned in a circle, made larger and more visible */
+        radial-gradient(circle at 50% 30%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* Top star (12 o'clock) */
+        radial-gradient(circle at 57.32% 32.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 1 o'clock */
+        radial-gradient(circle at 62.99% 37.99%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 2 o'clock */
+        radial-gradient(circle at 65.5% 45.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 3 o'clock */
+        radial-gradient(circle at 62.99% 53.01%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 4 o'clock */
+        radial-gradient(circle at 57.32% 58.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 5 o'clock */
+        radial-gradient(circle at 50% 61%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* Bottom star (6 o'clock) */
+        radial-gradient(circle at 42.68% 58.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 7 o'clock */
+        radial-gradient(circle at 37.01% 53.01%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 8 o'clock */
+        radial-gradient(circle at 34.5% 45.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 9 o'clock */
+        radial-gradient(circle at 37.01% 37.99%, #FFCC00 0%, #FFCC00 8px, transparent 8px),  /* 10 o'clock */
+        radial-gradient(circle at 42.68% 32.5%, #FFCC00 0%, #FFCC00 8px, transparent 8px);  /* 11 o'clock */
+    background-size: 100% 100%;
+    background-attachment: fixed;
 }
 
 /* Header Styles */
