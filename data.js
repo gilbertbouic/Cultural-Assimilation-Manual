@@ -4,381 +4,284 @@ const culturalData = {
         name: "United Kingdom",
         flag: "🇬🇧",
         publicConduct: {
-            title: "🏛️ Module 2: Public & Community Conduct – A Practical Guide to Getting Along and Fitting In 🤝",
+            title: "🏛️ Module 2: Public & Community Conduct in the United Kingdom 🤝",
             content: `
-                <p>Right, let's get into the nitty-gritty of how to behave in public and be a good neighbour. 🏘️ This is crucial stuff – get it wrong and you'll stick out like a sore thumb. Get it right, and people will barely notice you're new here (which is actually the goal 🎯).</p>
-                
-                <p>This isn't about changing who you are. It's about understanding the unwritten rules that keep British society ticking along smoothly. ⚙️ Think of it as learning the local dialect of "being considerate." Let's crack on! 💪</p>
+                <h3>General Public Behavior</h3>
+                <p>British society values quiet consideration, respect for personal space, and patience. Understanding both legal requirements and social expectations is essential for successful integration.</p>
 
-                <h3>🚨 Part 1: The Legal Essentials – What Can Actually Get You In Trouble ⚖️</h3>
-                <p>Before we get to the social stuff, here are the legal bits. Breaking these can result in fines 💸 or worse.</p>
+                <h3>Legal Requirements</h3>
+                <p>Several laws govern public conduct in the UK. Violations can result in fines or criminal charges.</p>
 
                 <div class="warning">
-                    <strong>🚯 Anti-Social Behaviour Laws</strong>
+                    <strong>Anti-Social Behaviour Laws</strong>
                     <ul>
-                        <li><strong>Littering:</strong> Dropping litter is a criminal offence. Fixed penalty fines range from £50-£150. 🗑️ If it goes to court, fines can reach £2,500.</li>
-                        <li><strong>Noise Nuisance:</strong> Making excessive noise, especially at night (11 PM - 7 AM) 🌙, can result in formal warnings and fines. Your local council has the power to confiscate equipment.</li>
-                        <li><strong>Public Drinking:</strong> Many town and city centres have "Public Space Protection Orders" banning alcohol. 🍺 Check for signs – you can be fined or have your drink confiscated.</li>
-                        <li><strong>Dog Fouling:</strong> Not picking up after your dog 🐕 can result in fines up to £1,000. Always carry bags.</li>
+                        <li><strong>Littering:</strong> Fixed penalty fines £50-£150; court fines up to £2,500</li>
+                        <li><strong>Noise nuisance:</strong> Excessive noise especially 11 PM - 7 AM can result in warnings, fines, and equipment confiscation</li>
+                        <li><strong>Public drinking:</strong> Many areas have Public Space Protection Orders banning alcohol; check for signs</li>
+                        <li><strong>Dog fouling:</strong> Fines up to £1,000 for not picking up after your dog</li>
                     </ul>
                 </div>
 
                 <div class="important">
-                    <strong>⚠️ Public Order Offences</strong>
+                    <strong>Public Order Offences</strong>
                     <ul>
-                        <li><strong>Threatening or Abusive Behaviour:</strong> Using threatening words or behaviour that could cause harassment, alarm, or distress is a crime. This includes racist or homophobic language. 🚫</li>
-                        <li><strong>Being Drunk and Disorderly:</strong> Being visibly drunk and causing a disturbance in public is an offence. 🍻 You can be arrested.</li>
-                        <li><strong>Harassment:</strong> Repeatedly following someone, making threats, or behaving in a way that causes fear is illegal under the Protection from Harassment Act.</li>
+                        <li><strong>Threatening behavior:</strong> Words or actions causing harassment, alarm, or distress are criminal; includes hate speech</li>
+                        <li><strong>Drunk and disorderly:</strong> Being visibly drunk and causing disturbance is arrestable offense</li>
+                        <li><strong>Harassment:</strong> Repeatedly following, threatening, or causing fear is illegal</li>
                     </ul>
                 </div>
 
                 <div class="tip">
-                    <strong>📢 Freedom of Speech (and its limits)</strong>
-                    <p>You have the right to express opinions, protest peacefully ✊, and practice your religion. However, "hate speech" – speech that incites hatred against protected groups (race, religion, sexuality, disability) – is a crime. There's a line between robust debate and abuse. 🎭</p>
+                    <strong>Tip:</strong> The UK protects freedom of speech and peaceful protest, but hate speech inciting hatred against protected groups (race, religion, sexuality, disability) is criminal.
                 </div>
 
-                <h3>🤫 Part 2: The Unwritten Rules – Keeping the Peace</h3>
-                <p>Now for the stuff that won't get you arrested, but will make your life much easier (or much harder) if you ignore it. 🧐</p>
-
-                <h4>🔇 Noise and Disturbance:</h4>
+                <h3>Noise and Quiet Hours</h3>
                 <ul>
-                    <li>🌃 <strong>After 11 PM:</strong> Keep it down. No loud music 🎵, no shouting in the street, no slamming car doors repeatedly. Your neighbours are sleeping (or trying to).</li>
-                    <li>☀️ <strong>Sunday Mornings:</strong> Don't start drilling, mowing the lawn 🌿, or doing anything noisy before about 10 AM. Sunday is traditionally a quiet day.</li>
-                    <li>🔨 <strong>DIY and Construction:</strong> Try to keep disruptive work to reasonable weekday hours. Warn your neighbours if you're doing something particularly noisy.</li>
-                    <li>🐕 <strong>Dogs Barking:</strong> Persistent barking is a major source of neighbour disputes. Train your dog or address the issue. 🤫</li>
+                    <li><strong>After 11 PM:</strong> Keep noise minimal - no loud music, shouting, or repeated loud sounds</li>
+                    <li><strong>Sunday mornings:</strong> Avoid noisy activities (drilling, lawn mowing) before 10 AM</li>
+                    <li><strong>DIY work:</strong> Keep disruptive work to reasonable weekday hours; warn neighbors of particularly noisy projects</li>
+                    <li><strong>Pet noise:</strong> Persistent dog barking is major source of disputes; address promptly</li>
                 </ul>
 
-                <h4>🏡 Being a Good Neighbour:</h4>
+                <h3>Being a Good Neighbor</h3>
                 <ul>
-                    <li>👋 <strong>Greet Your Neighbours:</strong> A simple "Hello" or "Morning" when you see them is enough. You don't need to become best friends 🤝, but basic acknowledgement is expected.</li>
-                    <li>🌳 <strong>Keep Your Garden Tidy:</strong> You don't need a perfect lawn, but an overgrown jungle can affect property values and annoy neighbours. 🪴</li>
-                    <li>🚗 <strong>Parking:</strong> Don't block anyone's driveway. Be considerate about how much street space you take up. Don't park over someone's dropped kerb.</li>
-                    <li>🗑️ <strong>Bin Days:</strong> Put your bins out on the correct day 📅 and bring them back in afterwards. Don't leave them cluttering the pavement for days.</li>
-                    <li>📬 <strong>Accepting Parcels:</strong> If a neighbour is out, it's common to accept parcels for them. It's a small gesture that builds goodwill. 📦</li>
+                    <li><strong>Basic greetings:</strong> Simple "Hello" or "Morning" when you see neighbors; acknowledgement expected</li>
+                    <li><strong>Garden maintenance:</strong> Keep property reasonably tidy; overgrown gardens affect property values</li>
+                    <li><strong>Parking consideration:</strong> Never block driveways or dropped kerbs; be considerate of street space</li>
+                    <li><strong>Bin management:</strong> Put bins out on correct days and return promptly</li>
+                    <li><strong>Parcel acceptance:</strong> Accepting neighbors' parcels builds goodwill</li>
+                    <li><strong>Party notice:</strong> Warn immediate neighbors in advance of parties</li>
+                    <li><strong>Dispute resolution:</strong> Talk to neighbors calmly first; use council mediation services if needed</li>
                 </ul>
 
-                <h4>📢 Communication is Key:</h4>
+                <h3>Public Transport and Shared Spaces</h3>
                 <ul>
-                    <li>🎉 <strong>If You're Having a Party:</strong> Warn your immediate neighbours in advance. A quick knock on the door or a note through the letterbox goes a long way. ✉️</li>
-                    <li>🔧 <strong>If Something Bothers You:</strong> Talk to your neighbour calmly and politely <em>first</em>. Most issues can be resolved with a friendly word. 💬 Going straight to the council is seen as aggressive.</li>
-                    <li>😤 <strong>If There's a Dispute:</strong> Local councils often have free mediation services for neighbour disputes. Use them before things escalate. 🤝</li>
+                    <li><strong>Queuing:</strong> Absolutely essential - always join back of queue, never push in</li>
+                    <li><strong>Escalators:</strong> Stand right, walk left (especially London Underground)</li>
+                    <li><strong>Boarding transport:</strong> Let people off before getting on; give up seats for elderly, pregnant, or disabled</li>
+                    <li><strong>Volume control:</strong> Keep voices down; quiet carriages prohibit phone calls</li>
+                    <li><strong>Headphones required:</strong> Never play music aloud on public transport</li>
+                    <li><strong>Pavement etiquette:</strong> Walk at reasonable pace; don't stop suddenly; be aware of others</li>
+                    <li><strong>Door holding:</strong> Hold doors for person behind you; say thank you when done for you</li>
+                    <li><strong>Apologizing:</strong> "Sorry" used frequently - for excuse me, to get attention, or general acknowledgement</li>
                 </ul>
 
-                <h3>🚇 Part 3: Public Transport and Shared Spaces – The Art of the Commute</h3>
-                <p>Public spaces are where British reserve is most visible. Here's how to navigate them. 🚶</p>
-
+                <h3>Shops, Restaurants, and Pubs</h3>
                 <ul>
-                    <li>📶 <strong>Queuing:</strong> This is sacred. 🙏 Always join the back of the queue. Never push in. Never. Seriously. It's basically a national religion. 🇬🇧</li>
-                    <li>⬅️ <strong>Escalators:</strong> Stand on the right, walk on the left. This applies on the London Underground especially, but is good practice everywhere. ⬆️</li>
-                    <li>🚌 <strong>Public Transport:</strong> Let people off before you get on. 🚪 Give up your seat for elderly, pregnant, or disabled passengers (look for priority seats). Keep your voice down. 🔇 Avoid taking up multiple seats with bags.</li>
-                    <li>📱 <strong>Phone Calls:</strong> Keep calls brief and quiet. Nobody wants to hear your entire conversation. 🙉 On trains, many carriages are "quiet carriages" where calls are discouraged.</li>
-                    <li>🎧 <strong>Music:</strong> Use headphones. 🎶 Playing music out loud on the bus or train is incredibly annoying and marks you out as inconsiderate.</li>
-                    <li>🚶 <strong>Pavements:</strong> Walk at a reasonable pace. Don't stop suddenly in the middle of a busy pavement. Be aware of people trying to get past. 👣</li>
-                    <li>🚪 <strong>Holding Doors:</strong> Hold the door open for the person behind you. 🙌 It's automatic courtesy. Say "thank you" when someone does it for you.</li>
+                    <li><strong>Shop greetings:</strong> "Hello" and "thank you" to staff is polite</li>
+                    <li><strong>Browsing:</strong> Generally left alone; staff won't follow you</li>
+                    <li><strong>Getting attention:</strong> Make eye contact or raise hand slightly; never shout or snap fingers</li>
+                    <li><strong>Tipping:</strong> Not obligatory; 10-15% appreciated in restaurants (check for service charge on bill)</li>
+                    <li><strong>Pub rounds:</strong> Groups take turns buying drinks for everyone; social expectation to participate</li>
+                    <li><strong>Bar space:</strong> Get drinks and move if others waiting; don't linger at bar</li>
                 </ul>
 
-                <div class="tip">
-                    <strong>💡 The "Sorry" Rule</strong>
-                    <p>The English apologise constantly, often for things that aren't their fault. "Sorry" is used to mean "excuse me" 🙏, to get someone's attention 👋, or just to fill awkward silence. You'll hear it hundreds of times a day. Join in! 😅</p>
-                </div>
-
-                <h3>🛒 Part 4: Shops, Pubs, and Public Services – How Things Work</h3>
-
-                <h4>🏪 Shops and Restaurants:</h4>
+                <h3>Public Services</h3>
                 <ul>
-                    <li>👋 <strong>Greetings:</strong> Saying "Hello" to shop staff isn't compulsory, but it's polite. Always say "thank you" after a transaction. 🙏</li>
-                    <li>🔕 <strong>Browsing:</strong> You're generally left alone to browse. Staff won't follow you around (if they do, it's bad service). 🛍️</li>
-                    <li>✋ <strong>Getting Attention:</strong> Don't shout or snap your fingers at staff. 🙅 Make eye contact, raise a hand slightly, or wait for them to approach. Patience is valued.</li>
-                    <li>💷 <strong>Tipping:</strong> Not obligatory in most situations. Restaurants often add a service charge 📝 (check your bill). Tipping 10-15% is appreciated but not expected.</li>
+                    <li><strong>Punctuality:</strong> Be on time for appointments; late arrivals often forfeit GP slots</li>
+                    <li><strong>Patience required:</strong> Queues and waiting common; anger toward staff seen as unreasonable</li>
+                    <li><strong>Documentation:</strong> Bring required ID, proof of address, reference numbers</li>
+                    <li><strong>Politeness:</strong> Always use please and thank you, even with slow service</li>
                 </ul>
 
-                <h4>🍺 The Pub:</h4>
+                <h3>Community Integration</h3>
                 <ul>
-                    <li>🪑 <strong>Finding a Seat:</strong> Some pubs are "order at the bar," some have table service. Look around for clues or ask. 🧐</li>
-                    <li>🍻 <strong>Buying Rounds:</strong> If you're with a group, you'll take turns buying drinks for everyone. 🔄 This is called "getting a round in." It's a social contract – don't skip your turn, and don't accept drinks without offering to buy one back. 💸</li>
-                    <li>🧍 <strong>Don't Lean on the Bar:</strong> If others are waiting to order, get your drinks and move. 🚶 Don't hog the bar space.</li>
+                    <li><strong>Local events:</strong> Attend village fetes, community fairs, charity events, seasonal celebrations</li>
+                    <li><strong>Volunteering:</strong> Highly valued - charity shops, food banks, community groups, school PTAs</li>
+                    <li><strong>Clubs and societies:</strong> Football teams, running clubs, book clubs, hobby groups facilitate integration</li>
+                    <li><strong>Faith communities:</strong> Many have active outreach; community centers run groups and activities</li>
+                    <li><strong>School involvement:</strong> Natural way to meet other local parents</li>
                 </ul>
 
-                <h4>🏥 Public Services (GP, Council, etc.):</h4>
+                <h3>Environmental Responsibilities</h3>
                 <ul>
-                    <li>📅 <strong>Appointments:</strong> Be on time. ⏰ For GP appointments, arriving late often means you'll lose your slot.</li>
-                    <li>😌 <strong>Be Patient:</strong> Queues and waiting times are a fact of life. ⏳ Getting angry at frontline staff won't speed things up and makes you look unreasonable. 😤</li>
-                    <li>📄 <strong>Have Your Documents Ready:</strong> Whether it's ID, proof of address, or reference numbers – come prepared. 📋</li>
-                    <li>🙏 <strong>Say Please and Thank You:</strong> Always. Even if the service was slow. 😊</li>
-                </ul>
-
-                <h3>🌍 Part 5: Community and Integration – Getting Involved</h3>
-                <p>Being part of a community isn't just about not annoying people. It's about contributing. 🤗</p>
-
-                <ul>
-                    <li>🏠 <strong>Local Events:</strong> Look out for village fetes, community fairs, charity events, or seasonal celebrations. 🎪 Attending shows you're interested in your community.</li>
-                    <li>🙋 <strong>Volunteering:</strong> This is highly valued and a great way to meet people. 🤝 Charity shops, food banks, community groups, school PTAs – there are endless opportunities. 💪</li>
-                    <li>🏃 <strong>Sports Clubs and Societies:</strong> Joining a local football team ⚽, running club 🏃‍♀️, book club 📚, or hobby group is one of the best ways to integrate. The English open up more over shared activities.</li>
-                    <li>⛪ <strong>Religious and Community Groups:</strong> Many faith groups have active community outreach. Even non-religious community centres often run groups and activities. 🕌</li>
-                    <li>👨‍👩‍👧 <strong>School Community:</strong> If you have children 🧒, get involved with school events. It's a natural way to meet other local parents.</li>
-                </ul>
-
-                <h3>♻️ Part 6: Environmental Responsibility – Doing Your Bit</h3>
-                <p>The English take environmental responsibility increasingly seriously. 🌱</p>
-
-                <ul>
-                    <li>♻️ <strong>Recycling:</strong> This is mandatory. 🗑️ Councils provide different bins for different waste (general, recycling, garden, food). Learn your collection days and what goes where. Getting it wrong can mean your bins aren't collected. 📅</li>
-                    <li>💧 <strong>Water Conservation:</strong> In summer, there may be hosepipe bans. 🚿 Don't waste water unnecessarily.</li>
-                    <li>🐶 <strong>Dog Walking:</strong> Always clean up after your dog. 🐕 Carry poo bags. Use designated bins or take it home. 🗑️</li>
-                    <li>🌳 <strong>Countryside Code:</strong> If you're in the countryside, follow paths, close gates 🚪, don't litter, keep dogs under control, and respect wildlife. 🦔</li>
+                    <li><strong>Recycling:</strong> Mandatory; councils provide separate bins (general, recycling, garden, food)</li>
+                    <li><strong>Water conservation:</strong> Observe summer hosepipe bans</li>
+                    <li><strong>Dog waste:</strong> Always carry and use poo bags; use designated bins</li>
+                    <li><strong>Countryside code:</strong> Follow paths, close gates, don't litter, control dogs, respect wildlife</li>
                 </ul>
 
                 <div class="important">
-                    <strong>🎯 The Bottom Line</strong>
-                    <p>Public and community conduct in the United Kingdom can be summed up in three words: <strong>quiet, considerate, and patient</strong>. 🤫🤝⏳ Mind your own business (mostly), be polite even when frustrated, say please and thank you, and queue properly. Do that, and you'll fit in just fine! ✅🇬🇧</p>
+                    <strong>Important:</strong> British public conduct centers on being quiet, considerate, and patient. Politeness, proper queuing, and respecting personal space are fundamental to fitting in.
                 </div>
             `
         },
         relationships: {
-            title: "💕 Module 1: A Practical Guide to Relationships, Respect, and How Not to Make a Fool of Yourself 🤝",
+            title: "💕 Module 1: Relationships & Respect in the United Kingdom 🤝",
             content: `
-                <p>Right then. Let's talk about the tricky stuff: men, women, dating, and everything in between. 🎭 This is likely the biggest difference you'll find from your home country, and it's where things can go wrong fastest. ⚠️</p>
+                <h3>General Social Norms</h3>
+                <p>British society values personal freedom, privacy, and respect for individual boundaries. While modern and liberal, there are important cultural expectations around relationships and social interactions that are essential to understand.</p>
                 
-                <p>This guide isn't here to judge. It's a practical manual to help you understand the landscape, avoid getting into hot water 🔥, and hopefully have a decent time. Pay attention, because these aren't just suggestions – they're the rules of the game! 🎯</p>
-
-                <h3>🚨 Part 1: The Absolute, Non-Negotiable Rules (The Legal Bits) 📜</h3>
-                <p>This isn't about culture; this is about the law. ⚖️ Breaking these rules can lead to prison. There are <strong>no exceptions</strong>.</p>
-
+                <h3>Legal Requirements</h3>
+                <p>Understanding UK law regarding relationships is crucial. Breaking these laws can result in serious criminal penalties.</p>
+                
                 <div class="warning">
-                    <strong>🔞 The Age of Consent is 16 (United Kingdom)</strong>
+                    <strong>Age of Consent</strong>
                     <ul>
-                        <li>It is a <strong>serious crime</strong> to have any kind of sexual contact with someone under 16. The law is absolute on this.</li>
-                        <li>"I thought they were older" is <strong>never</strong> an excuse. The responsibility is 100% on you. If you have any doubt at all, walk away. 🚶</li>
-                        <li><strong>Important:</strong> For people in positions of trust (like teachers 👨‍🏫, coaches, or doctors 👩‍⚕️), it is illegal to have a sexual relationship with a 16 or 17-year-old in their care. The age limit is effectively 18 in these cases.</li>
+                        <li><strong>Age limit is 16:</strong> Sexual contact with anyone under 16 is a serious crime with no exceptions</li>
+                        <li><strong>Positions of trust:</strong> Teachers, coaches, doctors, and similar professionals face age limit of 18 for those in their care</li>
+                        <li><strong>Ignorance not accepted:</strong> "I thought they were older" is never a valid defense; responsibility is entirely on you</li>
                     </ul>
                 </div>
 
                 <div class="important">
-                    <strong>✅ Consent is Freely and Enthusiastically Given</strong>
+                    <strong>Consent Requirements</strong>
                     <ul>
-                        <li>You must have a clear "yes." 👍 Silence is not a yes. Someone being friendly is not a yes. Someone being drunk 🍺 is not a yes.</li>
-                        <li>"No" means "No." 🛑 It is the end of the conversation. Pestering, begging, or arguing after a "no" is harassment.</li>
+                        <li><strong>Clear consent required:</strong> Silence, friendliness, or intoxication do not constitute consent</li>
+                        <li><strong>"No" means no:</strong> Continuing after refusal constitutes harassment</li>
+                        <li><strong>Enthusiastic agreement needed:</strong> Consent must be freely and clearly given</li>
                     </ul>
                 </div>
 
                 <div class="tip">
-                    <strong>⚖️ Equality is the Law</strong>
-                    <p>Men and women are equal. 👫 Same-sex relationships are legal, normal, and protected by law. 🏳️‍🌈 You will see gay couples holding hands or being affectionate; this is a normal part of life here. Disrespecting someone based on their gender or sexuality is not tolerated.</p>
+                    <strong>Tip:</strong> The UK has strong equality laws. Same-sex relationships are legal, normal, and protected. Gender-based or sexuality-based discrimination is not tolerated.
                 </div>
 
-                <h3>👔 Part 2: Dress Code – The Art of Effort and Understatement</h3>
-                <p>First things first: in the modern United Kingdom, you can, and should, wear whatever makes you feel comfortable. 😎 Personal freedom is highly valued. The prevailing attitude is that you shouldn't judge a book by its cover. 📚 So, the primary rule is: <strong>be yourself</strong>.</p>
+                <h3>Dress and Appearance</h3>
+                <p>The UK values personal freedom in dress, but context matters. The key concept is "making an effort" - dressing appropriately for the situation shows respect.</p>
 
-                <p>However, this guide is here to give you practical advice. We don't have strict "dress codes," but we do have "contexts." 🎭 Choosing what to wear is less about following rules and more about showing you understand the situation. It boils down to one simple concept: <strong>"making an effort." ✨</strong></p>
-
-                <div class="tip">
-                    <strong>💡 What does "making an effort" mean?</strong>
-                    <p>It means you've thought about the occasion and dressed appropriately for it. It's a non-verbal way of saying "I respect this situation and the people I'm with." 🤝 It has very little to do with money 💰 and everything to do with care. Clean clothes, clean shoes 👟, and a tidy appearance are the foundation.</p>
-                </div>
-
-                <h4>🎯 Context is Everything:</h4>
                 <ul>
-                    <li>🏠 <strong>Daily Life</strong> (running errands): Comfort is key. Nobody will bat an eyelid at what you're wearing.</li>
-                    <li>🍺 <strong>A Casual Social Setting</strong> (e.g., the pub): You'll see everything, but the safe middle ground is "smart casual"—think clean jeans or chinos and a decent jumper or shirt. It says, "I'm relaxed, but I've made an effort."</li>
-                    <li>🍽️ <strong>A "Nice" Occasion</strong> (a good restaurant, a date): This is where "making an effort" is most appreciated. It shows respect for the person you're with and the place you're in.</li>
-                    <li>🎨 <strong>Expressing Yourself:</strong> If you have a unique personal style, wear it with confidence. In most places, people will either not notice or will appreciate the individuality.</li>
+                    <li><strong>Daily life:</strong> Casual and comfortable; no strict rules</li>
+                    <li><strong>Social settings (pubs, casual gatherings):</strong> Smart casual is safe - clean jeans or chinos with decent shirt or jumper</li>
+                    <li><strong>Nice occasions (restaurants, dates):</strong> Dress up to show respect for the person and place</li>
+                    <li><strong>Personal expression:</strong> Unique styles generally accepted, especially in cities</li>
+                    <li><strong>Understatement valued:</strong> Looking good without appearing to try too hard is the British way</li>
                 </ul>
 
-                <p>The real secret is that the English are masters of <strong>understatement</strong>. 🎩 The goal is often to look good without looking like you've tried too hard. So, forget rigid rules. Just ask yourself: "Am I showing the right amount of respect for this occasion?" If the answer is yes, you've got it right. ✅</p>
-
-                <h3>🎭 Part 3: The Social Dance – Public Behaviour and First Steps</h3>
-                <p>This is where the real English culture comes in. We are generally reserved and value privacy. 🤫</p>
+                <h3>Social Interactions</h3>
+                <p>British people are generally reserved and value personal space and privacy.</p>
 
                 <ul>
-                    <li>💑 <strong>Public Affection:</strong> Keep it subtle. Holding hands or a brief kiss is fine. 😘 Long, passionate embraces in the middle of a quiet café will make people uncomfortable. 😬</li>
-                    <li>📏 <strong>Personal Space:</strong> We like our space. Don't stand too close. A good rule is to keep about an arm's length away. 🤲 Uninvited touching, even if you mean it to be friendly, is often seen as an invasion of that space.</li>
-                    <li>💬 <strong>The Art of the Compliment:</strong> Be careful. Complimenting something someone <em>chose</em> (their jacket 🧥, their shoes 👞) is safe. Complimenting someone's body ("you have beautiful eyes" 👀) can come across as far too forward and may be seen as an unwanted advance.</li>
-                    <li>🗣️ <strong>Initiating a Conversation:</strong> It's fine to chat to someone in a pub or social setting. Use the situation as a starting point ("It's busy tonight 🌙"). If they give short, one-word answers and turn away, that's a polite signal to end the conversation. Take the hint gracefully. 😊</li>
+                    <li><strong>Public affection:</strong> Holding hands and brief kisses acceptable; extended passionate displays make people uncomfortable</li>
+                    <li><strong>Personal space:</strong> Maintain arm's length distance; uninvited touching often seen as intrusive</li>
+                    <li><strong>Compliments:</strong> Safe to compliment choices (clothing, accessories); comments about physical appearance can seem forward</li>
+                    <li><strong>Conversation initiation:</strong> Use situation as starting point; respect signals to end conversation (short answers, turning away)</li>
                 </ul>
 
-                <h3>💕 Part 4: Dating – The Unspoken Rules</h3>
+                <h3>Dating Culture</h3>
                 <ul>
-                    <li>🍻 <strong>Alcohol is Involved:</strong> A huge amount of socialising and dating revolves around alcohol. "Going for a drink" is the standard first date. It's casual, low-pressure, and has an easy time limit. ⏰</li>
-                    <li>💸 <strong>Who Pays?:</strong> The old "man always pays" rule is dead. ⚰️ Often, people will "get a round" in turn, or the bill is split ("going Dutch" 🇳🇱). A good policy is to always offer to pay your share.</li>
-                    <li>📅 <strong>Age Gaps:</strong> Large age gaps (10+ years) are less common and can sometimes be viewed with suspicion 🤔, especially if one person is very young (e.g., under 21). It's not illegal, but it's something to be aware of.</li>
-                    <li>🙅 <strong>Handling Rejection:</strong> If you ask someone out and they say no, the only acceptable response is a polite, "No problem, have a good evening," 👋 and then you move on. Pestering someone after rejection is considered socially unacceptable and will seriously damage your reputation. 🚫</li>
-                    <li>💔 <strong>Infidelity ("Cheating"):</strong> Loyalty is highly valued. Cheating on a partner is seen as a massive betrayal and a deeply dishonourable thing to do.</li>
-                    <li>🌙 <strong>The End of the Night:</strong> Do not assume a date will end in physical intimacy. It usually doesn't. A simple "I had a really nice time" 😊 is the best way to end the evening. If they feel the same, you can arrange another date. 📱</li>
+                    <li><strong>Alcohol-centered socializing:</strong> "Going for a drink" is standard first date - casual and low-pressure</li>
+                    <li><strong>Bill payment:</strong> Traditional "man pays" rule outdated; splitting bills or alternating rounds is common</li>
+                    <li><strong>Age gaps:</strong> Large age differences (10+ years) can raise eyebrows, especially with younger partners</li>
+                    <li><strong>Handling rejection:</strong> Polite acceptance and moving on is only acceptable response; persistence damages reputation</li>
+                    <li><strong>Loyalty valued:</strong> Infidelity considered serious betrayal</li>
+                    <li><strong>Physical intimacy:</strong> Don't assume dates end intimately; respectful ending and arranging next meeting is appropriate</li>
                 </ul>
 
                 <div class="important">
-                    <strong>🎯 The Bottom Line</strong>
-                    <p>This guide might seem complex, but it boils down to one thing: <strong>respect</strong>. 🙏 Respect the law ⚖️, respect personal space 📏, and respect a person's right to say "no." 🛑 If you make that your starting point, you'll be absolutely fine! ✨🇬🇧</p>
+                    <strong>Important:</strong> British relationship culture centers on respect - for the law, for personal space, and for the right to say no. Following these principles ensures positive social interactions.
                 </div>
             `
         },
         communicationMindset: {
-            title: "🗣️ Module 3: Communication & Mindset – How to Talk, Think, and Fit In Like a Local 🧠",
+            title: "🗣️ Module 3: Communication & Mindset in the United Kingdom 🧠",
             content: `
-                <p>Right then, let's crack on with one of the trickiest bits of fitting into English life: how we actually communicate. 🗣️ It's not just about speaking English – it's about understanding how the English <em>use</em> English. We're a nation of understatement, indirect hints, and saying "fine" when we mean absolutely anything but. 😅</p>
-                
-                <p>This module will help you decode what we really mean, how to express yourself without putting your foot in it 🦶, and how to develop the mindset that'll help you thrive here. Let's get into it! 💪</p>
+                <h3>Communication Style</h3>
+                <p>British communication is characterized by indirect expression, politeness, and understatement. Understanding what is said versus what is meant is essential for effective interaction.</p>
 
-                <h3>🎭 Part 1: The Art of Indirect Communication – What We Say vs What We Mean</h3>
-                <p>The English are world champions at <strong>not saying what they mean</strong>. 🏆 This isn't dishonesty – it's a cultural preference for politeness, understatement, and avoiding confrontation. Here's your decoder ring: 🔑</p>
+                <h3>Indirect Communication Patterns</h3>
+                <p>The British often avoid saying what they mean directly, preferring polite euphemisms and understatement.</p>
 
-                <div class="important">
-                    <strong>🔍 The English Translation Guide</strong>
-                    <ul>
-                        <li><strong>"That's interesting..."</strong> = I disagree completely, or I think that's a terrible idea. 🤔</li>
-                        <li><strong>"I'll bear that in mind"</strong> = I've already forgotten it and won't be doing that. 🙃</li>
-                        <li><strong>"With the greatest respect..."</strong> = I'm about to completely disagree with you. 😬</li>
-                        <li><strong>"I'm sure it's my fault, but..."</strong> = This is definitely your fault. 😤</li>
-                        <li><strong>"Not bad"</strong> = Actually quite good! Sometimes even excellent. ✨</li>
-                        <li><strong>"Could we consider some other options?"</strong> = I don't like your idea at all. ❌</li>
-                        <li><strong>"I hear what you're saying"</strong> = I disagree and wish you'd stop saying it. 🙉</li>
-                        <li><strong>"Fine"</strong> = Could mean anything from "great" to "I'm furious but won't say so." 🎲</li>
-                    </ul>
-                </div>
+                <ul>
+                    <li><strong>"That's interesting":</strong> Often means disagreement or thinking it's a terrible idea</li>
+                    <li><strong>"I'll bear that in mind":</strong> Likely won't be done or has been forgotten</li>
+                    <li><strong>"With the greatest respect":</strong> About to completely disagree</li>
+                    <li><strong>"I'm sure it's my fault, but...":</strong> Indicating it's actually your fault</li>
+                    <li><strong>"Not bad":</strong> Actually quite good or excellent</li>
+                    <li><strong>"Could we consider other options?":</strong> Don't like your idea at all</li>
+                    <li><strong>"I hear what you're saying":</strong> Disagree and wish you'd stop</li>
+                    <li><strong>"Fine":</strong> Can mean anything from great to furious</li>
+                </ul>
 
                 <div class="tip">
-                    <strong>💡 The Golden Rule</strong>
-                    <p>When an English person says something mildly positive, they often mean something very positive. When they say something mildly negative, they often mean something quite harsh. 📊 The more polite the phrasing, the more you should pay attention to what's <em>not</em> being said directly!</p>
+                    <strong>Tip:</strong> Mildly positive statements often mean very positive; mildly negative statements often mean quite harsh. The more polite the phrasing, the more attention to what's not being said directly.
                 </div>
 
-                <h3>🤝 Part 2: The Power Words – "Please," "Thank You," and "Sorry" 🙏</h3>
-                <p>These three words are the lubricant of English social life. ⚙️ Use them constantly – far more than you think is necessary.</p>
+                <h3>Essential Politeness Words</h3>
+                <p>"Please," "thank you," and "sorry" are fundamental to British social interaction and must be used constantly.</p>
 
-                <h4>🙏 Please:</h4>
                 <ul>
-                    <li>Add it to <em>every</em> request, no matter how small. "A coffee, please." "Could you pass the salt, please?" ☕</li>
-                    <li>Even when ordering food or asking for directions, "please" is expected. 🗺️</li>
-                    <li>Leaving it out makes you sound rude or demanding – even if you don't mean to be. 😬</li>
-                </ul>
-
-                <h4>🙌 Thank You:</h4>
-                <ul>
-                    <li>Say it after <em>everything</em>. When someone holds a door. When a bus driver stops. When you receive anything. 🚌</li>
-                    <li>Variations include: "Thanks," "Cheers," "Ta" (informal), "Much appreciated." 👍</li>
-                    <li>"Cheers" is particularly versatile – it can mean thank you, goodbye, or be a toast! 🍻</li>
-                </ul>
-
-                <h4>😅 Sorry:</h4>
-                <ul>
-                    <li>The English apologise for <em>everything</em>. Someone bumps into us? We say sorry. 🙇</li>
-                    <li>It doesn't always mean actual apology – it can mean "excuse me," "I didn't hear you," or just general acknowledgment. 🤷</li>
-                    <li>If someone steps on YOUR foot, you might well say sorry. This is normal here! 😂</li>
+                    <li><strong>Please:</strong> Add to every request, no matter how small; essential even when ordering or asking directions</li>
+                    <li><strong>Thank you:</strong> Say after everything - doors held, bus stops, receiving anything; variations include "Thanks," "Cheers," "Ta," "Much appreciated"</li>
+                    <li><strong>Sorry:</strong> Used for everything - as apology, excuse me, didn't hear you, or general acknowledgement; saying sorry even when someone else is at fault is normal</li>
                 </ul>
 
                 <div class="warning">
-                    <strong>⚠️ Don't Skip These Words!</strong>
-                    <p>Forgetting to say please, thank you, or sorry is one of the fastest ways to be seen as rude. 🚫 It doesn't matter if your culture considers these words excessive – in the United Kingdom, they're the basics of social interaction. Use them automatically! 🔄</p>
+                    <strong>Important:</strong> Forgetting these words is one of the fastest ways to be seen as rude. They are non-negotiable basics of social interaction in the UK.
                 </div>
 
-                <h3>💬 Part 3: Small Talk – The Great British Pastime ☕</h3>
-                <p>Small talk isn't just a time-filler here – it's a social ritual. 🎭 Before getting to the point of any conversation, expect some pleasantries.</p>
+                <h3>Small Talk Culture</h3>
+                <p>Small talk is a social ritual, not just time-filling. Pleasantries precede getting to the point.</p>
 
-                <h4>🌤️ The Weather – The Ultimate Safe Topic:</h4>
                 <ul>
-                    <li>"Lovely day, isn't it?" "Bit chilly today!" "Can you believe this rain?" 🌧️</li>
-                    <li>This isn't because we're obsessed with weather (though we are 😄) – it's a safe, neutral way to connect.</li>
-                    <li>Agree enthusiastically, even if you're from somewhere much hotter or colder! ❄️☀️</li>
+                    <li><strong>Weather:</strong> Ultimate safe topic - always acceptable conversation starter</li>
+                    <li><strong>Football and sports:</strong> "Did you see the match?" is common opener</li>
+                    <li><strong>Holidays and travel:</strong> "Been anywhere nice recently?"</li>
+                    <li><strong>TV shows:</strong> Especially British programs</li>
+                    <li><strong>Local events:</strong> Area happenings, traffic, new establishments</li>
                 </ul>
 
-                <h4>✅ Good Small Talk Topics:</h4>
+                <h3>Topics to Avoid</h3>
                 <ul>
-                    <li>⚽ <strong>Football and sports:</strong> "Did you see the match?" is a great opener.</li>
-                    <li>✈️ <strong>Holidays and travel:</strong> "Been anywhere nice recently?"</li>
-                    <li>📺 <strong>TV shows:</strong> Especially British ones – everyone watches Strictly or Bake Off!</li>
-                    <li>🏠 <strong>Local events:</strong> What's happening in the area, traffic, that new café.</li>
-                </ul>
-
-                <h4>❌ Topics to Avoid (Until You Know Someone Well):</h4>
-                <ul>
-                    <li>💷 <strong>Money and salary:</strong> Very private topic. Never ask what someone earns.</li>
-                    <li>🗳️ <strong>Politics:</strong> Especially now – can get heated very quickly. Proceed with caution!</li>
-                    <li>🛐 <strong>Religion:</strong> Generally considered private unless they bring it up.</li>
-                    <li>👑 <strong>The Royal Family:</strong> Opinions vary wildly – you might offend either way!</li>
-                    <li>🎂 <strong>Age:</strong> Especially with women, this is considered impolite.</li>
+                    <li><strong>Money and salary:</strong> Very private; never ask what someone earns</li>
+                    <li><strong>Politics:</strong> Can become heated quickly; proceed with caution</li>
+                    <li><strong>Religion:</strong> Considered private unless they raise it</li>
+                    <li><strong>Royal Family:</strong> Opinions vary wildly</li>
+                    <li><strong>Age:</strong> Especially with women</li>
                 </ul>
 
                 <div class="tip">
-                    <strong>💡 Reading the Room</strong>
-                    <p>If someone is giving short, one-word answers and not making eye contact, they don't want to chat. 🙅 Don't take it personally – they might just be having a bad day or simply prefer their own company. Respect that! 🤫</p>
+                    <strong>Tip:</strong> Short, one-word answers and lack of eye contact signal disinterest in conversation. Don't take it personally - respect their preference for privacy.
                 </div>
 
-                <h3>🧠 Part 4: The English Mindset – Attitudes That Will Help You Fit In 🎯</h3>
-                <p>Beyond what you say, <em>how you think</em> about situations makes a big difference. Here are some mindset shifts that'll help: 🔄</p>
-
-                <h4>🤐 Understatement is King:</h4>
+                <h3>British Mindset and Attitudes</h3>
                 <ul>
-                    <li>The English distrust over-enthusiasm and big claims. 📉</li>
-                    <li>Instead of "This is amazing!", try "Not bad at all" or "Quite nice, actually." 😌</li>
-                    <li>Self-deprecation is valued – people who brag or boast are seen negatively. 🙄</li>
-                    <li>If you win something, downplay it: "Oh, I just got lucky!" 🍀</li>
-                </ul>
-
-                <h4>😌 Keep Calm and Carry On:</h4>
-                <ul>
-                    <li>Getting visibly angry, shouting, or making a scene is extremely frowned upon. 🙅</li>
-                    <li>Even if you're furious, keep your voice down and stay polite. 🤫</li>
-                    <li>"Keeping a stiff upper lip" means not showing excessive emotion, especially negative ones. 😐</li>
-                    <li>If something goes wrong, the ideal response is a wry comment and moving on. 💪</li>
-                </ul>
-
-                <h4>⏳ Patience is a Virtue:</h4>
-                <ul>
-                    <li>Queuing, waiting, delayed trains 🚂 – accept these with good grace.</li>
-                    <li>Sighing heavily, tutting loudly, or complaining publicly marks you out as "difficult." 😬</li>
-                    <li>A quiet grumble to the person next to you is acceptable – a loud complaint is not. 🤭</li>
-                </ul>
-
-                <h4>😅 Self-Deprecating Humour:</h4>
-                <ul>
-                    <li>Making fun of yourself is a British art form. 🎭</li>
-                    <li>It builds trust and shows you don't take yourself too seriously. 😄</li>
-                    <li>If you make a mistake, laughing at yourself is the quickest way to defuse the situation! 🤣</li>
+                    <li><strong>Understatement valued:</strong> Distrust over-enthusiasm; prefer "not bad" to "amazing"; self-deprecation valued over boasting</li>
+                    <li><strong>Emotional restraint:</strong> "Keep calm and carry on" - visible anger or making scenes extremely frowned upon; maintain polite demeanor even when furious</li>
+                    <li><strong>Patience expected:</strong> Accept queuing, waiting, delays with grace; loud complaining marks you as difficult</li>
+                    <li><strong>Self-deprecating humor:</strong> Making fun of yourself builds trust; laughing at mistakes defuses situations</li>
                 </ul>
 
                 <div class="important">
-                    <strong>🎭 Understanding British Humour</strong>
-                    <p>British humour is often dry, sarcastic, and deadpan. 🎯 Someone might say something that sounds insulting, but they're actually joking. Context and tone matter hugely. If everyone else is smiling, it's probably a joke! 😄 When in doubt, smile and laugh along – you'll learn to read it over time.</p>
+                    <strong>British Humor:</strong> Often dry, sarcastic, and deadpan. Statements that sound insulting may be jokes. Context and tone matter greatly. When in doubt, smile and learn to read it over time.
                 </div>
 
-                <h3>🚫 Part 5: Communication Mistakes to Avoid 🙅</h3>
-                <p>Here are some common pitfalls that can make communication tricky: ⚠️</p>
-
+                <h3>Communication Mistakes to Avoid</h3>
                 <ul>
-                    <li>🔊 <strong>Being Too Loud:</strong> The English speak relatively quietly. Loud voices in public are uncomfortable for everyone.</li>
-                    <li>💪 <strong>Being Too Direct:</strong> "I want..." sounds demanding. "Could I possibly have...?" is much better. 🙏</li>
-                    <li>🏆 <strong>Boasting:</strong> Talking up your achievements or possessions is seen as tacky. Let others discover your qualities!</li>
-                    <li>📞 <strong>Phone Calls on Public Transport:</strong> Keep calls brief and quiet, or text instead. Nobody wants to hear your conversation! 📵</li>
-                    <li>😡 <strong>Public Complaints:</strong> Taking a complaint public (shouting at staff, making a scene) will lose you sympathy, even if you're right.</li>
-                    <li>🤨 <strong>Staring:</strong> Making prolonged eye contact with strangers is considered aggressive or strange. 👀</li>
+                    <li><strong>Volume:</strong> Speaking too loudly makes people uncomfortable</li>
+                    <li><strong>Direct demands:</strong> "I want" sounds demanding; use "Could I possibly have...?"</li>
+                    <li><strong>Boasting:</strong> Talking up achievements seen as tacky</li>
+                    <li><strong>Loud phone calls:</strong> Keep calls brief and quiet on public transport</li>
+                    <li><strong>Public complaints:</strong> Making scenes loses sympathy even if right</li>
+                    <li><strong>Staring:</strong> Prolonged eye contact with strangers considered aggressive</li>
                 </ul>
 
-                <h3>🏢 Part 6: Communication in Different Contexts 📍</h3>
+                <h3>Context-Specific Communication</h3>
 
-                <h4>💼 At Work:</h4>
+                <h4>Workplace</h4>
                 <ul>
-                    <li>Emails start with "Hi [Name]" or "Dear [Name]" and end with "Kind regards" or "Best wishes." ✉️</li>
-                    <li>Requests are phrased softly: "Would you mind..." "When you get a chance..." "Could you possibly..." 🤝</li>
-                    <li>Giving direct criticism is uncomfortable – expect feedback to be wrapped in positives. 🎁</li>
-                    <li>Meetings often include small talk before getting to business. ☕</li>
+                    <li>Emails: Start with "Hi/Dear [Name]" and end with "Kind regards/Best wishes"</li>
+                    <li>Soft requests: "Would you mind..." "When you get a chance..." "Could you possibly..."</li>
+                    <li>Indirect criticism: Feedback wrapped in positives</li>
+                    <li>Small talk before business common in meetings</li>
                 </ul>
 
-                <h4>🛒 In Shops and Services:</h4>
+                <h4>Shops and Services</h4>
                 <ul>
-                    <li>"Excuse me" or "Sorry" to get attention – never snap your fingers or shout! 🙅</li>
-                    <li>"I was wondering if..." is softer than "Do you have..." 🤔</li>
-                    <li>If there's a problem, stay calm and polite – you'll get better service. 😊</li>
+                    <li>"Excuse me" or "Sorry" to get attention - never snap fingers or shout</li>
+                    <li>"I was wondering if..." softer than "Do you have..."</li>
+                    <li>Stay calm and polite for better service</li>
                 </ul>
 
-                <h4>🏥 With Officials (Doctors, Council, etc.):</h4>
+                <h4>With Officials</h4>
                 <ul>
-                    <li>Be polite and patient, even if you're frustrated. 😤➡️😌</li>
-                    <li>Have your documents ready and be organised. 📋</li>
-                    <li>"Thank you for your help" at the end goes a long way. 🙏</li>
+                    <li>Be polite and patient even when frustrated</li>
+                    <li>Have documents ready and be organized</li>
+                    <li>"Thank you for your help" at end appreciated</li>
                 </ul>
 
                 <div class="tip">
-                    <strong>🌟 The Bottom Line</strong>
-                    <p>English communication is all about <strong>reading between the lines</strong> 📖, being <strong>polite even when frustrated</strong> 😌, and never <strong>making a scene</strong> 🎭. Master the art of understatement, say please and thank you constantly, and when in doubt – apologise! 😅 You'll be fitting in before you know it. 🇬🇧✨</p>
+                    <strong>Tip:</strong> British communication is about reading between the lines, remaining polite when frustrated, and never making a scene. Master understatement, use please and thank you constantly, and when in doubt - apologize.
                 </div>
             `
         },
@@ -642,164 +545,151 @@ const culturalData = {
             `
         },
         economicIntegration: {
-            title: "💷 Module 4: Economic Integration – A Realist Guide to Work, Money, and Getting By 💼",
+            title: "💷 Module 4: Economic Integration in the United Kingdom 💼",
             content: `
-                <p>Right, let's talk about the thing that actually keeps the lights on: work and money. 💸 This isn't going to be a fluffy guide about "following your dreams" – it's a practical, honest look at what it takes to survive and thrive economically in the United Kingdom, especially outside the big cities. 🏡</p>
-                
-                <p>Economic self-sufficiency isn't just about paying bills – in English culture, it's deeply tied to self-respect, community standing, and how you're perceived by others. 🎯 Let's get into it! 💪</p>
-
-                <h3>🔧 Part 1: The English Work Ethic – What's Actually Expected</h3>
-                <p>Forget what you might have heard about "lazy Brits." 😅 The reality is that working hard is deeply valued here – but it comes with some very specific expectations.</p>
+                <h3>Work Culture and Expectations</h3>
+                <p>British work culture values reliability, honesty, and hard work without complaint. Economic self-sufficiency is culturally tied to respect and community standing.</p>
 
                 <div class="important">
-                    <strong>💼 Core Work Values</strong>
+                    <strong>Core Work Values</strong>
                     <ul>
-                        <li><strong>Reliability:</strong> Turning up on time, every time, is non-negotiable. ⏰ Being consistently present matters more than occasional brilliance.</li>
-                        <li><strong>Honesty:</strong> If you can't do something, say so. Lying about skills or experience will catch up with you. 🤥❌</li>
-                        <li><strong>Getting on with it:</strong> Complaining is fine (in moderation!), but you're expected to get the job done regardless. 💪</li>
-                        <li><strong>Not being "above" any work:</strong> Taking any honest work while you find something better is respected. Turning down work because it's "beneath you" is not. 🙅</li>
+                        <li><strong>Reliability:</strong> Consistent attendance and punctuality more valued than occasional brilliance</li>
+                        <li><strong>Honesty:</strong> Admitting limitations better than false claims; dishonesty catches up</li>
+                        <li><strong>Getting on with it:</strong> Complete work despite difficulties; minimal complaining</li>
+                        <li><strong>No job beneath you:</strong> Taking any honest work while finding better respected</li>
                     </ul>
                 </div>
 
-                <h4>⚠️ What "Hard Work" Actually Means Here:</h4>
+                <h3>Work Ethic Expectations</h3>
                 <ul>
-                    <li>🕐 <strong>Punctuality:</strong> Arriving 5-10 minutes early is expected. Arriving on time is already borderline late. Being actually late regularly will cost you your job.</li>
-                    <li>📵 <strong>Focus:</strong> When you're at work, you work. Excessive phone use, long personal calls, or "looking busy" while doing nothing is noticed and resented.</li>
-                    <li>🤝 <strong>Teamwork:</strong> Don't be the person who does the bare minimum while others pick up the slack. It won't stay secret for long.</li>
-                    <li>🙊 <strong>No Drama:</strong> Keep personal problems at home. Coming to work with a "professional face" is expected, even when life is difficult.</li>
+                    <li><strong>Punctuality:</strong> Arrive 5-10 minutes early; on-time is borderline late; chronic lateness costs jobs</li>
+                    <li><strong>Focus:</strong> Work when at work; excessive phone use, personal calls noticed and resented</li>
+                    <li><strong>Teamwork:</strong> Don't do bare minimum while others pick up slack</li>
+                    <li><strong>Professionalism:</strong> Keep personal problems separate; maintain professional demeanor</li>
                 </ul>
 
                 <div class="tip">
-                    <strong>💡 The Unwritten Rule</strong>
-                    <p>The English respect "grafters" – people who work hard without making a fuss about it. 🔨 Talking about how hard you work is less valued than simply doing it. Let your actions speak, and people will notice. 👀</p>
+                    <strong>Tip:</strong> The British respect "grafters" - those who work hard without fuss. Actions speak louder than talking about how hard you work.
                 </div>
 
-                <h3>🏘️ Part 2: Job Market Realities in Non-Urban Areas</h3>
-                <p>If you're settling outside London or other major cities, here's the honest truth about employment. 📍 The opportunities are different – not necessarily worse, but definitely different.</p>
+                <h3>Job Market in Non-Urban Areas</h3>
+                <p>Employment outside major cities offers different but viable opportunities.</p>
 
-                <h4>📊 What Jobs Are Actually Available:</h4>
                 <ul>
-                    <li>🏥 <strong>Health and Social Care:</strong> Massive demand. Care homes, NHS support roles, home care – always hiring. The work is hard, the pay modest, but it's stable employment. 👩‍⚕️</li>
-                    <li>🌾 <strong>Agriculture and Food Processing:</strong> Seasonal work on farms, packing, processing. Physical work, often early hours. Good for building a work history. 🥕</li>
-                    <li>🚚 <strong>Warehousing and Logistics:</strong> Distribution centres are often in non-urban areas. Amazon, supermarket distribution, delivery driving. Shift work is common. 📦</li>
-                    <li>🍽️ <strong>Hospitality:</strong> Pubs, hotels, restaurants, especially in tourist areas. Variable hours, often includes weekends. Tips can supplement income. 🍺</li>
-                    <li>🔧 <strong>Trades:</strong> Plumbing, electrical work, building, landscaping. If you have skills or are willing to train, there's always work. 🛠️</li>
-                    <li>🛒 <strong>Retail:</strong> Local shops, supermarkets, charity shops. Often part-time but can lead to management roles. 🏪</li>
+                    <li><strong>Health and social care:</strong> High demand in care homes, NHS support roles, home care; stable employment</li>
+                    <li><strong>Agriculture and food processing:</strong> Seasonal work, physical, early hours; good for building work history</li>
+                    <li><strong>Warehousing and logistics:</strong> Distribution centers, delivery driving; shift work common</li>
+                    <li><strong>Hospitality:</strong> Pubs, hotels, restaurants in tourist areas; variable hours, tips supplement income</li>
+                    <li><strong>Trades:</strong> Plumbing, electrical, building, landscaping; always work for skilled or trainee workers</li>
+                    <li><strong>Retail:</strong> Local shops, supermarkets; often part-time but can lead to management</li>
                 </ul>
 
                 <div class="warning">
-                    <strong>⚠️ The Reality Check</strong>
+                    <strong>Rural Employment Realities</strong>
                     <ul>
-                        <li>💷 <strong>Pay may be lower:</strong> Outside cities, wages are often lower. But so is the cost of living, especially housing.</li>
-                        <li>🚗 <strong>Transport matters:</strong> A driving licence and access to a car can double your job options. Public transport in rural areas is often poor. 🚌❌</li>
-                        <li>🤐 <strong>Word travels:</strong> In smaller communities, your reputation matters. Being known as a good worker opens doors. Being known as unreliable closes them. 🚪</li>
-                        <li>📝 <strong>Fewer entry-level office jobs:</strong> White-collar roles are concentrated in cities. Be realistic about what's locally available.</li>
+                        <li><strong>Lower wages:</strong> Offset by lower cost of living, especially housing</li>
+                        <li><strong>Transport critical:</strong> Driving license and car access can double job options; rural public transport poor</li>
+                        <li><strong>Reputation matters:</strong> Small communities remember good and bad workers</li>
+                        <li><strong>Fewer office jobs:</strong> White-collar roles concentrated in cities</li>
                     </ul>
                 </div>
 
-                <h4>🎯 How to Find Work:</h4>
+                <h3>Finding Employment</h3>
                 <ul>
-                    <li>🌐 <strong>Online:</strong> Indeed, Reed, Total Jobs, and the government's Find a Job service. Set up alerts for your area. 💻</li>
-                    <li>🚶 <strong>Walk around:</strong> Many local businesses still put "Help Wanted" signs in windows. Don't be afraid to ask in person. 🪟</li>
-                    <li>👥 <strong>Word of mouth:</strong> Tell everyone you're looking. In small communities, this is often how jobs are filled. 🗣️</li>
-                    <li>🏢 <strong>Agencies:</strong> Temp agencies can get you working quickly. It's not ideal long-term, but it's income and experience. 📋</li>
-                    <li>💼 <strong>Job Centre Plus:</strong> Register with them. They can help with job searches, training, and sometimes specific support for migrants. 🏛️</li>
+                    <li><strong>Online platforms:</strong> Indeed, Reed, Total Jobs, government's Find a Job service</li>
+                    <li><strong>In-person:</strong> Walk around for "Help Wanted" signs; ask directly</li>
+                    <li><strong>Word of mouth:</strong> Tell everyone you're looking; small communities fill jobs through networks</li>
+                    <li><strong>Temp agencies:</strong> Quick work placement, income, and experience</li>
+                    <li><strong>Job Centre Plus:</strong> Job search help, training, migrant-specific support</li>
                 </ul>
 
-                <h3>🏦 Part 3: The Cultural Importance of Economic Self-Sufficiency</h3>
-                <p>This is crucial to understand: in English culture, supporting yourself financially is deeply connected to respect – both self-respect and how others see you. 🎭</p>
+                <h3>Cultural Importance of Self-Sufficiency</h3>
+                <p>British culture strongly values "standing on your own two feet." Financial independence signals contribution, trustworthiness, and belonging.</p>
 
                 <div class="important">
-                    <strong>🇬🇧 Why This Matters</strong>
-                    <p>The English have a strong cultural belief in "standing on your own two feet." 🦶🦶 While there's a welfare system for those who genuinely need it, there's also a cultural expectation that you'll do everything you can to support yourself before relying on the state or others.</p>
+                    <strong>Why Self-Sufficiency Matters</strong>
+                    <ul>
+                        <li><strong>Contributing:</strong> Paying taxes, supporting local economy shows you're not a burden</li>
+                        <li><strong>Trustworthiness:</strong> Landlords, banks, employers see financial stability as reliability indicator</li>
+                        <li><strong>Dependability:</strong> Having your affairs in order enables helping neighbors and community</li>
+                        <li><strong>Belonging:</strong> Working and contributing accelerates becoming "one of us"</li>
+                    </ul>
                 </div>
 
-                <h4>💪 What Self-Sufficiency Signals:</h4>
+                <h3>Benefits and Welfare</h3>
                 <ul>
-                    <li>✊ <strong>You're contributing:</strong> Paying taxes, supporting the local economy, not being a burden. This matters to people here.</li>
-                    <li>🤝 <strong>You're trustworthy:</strong> Landlords, banks, and employers all look at financial stability as a sign of reliability.</li>
-                    <li>👨‍👩‍👧 <strong>You can be counted on:</strong> Whether it's helping a neighbour or contributing to community events, having your own house in order comes first.</li>
-                    <li>🏠 <strong>You belong:</strong> Working and contributing to the local economy is one of the fastest ways to become "one of us" in a community.</li>
-                </ul>
-
-                <h4>⚠️ The Honest Reality About Benefits:</h4>
-                <ul>
-                    <li>✅ <strong>There's no shame in genuine need:</strong> The welfare system exists for good reasons. If you're between jobs, unwell, or in crisis, use it. That's what it's for. 🏥</li>
-                    <li>❌ <strong>BUT:</strong> Long-term benefit dependency, when you could work, is culturally stigmatised. Rightly or wrongly, it affects how people see you. 👀</li>
-                    <li>💭 <strong>Perception matters:</strong> Being seen to be trying – applying for jobs, doing casual work, volunteering – matters as much as the outcome.</li>
-                    <li>🔍 <strong>It affects integration:</strong> People are more likely to welcome and befriend someone who's working and contributing, regardless of the job.</li>
+                    <li><strong>No shame in genuine need:</strong> Use welfare when between jobs, unwell, or in crisis</li>
+                    <li><strong>Long-term dependency stigmatized:</strong> Cultural expectation to work when capable</li>
+                    <li><strong>Perception matters:</strong> Being seen trying - job applications, casual work, volunteering - important as outcome</li>
+                    <li><strong>Integration impact:</strong> Working people more readily welcomed and befriended</li>
                 </ul>
 
                 <div class="tip">
-                    <strong>💡 The Practical Tip</strong>
-                    <p>If you're struggling to find permanent work, do <em>something</em>. 🔧 Volunteer at a charity shop. Help a local business for cash-in-hand (legally!). Keep busy and visible. This shows the community you're willing to work, and often leads to actual job offers. 🌟</p>
+                    <strong>Tip:</strong> If struggling to find permanent work, volunteer at charity shops, help local businesses, stay visible. Shows willingness to work and often leads to job offers.
                 </div>
 
-                <h3>📈 Part 4: Building Financial Stability</h3>
-                <p>Economic integration isn't just about getting a job – it's about building a stable foundation. 🏗️ Here's what matters:</p>
+                <h3>Financial Stability</h3>
 
-                <h4>🏦 Banking and Credit:</h4>
+                <h4>Banking and Credit</h4>
                 <ul>
-                    <li>💳 <strong>Open a bank account:</strong> You'll need proof of address and ID. High street banks or digital banks like Monzo or Starling are options.</li>
-                    <li>📊 <strong>Build a credit history:</strong> Pay bills on time, get a basic credit card and pay it off in full. Your credit score matters for renting, phones, even some jobs.</li>
-                    <li>💰 <strong>Save something:</strong> Even £20 a month. Having an emergency fund is essential and shows financial responsibility. 🐷</li>
+                    <li><strong>Bank account:</strong> Need proof of address and ID; consider high street or digital banks (Monzo, Starling)</li>
+                    <li><strong>Credit history:</strong> Pay bills on time, use credit card responsibly; score affects renting, phones, employment</li>
+                    <li><strong>Emergency savings:</strong> Even small amounts (£20/month) demonstrate financial responsibility</li>
                 </ul>
 
-                <h4>📑 Understanding Your Rights:</h4>
+                <h4>Employment Rights</h4>
                 <ul>
-                    <li>💵 <strong>National Minimum Wage:</strong> This is the legal minimum you can be paid. Check current rates – they vary by age. Report underpayment. 📢</li>
-                    <li>📅 <strong>Holiday Entitlement:</strong> You're legally entitled to paid holiday (at least 28 days including bank holidays for full-time workers).</li>
-                    <li>🏥 <strong>Sick Pay:</strong> Statutory Sick Pay exists, though it's not much. Some employers offer more.</li>
-                    <li>⚖️ <strong>Employment Rights:</strong> You have rights from day one. Unfair dismissal protection kicks in after 2 years. Know your rights! 📚</li>
+                    <li><strong>National Minimum Wage:</strong> Legal minimum varies by age; report underpayment</li>
+                    <li><strong>Holiday entitlement:</strong> Minimum 28 days including bank holidays for full-time workers</li>
+                    <li><strong>Sick pay:</strong> Statutory Sick Pay available; some employers offer more</li>
+                    <li><strong>Employment protection:</strong> Rights from day one; unfair dismissal protection after 2 years</li>
                 </ul>
 
-                <h4>💸 Managing Money:</h4>
+                <h4>Money Management</h4>
                 <ul>
-                    <li>📝 <strong>Budget:</strong> Know what comes in and what goes out. The 50/30/20 rule works: 50% needs, 30% wants, 20% savings.</li>
-                    <li>🏠 <strong>Housing costs:</strong> Try to keep rent/mortgage below 35% of income. In some areas this is hard – be realistic about where you can afford to live.</li>
-                    <li>🚗 <strong>Avoid car debt:</strong> An expensive car on finance is a common trap. A cheaper reliable car serves the same purpose.</li>
-                    <li>💳 <strong>Avoid high-interest debt:</strong> Payday loans, credit cards left unpaid – these spiral fast. 🌀</li>
+                    <li><strong>Budgeting:</strong> Use 50/30/20 rule (50% needs, 30% wants, 20% savings)</li>
+                    <li><strong>Housing costs:</strong> Keep rent/mortgage below 35% of income</li>
+                    <li><strong>Vehicle costs:</strong> Avoid expensive car finance; cheaper reliable car serves same purpose</li>
+                    <li><strong>Debt avoidance:</strong> Avoid payday loans and credit card debt</li>
                 </ul>
 
                 <div class="warning">
-                    <strong>🚨 Scams and Exploitation</strong>
+                    <strong>Scams and Exploitation</strong>
                     <ul>
-                        <li>❌ <strong>Cash-in-hand below minimum wage:</strong> It's illegal, and if caught, YOU can face problems too.</li>
-                        <li>❌ <strong>"Deposit" jobs:</strong> Legitimate employers never ask you to pay upfront.</li>
-                        <li>❌ <strong>Unlicensed gangmasters:</strong> In agriculture and food processing, only work through licensed agencies.</li>
-                        <li>✅ <strong>If it sounds too good to be true:</strong> It probably is. Be cautious. 🔍</li>
+                        <li><strong>Below minimum wage:</strong> Illegal even cash-in-hand; you can face consequences</li>
+                        <li><strong>Upfront payments:</strong> Legitimate employers never require deposits</li>
+                        <li><strong>Unlicensed agencies:</strong> Only work through licensed gangmasters in agriculture/food processing</li>
+                        <li><strong>Too good to be true:</strong> Exercise caution with unrealistic offers</li>
                     </ul>
                 </div>
 
-                <h3>🌱 Part 5: Long-Term Economic Success</h3>
-                <p>Getting a job is step one. Building a sustainable, successful economic life takes more. 📈</p>
+                <h3>Long-Term Economic Success</h3>
 
-                <h4>📚 Upskilling:</h4>
+                <h4>Upskilling</h4>
                 <ul>
-                    <li>🎓 <strong>Free courses:</strong> Many colleges offer free courses for adults. English, maths, and basic skills are often available. 📖</li>
-                    <li>💻 <strong>Online learning:</strong> Platforms like FutureLearn offer free courses from UK universities. Build qualifications over time.</li>
-                    <li>🔧 <strong>Apprenticeships:</strong> Not just for young people. Adult apprenticeships in trades can lead to well-paid work.</li>
-                    <li>📜 <strong>Get UK qualifications:</strong> If you have qualifications from home, look into getting them recognised here. NARIC can help assess equivalence.</li>
+                    <li><strong>Free courses:</strong> Many colleges offer free adult education (English, maths, basic skills)</li>
+                    <li><strong>Online learning:</strong> FutureLearn offers free UK university courses</li>
+                    <li><strong>Apprenticeships:</strong> Available for adults; trades apprenticeships lead to well-paid work</li>
+                    <li><strong>Credential recognition:</strong> Get foreign qualifications recognized; NARIC assesses equivalence</li>
                 </ul>
 
-                <h4>🚀 Starting a Business:</h4>
+                <h4>Entrepreneurship</h4>
                 <ul>
-                    <li>🏪 <strong>It's very possible:</strong> The United Kingdom has relatively low barriers to starting a business. Many migrants succeed as self-employed or business owners.</li>
-                    <li>📝 <strong>Start small:</strong> A side hustle while employed. Test the market. Grow gradually.</li>
-                    <li>💼 <strong>Know the rules:</strong> You must register with HMRC if self-employed. Keep records. Pay your taxes. 📊</li>
-                    <li>🤝 <strong>Network:</strong> Local business groups, Chamber of Commerce, networking events – build connections.</li>
+                    <li><strong>Low barriers:</strong> UK welcoming to small business; many migrants succeed as self-employed</li>
+                    <li><strong>Start small:</strong> Side business while employed; test market gradually</li>
+                    <li><strong>Registration required:</strong> Register with HMRC if self-employed; maintain records and pay taxes</li>
+                    <li><strong>Networking:</strong> Join local business groups, Chamber of Commerce</li>
                 </ul>
 
-                <h4>🏘️ Community Integration Through Work:</h4>
+                <h4>Community Integration</h4>
                 <ul>
-                    <li>👋 <strong>Be known:</strong> The local worker who's always cheerful and reliable becomes part of the community fabric.</li>
-                    <li>🛒 <strong>Support local:</strong> Shopping locally, using local services – it builds relationships and reputation.</li>
-                    <li>🤲 <strong>Give back when you can:</strong> Once stable, helping others who are struggling (with advice, connections, even small jobs) builds enormous goodwill.</li>
+                    <li><strong>Build reputation:</strong> Cheerful, reliable local worker becomes community fabric</li>
+                    <li><strong>Support local economy:</strong> Shop locally to build relationships and reputation</li>
+                    <li><strong>Give back:</strong> Once stable, help others with advice, connections, opportunities</li>
                 </ul>
 
                 <div class="important">
-                    <strong>🎯 The Bottom Line</strong>
-                    <p>Economic integration in the United Kingdom is about more than just earning money. 💰 It's about showing up, working hard, supporting yourself, and contributing to your community. 🤝 The British respect people who graft, who don't complain (too much!), and who stand on their own two feet. 🦶 Do that, and you'll earn not just money – but respect and belonging. 🏠🇬🇧</p>
+                    <strong>Important:</strong> UK economic integration is about showing up, working hard, supporting yourself, and contributing to community. British people respect those who graft and stand on their own feet.
                 </div>
             `
         },
