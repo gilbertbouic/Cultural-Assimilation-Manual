@@ -4,211 +4,172 @@ const culturalData = {
         name: "United Kingdom",
         flag: "🇬🇧",
         publicConduct: {
-            title: "🏛️ Module 2: Public & Community Conduct – A Practical Guide to Getting Along and Fitting In 🤝",
+            title: "🏛️ Module 2: Public & Community Conduct in the United Kingdom 🤝",
             content: `
-                <p>Right, let's get into the nitty-gritty of how to behave in public and be a good neighbour. 🏘️ This is crucial stuff – get it wrong and you'll stick out like a sore thumb. Get it right, and people will barely notice you're new here (which is actually the goal 🎯).</p>
-                
-                <p>This isn't about changing who you are. It's about understanding the unwritten rules that keep British society ticking along smoothly. ⚙️ Think of it as learning the local dialect of "being considerate." Let's crack on! 💪</p>
+                <h3>General Public Behavior</h3>
+                <p>British society values quiet consideration, respect for personal space, and patience. Understanding both legal requirements and social expectations is essential for successful integration.</p>
 
-                <h3>🚨 Part 1: The Legal Essentials – What Can Actually Get You In Trouble ⚖️</h3>
-                <p>Before we get to the social stuff, here are the legal bits. Breaking these can result in fines 💸 or worse.</p>
+                <h3>Legal Requirements</h3>
+                <p>Several laws govern public conduct in the UK. Violations can result in fines or criminal charges.</p>
 
                 <div class="warning">
-                    <strong>🚯 Anti-Social Behaviour Laws</strong>
+                    <strong>Anti-Social Behaviour Laws</strong>
                     <ul>
-                        <li><strong>Littering:</strong> Dropping litter is a criminal offence. Fixed penalty fines range from £50-£150. 🗑️ If it goes to court, fines can reach £2,500.</li>
-                        <li><strong>Noise Nuisance:</strong> Making excessive noise, especially at night (11 PM - 7 AM) 🌙, can result in formal warnings and fines. Your local council has the power to confiscate equipment.</li>
-                        <li><strong>Public Drinking:</strong> Many town and city centres have "Public Space Protection Orders" banning alcohol. 🍺 Check for signs – you can be fined or have your drink confiscated.</li>
-                        <li><strong>Dog Fouling:</strong> Not picking up after your dog 🐕 can result in fines up to £1,000. Always carry bags.</li>
+                        <li><strong>Littering:</strong> Fixed penalty fines £50-£150; court fines up to £2,500</li>
+                        <li><strong>Noise nuisance:</strong> Excessive noise especially 11 PM - 7 AM can result in warnings, fines, and equipment confiscation</li>
+                        <li><strong>Public drinking:</strong> Many areas have Public Space Protection Orders banning alcohol; check for signs</li>
+                        <li><strong>Dog fouling:</strong> Fines up to £1,000 for not picking up after your dog</li>
                     </ul>
                 </div>
 
                 <div class="important">
-                    <strong>⚠️ Public Order Offences</strong>
+                    <strong>Public Order Offences</strong>
                     <ul>
-                        <li><strong>Threatening or Abusive Behaviour:</strong> Using threatening words or behaviour that could cause harassment, alarm, or distress is a crime. This includes racist or homophobic language. 🚫</li>
-                        <li><strong>Being Drunk and Disorderly:</strong> Being visibly drunk and causing a disturbance in public is an offence. 🍻 You can be arrested.</li>
-                        <li><strong>Harassment:</strong> Repeatedly following someone, making threats, or behaving in a way that causes fear is illegal under the Protection from Harassment Act.</li>
+                        <li><strong>Threatening behavior:</strong> Words or actions causing harassment, alarm, or distress are criminal; includes hate speech</li>
+                        <li><strong>Drunk and disorderly:</strong> Being visibly drunk and causing disturbance is arrestable offense</li>
+                        <li><strong>Harassment:</strong> Repeatedly following, threatening, or causing fear is illegal</li>
                     </ul>
                 </div>
 
                 <div class="tip">
-                    <strong>📢 Freedom of Speech (and its limits)</strong>
-                    <p>You have the right to express opinions, protest peacefully ✊, and practice your religion. However, "hate speech" – speech that incites hatred against protected groups (race, religion, sexuality, disability) – is a crime. There's a line between robust debate and abuse. 🎭</p>
+                    <strong>Tip:</strong> The UK protects freedom of speech and peaceful protest, but hate speech inciting hatred against protected groups (race, religion, sexuality, disability) is criminal.
                 </div>
 
-                <h3>🤫 Part 2: The Unwritten Rules – Keeping the Peace</h3>
-                <p>Now for the stuff that won't get you arrested, but will make your life much easier (or much harder) if you ignore it. 🧐</p>
-
-                <h4>🔇 Noise and Disturbance:</h4>
+                <h3>Noise and Quiet Hours</h3>
                 <ul>
-                    <li>🌃 <strong>After 11 PM:</strong> Keep it down. No loud music 🎵, no shouting in the street, no slamming car doors repeatedly. Your neighbours are sleeping (or trying to).</li>
-                    <li>☀️ <strong>Sunday Mornings:</strong> Don't start drilling, mowing the lawn 🌿, or doing anything noisy before about 10 AM. Sunday is traditionally a quiet day.</li>
-                    <li>🔨 <strong>DIY and Construction:</strong> Try to keep disruptive work to reasonable weekday hours. Warn your neighbours if you're doing something particularly noisy.</li>
-                    <li>🐕 <strong>Dogs Barking:</strong> Persistent barking is a major source of neighbour disputes. Train your dog or address the issue. 🤫</li>
+                    <li><strong>After 11 PM:</strong> Keep noise minimal - no loud music, shouting, or repeated loud sounds</li>
+                    <li><strong>Sunday mornings:</strong> Avoid noisy activities (drilling, lawn mowing) before 10 AM</li>
+                    <li><strong>DIY work:</strong> Keep disruptive work to reasonable weekday hours; warn neighbors of particularly noisy projects</li>
+                    <li><strong>Pet noise:</strong> Persistent dog barking is major source of disputes; address promptly</li>
                 </ul>
 
-                <h4>🏡 Being a Good Neighbour:</h4>
+                <h3>Being a Good Neighbor</h3>
                 <ul>
-                    <li>👋 <strong>Greet Your Neighbours:</strong> A simple "Hello" or "Morning" when you see them is enough. You don't need to become best friends 🤝, but basic acknowledgement is expected.</li>
-                    <li>🌳 <strong>Keep Your Garden Tidy:</strong> You don't need a perfect lawn, but an overgrown jungle can affect property values and annoy neighbours. 🪴</li>
-                    <li>🚗 <strong>Parking:</strong> Don't block anyone's driveway. Be considerate about how much street space you take up. Don't park over someone's dropped kerb.</li>
-                    <li>🗑️ <strong>Bin Days:</strong> Put your bins out on the correct day 📅 and bring them back in afterwards. Don't leave them cluttering the pavement for days.</li>
-                    <li>📬 <strong>Accepting Parcels:</strong> If a neighbour is out, it's common to accept parcels for them. It's a small gesture that builds goodwill. 📦</li>
+                    <li><strong>Basic greetings:</strong> Simple "Hello" or "Morning" when you see neighbors; acknowledgement expected</li>
+                    <li><strong>Garden maintenance:</strong> Keep property reasonably tidy; overgrown gardens affect property values</li>
+                    <li><strong>Parking consideration:</strong> Never block driveways or dropped kerbs; be considerate of street space</li>
+                    <li><strong>Bin management:</strong> Put bins out on correct days and return promptly</li>
+                    <li><strong>Parcel acceptance:</strong> Accepting neighbors' parcels builds goodwill</li>
+                    <li><strong>Party notice:</strong> Warn immediate neighbors in advance of parties</li>
+                    <li><strong>Dispute resolution:</strong> Talk to neighbors calmly first; use council mediation services if needed</li>
                 </ul>
 
-                <h4>📢 Communication is Key:</h4>
+                <h3>Public Transport and Shared Spaces</h3>
                 <ul>
-                    <li>🎉 <strong>If You're Having a Party:</strong> Warn your immediate neighbours in advance. A quick knock on the door or a note through the letterbox goes a long way. ✉️</li>
-                    <li>🔧 <strong>If Something Bothers You:</strong> Talk to your neighbour calmly and politely <em>first</em>. Most issues can be resolved with a friendly word. 💬 Going straight to the council is seen as aggressive.</li>
-                    <li>😤 <strong>If There's a Dispute:</strong> Local councils often have free mediation services for neighbour disputes. Use them before things escalate. 🤝</li>
+                    <li><strong>Queuing:</strong> Absolutely essential - always join back of queue, never push in</li>
+                    <li><strong>Escalators:</strong> Stand right, walk left (especially London Underground)</li>
+                    <li><strong>Boarding transport:</strong> Let people off before getting on; give up seats for elderly, pregnant, or disabled</li>
+                    <li><strong>Volume control:</strong> Keep voices down; quiet carriages prohibit phone calls</li>
+                    <li><strong>Headphones required:</strong> Never play music aloud on public transport</li>
+                    <li><strong>Pavement etiquette:</strong> Walk at reasonable pace; don't stop suddenly; be aware of others</li>
+                    <li><strong>Door holding:</strong> Hold doors for person behind you; say thank you when done for you</li>
+                    <li><strong>Apologizing:</strong> "Sorry" used frequently - for excuse me, to get attention, or general acknowledgement</li>
                 </ul>
 
-                <h3>🚇 Part 3: Public Transport and Shared Spaces – The Art of the Commute</h3>
-                <p>Public spaces are where British reserve is most visible. Here's how to navigate them. 🚶</p>
-
+                <h3>Shops, Restaurants, and Pubs</h3>
                 <ul>
-                    <li>📶 <strong>Queuing:</strong> This is sacred. 🙏 Always join the back of the queue. Never push in. Never. Seriously. It's basically a national religion. 🇬🇧</li>
-                    <li>⬅️ <strong>Escalators:</strong> Stand on the right, walk on the left. This applies on the London Underground especially, but is good practice everywhere. ⬆️</li>
-                    <li>🚌 <strong>Public Transport:</strong> Let people off before you get on. 🚪 Give up your seat for elderly, pregnant, or disabled passengers (look for priority seats). Keep your voice down. 🔇 Avoid taking up multiple seats with bags.</li>
-                    <li>📱 <strong>Phone Calls:</strong> Keep calls brief and quiet. Nobody wants to hear your entire conversation. 🙉 On trains, many carriages are "quiet carriages" where calls are discouraged.</li>
-                    <li>🎧 <strong>Music:</strong> Use headphones. 🎶 Playing music out loud on the bus or train is incredibly annoying and marks you out as inconsiderate.</li>
-                    <li>🚶 <strong>Pavements:</strong> Walk at a reasonable pace. Don't stop suddenly in the middle of a busy pavement. Be aware of people trying to get past. 👣</li>
-                    <li>🚪 <strong>Holding Doors:</strong> Hold the door open for the person behind you. 🙌 It's automatic courtesy. Say "thank you" when someone does it for you.</li>
+                    <li><strong>Shop greetings:</strong> "Hello" and "thank you" to staff is polite</li>
+                    <li><strong>Browsing:</strong> Generally left alone; staff won't follow you</li>
+                    <li><strong>Getting attention:</strong> Make eye contact or raise hand slightly; never shout or snap fingers</li>
+                    <li><strong>Tipping:</strong> Not obligatory; 10-15% appreciated in restaurants (check for service charge on bill)</li>
+                    <li><strong>Pub rounds:</strong> Groups take turns buying drinks for everyone; social expectation to participate</li>
+                    <li><strong>Bar space:</strong> Get drinks and move if others waiting; don't linger at bar</li>
                 </ul>
 
-                <div class="tip">
-                    <strong>💡 The "Sorry" Rule</strong>
-                    <p>The English apologise constantly, often for things that aren't their fault. "Sorry" is used to mean "excuse me" 🙏, to get someone's attention 👋, or just to fill awkward silence. You'll hear it hundreds of times a day. Join in! 😅</p>
-                </div>
-
-                <h3>🛒 Part 4: Shops, Pubs, and Public Services – How Things Work</h3>
-
-                <h4>🏪 Shops and Restaurants:</h4>
+                <h3>Public Services</h3>
                 <ul>
-                    <li>👋 <strong>Greetings:</strong> Saying "Hello" to shop staff isn't compulsory, but it's polite. Always say "thank you" after a transaction. 🙏</li>
-                    <li>🔕 <strong>Browsing:</strong> You're generally left alone to browse. Staff won't follow you around (if they do, it's bad service). 🛍️</li>
-                    <li>✋ <strong>Getting Attention:</strong> Don't shout or snap your fingers at staff. 🙅 Make eye contact, raise a hand slightly, or wait for them to approach. Patience is valued.</li>
-                    <li>💷 <strong>Tipping:</strong> Not obligatory in most situations. Restaurants often add a service charge 📝 (check your bill). Tipping 10-15% is appreciated but not expected.</li>
+                    <li><strong>Punctuality:</strong> Be on time for appointments; late arrivals often forfeit GP slots</li>
+                    <li><strong>Patience required:</strong> Queues and waiting common; anger toward staff seen as unreasonable</li>
+                    <li><strong>Documentation:</strong> Bring required ID, proof of address, reference numbers</li>
+                    <li><strong>Politeness:</strong> Always use please and thank you, even with slow service</li>
                 </ul>
 
-                <h4>🍺 The Pub:</h4>
+                <h3>Community Integration</h3>
                 <ul>
-                    <li>🪑 <strong>Finding a Seat:</strong> Some pubs are "order at the bar," some have table service. Look around for clues or ask. 🧐</li>
-                    <li>🍻 <strong>Buying Rounds:</strong> If you're with a group, you'll take turns buying drinks for everyone. 🔄 This is called "getting a round in." It's a social contract – don't skip your turn, and don't accept drinks without offering to buy one back. 💸</li>
-                    <li>🧍 <strong>Don't Lean on the Bar:</strong> If others are waiting to order, get your drinks and move. 🚶 Don't hog the bar space.</li>
+                    <li><strong>Local events:</strong> Attend village fetes, community fairs, charity events, seasonal celebrations</li>
+                    <li><strong>Volunteering:</strong> Highly valued - charity shops, food banks, community groups, school PTAs</li>
+                    <li><strong>Clubs and societies:</strong> Football teams, running clubs, book clubs, hobby groups facilitate integration</li>
+                    <li><strong>Faith communities:</strong> Many have active outreach; community centers run groups and activities</li>
+                    <li><strong>School involvement:</strong> Natural way to meet other local parents</li>
                 </ul>
 
-                <h4>🏥 Public Services (GP, Council, etc.):</h4>
+                <h3>Environmental Responsibilities</h3>
                 <ul>
-                    <li>📅 <strong>Appointments:</strong> Be on time. ⏰ For GP appointments, arriving late often means you'll lose your slot.</li>
-                    <li>😌 <strong>Be Patient:</strong> Queues and waiting times are a fact of life. ⏳ Getting angry at frontline staff won't speed things up and makes you look unreasonable. 😤</li>
-                    <li>📄 <strong>Have Your Documents Ready:</strong> Whether it's ID, proof of address, or reference numbers – come prepared. 📋</li>
-                    <li>🙏 <strong>Say Please and Thank You:</strong> Always. Even if the service was slow. 😊</li>
-                </ul>
-
-                <h3>🌍 Part 5: Community and Integration – Getting Involved</h3>
-                <p>Being part of a community isn't just about not annoying people. It's about contributing. 🤗</p>
-
-                <ul>
-                    <li>🏠 <strong>Local Events:</strong> Look out for village fetes, community fairs, charity events, or seasonal celebrations. 🎪 Attending shows you're interested in your community.</li>
-                    <li>🙋 <strong>Volunteering:</strong> This is highly valued and a great way to meet people. 🤝 Charity shops, food banks, community groups, school PTAs – there are endless opportunities. 💪</li>
-                    <li>🏃 <strong>Sports Clubs and Societies:</strong> Joining a local football team ⚽, running club 🏃‍♀️, book club 📚, or hobby group is one of the best ways to integrate. The English open up more over shared activities.</li>
-                    <li>⛪ <strong>Religious and Community Groups:</strong> Many faith groups have active community outreach. Even non-religious community centres often run groups and activities. 🕌</li>
-                    <li>👨‍👩‍👧 <strong>School Community:</strong> If you have children 🧒, get involved with school events. It's a natural way to meet other local parents.</li>
-                </ul>
-
-                <h3>♻️ Part 6: Environmental Responsibility – Doing Your Bit</h3>
-                <p>The English take environmental responsibility increasingly seriously. 🌱</p>
-
-                <ul>
-                    <li>♻️ <strong>Recycling:</strong> This is mandatory. 🗑️ Councils provide different bins for different waste (general, recycling, garden, food). Learn your collection days and what goes where. Getting it wrong can mean your bins aren't collected. 📅</li>
-                    <li>💧 <strong>Water Conservation:</strong> In summer, there may be hosepipe bans. 🚿 Don't waste water unnecessarily.</li>
-                    <li>🐶 <strong>Dog Walking:</strong> Always clean up after your dog. 🐕 Carry poo bags. Use designated bins or take it home. 🗑️</li>
-                    <li>🌳 <strong>Countryside Code:</strong> If you're in the countryside, follow paths, close gates 🚪, don't litter, keep dogs under control, and respect wildlife. 🦔</li>
+                    <li><strong>Recycling:</strong> Mandatory; councils provide separate bins (general, recycling, garden, food)</li>
+                    <li><strong>Water conservation:</strong> Observe summer hosepipe bans</li>
+                    <li><strong>Dog waste:</strong> Always carry and use poo bags; use designated bins</li>
+                    <li><strong>Countryside code:</strong> Follow paths, close gates, don't litter, control dogs, respect wildlife</li>
                 </ul>
 
                 <div class="important">
-                    <strong>🎯 The Bottom Line</strong>
-                    <p>Public and community conduct in the United Kingdom can be summed up in three words: <strong>quiet, considerate, and patient</strong>. 🤫🤝⏳ Mind your own business (mostly), be polite even when frustrated, say please and thank you, and queue properly. Do that, and you'll fit in just fine! ✅🇬🇧</p>
+                    <strong>Important:</strong> British public conduct centers on being quiet, considerate, and patient. Politeness, proper queuing, and respecting personal space are fundamental to fitting in.
                 </div>
             `
         },
         relationships: {
-            title: "💕 Module 1: A Practical Guide to Relationships, Respect, and How Not to Make a Fool of Yourself 🤝",
+            title: "💕 Module 1: Relationships & Respect in the United Kingdom 🤝",
             content: `
-                <p>Right then. Let's talk about the tricky stuff: men, women, dating, and everything in between. 🎭 This is likely the biggest difference you'll find from your home country, and it's where things can go wrong fastest. ⚠️</p>
+                <h3>General Social Norms</h3>
+                <p>British society values personal freedom, privacy, and respect for individual boundaries. While modern and liberal, there are important cultural expectations around relationships and social interactions that are essential to understand.</p>
                 
-                <p>This guide isn't here to judge. It's a practical manual to help you understand the landscape, avoid getting into hot water 🔥, and hopefully have a decent time. Pay attention, because these aren't just suggestions – they're the rules of the game! 🎯</p>
-
-                <h3>🚨 Part 1: The Absolute, Non-Negotiable Rules (The Legal Bits) 📜</h3>
-                <p>This isn't about culture; this is about the law. ⚖️ Breaking these rules can lead to prison. There are <strong>no exceptions</strong>.</p>
-
+                <h3>Legal Requirements</h3>
+                <p>Understanding UK law regarding relationships is crucial. Breaking these laws can result in serious criminal penalties.</p>
+                
                 <div class="warning">
-                    <strong>🔞 The Age of Consent is 16 (United Kingdom)</strong>
+                    <strong>Age of Consent</strong>
                     <ul>
-                        <li>It is a <strong>serious crime</strong> to have any kind of sexual contact with someone under 16. The law is absolute on this.</li>
-                        <li>"I thought they were older" is <strong>never</strong> an excuse. The responsibility is 100% on you. If you have any doubt at all, walk away. 🚶</li>
-                        <li><strong>Important:</strong> For people in positions of trust (like teachers 👨‍🏫, coaches, or doctors 👩‍⚕️), it is illegal to have a sexual relationship with a 16 or 17-year-old in their care. The age limit is effectively 18 in these cases.</li>
+                        <li><strong>Age limit is 16:</strong> Sexual contact with anyone under 16 is a serious crime with no exceptions</li>
+                        <li><strong>Positions of trust:</strong> Teachers, coaches, doctors, and similar professionals face age limit of 18 for those in their care</li>
+                        <li><strong>Ignorance not accepted:</strong> "I thought they were older" is never a valid defense; responsibility is entirely on you</li>
                     </ul>
                 </div>
 
                 <div class="important">
-                    <strong>✅ Consent is Freely and Enthusiastically Given</strong>
+                    <strong>Consent Requirements</strong>
                     <ul>
-                        <li>You must have a clear "yes." 👍 Silence is not a yes. Someone being friendly is not a yes. Someone being drunk 🍺 is not a yes.</li>
-                        <li>"No" means "No." 🛑 It is the end of the conversation. Pestering, begging, or arguing after a "no" is harassment.</li>
+                        <li><strong>Clear consent required:</strong> Silence, friendliness, or intoxication do not constitute consent</li>
+                        <li><strong>"No" means no:</strong> Continuing after refusal constitutes harassment</li>
+                        <li><strong>Enthusiastic agreement needed:</strong> Consent must be freely and clearly given</li>
                     </ul>
                 </div>
 
                 <div class="tip">
-                    <strong>⚖️ Equality is the Law</strong>
-                    <p>Men and women are equal. 👫 Same-sex relationships are legal, normal, and protected by law. 🏳️‍🌈 You will see gay couples holding hands or being affectionate; this is a normal part of life here. Disrespecting someone based on their gender or sexuality is not tolerated.</p>
+                    <strong>Tip:</strong> The UK has strong equality laws. Same-sex relationships are legal, normal, and protected. Gender-based or sexuality-based discrimination is not tolerated.
                 </div>
 
-                <h3>👔 Part 2: Dress Code – The Art of Effort and Understatement</h3>
-                <p>First things first: in the modern United Kingdom, you can, and should, wear whatever makes you feel comfortable. 😎 Personal freedom is highly valued. The prevailing attitude is that you shouldn't judge a book by its cover. 📚 So, the primary rule is: <strong>be yourself</strong>.</p>
+                <h3>Dress and Appearance</h3>
+                <p>The UK values personal freedom in dress, but context matters. The key concept is "making an effort" - dressing appropriately for the situation shows respect.</p>
 
-                <p>However, this guide is here to give you practical advice. We don't have strict "dress codes," but we do have "contexts." 🎭 Choosing what to wear is less about following rules and more about showing you understand the situation. It boils down to one simple concept: <strong>"making an effort." ✨</strong></p>
-
-                <div class="tip">
-                    <strong>💡 What does "making an effort" mean?</strong>
-                    <p>It means you've thought about the occasion and dressed appropriately for it. It's a non-verbal way of saying "I respect this situation and the people I'm with." 🤝 It has very little to do with money 💰 and everything to do with care. Clean clothes, clean shoes 👟, and a tidy appearance are the foundation.</p>
-                </div>
-
-                <h4>🎯 Context is Everything:</h4>
                 <ul>
-                    <li>🏠 <strong>Daily Life</strong> (running errands): Comfort is key. Nobody will bat an eyelid at what you're wearing.</li>
-                    <li>🍺 <strong>A Casual Social Setting</strong> (e.g., the pub): You'll see everything, but the safe middle ground is "smart casual"—think clean jeans or chinos and a decent jumper or shirt. It says, "I'm relaxed, but I've made an effort."</li>
-                    <li>🍽️ <strong>A "Nice" Occasion</strong> (a good restaurant, a date): This is where "making an effort" is most appreciated. It shows respect for the person you're with and the place you're in.</li>
-                    <li>🎨 <strong>Expressing Yourself:</strong> If you have a unique personal style, wear it with confidence. In most places, people will either not notice or will appreciate the individuality.</li>
+                    <li><strong>Daily life:</strong> Casual and comfortable; no strict rules</li>
+                    <li><strong>Social settings (pubs, casual gatherings):</strong> Smart casual is safe - clean jeans or chinos with decent shirt or jumper</li>
+                    <li><strong>Nice occasions (restaurants, dates):</strong> Dress up to show respect for the person and place</li>
+                    <li><strong>Personal expression:</strong> Unique styles generally accepted, especially in cities</li>
+                    <li><strong>Understatement valued:</strong> Looking good without appearing to try too hard is the British way</li>
                 </ul>
 
-                <p>The real secret is that the English are masters of <strong>understatement</strong>. 🎩 The goal is often to look good without looking like you've tried too hard. So, forget rigid rules. Just ask yourself: "Am I showing the right amount of respect for this occasion?" If the answer is yes, you've got it right. ✅</p>
-
-                <h3>🎭 Part 3: The Social Dance – Public Behaviour and First Steps</h3>
-                <p>This is where the real English culture comes in. We are generally reserved and value privacy. 🤫</p>
+                <h3>Social Interactions</h3>
+                <p>British people are generally reserved and value personal space and privacy.</p>
 
                 <ul>
-                    <li>💑 <strong>Public Affection:</strong> Keep it subtle. Holding hands or a brief kiss is fine. 😘 Long, passionate embraces in the middle of a quiet café will make people uncomfortable. 😬</li>
-                    <li>📏 <strong>Personal Space:</strong> We like our space. Don't stand too close. A good rule is to keep about an arm's length away. 🤲 Uninvited touching, even if you mean it to be friendly, is often seen as an invasion of that space.</li>
-                    <li>💬 <strong>The Art of the Compliment:</strong> Be careful. Complimenting something someone <em>chose</em> (their jacket 🧥, their shoes 👞) is safe. Complimenting someone's body ("you have beautiful eyes" 👀) can come across as far too forward and may be seen as an unwanted advance.</li>
-                    <li>🗣️ <strong>Initiating a Conversation:</strong> It's fine to chat to someone in a pub or social setting. Use the situation as a starting point ("It's busy tonight 🌙"). If they give short, one-word answers and turn away, that's a polite signal to end the conversation. Take the hint gracefully. 😊</li>
+                    <li><strong>Public affection:</strong> Holding hands and brief kisses acceptable; extended passionate displays make people uncomfortable</li>
+                    <li><strong>Personal space:</strong> Maintain arm's length distance; uninvited touching often seen as intrusive</li>
+                    <li><strong>Compliments:</strong> Safe to compliment choices (clothing, accessories); comments about physical appearance can seem forward</li>
+                    <li><strong>Conversation initiation:</strong> Use situation as starting point; respect signals to end conversation (short answers, turning away)</li>
                 </ul>
 
-                <h3>💕 Part 4: Dating – The Unspoken Rules</h3>
+                <h3>Dating Culture</h3>
                 <ul>
-                    <li>🍻 <strong>Alcohol is Involved:</strong> A huge amount of socialising and dating revolves around alcohol. "Going for a drink" is the standard first date. It's casual, low-pressure, and has an easy time limit. ⏰</li>
-                    <li>💸 <strong>Who Pays?:</strong> The old "man always pays" rule is dead. ⚰️ Often, people will "get a round" in turn, or the bill is split ("going Dutch" 🇳🇱). A good policy is to always offer to pay your share.</li>
-                    <li>📅 <strong>Age Gaps:</strong> Large age gaps (10+ years) are less common and can sometimes be viewed with suspicion 🤔, especially if one person is very young (e.g., under 21). It's not illegal, but it's something to be aware of.</li>
-                    <li>🙅 <strong>Handling Rejection:</strong> If you ask someone out and they say no, the only acceptable response is a polite, "No problem, have a good evening," 👋 and then you move on. Pestering someone after rejection is considered socially unacceptable and will seriously damage your reputation. 🚫</li>
-                    <li>💔 <strong>Infidelity ("Cheating"):</strong> Loyalty is highly valued. Cheating on a partner is seen as a massive betrayal and a deeply dishonourable thing to do.</li>
-                    <li>🌙 <strong>The End of the Night:</strong> Do not assume a date will end in physical intimacy. It usually doesn't. A simple "I had a really nice time" 😊 is the best way to end the evening. If they feel the same, you can arrange another date. 📱</li>
+                    <li><strong>Alcohol-centered socializing:</strong> "Going for a drink" is standard first date - casual and low-pressure</li>
+                    <li><strong>Bill payment:</strong> Traditional "man pays" rule outdated; splitting bills or alternating rounds is common</li>
+                    <li><strong>Age gaps:</strong> Large age differences (10+ years) can raise eyebrows, especially with younger partners</li>
+                    <li><strong>Handling rejection:</strong> Polite acceptance and moving on is only acceptable response; persistence damages reputation</li>
+                    <li><strong>Loyalty valued:</strong> Infidelity considered serious betrayal</li>
+                    <li><strong>Physical intimacy:</strong> Don't assume dates end intimately; respectful ending and arranging next meeting is appropriate</li>
                 </ul>
 
                 <div class="important">
-                    <strong>🎯 The Bottom Line</strong>
-                    <p>This guide might seem complex, but it boils down to one thing: <strong>respect</strong>. 🙏 Respect the law ⚖️, respect personal space 📏, and respect a person's right to say "no." 🛑 If you make that your starting point, you'll be absolutely fine! ✨🇬🇧</p>
+                    <strong>Important:</strong> British relationship culture centers on respect - for the law, for personal space, and for the right to say no. Following these principles ensures positive social interactions.
                 </div>
             `
         },
