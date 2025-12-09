@@ -274,6 +274,197 @@ const scenarios = {
                 ]
             }
         }
+    },
+    teamOnboarding: {
+        title: "🏢 Team Onboarding & Corporate Integration",
+        description: "Navigate your first weeks at a new company with confidence",
+        contexts: {
+            firstDay: {
+                title: "Your First Day at Work",
+                situations: [
+                    {
+                        scenario: "Arriving and meeting the team",
+                        dosAndDonts: {
+                            dos: [
+                                "Arrive 10-15 minutes early",
+                                "Bring required documents (ID, bank details, etc.)",
+                                "Smile, make eye contact, and offer handshakes",
+                                "Write down names and key information",
+                                "Ask where facilities are (toilets, kitchen, etc.)",
+                                "Accept lunch invitations"
+                            ],
+                            donts: [
+                                "Rush out at exactly 5 PM on your first day",
+                                "Decline all social invitations",
+                                "Pretend to know things you don't",
+                                "Check your phone constantly during introductions",
+                                "Skip bringing lunch or lunch money",
+                                "Wear overly casual clothing"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Expect understated welcomes. British colleagues may seem reserved but are observing you politely.",
+                            centralEurope: "Formal introductions with handshakes. Use titles (Herr/Frau) until invited to use first names.",
+                            scandinavia: "First-name basis immediately. Casual but professional atmosphere. Coffee breaks are important.",
+                            mediterranean: "Warmer greetings. Lunch together is expected and important for bonding. Later work hours common."
+                        }
+                    },
+                    {
+                        scenario: "Learning office systems and processes",
+                        dosAndDonts: {
+                            dos: [
+                                "Take detailed notes during training",
+                                "Ask clarifying questions",
+                                "Request access to all necessary systems early",
+                                "Review company handbook and policies",
+                                "Set up your workspace thoughtfully",
+                                "Thank people who help you"
+                            ],
+                            donts: [
+                                "Assume systems work like your previous company",
+                                "Skip reading documentation",
+                                "Interrupt busy colleagues repeatedly",
+                                "Download unauthorized software",
+                                "Share passwords or credentials",
+                                "Complain about systems on day one"
+                            ]
+                        }
+                    }
+                ]
+            },
+            communicationStyle: {
+                title: "Mastering Workplace Communication",
+                situations: [
+                    {
+                        scenario: "Understanding indirect communication",
+                        dosAndDonts: {
+                            dos: [
+                                "Listen for subtle cues and hints",
+                                "Ask 'Is there anything else I should consider?'",
+                                "Soften direct statements with 'perhaps' or 'maybe'",
+                                "Use 'Could you possibly...' for requests",
+                                "Pay attention to tone and context",
+                                "Confirm understanding: 'Just to clarify...'"
+                            ],
+                            donts: [
+                                "Take everything literally",
+                                "Be blunt in disagreement",
+                                "Demand rather than request",
+                                "Interrupt or talk over others",
+                                "Ignore nonverbal cues",
+                                "Assume 'quite good' means average"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "'Interesting' often means disagreement. 'With respect...' signals strong disagreement.",
+                            centralEurope: "More direct is acceptable. Silence in meetings means thinking, not agreement.",
+                            scandinavia: "Consensus-driven. Everyone's input valued equally. Long silences are normal.",
+                            mediterranean: "Animated discussion expected. Some overlap in conversation is normal and friendly."
+                        }
+                    },
+                    {
+                        scenario: "Email and digital communication",
+                        dosAndDonts: {
+                            dos: [
+                                "Use appropriate greetings (Dear/Hi based on relationship)",
+                                "Include clear subject lines",
+                                "Use please and thank you throughout",
+                                "Respond within 24 hours",
+                                "Proofread for grammar and tone",
+                                "Set out-of-office when away"
+                            ],
+                            donts: [
+                                "Use excessive exclamation marks",
+                                "Send emails late at night expecting immediate response",
+                                "Write in all caps",
+                                "Use emojis in formal business communication",
+                                "CC everyone unnecessarily",
+                                "Reply-all inappropriately"
+                            ]
+                        }
+                    }
+                ]
+            },
+            teamIntegration: {
+                title: "Building Team Relationships",
+                situations: [
+                    {
+                        scenario: "Coffee breaks and informal networking",
+                        dosAndDonts: {
+                            dos: [
+                                "Accept coffee/tea invitations",
+                                "Offer to make rounds occasionally",
+                                "Engage in friendly small talk",
+                                "Join colleagues for lunch sometimes",
+                                "Show interest in their work",
+                                "Remember personal details they share"
+                            ],
+                            donts: [
+                                "Always eat lunch alone at your desk",
+                                "Never reciprocate tea/coffee offers",
+                                "Only talk about work",
+                                "Decline every social invitation",
+                                "Dominate conversations",
+                                "Complain constantly"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Tea rounds are important rituals. Weather chat is essential small talk.",
+                            centralEurope: "Coffee breaks are scheduled. More structured than casual.",
+                            scandinavia: "Fika (coffee break) is sacred. Provides work-life balance.",
+                            mediterranean: "Long lunch breaks. Meals are social and relationship-building."
+                        }
+                    },
+                    {
+                        scenario: "After-work socializing",
+                        dosAndDonts: {
+                            dos: [
+                                "Attend occasionally (shows team commitment)",
+                                "Participate in the rounds system at pubs",
+                                "Know and respect your alcohol limits",
+                                "Engage in friendly conversation",
+                                "Leave after 1-2 hours if needed",
+                                "Say goodbye when leaving"
+                            ],
+                            donts: [
+                                "Never attend any social events",
+                                "Get excessively drunk",
+                                "Skip your round at the pub",
+                                "Discuss sensitive work matters",
+                                "Leave without saying goodbye",
+                                "Pressure non-drinkers to drink"
+                            ]
+                        }
+                    }
+                ]
+            },
+            languagePractice: {
+                title: "Essential Office Language Practice",
+                situations: [
+                    {
+                        scenario: "Using common office phrases",
+                        dosAndDonts: {
+                            dos: [
+                                "Practice greetings: 'Good morning', 'How are you?'",
+                                "Master polite requests: 'Would you mind...?'",
+                                "Learn meeting phrases: 'Can I jump in here?'",
+                                "Use 'please', 'thank you', 'sorry' frequently",
+                                "Ask for clarification: 'Just to confirm...'",
+                                "Practice small talk about weather, weekends"
+                            ],
+                            donts: [
+                                "Use overly formal or archaic language",
+                                "Skip pleasantries and jump to business",
+                                "Use slang before understanding it",
+                                "Speak in very long, complex sentences",
+                                "Avoid asking for language help",
+                                "Assume perfect English is required"
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
     }
 };
 
@@ -755,6 +946,55 @@ const quizzes = {
                 ],
                 correct: 2,
                 explanation: "Religious discrimination is illegal under UK equality laws, with strong protections for all faiths and beliefs."
+            }
+        ]
+    },
+    teamOnboarding: {
+        title: "Team Onboarding & Workplace Language",
+        questions: [
+            {
+                question: "What does 'That's interesting' typically mean in British workplace communication?",
+                options: [
+                    "They find it genuinely fascinating",
+                    "They want to hear more details",
+                    "They disagree or think it's a bad idea",
+                    "They need time to think about it"
+                ],
+                correct: 2,
+                explanation: "British indirect communication often uses 'That's interesting' to politely signal disagreement or skepticism about an idea."
+            },
+            {
+                question: "What should you do when someone offers to make tea or coffee in the office?",
+                options: [
+                    "Always decline to avoid bothering them",
+                    "Accept occasionally and offer to make rounds yourself",
+                    "Accept every time without reciprocating",
+                    "Only accept if you're very thirsty"
+                ],
+                correct: 1,
+                explanation: "Tea/coffee rounds are part of British office culture. Accept occasionally and reciprocate by offering to make rounds yourself - it builds team relationships."
+            },
+            {
+                question: "What does 'Let's park that for now' mean in a meeting?",
+                options: [
+                    "Write it down for the permanent record",
+                    "This is the most important topic",
+                    "Let's discuss this later, not now",
+                    "Let's take a break"
+                ],
+                correct: 2,
+                explanation: "'Park that' means to set aside a topic for later discussion. It's a way to stay focused on the current agenda while acknowledging the point."
+            },
+            {
+                question: "In British pub culture, what is the 'rounds' system?",
+                options: [
+                    "Ordering drinks in circular glasses",
+                    "Taking turns to buy drinks for the whole group",
+                    "Walking around to find seats",
+                    "Drinking games played in a circle"
+                ],
+                correct: 1,
+                explanation: "The rounds system means each person in the group takes turns buying drinks for everyone. It's expected that you participate when socializing with colleagues at the pub."
             }
         ]
     }
