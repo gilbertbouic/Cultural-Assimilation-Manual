@@ -4779,6 +4779,492 @@ const culturalData = {
                     <li>Consular protection worldwide</li>
                 </ul>
             `
+        },
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in Scandinavia 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>Scandinavian society is characterized by strong egalitarianism, respect for personal space, and the philosophy of "lagom" (not too much, not too little). Social equality is deeply valued across all aspects of life.</p>
+                
+                <h3>Greetings and Personal Space</h3>
+                <ul>
+                    <li>Handshakes are standard for first meetings and business contexts</li>
+                    <li>"Hej" is the common informal greeting in Sweden; "Hei" in Norway</li>
+                    <li>Personal space is important - maintain distance when conversing</li>
+                    <li>Hugs are reserved for close friends and family</li>
+                    <li>Small talk is less common than in other cultures - silence is comfortable</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Scandinavians may seem reserved at first, but once you build trust, friendships are genuine and lasting. Don't mistake quietness for unfriendliness!
+                </div>
+                
+                <h3>Gender Equality</h3>
+                <p>Gender equality (jämställdhet) is fundamental. Both partners typically work, share household duties equally, and have generous parental leave. Making assumptions based on gender is inappropriate.</p>
+                
+                <h3>Family Values</h3>
+                <ul>
+                    <li>Nuclear families are common; extended family ties exist but are less central than in Southern Europe</li>
+                    <li>Children are raised with independence and autonomy</li>
+                    <li>Shared parental leave is standard - fathers actively participate in childcare</li>
+                    <li>Work-life balance is prioritized for all family members</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> "Fika" (Swedish coffee break) is a crucial social institution. It's time for genuine connection and equality - everyone participates, regardless of position.
+                </div>
+                
+                <h3>The Law of Jante (Jantelagen)</h3>
+                <p>An unwritten social code emphasizing modesty and community over individual achievement. Don't boast about accomplishments or wealth - understatement is valued. Success is celebrated quietly.</p>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in Scandinavia 🤝",
+            content: `
+                <h3>Public Behavior and Social Norms</h3>
+                <p>Scandinavian public spaces are characterized by respect for others, environmental consciousness, and adherence to social rules. Order and consideration for the collective good are paramount.</p>
+                
+                <h3>Key Public Etiquette</h3>
+                <ul>
+                    <li><strong>Queuing:</strong> Always respect queues. Take a number when available (especially in service contexts)</li>
+                    <li><strong>Public transport:</strong> Give up seats for elderly, pregnant, or disabled passengers. Keep voices low. Remove backpacks in crowded spaces</li>
+                    <li><strong>Quiet hours:</strong> Respect silence, especially after 10 PM on weekdays and 11 PM on weekends</li>
+                    <li><strong>Environmental responsibility:</strong> Recycling is mandatory. Sort waste correctly (paper, plastic, glass, metal, food waste)</li>
+                    <li><strong>Outdoor spaces:</strong> Follow "Allemansrätten" (right to roam) - you can access nature freely but must respect private property and leave no trace</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Legal Requirements:</strong> Registration with authorities is mandatory within specified timeframes (varies by country). Obtain personal identity numbers (personnummer in Sweden, personnummer in Norway, CPR in Denmark) for accessing services.
+                </div>
+                
+                <h3>Neighborhood Relations</h3>
+                <ul>
+                    <li>Minimal noise after 10 PM is expected and enforced</li>
+                    <li>Keep common areas tidy in apartment buildings</li>
+                    <li>Respect laundry room schedules if applicable</li>
+                    <li>Snow removal is often a shared responsibility - check local regulations</li>
+                </ul>
+                
+                <h3>Environmental Consciousness</h3>
+                <p>Scandinavia leads in environmental protection. Expect:</p>
+                <ul>
+                    <li>Comprehensive recycling systems with multiple categories</li>
+                    <li>Deposit systems for bottles and cans (pant)</li>
+                    <li>Strong cycling culture - bike lanes are protected</li>
+                    <li>Plastic bag fees and sustainable packaging initiatives</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Embrace the outdoor lifestyle. Scandinavians believe "there's no bad weather, only bad clothing." Invest in proper gear for year-round outdoor activities.
+                </div>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in Scandinavia 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>Scandinavian communication is characterized by understatement, consensus-seeking, and respect for silence. Direct honesty is valued, but delivered without confrontation.</p>
+                
+                <h3>Key Communication Principles</h3>
+                <ul>
+                    <li><strong>Silence is golden:</strong> Comfortable pauses in conversation are normal. Don't feel pressured to fill silences</li>
+                    <li><strong>Understatement:</strong> Avoid exaggeration or overly enthusiastic language</li>
+                    <li><strong>Directness with tact:</strong> Honest feedback is given but wrapped in constructive language</li>
+                    <li><strong>Consensus:</strong> Group agreement is sought through discussion, not top-down decisions</li>
+                    <li><strong>Flat hierarchies:</strong> First-name basis is standard, even with bosses and professors</li>
+                </ul>
+                
+                <h3>Conversation Topics</h3>
+                <div class="tip">
+                    <strong>Good Topics:</strong>
+                    <ul>
+                        <li>Nature, hiking, outdoor activities</li>
+                        <li>Seasonal changes and weather (important cultural topic)</li>
+                        <li>Sustainable living and environmental issues</li>
+                        <li>Travel experiences</li>
+                        <li>Sports (cross-country skiing, ice hockey, football)</li>
+                        <li>Work-life balance</li>
+                    </ul>
+                </div>
+                
+                <div class="warning">
+                    <strong>Topics to Approach Carefully:</strong>
+                    <ul>
+                        <li>Personal finances or income (very private)</li>
+                        <li>Religion (mostly secular societies)</li>
+                        <li>Excessive self-promotion (violates Jantelagen)</li>
+                        <li>Comparing Scandinavian countries unfavorably to each other</li>
+                    </ul>
+                </div>
+                
+                <h3>Workplace Communication</h3>
+                <ul>
+                    <li>Flat organizational structures with minimal hierarchy</li>
+                    <li>Everyone's opinion is valued regardless of position</li>
+                    <li>Meetings focus on consensus-building</li>
+                    <li>Email communication is direct and concise</li>
+                    <li>Punctuality is essential - being late is disrespectful</li>
+                </ul>
+                
+                <h3>Digital Communication</h3>
+                <p>Scandinavia is highly digitized. Most communication with authorities, banks, and services happens online. Learn to use BankID (Sweden/Norway) or NemID (Denmark) for secure digital identification.</p>
+            `
+        },
+        economicIntegration: {
+            title: "💼 Module 4: Economic Integration in Scandinavia 💰",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>Scandinavian work culture emphasizes work-life balance, flat hierarchies, and collective decision-making. Long hours are uncommon and often frowned upon as poor planning.</p>
+                
+                <h3>Key Workplace Values</h3>
+                <ul>
+                    <li><strong>Work-life balance:</strong> Working beyond contracted hours is unusual. Family time is prioritized</li>
+                    <li><strong>Flat hierarchies:</strong> Managers are facilitators, not commanders. First names used at all levels</li>
+                    <li><strong>Consensus culture:</strong> Decisions made through group discussion (can seem slow initially)</li>
+                    <li><strong>Autonomy:</strong> Employees trusted to manage their own time and tasks</li>
+                    <li><strong>Equality:</strong> Gender pay gaps are smaller than most countries; parental leave is shared</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> Punctuality is crucial. Arriving on time shows respect for others. Meeting schedules are strictly followed, and meetings often end precisely on time.
+                </div>
+                
+                <h3>Employment Benefits</h3>
+                <ul>
+                    <li>Generous vacation time (typically 5 weeks minimum)</li>
+                    <li>Shared parental leave (Sweden: 480 days total; Norway: 49-59 weeks)</li>
+                    <li>Comprehensive social safety net</li>
+                    <li>Strong trade unions protecting worker rights</li>
+                    <li>Sick leave without loss of pay</li>
+                </ul>
+                
+                <h3>Finding Employment</h3>
+                <ul>
+                    <li>Job boards: Arbetsförmedlingen (Sweden), NAV (Norway), Jobindex (Denmark)</li>
+                    <li>Networking is important but done subtly</li>
+                    <li>Language skills: English widely spoken in many sectors, but local language needed for most jobs</li>
+                    <li>Credential recognition may be required for regulated professions</li>
+                </ul>
+                
+                <h3>Taxation and Social Services</h3>
+                <p>High taxes (40-60% for higher earners) fund comprehensive social services:</p>
+                <ul>
+                    <li>Universal healthcare</li>
+                    <li>Free education (including university)</li>
+                    <li>Subsidized childcare</li>
+                    <li>Pension system</li>
+                    <li>Unemployment insurance</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Join a trade union (fackförbund in Sweden, fagforening in Norway/Denmark). They provide unemployment insurance, legal support, and salary negotiation assistance.
+                </div>
+            `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems in Scandinavia 💊",
+            content: `
+                <h3>Universal Healthcare System</h3>
+                <p>Scandinavia provides universal healthcare funded through taxation. Quality is high, but systems differ by country. Registration and obtaining a personal identity number is essential for access.</p>
+                
+                <h3>Primary Care</h3>
+                <h4>In Sweden:</h4>
+                <ul>
+                    <li><strong>Vårdcentral (health center):</strong> Your first point of contact for non-emergency care</li>
+                    <li><strong>Registration:</strong> Register with a local vårdcentral after obtaining personnummer</li>
+                    <li><strong>1177 Vårdguiden:</strong> Call 1177 for medical advice and to book appointments</li>
+                    <li><strong>Costs:</strong> Small patient fees (around 100-300 SEK per visit); free for children under 18</li>
+                    <li><strong>High-cost protection:</strong> Annual cap on healthcare costs (around 1,200 SEK)</li>
+                </ul>
+                
+                <h4>In Norway:</h4>
+                <ul>
+                    <li><strong>Fastlege (GP):</strong> You're assigned a GP or can choose one</li>
+                    <li><strong>Patient fees:</strong> Around 200 NOK per visit</li>
+                    <li><strong>Frikort:</strong> Free card issued when you reach annual cap (around 2,500 NOK)</li>
+                    <li><strong>Helsenorge.no:</strong> Online portal for booking appointments and accessing health records</li>
+                </ul>
+                
+                <h4>In Denmark:</h4>
+                <ul>
+                    <li><strong>Doctor choice:</strong> Choose between Group 1 (assigned GP, free) or Group 2 (any GP, partial payment)</li>
+                    <li><strong>Most services free</strong> for Group 1 patients</li>
+                    <li><strong>sundhed.dk:</strong> National health portal for appointments and information</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Emergency Care:</strong>
+                    <ul>
+                        <li><strong>Emergency number: 112</strong> (same across Scandinavia)</li>
+                        <li><strong>Medical advice lines:</strong> 1177 (Sweden), 116117 (Norway), 1813 (Copenhagen)</li>
+                        <li><strong>Emergency rooms (akutmottagning/legevakt):</strong> For urgent but not life-threatening issues</li>
+                    </ul>
+                </div>
+                
+                <h3>Prescriptions and Pharmacies</h3>
+                <ul>
+                    <li><strong>E-prescriptions:</strong> Sent electronically to pharmacy of your choice</li>
+                    <li><strong>Pharmacy (apotek):</strong> Only pharmacies can sell prescription medicines; some over-the-counter items available in grocery stores</li>
+                    <li><strong>Costs:</strong> Prescription fees apply but have annual caps</li>
+                    <li><strong>Generic substitution:</strong> Pharmacists may substitute cheaper generic versions</li>
+                </ul>
+                
+                <h3>Dental Care</h3>
+                <p><strong>Not free for adults</strong> - dental care is private and can be expensive. Consider dental insurance. Children receive free dental care up to age 18-20 (varies by country).</p>
+                
+                <h3>Mental Health Services</h3>
+                <ul>
+                    <li>Accessible through GP referral</li>
+                    <li>Some waiting times for specialist care</li>
+                    <li>Employee assistance programs common through employers</li>
+                    <li>Crisis lines available 24/7</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Scandinavian healthcare emphasizes prevention. Annual health checks, vaccination programs, and screenings are encouraged and often free.
+                </div>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in Scandinavia 📋",
+            content: `
+                <h3>Digital-First Bureaucracy</h3>
+                <p>Scandinavia leads in digital governance. Most interactions with authorities happen online using secure digital ID systems. Embrace digital services - they're efficient and required.</p>
+                
+                <h3>Essential Registration Steps</h3>
+                
+                <h4>Upon Arrival:</h4>
+                <ul>
+                    <li><strong>Register residence:</strong> Within specified timeframe (varies: 1 week in Sweden, 8 days in Norway)</li>
+                    <li><strong>Obtain personal ID number:</strong>
+                        <ul>
+                            <li>Sweden: Personnummer from Skatteverket (Tax Agency)</li>
+                            <li>Norway: Fødselsnummer/D-nummer from Skatteetaten</li>
+                            <li>Denmark: CPR-nummer from Borgerservice</li>
+                        </ul>
+                    </li>
+                    <li><strong>Set up digital ID:</strong> BankID (Sweden/Norway) or NemID/MitID (Denmark)</li>
+                    <li><strong>Register for tax:</strong> Automatic with residence registration</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Personal ID Number is Essential:</strong> You need this for nearly everything - banking, healthcare, employment, phone contracts, apartment rentals. Prioritize obtaining it immediately.
+                </div>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li><strong>Bank account:</strong> Needed for salary and bills. Requires personal ID number</li>
+                    <li><strong>BankID/NemID:</strong> Used for all online transactions and government services</li>
+                    <li><strong>Major banks:</strong> Swedbank, Handelsbanken, Nordea (Sweden); DNB (Norway); Danske Bank (Denmark)</li>
+                    <li><strong>Cashless society:</strong> Most places don't accept cash - cards and mobile payments dominate</li>
+                </ul>
+                
+                <h3>Housing Registration</h3>
+                <ul>
+                    <li>Register your address with population registry</li>
+                    <li>Notify authorities within days of moving</li>
+                    <li>Landlords report rentals to authorities</li>
+                    <li>Housing contracts are legally binding - read carefully</li>
+                </ul>
+                
+                <h3>Tax System</h3>
+                <p>Transparent and largely automatic:</p>
+                <ul>
+                    <li><strong>Automatic tax deduction:</strong> Employers deduct taxes from salary</li>
+                    <li><strong>Tax returns:</strong> Pre-filled; review and approve online</li>
+                    <li><strong>Tax rates:</strong> Progressive, ranging 30-60% depending on income</li>
+                    <li><strong>Tax benefits:</strong> Deductions for commuting, union fees, pension contributions</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Digital Services:</strong>
+                    <ul>
+                        <li>Sweden: Skatteverket.se, Försäkringskassan.se, 1177.se</li>
+                        <li>Norway: Skatteetaten.no, NAV.no, Helsenorge.no</li>
+                        <li>Denmark: Skat.dk, Borger.dk, Sundhed.dk</li>
+                    </ul>
+                </div>
+                
+                <h3>Driving and Transportation</h3>
+                <ul>
+                    <li><strong>Driver's license:</strong> EU licenses valid; others must exchange within 1 year</li>
+                    <li><strong>Vehicle registration:</strong> Register with transport authority if bringing a car</li>
+                    <li><strong>Public transport:</strong> Extensive and efficient; monthly passes available</li>
+                </ul>
+                
+                <h3>Unemployment and Social Insurance</h3>
+                <ul>
+                    <li>Sweden: Arbetsförmedlingen (employment office), A-kassa (unemployment insurance through unions)</li>
+                    <li>Norway: NAV (comprehensive social services)</li>
+                    <li>Denmark: Jobcenter and A-kasse</li>
+                </ul>
+                
+                <h3>Language Services</h3>
+                <ul>
+                    <li>Free Swedish/Norwegian/Danish classes (SFI/language schools)</li>
+                    <li>Integration programs for newcomers</li>
+                    <li>Many services available in English, but learning the local language is essential for integration</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in Scandinavia 📚",
+            content: `
+                <h3>Education Philosophy</h3>
+                <p>Scandinavian education emphasizes equality, critical thinking, and student well-being over competition. Education is free from preschool through university, funded by taxes.</p>
+                
+                <h3>School System Structure</h3>
+                
+                <h4>Early Childhood Education (1-6 years):</h4>
+                <ul>
+                    <li><strong>Förskola/barnehage (preschool):</strong> Available from age 1; heavily subsidized</li>
+                    <li><strong>Play-based learning:</strong> Focus on social skills, outdoor play, and development</li>
+                    <li><strong>Costs:</strong> Income-based fees with maximum caps (e.g., 1,500 SEK/month in Sweden)</li>
+                    <li><strong>Guaranteed spots:</strong> Right to childcare within reasonable timeframe</li>
+                </ul>
+                
+                <h4>Primary School (6-16 years):</h4>
+                <ul>
+                    <li><strong>Grundskola/barneskole (compulsory education):</strong> 9-10 years, starting age 6-7</li>
+                    <li><strong>Free of charge:</strong> Tuition, meals, books, and materials provided</li>
+                    <li><strong>Curriculum:</strong> Broad subjects including mother tongue support for immigrant children</li>
+                    <li><strong>No standardized testing:</strong> Assessment is continuous and holistic (though varies by country)</li>
+                    <li><strong>Homework:</strong> Minimal compared to other countries; emphasis on work-life balance</li>
+                </ul>
+                
+                <h4>Upper Secondary School (16-19 years):</h4>
+                <ul>
+                    <li><strong>Gymnasium/videregående skole:</strong> Optional but 90%+ attend</li>
+                    <li><strong>Academic or vocational tracks:</strong> Both respected equally</li>
+                    <li><strong>Free education:</strong> Tuition-free with study grants available</li>
+                    <li><strong>Grades matter:</strong> Determine university entrance</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>School Culture:</strong>
+                    <ul>
+                        <li>First-name basis with teachers (reflects egalitarian values)</li>
+                        <li>Student autonomy and responsibility emphasized</li>
+                        <li>Outdoor education in all weather conditions</li>
+                        <li>No school uniforms</li>
+                        <li>Anti-bullying programs standard</li>
+                    </ul>
+                </div>
+                
+                <h3>University and Higher Education</h3>
+                <ul>
+                    <li><strong>Tuition-free:</strong> For EU/EEA citizens; fees for non-EU (varies by country)</li>
+                    <li><strong>Application:</strong> Centralized systems (antagning.se in Sweden)</li>
+                    <li><strong>Study grants:</strong> CSN (Sweden), Lånekassen (Norway) provide grants and loans</li>
+                    <li><strong>Teaching style:</strong> Independent study, critical thinking, group work</li>
+                    <li><strong>English-taught programs:</strong> Many master's programs offered in English</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings (utvecklingssamtal) twice yearly</li>
+                    <li>Parents expected to engage but not hover</li>
+                    <li>School councils include parent representatives</li>
+                    <li>Communication through digital platforms (Skolplattformen, etc.)</li>
+                </ul>
+                
+                <h3>Special Education and Support</h3>
+                <ul>
+                    <li>Inclusive education - children with special needs integrated when possible</li>
+                    <li>Extra support (särskilt stöd) available for those who need it</li>
+                    <li>Language support for immigrant children (mother tongue instruction)</li>
+                    <li>School health services (nurse, counselor, psychologist)</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Schools emphasize outdoor time in all weather. Invest in proper clothing for your children - layers, waterproofs, and warm winter gear are essential.
+                </div>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li>Long summer break (June-August)</li>
+                    <li>Christmas break (2-3 weeks)</li>
+                    <li>Winter break (February/March - sportlov/vinterferie)</li>
+                    <li>Shorter autumn and spring breaks</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in Scandinavia 🤝",
+            content: `
+                <h3>Secular Society</h3>
+                <p>Scandinavia is among the most secular regions in the world. While historically Lutheran Christian, most Scandinavians are non-practicing or non-religious. Religion is considered a private matter.</p>
+                
+                <h3>Religious Landscape</h3>
+                <ul>
+                    <li><strong>Historically Lutheran:</strong> State churches (Church of Sweden, Church of Norway, Church of Denmark) still exist but separated from state (Sweden 2000, Norway 2012)</li>
+                    <li><strong>Low church attendance:</strong> Only 2-5% attend services regularly</li>
+                    <li><strong>Cultural Christianity:</strong> Many maintain membership for baptisms, weddings, and funerals but are not religiously active</li>
+                    <li><strong>Growing diversity:</strong> Muslim communities (especially in urban areas), Catholic, Orthodox, and other faiths represented</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Religious Freedom:</strong> Complete freedom of religion guaranteed by law. You can practice any faith, wear religious symbols, and establish places of worship. Discrimination based on religion is illegal.
+                </div>
+                
+                <h3>Church Tax</h3>
+                <ul>
+                    <li>Members of state churches pay church tax (around 1% of income)</li>
+                    <li>You can opt out by leaving the church (uttrade/utmelding)</li>
+                    <li>Process is simple - online or written request</li>
+                    <li>Doesn't affect access to church ceremonies if you want them later</li>
+                </ul>
+                
+                <h3>Religious Observance in Daily Life</h3>
+                <ul>
+                    <li><strong>Christian holidays:</strong> Public holidays include Christmas, Easter, Pentecost - observed as cultural traditions more than religious ones</li>
+                    <li><strong>Christmas (Jul):</strong> Major cultural celebration focused on family, food, and traditions</li>
+                    <li><strong>Midsummer:</strong> Pre-Christian celebration, now secular festival</li>
+                    <li><strong>Lucia (Dec 13):</strong> Swedish tradition with both Christian and pagan roots</li>
+                </ul>
+                
+                <h3>Muslim Community</h3>
+                <ul>
+                    <li>Mosques available in major cities</li>
+                    <li>Halal food increasingly available in supermarkets</li>
+                    <li>Some accommodations for prayer times in workplaces (varies)</li>
+                    <li>Islamic schools and organizations active</li>
+                </ul>
+                
+                <h3>Workplace and School</h3>
+                <ul>
+                    <li><strong>Religious holidays:</strong> Can request time off for non-Christian religious holidays; employers should accommodate when possible</li>
+                    <li><strong>Religious clothing:</strong> Generally accepted, though face-covering bans exist in some contexts (varies by country and situation)</li>
+                    <li><strong>School:</strong> Religious education is comparative (learning about all religions), not confessional</li>
+                    <li><strong>Food:</strong> Halal/kosher options increasingly available but not guaranteed in all settings</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Social Attitudes:</strong>
+                    <ul>
+                        <li>Strong secularism means religion rarely discussed in social or professional settings</li>
+                        <li>Proselytizing considered inappropriate</li>
+                        <li>Religious beliefs expected to be private</li>
+                        <li>LGBTQ+ rights strongly supported - religious objections to same-sex relationships may face social disapproval</li>
+                        <li>Gender equality fundamental - religious practices perceived as restricting women's autonomy may face criticism</li>
+                    </ul>
+                </div>
+                
+                <h3>Integration and Religion</h3>
+                <p>Scandinavia values integration over multiculturalism in some aspects. You're free to practice your religion, but expected to accept core societal values: gender equality, LGBTQ+ rights, secular governance, and children's rights.</p>
+                
+                <h3>Finding Religious Communities</h3>
+                <ul>
+                    <li>Online directories for mosques, synagogues, churches, temples</li>
+                    <li>Cultural associations often linked to religious communities</li>
+                    <li>University student organizations for various faiths</li>
+                    <li>Social media groups connecting believers</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> If your faith is important to you, seek out communities early. They provide social networks and cultural connections, especially valuable during dark winter months.
+                </div>
+            `
         }
     },
     balkans: {
