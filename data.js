@@ -4512,6 +4512,711 @@ const culturalData = {
                     <li>Right to live and work anywhere in the EU</li>
                 </ul>
             `
+        },
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in the Mediterranean 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>Mediterranean culture values warmth, expressiveness, and strong family bonds. Social interactions are typically more demonstrative than in Northern Europe, with emphasis on personal connections and emotional expression.</p>
+                
+                <h3>Greetings and Personal Space</h3>
+                <ul>
+                    <li><strong>Cheek kisses (la bise, besos):</strong> Common among friends and family; number varies by region (2 in France, 2-3 in Spain/Italy)</li>
+                    <li><strong>Formal greetings essential:</strong> Always say "Bonjour/Buongiorno/Buenos días" before any interaction, even in shops</li>
+                    <li><strong>Handshakes:</strong> Standard for business and first meetings</li>
+                    <li><strong>Closer personal space:</strong> Physical proximity during conversation is normal; touching arms or shoulders shows warmth</li>
+                    <li><strong>Eye contact:</strong> Direct and important for showing sincerity and engagement</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> In France particularly, not saying "Bonjour" when entering a shop or "Au revoir" when leaving is considered extremely rude. These formalities matter!
+                </div>
+                
+                <h3>Family Values</h3>
+                <p>Family is central to Mediterranean life:</p>
+                <ul>
+                    <li><strong>Extended family ties:</strong> Close relationships with grandparents, aunts, uncles, cousins</li>
+                    <li><strong>Multi-generational gatherings:</strong> Sunday meals, holidays, celebrations involve entire family</li>
+                    <li><strong>Adult children:</strong> Often live at home longer (into 20s-30s) for economic and cultural reasons</li>
+                    <li><strong>Parental involvement:</strong> Parents remain actively involved in adult children's lives</li>
+                    <li><strong>Childcare:</strong> Grandparents frequently provide care; strong intergenerational bonds</li>
+                </ul>
+                
+                <h3>Social Etiquette</h3>
+                <ul>
+                    <li><strong>Vouvoyer/Lei/Usted (formal you):</strong> Use formal address initially; switch to informal only when invited</li>
+                    <li><strong>Titles matter:</strong> Use professional titles (Doctor, Professor, Monsieur, Signora)</li>
+                    <li><strong>Punctuality nuanced:</strong> Business meetings require punctuality; social events allow "fashionably late" (15-30 minutes)</li>
+                    <li><strong>Gift-giving:</strong> Bring wine, flowers, or sweets when visiting homes (avoid chrysanthemums in France/Italy - funeral flowers)</li>
+                    <li><strong>Dress well:</strong> Appearance matters; dress stylishly even for casual outings</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Mediterranean cultures value "la dolce vita" / "joie de vivre" - taking time to enjoy life, savor meals, and appreciate beauty. Don't rush social interactions!
+                </div>
+                
+                <h3>Dating and Relationships</h3>
+                <ul>
+                    <li>Meeting through social circles remains common alongside apps</li>
+                    <li>Men often take initiative in asking someone out (though this is changing)</li>
+                    <li>Romantic gestures appreciated - compliments, flowers, thoughtful dates</li>
+                    <li>Relationships develop through conversation and shared meals</li>
+                    <li>Meeting the family is significant - signals seriousness</li>
+                </ul>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in the Mediterranean 🤝",
+            content: `
+                <h3>Public Behavior and Social Norms</h3>
+                <p>Mediterranean public spaces blend formality with warmth. Proper etiquette and presentation are important, but social interactions are warmer and more animated than in Northern Europe.</p>
+                
+                <h3>Daily Courtesies</h3>
+                <ul>
+                    <li><strong>Greetings mandatory:</strong> Say bonjour/buongiorno/buenos días when entering ANY space - shops, elevators, waiting rooms</li>
+                    <li><strong>Please and thank you:</strong> S'il vous plaît/per favore/por favor and merci/grazie/gracias used constantly</li>
+                    <li><strong>Excuse me:</strong> Pardon/scusi/perdón when passing, bumping, or getting attention</li>
+                    <li><strong>Goodbye:</strong> Au revoir/arrivederci/adiós when leaving shops or interactions</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>France Particularly:</strong> Failure to greet shopkeepers or service staff is perceived as incredibly rude. Even if just browsing, say "Bonjour, je regarde" (I'm just looking). This applies everywhere!
+                </div>
+                
+                <h3>Noise and Quiet Hours</h3>
+                <ul>
+                    <li><strong>Animated conversation normal:</strong> Louder, more expressive public conversation than Northern Europe</li>
+                    <li><strong>Quiet hours:</strong> Typically 10 PM - 7 AM on weekdays; respect in apartments</li>
+                    <li><strong>Siesta time (Spain, parts of Italy):</strong> Reduced noise 2-5 PM in some areas; many shops close</li>
+                    <li><strong>Late evening culture:</strong> Dinner often 9-10 PM; social life extends late, especially weekends</li>
+                </ul>
+                
+                <h3>Dining Etiquette</h3>
+                <ul>
+                    <li><strong>Meals are sacred:</strong> Lunch breaks 1-2 hours; dinner is social event, not to be rushed</li>
+                    <li><strong>Restaurants:</strong> Wait to be seated; don't split bills excessively (Italians especially dislike this)</li>
+                    <li><strong>Coffee culture:</strong> Standing at bar is cheaper; sitting adds service charge</li>
+                    <li><strong>Café time:</strong> You can linger over one coffee for hours - you're paying for the space and time</li>
+                    <li><strong>Tipping:</strong> Service often included; small tips (€1-5) appreciated but not obligatory</li>
+                </ul>
+                
+                <h3>Environmental Consciousness</h3>
+                <ul>
+                    <li>Recycling programs exist but less comprehensive than Northern Europe</li>
+                    <li>Bring reusable bags for shopping (plastic bags often charged)</li>
+                    <li>Water conservation important in southern regions</li>
+                    <li>Historic city centers - drive carefully, many pedestrian zones</li>
+                </ul>
+                
+                <h3>Dress Code</h3>
+                <ul>
+                    <li><strong>Appearance matters:</strong> Dress well even for routine activities</li>
+                    <li><strong>Church visits:</strong> Cover shoulders and knees; remove hats</li>
+                    <li><strong>Beach to city:</strong> Don't wear swimwear away from beach; cover up appropriately</li>
+                    <li><strong>Business:</strong> Formal, elegant attire expected</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Embrace the "passegiata" (Italy) or evening stroll culture. Many locals walk through town centers in early evening - it's social ritual and people-watching, not just exercise.
+                </div>
+                
+                <h3>Public Transport and Driving</h3>
+                <ul>
+                    <li><strong>Validate tickets:</strong> Public transport requires validation (fines for non-validation)</li>
+                    <li><strong>Driving style:</strong> More aggressive than Northern Europe; horns used liberally</li>
+                    <li><strong>Parking:</strong> Creative parking common; rules sometimes loosely interpreted</li>
+                    <li><strong>Strikes:</strong> Public transport strikes common; plan accordingly</li>
+                </ul>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in the Mediterranean 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>Mediterranean communication is expressive, nuanced, and relationship-oriented. Style varies: French favor intellectual debate, Italians use gestures extensively, Spanish emphasize warmth and personal connection.</p>
+                
+                <h3>Key Communication Characteristics</h3>
+                <ul>
+                    <li><strong>Expressive:</strong> Animated gestures, facial expressions, vocal variation normal and expected</li>
+                    <li><strong>Indirect in some contexts:</strong> Especially in France and Italy, criticism is wrapped in politeness</li>
+                    <li><strong>Context matters:</strong> What's said often less important than how it's said and the relationship context</li>
+                    <li><strong>Interrupting acceptable:</strong> Overlapping conversation shows engagement, not rudeness</li>
+                    <li><strong>Debate valued:</strong> Particularly in France, intellectual argumentation is sport, not personal attack</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>French Communication:</strong> The French value eloquence and intellectual rigor. Debate is enjoyed. Don't take strong opinions personally - it's about ideas, not you. Learning to defend your viewpoint calmly is respected.
+                </div>
+                
+                <h3>Conversation Topics</h3>
+                <div class="tip">
+                    <strong>Good Topics:</strong>
+                    <ul>
+                        <li>Food, wine, and cuisine (passionate subject!)</li>
+                        <li>Art, culture, cinema, literature</li>
+                        <li>Travel and regional differences</li>
+                        <li>Fashion and style</li>
+                        <li>Philosophy and ideas (especially France)</li>
+                        <li>Football (soccer) - major cultural touchstone</li>
+                        <li>Local history and architecture</li>
+                    </ul>
+                </div>
+                
+                <div class="warning">
+                    <strong>Topics to Approach Carefully:</strong>
+                    <ul>
+                        <li>Personal income or finances (private)</li>
+                        <li>Oversimplified comparisons to other countries</li>
+                        <li>Stereotypes about laziness or inefficiency (offensive)</li>
+                        <li>Religious topics (France particularly secular)</li>
+                        <li>Regional rivalries (North vs. South debates can be sensitive)</li>
+                    </ul>
+                </div>
+                
+                <h3>Language and Formality</h3>
+                <ul>
+                    <li><strong>Formal vs. informal:</strong> Tu/vous, tu/lei, tú/usted distinction crucial; wait to be invited to use informal</li>
+                    <li><strong>Language pride:</strong> French particularly proud of language; attempt to speak it even if imperfect - effort appreciated</li>
+                    <li><strong>English varies:</strong> More widely spoken in business/tourism; less in everyday contexts. Learn the local language for integration</li>
+                    <li><strong>Regional languages:</strong> Catalan, Basque, Occitan, regional Italian dialects - show respect for linguistic diversity</li>
+                </ul>
+                
+                <h3>Workplace Communication</h3>
+                <ul>
+                    <li><strong>Hierarchy present:</strong> More formal than Northern Europe; respect for authority and seniority</li>
+                    <li><strong>Titles used:</strong> Monsieur, Madame, Dottore, Señor/Señora in professional contexts</li>
+                    <li><strong>Meeting style:</strong> Can be lengthy; building consensus through discussion</li>
+                    <li><strong>Email:</strong> Formal openings and closings required; French business emails quite elaborate</li>
+                    <li><strong>Lunch meetings:</strong> Business often conducted over meals; important relationship-building</li>
+                </ul>
+                
+                <h3>Gestures and Non-Verbal Communication</h3>
+                <ul>
+                    <li>Italians particularly gesture-heavy (fingers bunched tapping - "what do you want?"; hand wave under chin - "I don't care")</li>
+                    <li>French: shoulder shrug with pursed lips means "I don't know" or "what can you do?"</li>
+                    <li>Maintain good eye contact - shows honesty and engagement</li>
+                    <li>Physical touch during conversation (arm touches) shows warmth</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Appreciate the art of conversation. Mediterranean cultures value eloquence, wit, and the ability to converse on varied topics. Reading widely and staying culturally informed helps you participate fully.
+                </div>
+            `
+        },
+        economicIntegration: {
+            title: "💼 Module 4: Economic Integration in the Mediterranean 💰",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>Mediterranean work culture balances professionalism with personal relationships. Hierarchies exist but are tempered by personal connections. Work-life balance and quality of life are highly valued.</p>
+                
+                <h3>Key Workplace Values</h3>
+                <ul>
+                    <li><strong>Relationships matter:</strong> Personal connections facilitate business; invest time in relationship-building</li>
+                    <li><strong>Hierarchy respected:</strong> More vertical structures than Northern Europe; formal with superiors</li>
+                    <li><strong>Long lunch breaks:</strong> 1-2 hours standard; meal times sacred</li>
+                    <li><strong>Work hours:</strong> Often 9 AM - 6/7 PM, but with substantial lunch break; "presenteeism" can be expected</li>
+                    <li><strong>Vacation sacred:</strong> August particularly - many businesses close for 2-3 weeks</li>
+                    <li><strong>Quality of life:</strong> Work to live, not live to work; family and personal time prioritized</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>French Workplace Specifics:</strong>
+                    <ul>
+                        <li>35-hour work week legally; in practice varies by sector</li>
+                        <li>Strong unions and workers' rights</li>
+                        <li>Strikes and manifestations (protests) common</li>
+                        <li>Formal communication; business relationships take time to develop</li>
+                        <li>September restart after August vacation is crucial business period</li>
+                    </ul>
+                </div>
+                
+                <h3>Finding Employment</h3>
+                <ul>
+                    <li><strong>Job boards:</strong> Pôle Emploi (France), InfoJobs (Spain), LinkedIn increasingly used</li>
+                    <li><strong>Networking crucial:</strong> Personal connections often more important than cold applications</li>
+                    <li><strong>Language requirements:</strong> Local language proficiency typically required except in specific international sectors</li>
+                    <li><strong>Contracts:</strong> CDI (permanent) vs. CDD (fixed-term) in France; similar distinctions elsewhere</li>
+                    <li><strong>Credential recognition:</strong> EU qualifications generally recognized; non-EU may need validation</li>
+                </ul>
+                
+                <h3>Employment Rights and Benefits</h3>
+                <ul>
+                    <li><strong>Vacation:</strong> Minimum 4-5 weeks annually (5 weeks in France)</li>
+                    <li><strong>Healthcare:</strong> Employer contributes to social security/health insurance</li>
+                    <li><strong>Parental leave:</strong> Available but varies by country; less generous than Scandinavia</li>
+                    <li><strong>Sick leave:</strong> Doctor's note required; employers and social security share cost</li>
+                    <li><strong>Termination protection:</strong> Strong worker protections; difficult to dismiss without cause</li>
+                </ul>
+                
+                <h3>Bureaucracy and Administration</h3>
+                <ul>
+                    <li><strong>Paperwork intensive:</strong> Employment requires substantial documentation</li>
+                    <li><strong>Social security registration:</strong> Mandatory for all workers</li>
+                    <li><strong>Bank account:</strong> Often required before employment starts</li>
+                    <li><strong>Payslips complex:</strong> French "bulletin de salaire" particularly detailed with numerous deductions</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Strikes and Labor Action:</strong> Public sector strikes common, especially France. Transport, education, public services can be disrupted. This is accepted part of social dialogue - not viewed negatively as elsewhere.
+                </div>
+                
+                <h3>Entrepreneurship</h3>
+                <ul>
+                    <li>Bureaucratic hurdles exist but support programs available</li>
+                    <li>France: Auto-entrepreneur status simplified self-employment</li>
+                    <li>Italy: Partita IVA for freelancers/small businesses</li>
+                    <li>Spain: Autónomo status for self-employed</li>
+                    <li>EU citizens have right to establish businesses</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Progressive tax systems:</strong> Higher rates than some countries (France: up to 45%)</li>
+                    <li><strong>Social charges:</strong> Substantial contributions for healthcare, pensions, unemployment (France particularly high)</li>
+                    <li><strong>Tax residence:</strong> Established by spending majority of year in country</li>
+                    <li><strong>Annual tax declarations:</strong> Required even if employer withholds taxes</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Business meals matter. Cultivate relationships over lunch or coffee. In Mediterranean culture, breaking bread together builds trust essential for professional success.
+                </div>
+            `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems in the Mediterranean 💊",
+            content: `
+                <h3>Universal Healthcare Systems</h3>
+                <p>Mediterranean countries provide universal healthcare through social insurance systems. Quality is generally high, but systems vary by country. Registration and contributions are mandatory for residents.</p>
+                
+                <h3>France: Sécurité Sociale</h3>
+                <h4>System Overview:</h4>
+                <ul>
+                    <li><strong>Coverage:</strong> Comprehensive healthcare for all legal residents and workers</li>
+                    <li><strong>Registration:</strong> Automatic upon employment; students and others register separately</li>
+                    <li><strong>Carte Vitale:</strong> Electronic health card containing your medical information</li>
+                    <li><strong>Reimbursement model:</strong> You pay upfront, then claim reimbursement (typically 70% of consultation cost)</li>
+                    <li><strong>Mutuelle:</strong> Supplementary insurance covers remaining costs (often provided by employer)</li>
+                </ul>
+                
+                <h4>Accessing Care in France:</h4>
+                <ul>
+                    <li><strong>Médecin traitant:</strong> Choose a primary care doctor (GP); required for optimal reimbursement</li>
+                    <li><strong>Appointments:</strong> Book directly with doctor; Doctolib app widely used</li>
+                    <li><strong>Consultations:</strong> Standard GP visit ~€25; specialists more expensive</li>
+                    <li><strong>Pharmacies:</strong> Green cross sign; pharmacists provide health advice</li>
+                    <li><strong>Emergencies:</strong> SAMU (15) for medical emergencies; Pompiers (18) for life-threatening situations</li>
+                </ul>
+                
+                <h3>Italy: Servizio Sanitario Nazionale (SSN)</h3>
+                <h4>System Overview:</h4>
+                <ul>
+                    <li><strong>Free at point of use:</strong> For registered residents</li>
+                    <li><strong>Registration:</strong> Register at local ASL (Azienda Sanitaria Locale)</li>
+                    <li><strong>Tessera sanitaria:</strong> Health card required for accessing services</li>
+                    <li><strong>Ticket (copayment):</strong> Small fees for some services based on income</li>
+                </ul>
+                
+                <h4>Accessing Care in Italy:</h4>
+                <ul>
+                    <li><strong>Medico di base:</strong> Choose a family doctor from registered list</li>
+                    <li><strong>Appointments:</strong> Book directly; walk-in hours often available</li>
+                    <li><strong>Specialists:</strong> GP referral usually required for SSN coverage</li>
+                    <li><strong>Pharmacies:</strong> Green cross; rotating schedule for 24-hour service</li>
+                    <li><strong>Emergency:</strong> 118 for ambulance; Pronto Soccorso (ER) at hospitals</li>
+                </ul>
+                
+                <h3>Spain: Sistema Nacional de Salud</h3>
+                <h4>System Overview:</h4>
+                <ul>
+                    <li><strong>Free universal healthcare:</strong> For residents registered with social security</li>
+                    <li><strong>Tarjeta sanitaria:</strong> Health card issued by autonomous community</li>
+                    <li><strong>Regional variations:</strong> Health managed by autonomous communities; slight differences</li>
+                    <li><strong>No co-payments:</strong> Generally free, though some regions charge for prescriptions</li>
+                </ul>
+                
+                <h4>Accessing Care in Spain:</h4>
+                <ul>
+                    <li><strong>Centro de salud:</strong> Local health center with GPs and nurses</li>
+                    <li><strong>Médico de familia:</strong> Assigned family doctor at your local center</li>
+                    <li><strong>Appointments:</strong> Book through phone or online portal</li>
+                    <li><strong>Pharmacies:</strong> Green cross; prescription medicines require receta</li>
+                    <li><strong>Emergency:</strong> 112 general emergency; Urgencias for hospital ER</li>
+                </ul>
+                
+                <h3>Portugal: Serviço Nacional de Saúde (SNS)</h3>
+                <ul>
+                    <li><strong>Free healthcare:</strong> For residents and EU citizens</li>
+                    <li><strong>Registration:</strong> Register at local health center (centro de saúde)</li>
+                    <li><strong>Número de utente:</strong> User number for accessing services</li>
+                    <li><strong>Moderate fees:</strong> Small charges for some services (€5-7 for GP visits)</li>
+                    <li><strong>Emergency:</strong> 112; SNS 24 (808 24 24 24) for health advice</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Key Points Across All Systems:</strong>
+                    <ul>
+                        <li>European Health Insurance Card (EHIC) provides temporary coverage for EU visitors</li>
+                        <li>Private healthcare available as alternative; often faster for specialists</li>
+                        <li>Prescription costs vary; reimbursement rates differ by medication type</li>
+                        <li>Dental and optical care often not fully covered; expect to pay</li>
+                    </ul>
+                </div>
+                
+                <h3>Prescriptions and Pharmacies</h3>
+                <ul>
+                    <li><strong>Prescription required:</strong> For all but basic medications</li>
+                    <li><strong>Generic substitution:</strong> Pharmacists may offer cheaper generics</li>
+                    <li><strong>Reimbursement rates:</strong> Vary by medication type (35%-100%)</li>
+                    <li><strong>Chronic conditions:</strong> Long-term prescriptions available; often 100% reimbursed</li>
+                </ul>
+                
+                <h3>Mental Health</h3>
+                <ul>
+                    <li>Available through public systems but waiting times can be long</li>
+                    <li>Private psychologists and psychiatrists more accessible</li>
+                    <li>Growing acceptance but still some stigma around mental health care</li>
+                    <li>Employee assistance programs increasingly common</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Build relationship with your pharmacist. They're knowledgeable healthcare professionals who can advise on minor ailments, saving you a doctor visit.
+                </div>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in the Mediterranean 📋",
+            content: `
+                <h3>Bureaucracy and Administration</h3>
+                <p>Mediterranean bureaucracy has a reputation for complexity. Systems are paper-heavy, require patience, and vary significantly by country and even region. Digital services are improving but not universal.</p>
+                
+                <div class="warning">
+                    <strong>Reality Check:</strong> Mediterranean bureaucracy can be frustrating. Multiple visits to offices, conflicting information, and long waits are common. Patience, persistence, and keeping all documents organized are essential. Consider it a marathon, not a sprint!
+                </div>
+                
+                <h3>France: Prefecture and Essential Services</h3>
+                
+                <h4>Key Registration Steps:</h4>
+                <ul>
+                    <li><strong>Titre de séjour (residence permit):</strong> Non-EU citizens must apply at préfecture within 2 months of arrival</li>
+                    <li><strong>Carte de séjour:</strong> EU citizens can request (though not obligatory post-Brexit for Brits)</li>
+                    <li><strong>Social security:</strong> Register with CPAM (Caisse Primaire d'Assurance Maladie)</li>
+                    <li><strong>Numéro de sécurité sociale:</strong> Essential ID number for all administrative matters</li>
+                    <li><strong>Tax registration:</strong> Declare residence to tax office (centre des impôts)</li>
+                </ul>
+                
+                <h4>Essential Numbers:</h4>
+                <ul>
+                    <li><strong>NIR (Numéro d'Inscription au Répertoire):</strong> Your social security number - needed for everything</li>
+                    <li><strong>Numéro fiscal:</strong> Tax identification number</li>
+                </ul>
+                
+                <h4>Banking:</h4>
+                <ul>
+                    <li>Proof of residence required (attestation d'hébergement if staying with someone)</li>
+                    <li>French banks prefer French income/employment</li>
+                    <li>Online banks (Boursorama, N26) sometimes easier for newcomers</li>
+                </ul>
+                
+                <h3>Italy: Permesso and Residency</h3>
+                
+                <h4>Key Steps:</h4>
+                <ul>
+                    <li><strong>Permesso di soggiorno:</strong> Non-EU residents must apply within 8 days at Questura (police)</li>
+                    <li><strong>Codice fiscale:</strong> Tax code - get this first at Agenzia delle Entrate; needed for everything</li>
+                    <li><strong>Residenza:</strong> Register residence at local Anagrafe (registry office)</li>
+                    <li><strong>Carta d'identità:</strong> ID card issued after residency registration</li>
+                    <li><strong>Tessera sanitaria:</strong> Health card from ASL</li>
+                </ul>
+                
+                <h4>The Italian Queue:</h4>
+                <ul>
+                    <li>Take a number (biglietto) at offices</li>
+                    <li>Arrive early - offices have limited capacity</li>
+                    <li>Bring all original documents plus photocopies</li>
+                    <li>"Marca da bollo" (tax stamp) often required for applications</li>
+                </ul>
+                
+                <h3>Spain: NIE and Empadronamiento</h3>
+                
+                <h4>Key Steps:</h4>
+                <ul>
+                    <li><strong>NIE (Número de Identidad de Extranjero):</strong> Foreigner ID number - priority #1</li>
+                    <li><strong>Empadronamiento:</strong> Register residence at local Ayuntamiento (town hall)</li>
+                    <li><strong>TIE (Tarjeta de Identidad de Extranjero):</strong> Physical ID card for non-EU residents</li>
+                    <li><strong>Certificado digital:</strong> Digital certificate for online government services</li>
+                    <li><strong>Social security number:</strong> Assigned upon employment</li>
+                </ul>
+                
+                <h4>Cita Previa:</h4>
+                <ul>
+                    <li>Appointment system for most government offices</li>
+                    <li>Book online weeks in advance (appointments scarce)</li>
+                    <li>Check daily for cancellations - persistence pays off</li>
+                </ul>
+                
+                <h3>Portugal: NIF and Residence</h3>
+                <ul>
+                    <li><strong>NIF (Número de Identificação Fiscal):</strong> Tax number - essential for everything</li>
+                    <li><strong>Residence permit:</strong> Apply at SEF (immigration service) if non-EU</li>
+                    <li><strong>Morada fiscal:</strong> Fiscal residence address registration</li>
+                    <li><strong>Certificado de residência:</strong> Residence certificate for EU citizens</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Universal Tips for Mediterranean Bureaucracy:</strong>
+                    <ul>
+                        <li><strong>Documents:</strong> Always bring originals + photocopies; passport-sized photos often needed</li>
+                        <li><strong>Translations:</strong> Official translations may be required for foreign documents</li>
+                        <li><strong>Apostilles:</strong> Foreign official documents need apostille for recognition</li>
+                        <li><strong>Patience:</strong> Multi-hour waits are normal; bring a book!</li>
+                        <li><strong>Conflicting info:</strong> Different officials may give different answers; document everything</li>
+                        <li><strong>Receipts:</strong> Keep all receipts, application proofs, and correspondence</li>
+                        <li><strong>Local help:</strong> Having a native speaker assist is invaluable</li>
+                    </ul>
+                </div>
+                
+                <h3>Taxes</h3>
+                <ul>
+                    <li><strong>Income tax:</strong> Progressive rates; annual declarations required</li>
+                    <li><strong>Employer withholding:</strong> Taxes deducted from salary but annual declaration still needed</li>
+                    <li><strong>Tax residence:</strong> Established by spending more than 183 days/year in country</li>
+                    <li><strong>Deductions:</strong> Vary by country - healthcare, education, mortgage interest, etc.</li>
+                    <li><strong>Help available:</strong> Tax advisors (commercialisti in Italy, gestores in Spain) assist with filings</li>
+                </ul>
+                
+                <h3>Driving</h3>
+                <ul>
+                    <li><strong>License exchange:</strong> EU licenses valid; non-EU must exchange within 6-12 months</li>
+                    <li><strong>Vehicle registration:</strong> Complex process if importing car</li>
+                    <li><strong>Insurance mandatory:</strong> At minimum third-party liability</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Join expat forums for your city. Others share current process updates, recommended officials, and navigate bureaucracy together. Crowd-sourced knowledge is gold!
+                </div>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in the Mediterranean 📚",
+            content: `
+                <h3>Education Philosophy</h3>
+                <p>Mediterranean education systems emphasize academic knowledge, respect for teachers, and traditional learning methods. Systems are centralized with national curricula, though regional variations exist. Education is free and compulsory through secondary level.</p>
+                
+                <h3>School System Structure</h3>
+                
+                <h4>Early Childhood (3-6 years):</h4>
+                <ul>
+                    <li><strong>France:</strong> École maternelle (preschool) - free, optional but nearly universal attendance</li>
+                    <li><strong>Italy:</strong> Scuola dell'infanzia - optional but widely attended</li>
+                    <li><strong>Spain:</strong> Educación infantil - optional; public, private, and concertado (semi-private) options</li>
+                    <li><strong>Portugal:</strong> Educação pré-escolar - free and optional</li>
+                    <li>Focus on socialization, play-based learning, and school readiness</li>
+                </ul>
+                
+                <h4>Primary School (6-11/12 years):</h4>
+                <ul>
+                    <li><strong>Compulsory and free:</strong> All countries provide free primary education</li>
+                    <li><strong>France:</strong> École élémentaire (5 years, ages 6-11)</li>
+                    <li><strong>Italy:</strong> Scuola primaria (5 years, ages 6-11)</li>
+                    <li><strong>Spain:</strong> Educación primaria (6 years, ages 6-12)</li>
+                    <li><strong>Portugal:</strong> Ensino básico (1º ciclo: 4 years)</li>
+                    <li>Academic focus begins early; reading, writing, math, and general knowledge</li>
+                </ul>
+                
+                <h4>Secondary School (12-18 years):</h4>
+                <ul>
+                    <li><strong>Lower secondary:</strong> Collège (France), scuola media (Italy), ESO (Spain), 2º & 3º ciclos (Portugal)</li>
+                    <li><strong>Upper secondary:</strong> Lycée (France), scuola superiore (Italy), Bachillerato (Spain), Secundário (Portugal)</li>
+                    <li><strong>Academic or vocational tracks:</strong> Students choose paths around age 14-16</li>
+                    <li><strong>National exams:</strong> Baccalauréat (France), Esame di Stato (Italy), Selectividad (Spain) determine university entrance</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>School Culture:</strong>
+                    <ul>
+                        <li><strong>Respect for teachers:</strong> Authority figures; vouvoyer/lei/usted used</li>
+                        <li><strong>Formal environment:</strong> More structured than Northern European schools</li>
+                        <li><strong>Homework substantial:</strong> Expect significant homework from primary school onward</li>
+                        <li><strong>Lunch breaks:</strong> Often 1.5-2 hours; students may go home (especially in Spain)</li>
+                        <li><strong>No uniforms:</strong> Generally not required in public schools</li>
+                        <li><strong>Repetition possible:</strong> Students may repeat grades if performance insufficient</li>
+                    </ul>
+                </div>
+                
+                <h3>School Schedule</h3>
+                <h4>France:</h4>
+                <ul>
+                    <li>Monday-Friday, typically 8:30 AM - 4:30 PM</li>
+                    <li>Wednesday afternoons often free (varies)</li>
+                    <li>Long lunch break (1.5-2 hours); canteen or home</li>
+                </ul>
+                
+                <h4>Italy:</h4>
+                <ul>
+                    <li>Varies: 8:00 AM - 1:00/1:30 PM (morning only) OR full day with lunch</li>
+                    <li>Saturday mornings sometimes included</li>
+                </ul>
+                
+                <h4>Spain:</h4>
+                <ul>
+                    <li>Two shifts common: 9 AM - 2 PM (mornings) or 9 AM - 5 PM (with lunch break)</li>
+                    <li>Lunch 2-4 PM (main meal of day)</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public (scuola pubblica/école publique):</strong> Free, secular, follows national curriculum</li>
+                    <li><strong>Private (privé/privato):</strong> Tuition fees; often religious; can offer different curricula</li>
+                    <li><strong>Spain's "concertado":</strong> Semi-private schools - state-funded but privately run</li>
+                    <li><strong>International schools:</strong> Available in major cities; expensive; often teach in English</li>
+                </ul>
+                
+                <h3>University and Higher Education</h3>
+                <ul>
+                    <li><strong>Free or low-cost:</strong> Public universities charge minimal fees (€170-€600/year typically)</li>
+                    <li><strong>Competitive entrance:</strong> Based on secondary school exam results</li>
+                    <li><strong>Bologna Process:</strong> Three-cycle system (Bachelor 3 years, Master 2 years, Doctorate 3+ years)</li>
+                    <li><strong>Grandes Écoles (France):</strong> Elite institutions separate from university system; highly competitive</li>
+                    <li><strong>Teaching style:</strong> Lecture-based; less interactive than Anglo systems; independent study expected</li>
+                    <li><strong>Language:</strong> Most undergraduate programs in national language; some English-taught masters</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings (conseils de classe) twice yearly</li>
+                    <li>Carnet de liaison/diario (communication notebook) between school and parents</li>
+                    <li>Parents less involved in classroom compared to some countries</li>
+                    <li>School councils include parent representatives</li>
+                </ul>
+                
+                <h3>Support for Foreign Students</h3>
+                <ul>
+                    <li><strong>Language support:</strong> FLE classes (French), italiano L2 (Italy), Spanish as second language</li>
+                    <li><strong>Integration programs:</strong> Vary by school and region</li>
+                    <li><strong>Credential evaluation:</strong> Foreign qualifications assessed for appropriate grade placement</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> July-August (2 months)</li>
+                    <li><strong>Christmas:</strong> 2 weeks</li>
+                    <li><strong>Spring:</strong> 2 weeks (Easter/Pâques/Pasqua)</li>
+                    <li><strong>Additional breaks:</strong> Toussaint (All Saints), Carnival (varies)</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> School supplies (fournitures scolaires) are specified by teachers at start of year. Lists can be extensive - specific notebook types, colors, etc. Budget for this and shop early!
+                </div>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in the Mediterranean 🤝",
+            content: `
+                <h3>Religious Landscape</h3>
+                <p>The Mediterranean is historically Catholic/Christian, and religious heritage deeply influences culture, holidays, and architecture. However, secularization varies: France is highly secular (laïcité), while Italy remains culturally Catholic. Religious diversity is growing.</p>
+                
+                <h3>Predominant Faith: Catholicism</h3>
+                <ul>
+                    <li><strong>Italy:</strong> Historically the heart of Catholicism; Vatican City in Rome</li>
+                    <li><strong>Cultural influence strong:</strong> Even non-practicing Italians often identify as Catholic</li>
+                    <li><strong>Church attendance declining:</strong> Particularly among youth, except for holidays and lifecycle events</li>
+                    <li><strong>Spain and Portugal:</strong> Similar patterns - historically Catholic, increasingly secular</li>
+                    <li><strong>France:</strong> Historically Catholic but strictly secular state (laïcité) since 1905</li>
+                </ul>
+                
+                <h3>France: Laïcité (Secularism)</h3>
+                <p>France practices strict separation of church and state:</p>
+                <ul>
+                    <li><strong>Laïcité principle:</strong> Religion is private matter; state institutions are secular</li>
+                    <li><strong>Public schools secular:</strong> No religious instruction or symbols (including for students)</li>
+                    <li><strong>Headscarf debate:</strong> Religious headcoverings banned in schools; full face veils banned in public</li>
+                    <li><strong>Religion rarely discussed:</strong> Considered private; inappropriate in professional/public contexts</li>
+                    <li><strong>Church attendance low:</strong> Only ~5% attend mass regularly</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Laïcité Expectations:</strong> In France particularly, keep religious practice private. Proselytizing is inappropriate. Public displays of religiosity (wearing prominent religious symbols, public prayer) can face social disapproval. Religion and politics are strictly separated.
+                </div>
+                
+                <h3>Religious Diversity</h3>
+                <ul>
+                    <li><strong>Islam:</strong> Second largest religion in France, Spain; growing in Italy and Portugal</li>
+                    <li><strong>Judaism:</strong> Significant communities especially in France</li>
+                    <li><strong>Protestantism:</strong> Minority but present, especially in France</li>
+                    <li><strong>Orthodoxy:</strong> Growing with immigration from Eastern Europe</li>
+                    <li><strong>Buddhism, Hinduism:</strong> Smaller communities in urban areas</li>
+                    <li><strong>Non-religious:</strong> Growing, especially among young people</li>
+                </ul>
+                
+                <h3>Religious Freedom and Practice</h3>
+                <ul>
+                    <li><strong>Freedom guaranteed:</strong> You can practice any faith or none</li>
+                    <li><strong>Places of worship:</strong> Churches ubiquitous; mosques in cities; synagogues in larger communities</li>
+                    <li><strong>Halal/Kosher:</strong> Increasingly available in cities; less so in rural areas</li>
+                    <li><strong>Religious clothing:</strong> Generally acceptable except where secular laws apply (French schools, public service)</li>
+                </ul>
+                
+                <h3>Catholic Cultural Heritage</h3>
+                <p>Even in secular contexts, Catholic traditions influence culture:</p>
+                <ul>
+                    <li><strong>Public holidays:</strong> Christmas, Easter, Assumption (Aug 15), All Saints (Nov 1) are national holidays</li>
+                    <li><strong>First Communion:</strong> Still celebrated as major family event even by non-practicing families</li>
+                    <li><strong>Church weddings:</strong> Traditional even for non-religious couples</li>
+                    <li><strong>Saints' days:</strong> Some people celebrate name days (especially in Catholic regions)</li>
+                    <li><strong>Churches as landmarks:</strong> Central to towns; visiting them is cultural tourism</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Visiting Churches:</strong> Even if not religious, visit churches as cultural sites. Dress modestly (cover shoulders and knees), remove hats, keep voices low. No photos during services. Free entry but donations appreciated.
+                </div>
+                
+                <h3>Religious Holidays and Observances</h3>
+                <ul>
+                    <li><strong>Christmas (Noël/Natale):</strong> Major holiday; religious services + secular celebrations</li>
+                    <li><strong>Easter (Pâques/Pasqua):</strong> Holy Week important in Spain and Italy; processions common</li>
+                    <li><strong>Assumption:</strong> August 15 - major holiday, especially Italy</li>
+                    <li><strong>All Saints' Day:</strong> November 1 - visiting family graves traditional</li>
+                    <li><strong>Local saint festivals:</strong> Patron saints celebrated regionally (e.g., San Fermín in Pamplona)</li>
+                </ul>
+                
+                <h3>Muslim Community</h3>
+                <ul>
+                    <li>Mosques available in cities</li>
+                    <li>Friday prayer accommodations vary by employer</li>
+                    <li>Ramadan: fasting respected but not publicly accommodated (no adjusted work hours typically)</li>
+                    <li>Halal food: increasingly available in supermarkets and restaurants</li>
+                    <li>Hijab: legal in most contexts (except French schools/some public service)</li>
+                </ul>
+                
+                <h3>Jewish Community</h3>
+                <ul>
+                    <li>Synagogues in major cities (especially France - largest Jewish population in Western Europe)</li>
+                    <li>Kosher food available in Jewish neighborhoods</li>
+                    <li>Some public awareness of Jewish holidays</li>
+                    <li>Security presence at synagogues due to past attacks</li>
+                </ul>
+                
+                <h3>Workplace and School</h3>
+                <ul>
+                    <li><strong>Religious holidays:</strong> Christian holidays are public; others may request leave</li>
+                    <li><strong>Accommodations:</strong> Vary by employer; legal protections exist against discrimination</li>
+                    <li><strong>Prayer space:</strong> Not typically provided except in some large companies</li>
+                    <li><strong>Food:</strong> Company cafeterias may offer vegetarian but rarely halal/kosher options</li>
+                    <li><strong>School:</strong> Public schools secular (especially France); religious education at home or through community</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Social Sensitivity:</strong> Mediterranean societies have complex relationships with religion. Historical Catholicism meets modern secularism meets growing diversity. Be respectful of all faiths but understand that strong religious expression, especially evangelical or fundamentalist, can make people uncomfortable. Moderate, private practice is the social norm.
+                </div>
+                
+                <h3>Finding Community</h3>
+                <ul>
+                    <li>Search online for places of worship in your area</li>
+                    <li>Religious communities often provide social networks and support</li>
+                    <li>Cultural centers may be linked to religious communities</li>
+                    <li>International churches often conduct services in English</li>
+                </ul>
+            `
         }
     },
     scandinavia: {
