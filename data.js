@@ -7314,6 +7314,514 @@ const culturalData = {
                     <li>Respect for nature (jokamiehen oikeus - everyman's right)</li>
                 </ul>
             `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare System in Finland 💊",
+            content: `
+                <h3>Finnish Healthcare System</h3>
+                <p>Finland provides universal healthcare through municipalities. The system emphasizes prevention and primary care. Quality is excellent but non-urgent specialist care can involve waiting times.</p>
+                
+                <h3>Registration and Access</h3>
+                <ul>
+                    <li><strong>Municipality registration:</strong> Register residence to access healthcare</li>
+                    <li><strong>Kela (Social Insurance Institution):</strong> Handles health insurance and reimbursements</li>
+                    <li><strong>European Health Insurance Card:</strong> EU citizens have temporary coverage; register for permanent residence</li>
+                    <li><strong>Personal identity code (henkilötunnus):</strong> Essential for all healthcare access</li>
+                </ul>
+                
+                <h3>Primary Healthcare (Terveyskeskus)</h3>
+                <ul>
+                    <li><strong>Health centers:</strong> First point of contact; run by municipalities</li>
+                    <li><strong>GP appointments:</strong> Book through health center; may be waiting time</li>
+                    <li><strong>Nurse-led care:</strong> Nurses handle many routine issues</li>
+                    <li><strong>Phone consultations:</strong> Often first step; advice given over phone</li>
+                    <li><strong>Digital services:</strong> OmaOlo and similar platforms for symptom checking</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Appointment Booking:</strong> Call health center early in morning for appointments. Digital booking increasingly available. For urgent issues, explain clearly - triage nurses assess priority. Non-urgent issues may have longer waits.
+                </div>
+                
+                <h3>Costs</h3>
+                <ul>
+                    <li><strong>GP visit:</strong> Around €20-30 (varies by municipality)</li>
+                    <li><strong>Specialist visit:</strong> Around €40-50</li>
+                    <li><strong>Annual cap:</strong> After spending around €683/year, care becomes free (healthcare ceiling)</li>
+                    <li><strong>Children:</strong> Under 18 often free or heavily subsidized</li>
+                </ul>
+                
+                <h3>Specialist Care</h3>
+                <ul>
+                    <li><strong>Referral required:</strong> GP must refer to specialist</li>
+                    <li><strong>Waiting times:</strong> Can be significant for non-urgent care (weeks to months)</li>
+                    <li><strong>Hospital districts:</strong> Specialized hospitals serve regions</li>
+                    <li><strong>Quality excellent:</strong> Care is high-quality once accessed</li>
+                </ul>
+                
+                <h3>Emergency Care</h3>
+                <ul>
+                    <li><strong>112:</strong> Emergency number for ambulance, police, fire</li>
+                    <li><strong>Päivystys:</strong> Emergency department at hospitals; 24/7</li>
+                    <li><strong>Triage system:</strong> Assessed by urgency; non-urgent may wait hours</li>
+                    <li><strong>Costs:</strong> Emergency visit around €30-40</li>
+                </ul>
+                
+                <h3>Private Healthcare</h3>
+                <ul>
+                    <li><strong>Occupational health:</strong> Many employers provide private healthcare access</li>
+                    <li><strong>Private clinics:</strong> Faster appointments; Terveystalo, Mehiläinen are major providers</li>
+                    <li><strong>Kela reimbursements:</strong> Partial reimbursement even for private care</li>
+                    <li><strong>Costs higher:</strong> €80-150 for private GP visit</li>
+                </ul>
+                
+                <h3>Prescriptions and Pharmacies (Apteekki)</h3>
+                <ul>
+                    <li><strong>E-prescriptions:</strong> Sent electronically to all pharmacies</li>
+                    <li><strong>Green cross sign:</strong> Pharmacies are easily identified</li>
+                    <li><strong>Reimbursements:</strong> Kela reimburses 40-100% depending on medication</li>
+                    <li><strong>Chronic conditions:</strong> Special reimbursement rates (65-100%)</li>
+                    <li><strong>Prescription required:</strong> For almost all medications (stricter than many countries)</li>
+                </ul>
+                
+                <h3>Dental Care</h3>
+                <ul>
+                    <li><strong>Public dental:</strong> Available through health centers; waiting times common</li>
+                    <li><strong>Emergency dental:</strong> Available for acute problems</li>
+                    <li><strong>Private dentists:</strong> Most adults use private care; expensive</li>
+                    <li><strong>Children:</strong> Free dental care up to age 18</li>
+                </ul>
+                
+                <h3>Mental Health Services</h3>
+                <ul>
+                    <li>Available through health centers (GP referral)</li>
+                    <li>Specialized psychiatric services for more complex issues</li>
+                    <li>Crisis helplines available (Mieli Mental Health Finland)</li>
+                    <li>Private psychologists widely available</li>
+                    <li>Strong emphasis on preventive mental health</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Finland has excellent maternal and child health services. Neuvola (maternity and child health clinics) provide comprehensive free care for pregnant women and children up to school age. They're proactive and supportive!
+                </div>
+                
+                <h3>Unique Aspects</h3>
+                <ul>
+                    <li><strong>Baby box:</strong> All expectant parents receive free maternity package (or cash grant)</li>
+                    <li><strong>Preventive focus:</strong> Regular health checks, screenings emphasized</li>
+                    <li><strong>Digital health:</strong> Kanta services - electronic health records accessible to you</li>
+                    <li><strong>Sami healthcare:</strong> Special provisions for indigenous Sami population in Lapland</li>
+                </ul>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in Finland 📋",
+            content: `
+                <h3>Finnish Administration</h3>
+                <p>Finnish bureaucracy is efficient, digitized, and relatively straightforward - among Europe's best. Most services available online. English often spoken in offices. Systems work well once you understand them.</p>
+                
+                <div class="tip">
+                    <strong>Good News:</strong> Finnish bureaucracy is user-friendly compared to most countries. Digital services work well. Information is clear. Officials are helpful. Once you have your identity code, most things can be done online.
+                </div>
+                
+                <h3>Essential First Steps</h3>
+                
+                <h4>Upon Arrival (Priority Order):</h4>
+                <ul>
+                    <li><strong>1. Register residence:</strong> At local Digital and Population Data Services Agency (DVV/Maistraatti)</li>
+                    <li><strong>2. Get henkilötunnus:</strong> Personal identity code - essential for EVERYTHING</li>
+                    <li><strong>3. Register with Kela:</strong> Social insurance for healthcare, benefits</li>
+                    <li><strong>4. Open bank account:</strong> Requires identity code</li>
+                    <li><strong>5. Register for tax:</strong> Usually automatic but verify with Tax Administration</li>
+                </ul>
+                
+                <h3>Henkilötunnus (Personal Identity Code)</h3>
+                <p>This is the KEY to everything in Finland:</p>
+                <ul>
+                    <li>Format: DDMMYY-XXXC (birth date + personal identifier + check digit)</li>
+                    <li>Needed for: banking, healthcare, employment, housing, phone contracts, gym membership - literally everything</li>
+                    <li>Obtained when registering residence</li>
+                    <li>Temporary residents may get temporary code</li>
+                </ul>
+                
+                <h3>Key Government Services</h3>
+                
+                <h4>DVV (Digital and Population Data Services):</h4>
+                <ul>
+                    <li>Population register, identity codes, name changes, citizenship</li>
+                    <li>Local offices (Maistraatti) in all cities</li>
+                    <li>Much can be done online at dvv.fi</li>
+                </ul>
+                
+                <h4>Kela (Social Insurance Institution):</h4>
+                <ul>
+                    <li>Health insurance, parental benefits, unemployment, pensions, student aid</li>
+                    <li>Register as soon as you have residence permit and address</li>
+                    <li>Comprehensive online services at kela.fi</li>
+                    <li>OmaKela - your personal online portal</li>
+                </ul>
+                
+                <h4>Vero (Tax Administration):</h4>
+                <ul>
+                    <li>Income tax, VAT, tax deductions</li>
+                    <li>MyTax (OmaVero) - online portal for all tax matters</li>
+                    <li>Pre-filled tax returns (easy to approve online)</li>
+                    <li>Tax card (verokortti) - employer withholds based on this</li>
+                </ul>
+                
+                <h3>Digital Services</h3>
+                <ul>
+                    <li><strong>Suomi.fi:</strong> Central government services portal</li>
+                    <li><strong>Bank authentication:</strong> Online banking credentials used to login to government services</li>
+                    <li><strong>Digital signatures:</strong> Legally binding via bank authentication</li>
+                    <li><strong>OmaKanta:</strong> Your health records online</li>
+                    <li><strong>Kela app:</strong> Access benefits and services</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Bank Authentication System:</strong> Finnish digital services use bank credentials for secure login. This is why getting a bank account early is crucial. Your online banking codes become your digital ID for government services!
+                </div>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li><strong>Identity code required:</strong> Must have henkilötunnus to open account</li>
+                    <li><strong>Major banks:</strong> Nordea, OP, Danske Bank, S-Pankki</li>
+                    <li><strong>Bank authentication:</strong> Online banking credentials used everywhere</li>
+                    <li><strong>Cashless society:</strong> Cards and mobile payments dominant</li>
+                    <li><strong>Identification apps:</strong> Mobile banking app used for digital ID</li>
+                </ul>
+                
+                <h3>Employment and Work Permits</h3>
+                <ul>
+                    <li><strong>EU citizens:</strong> Right to work; just register residence</li>
+                    <li><strong>Non-EU:</strong> Work permit required (apply from home country or within Finland)</li>
+                    <li><strong>Tax number:</strong> Assigned automatically upon employment registration</li>
+                    <li><strong>Tax card:</strong> Request from tax office; give to employer</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Progressive system:</strong> 0-31.25% municipal + 0-31% state tax (total can reach ~50%+ for high earners)</li>
+                    <li><strong>Withheld at source:</strong> Employer deducts based on tax card</li>
+                    <li><strong>Pre-filled returns:</strong> Tax administration calculates; you review and approve</li>
+                    <li><strong>Deductions:</strong> Commuting, union fees, mortgage interest</li>
+                    <li><strong>Tax year:</strong> Calendar year; deadline spring following year</li>
+                </ul>
+                
+                <h3>Social Security</h3>
+                <ul>
+                    <li><strong>Comprehensive system:</strong> Unemployment, healthcare, pensions, family benefits</li>
+                    <li><strong>Kela benefits:</strong> Register to access (housing allowance, student aid, etc.)</li>
+                    <li><strong>Contributions:</strong> Through taxes and employer/employee payments</li>
+                    <li><strong>Unemployment:</strong> Register with TE-Toimisto (Employment Office)</li>
+                </ul>
+                
+                <h3>Housing Registration</h3>
+                <ul>
+                    <li>Must register address with DVV</li>
+                    <li>Notify within days of moving</li>
+                    <li>Landlords often require proof of income/employment</li>
+                    <li>Rental agreements straightforward; standard contracts</li>
+                </ul>
+                
+                <h3>Driving and Vehicles</h3>
+                <ul>
+                    <li><strong>License exchange:</strong> EU licenses valid; some non-EU can exchange</li>
+                    <li><strong>Vehicle registration:</strong> Traficom handles all traffic matters</li>
+                    <li><strong>Annual inspection:</strong> Required for older vehicles</li>
+                    <li><strong>Winter tires:</strong> Mandatory December-February</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Finland's administrative system rewards self-service. Learn to use online portals - they're efficient and available in English. If you need help, book appointment in advance. Walk-ins can mean long waits.
+                </div>
+                
+                <h3>Language Services</h3>
+                <ul>
+                    <li>Free Finnish language courses for immigrants</li>
+                    <li>Integration services for newly arrived</li>
+                    <li>Many government services available in Finnish, Swedish, and English</li>
+                    <li>Interpreters available for complex matters</li>
+                </ul>
+                
+                <h3>What Makes Finnish Bureaucracy Work</h3>
+                <ul>
+                    <li>High trust society - system assumes honesty</li>
+                    <li>Digital infrastructure excellent</li>
+                    <li>Clear rules, consistently applied</li>
+                    <li>Efficient processing times</li>
+                    <li>English widely available</li>
+                    <li>Helpful, professional officials</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in Finland 📚",
+            content: `
+                <h3>World-Renowned Education System</h3>
+                <p>Finland consistently ranks among the world's best education systems. Emphasis on equality, well-being, play-based learning (especially early years), and trust in teachers. No standardized testing until final year. Education is completely free from pre-primary through university.</p>
+                
+                <div class="important">
+                    <strong>Finnish Education Philosophy:</strong> Focus on child well-being over competition. Less homework, more play. No tracking by ability. Trust in professional teachers. The goal: lifelong learners who love learning, not test-takers.
+                </div>
+                
+                <h3>School Structure</h3>
+                
+                <h4>Early Childhood Education (1-6 years):</h4>
+                <ul>
+                    <li><strong>Päiväkoti (daycare):</strong> From 9 months; guaranteed right to subsidized care</li>
+                    <li><strong>Income-based fees:</strong> Maximum around €290/month, many pay less</li>
+                    <li><strong>Esiopetus (pre-primary):</strong> Age 6, free, optional but 98% attend</li>
+                    <li><strong>Play-based learning:</strong> Through age 7; less academic than many countries</li>
+                    <li><strong>Forest kindergartens:</strong> Outdoor education heavily emphasized</li>
+                </ul>
+                
+                <h4>Peruskoulu (Comprehensive School) - Ages 7-16:</h4>
+                <ul>
+                    <li><strong>9 years compulsory:</strong> Grades 1-9, completely free</li>
+                    <li><strong>No ability tracking:</strong> Mixed-ability classes; individual support as needed</li>
+                    <li><strong>Late start:</strong> School begins at age 7 (research shows benefits)</li>
+                    <li><strong>Short days:</strong> Shorter than most countries; max ~30 hours/week</li>
+                    <li><strong>Minimal homework:</strong> Especially early grades; less than 30 minutes/day initially</li>
+                    <li><strong>No standardized tests:</strong> Until final year; assessment is continuous</li>
+                    <li><strong>Recess every 45 minutes:</strong> 15-minute breaks between lessons (improves concentration)</li>
+                </ul>
+                
+                <h4>Upper Secondary (Lukio/Ammattiopisto) - Ages 16-19:</h4>
+                <ul>
+                    <li><strong>Optional but 95%+ continue:</strong> Two tracks equally valued</li>
+                    <li><strong>Lukio (general/academic):</strong> Prepares for university; 3 years</li>
+                    <li><strong>Ammattiopisto (vocational):</strong> Practical skills; 3 years; highly respected</li>
+                    <li><strong>Free education:</strong> Tuition, books, meals all free</li>
+                    <li><strong>Matriculation exam:</strong> Ylioppilastutkinto for lukio students</li>
+                </ul>
+                
+                <h3>What Makes Finnish Schools Special</h3>
+                <ul>
+                    <li><strong>Teacher quality:</strong> Master's degree required; highly selective profession; trusted completely</li>
+                    <li><strong>Teacher autonomy:</strong> Teachers design own lessons within national framework</li>
+                    <li><strong>Small class sizes:</strong> Usually under 20 students</li>
+                    <li><strong>Individual support:</strong> Special education integrated; every child gets help needed</li>
+                    <li><strong>No competition:</strong> No rankings, minimal testing; focus on personal progress</li>
+                    <li><strong>Equality:</strong> All schools excellent; minimal private schools</li>
+                    <li><strong>Well-being focused:</strong> School nurse, psychologist, social worker available</li>
+                </ul>
+                
+                <h3>School Day</h3>
+                <ul>
+                    <li><strong>Hours:</strong> Typically 8-9 AM to 1-3 PM (younger children shorter days)</li>
+                    <li><strong>Free lunch:</strong> Hot, nutritious meal provided daily</li>
+                    <li><strong>Outdoor time:</strong> Even in -20°C; "no bad weather, only bad clothing"</li>
+                    <li><strong>Less structured:</strong> More autonomy, less rigid than many systems</li>
+                </ul>
+                
+                <h3>No School Uniforms, Minimal Formality</h3>
+                <ul>
+                    <li>Students call teachers by first name</li>
+                    <li>Relaxed atmosphere; comfort emphasized</li>
+                    <li>Shoes off indoors (Finnish custom)</li>
+                    <li>Students choose own seating in many classes</li>
+                </ul>
+                
+                <h3>Support Systems</h3>
+                <ul>
+                    <li><strong>Special education:</strong> ~30% receive some special support at some point</li>
+                    <li><strong>Three-tier support:</strong> General, intensified, special - escalating as needed</li>
+                    <li><strong>Inclusion:</strong> Students with needs integrated in regular classes when possible</li>
+                    <li><strong>Learning assistants:</strong> Support available in classroom</li>
+                    <li><strong>School welfare:</strong> Nurse, psychologist, social worker, counselor</li>
+                </ul>
+                
+                <h3>For Foreign Students</h3>
+                <ul>
+                    <li><strong>Preparatory education:</strong> Finnish language courses for immigrant children (one year)</li>
+                    <li><strong>Mother tongue instruction:</strong> Support for maintaining native language</li>
+                    <li><strong>Integration support:</strong> Schools experienced with multicultural students</li>
+                    <li><strong>English taught:</strong> From grade 1, so good foundation</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Don't expect homework battles. Finnish philosophy: childhood is for playing and being outside. Learning happens at school. Homework increases gradually but remains reasonable. Trust the system - it works!
+                </div>
+                
+                <h3>University Education</h3>
+                <ul>
+                    <li><strong>Completely free:</strong> No tuition for EU/EEA citizens (fees for non-EU)</li>
+                    <li><strong>Two types:</strong> Universities (research-focused) and UAS (universities of applied sciences)</li>
+                    <li><strong>Competitive entrance:</strong> Exams required for most programs</li>
+                    <li><strong>Student benefits:</strong> Study grant, housing allowance, student loan guarantee</li>
+                    <li><strong>English programs:</strong> Many master's programs taught in English</li>
+                    <li><strong>Quality:</strong> Excellent research universities (Helsinki, Aalto particularly strong)</li>
+                </ul>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Teachers are trusted professionals - less parent micromanagement</li>
+                    <li>Parent-teacher meetings twice yearly</li>
+                    <li>Wilma - digital platform for school communication</li>
+                    <li>Parents expected to support but not hover</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> June-mid-August (10 weeks)</li>
+                    <li><strong>Christmas:</strong> 2 weeks</li>
+                    <li><strong>Winter break:</strong> One week (ski holiday - hiihtoloma)</li>
+                    <li><strong>Autumn and spring:</strong> Short breaks</li>
+                </ul>
+                
+                <h3>Practical Considerations</h3>
+                <ul>
+                    <li><strong>School supplies minimal:</strong> Most provided by school</li>
+                    <li><strong>Outdoor clothing essential:</strong> Warm, waterproof gear for all-weather outdoor time</li>
+                    <li><strong>Dark winters:</strong> Schools adapted to seasonal light variation</li>
+                    <li><strong>After-school care:</strong> Available for working parents (iltapäiväkerho)</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in Finland 🤝",
+            content: `
+                <h3>Secular Society with Lutheran Heritage</h3>
+                <p>Finland is predominantly secular but with Evangelical Lutheran heritage. While majority are church members, active practice is low. Religion is considered private. Freedom of belief is complete, and society is tolerant of diverse faiths.</p>
+                
+                <h3>Religious Landscape</h3>
+                <ul>
+                    <li><strong>Evangelical Lutheran:</strong> ~67% members (declining) but only 2% attend weekly</li>
+                    <li><strong>Finnish Orthodox:</strong> ~1% (second national church)</li>
+                    <li><strong>Other religions:</strong> Small Muslim, Catholic, Jewish, Buddhist communities</li>
+                    <li><strong>Non-religious:</strong> ~30% and growing, especially among youth</li>
+                    <li><strong>Cultural Christianity:</strong> Many members for tradition, not active faith</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Church Membership vs. Practice:</strong> Most Finns are baptized Lutheran and maintain membership for lifecycle events (baptisms, confirmations, weddings, funerals) but are not religiously active. Church is cultural institution more than spiritual for many.
+                </div>
+                
+                <h3>Evangelical Lutheran Church of Finland</h3>
+                <ul>
+                    <li><strong>State church until 1869:</strong> Still "national church" with special status</li>
+                    <li><strong>Two official churches:</strong> Lutheran and Orthodox both have official status</li>
+                    <li><strong>Church tax:</strong> Members pay 1-2% church tax (can opt out by leaving church)</li>
+                    <li><strong>Property and funding:</strong> Owns significant property; receives tax funding</li>
+                    <li><strong>Social services:</strong> Runs charities, elderly care, some social services</li>
+                </ul>
+                
+                <h3>Religious Observance</h3>
+                <ul>
+                    <li><strong>Very low church attendance:</strong> Most don't attend except major holidays/lifecycle events</li>
+                    <li><strong>Christmas:</strong> Main religious/cultural holiday; churchgoing common on Christmas Eve</li>
+                    <li><strong>Easter:</strong> Observed but less religious emphasis than Central/Southern Europe</li>
+                    <li><strong>Confirmation:</strong> ~80% of youth still go through Lutheran confirmation (rippileiri) - often seen as cultural tradition/coming-of-age</li>
+                </ul>
+                
+                <h3>Church Tax and Membership</h3>
+                <ul>
+                    <li>Members of Lutheran or Orthodox Church pay church tax (1-2% of income)</li>
+                    <li>Can leave church (eroakirkosta.fi) to avoid tax - simple online process</li>
+                    <li>Leaving church doesn't affect civil rights or social standing</li>
+                    <li>Can rejoin later if desired</li>
+                    <li>Church weddings still possible even for non-members (with fee)</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Church Tax:</strong> When you register in Finland, you're asked about religious affiliation. If you join Lutheran/Orthodox Church, you pay church tax. You're not automatically enrolled - it's your choice. Consider whether church membership matters to you.
+                </div>
+                
+                <h3>Christian Holidays</h3>
+                <ul>
+                    <li><strong>Christmas (joulu):</strong> Major holiday; Christmas Eve most important (Dec 24)</li>
+                    <li><strong>Easter (pääsiäinen):</strong> Friday-Monday holiday; traditions include mämmi and painted eggs</li>
+                    <li><strong>Midsummer (juhannus):</strong> Secular but originally Christian (St. John); biggest holiday of year</li>
+                    <li><strong>All Saints:</strong> First Saturday of November; visiting graves traditional</li>
+                    <li><strong>Ascension Day:</strong> Thursday in May (public holiday)</li>
+                </ul>
+                
+                <h3>Other Religious Communities</h3>
+                
+                <h4>Islam:</h4>
+                <ul>
+                    <li>Growing community, mostly in larger cities (Helsinki, Turku, Tampere)</li>
+                    <li>Mosques and prayer spaces available</li>
+                    <li>Halal food increasingly available in supermarkets</li>
+                    <li>Integration generally good but some social tensions exist</li>
+                </ul>
+                
+                <h4>Judaism:</h4>
+                <ul>
+                    <li>Small community, mainly in Helsinki</li>
+                    <li>Synagogues in Helsinki and Turku</li>
+                    <li>Kosher food available</li>
+                    <li>Community well-established</li>
+                </ul>
+                
+                <h4>Catholicism:</h4>
+                <ul>
+                    <li>Small but growing (immigration)</li>
+                    <li>Churches in major cities</li>
+                    <li>International masses available</li>
+                </ul>
+                
+                <h3>Religious Freedom</h3>
+                <ul>
+                    <li>Complete freedom of religion guaranteed</li>
+                    <li>Right to practice any faith or none</li>
+                    <li>No discrimination based on religion (illegal)</li>
+                    <li>Building places of worship allowed</li>
+                    <li>Religious clothing permitted (no face-covering ban)</li>
+                </ul>
+                
+                <h3>Religion in Daily Life</h3>
+                <ul>
+                    <li><strong>Rarely discussed:</strong> Religion very private; not topic of conversation</li>
+                    <li><strong>Secularism strong:</strong> Religion separate from public life and politics</li>
+                    <li><strong>Schools:</strong> Optional religious education (Lutheran, Orthodox, or ethics for non-religious)</li>
+                    <li><strong>Workplace:</strong> Religion not discussed; accommodations for prayer if needed</li>
+                    <li><strong>Public holidays:</strong> Christian holidays but celebrated secularly by most</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Social Expectations:</strong> Keep faith private. Proselytizing is unwelcome. Strong religiosity can make Finns uncomfortable - they value quiet faith. Evangelical or fundamentalist expressions may face social disapproval. Moderate, personal practice is the norm.
+                </div>
+                
+                <h3>Nature as "Religion"</h3>
+                <p>Many Finns describe nature/forest as their "church":</p>
+                <ul>
+                    <li>Deep spiritual connection to nature and forests</li>
+                    <li>Sauna as spiritual/cleansing ritual</li>
+                    <li>Seasonal celebrations tied to nature more than religion</li>
+                    <li>Midsummer bonfires, berry picking, mushroom hunting - semi-spiritual traditions</li>
+                </ul>
+                
+                <h3>Sami Spirituality</h3>
+                <ul>
+                    <li>Indigenous Sami people in Lapland have traditional spiritual practices</li>
+                    <li>Shamanic traditions (noaidi)</li>
+                    <li>Sacred sites (sieidi)</li>
+                    <li>Most Sami also Lutheran but maintain cultural traditions</li>
+                    <li>Respect for Sami culture and sacred sites important</li>
+                </ul>
+                
+                <h3>Finding Religious Community</h3>
+                <ul>
+                    <li>Search online for places of worship in your area</li>
+                    <li>International churches offer services in various languages</li>
+                    <li>Helsinki has most diverse religious communities</li>
+                    <li>Smaller cities have fewer options but communities exist</li>
+                </ul>
+                
+                <h3>Church Architecture and Culture</h3>
+                <ul>
+                    <li>Beautiful Lutheran churches worth visiting as cultural sites</li>
+                    <li>Temppeliaukio Church (Rock Church) in Helsinki famous</li>
+                    <li>Orthodox churches in eastern Finland</li>
+                    <li>Open for visitors; modest dress appreciated</li>
+                    <li>Often used for concerts and cultural events</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> If you value religious community, actively seek it out. Finnish reserve means people won't reach out - you must take initiative. International churches and multicultural congregations often warmest welcome for newcomers.
+                </div>
+            `
         }
     },
     baltics: {
