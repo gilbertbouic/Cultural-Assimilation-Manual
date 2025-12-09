@@ -5671,6 +5671,250 @@ const culturalData = {
                     <li>International churches often conduct services in English</li>
                 </ul>
             `
+        },
+        teamOnboarding: {
+            title: "🏢 Module 9: Team Onboarding & Language Essentials 🌍",
+            content: `
+                <h2>Benvenuti! Bienvenue! ¡Bienvenidos! Bem-vindos! Welcome to Your Mediterranean Team Onboarding Guide! 🎉</h2>
+                <p>This comprehensive module helps international hires integrate successfully into Mediterranean (Italy 🇮🇹, France 🇫🇷, Spain 🇪🇸, Portugal 🇵🇹) workplace culture. Mediterranean work culture is characterized by <strong>relationship-building, formal respect, work-life balance, and social dining</strong>. Let's get you set up for success! 💼</p>
+
+                <h3>📋 Part 1: First Week Essentials - The Mediterranean Way</h3>
+                
+                <h4>🗓️ Before Day One:</h4>
+                <ul>
+                    <li><strong>Documentation prepared:</strong> Have all contracts, ID, and work permits ready - bureaucracy can be slow</li>
+                    <li><strong>Learn greetings:</strong> Master formal greetings in the local language - essential for respect</li>
+                    <li><strong>Plan commute:</strong> Allow extra time - public transport may be less punctual than Northern Europe</li>
+                    <li><strong>Dress formally:</strong> Mediterranean workplaces value appearance - dress well for first day</li>
+                    <li><strong>Research company culture:</strong> Family businesses and corporate culture differ significantly</li>
+                </ul>
+
+                <h4>📅 Day One - Formal Respect and Relationships:</h4>
+                <ul>
+                    <li><strong>Arrive on time:</strong> Punctuality appreciated even if not always strictly observed</li>
+                    <li><strong>Formal greetings:</strong> Use titles and surnames until invited to use first names</li>
+                    <li><strong>Handshakes or kisses:</strong> Handshakes for first meeting; cheek kisses may follow once familiar (2 in France/Spain, 2-3 in Italy)</li>
+                    <li><strong>Dress well:</strong> Good appearance shows respect - presentation matters</li>
+                    <li><strong>Lunch is sacred:</strong> Accept lunch invitations - relationships built over meals</li>
+                    <li><strong>Show interest in people:</strong> Ask about family, life - personal relationships matter</li>
+                    <li><strong>Flexible on hours:</strong> Work hours may start later and extend longer, especially in Spain</li>
+                </ul>
+
+                <h4>📆 First Week Goals:</h4>
+                <ul>
+                    <li><strong>Build relationships:</strong> Mediterranean business is personal - get to know colleagues</li>
+                    <li><strong>Understand hierarchy:</strong> More hierarchical than Northern Europe - respect seniority</li>
+                    <li><strong>Participate in meals:</strong> Lunch and coffee breaks are networking opportunities</li>
+                    <li><strong>Learn the culture:</strong> Each country has distinct characteristics - don't assume uniformity</li>
+                    <li><strong>Master greetings:</strong> Proper greetings in local language essential for integration</li>
+                    <li><strong>Be patient with process:</strong> Administrative processes may be slower - stay calm</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Relationships Come First</strong>
+                    <p>Mediterranean culture prioritizes relationships over rigid processes. Your first 90 days should focus on: building personal connections, showing respect for hierarchy, participating in social meals, learning local communication styles, and demonstrating loyalty to the team. Business happens through relationships, not just transactions.</p>
+                </div>
+
+                <h3>🗣️ Part 2: Mediterranean Workplace Communication Culture</h3>
+
+                <h4>🇮🇹🇫🇷🇪🇸🇵🇹 Understanding Mediterranean Communication:</h4>
+                <ul>
+                    <li><strong>More expressive:</strong> Animated gestures and emotional expression are normal</li>
+                    <li><strong>Formal respect:</strong> Use "Lei/Voi" (Italian), "Vous" (French), "Usted" (Spanish), "o Senhor/a Senhora" (Portuguese) until told otherwise</li>
+                    <li><strong>Indirect at times:</strong> Especially in France - criticism may be subtle</li>
+                    <li><strong>Passionate discussion:</strong> Debate is intellectual exercise, not conflict</li>
+                    <li><strong>Hierarchical communication:</strong> Respect chain of command in formal communications</li>
+                    <li><strong>Time is fluid:</strong> Meetings may start late and run over - especially in Southern regions</li>
+                    <li><strong>Personal connection:</strong> Small talk before business is essential, not wasted time</li>
+                </ul>
+
+                <h4>✉️ Email Etiquette:</h4>
+                <ul>
+                    <li><strong>Formal greetings:</strong> "Gentile/Egregio" (Italian), "Madame/Monsieur" (French), "Estimado/a" (Spanish), "Prezado/a" (Portuguese)</li>
+                    <li><strong>Respect titles:</strong> Use professional titles when known (Dr., Avv., etc.)</li>
+                    <li><strong>More elaborate:</strong> Mediterranean emails are often longer and more personal than Anglo-Saxon style</li>
+                    <li><strong>Polite phrases:</strong> Include courtesies - direct brevity can seem rude</li>
+                    <li><strong>Response time:</strong> May be slower, especially during lunch hours and August holidays</li>
+                    <li><strong>Formal sign-offs:</strong> "Cordiali saluti," "Cordialement," "Atentamente," "Cordialmente"</li>
+                </ul>
+
+                <h4>💬 Meeting Culture:</h4>
+                <ul>
+                    <li><strong>Flexible start times:</strong> 10-15 minutes late can be normal - stay patient</li>
+                    <li><strong>Hierarchical:</strong> Senior people speak first and have final word</li>
+                    <li><strong>Animated discussions:</strong> Passionate debate is healthy, not argumentative</li>
+                    <li><strong>Interruptions normal:</strong> Overlapping conversation shows engagement</li>
+                    <li><strong>Coffee essential:</strong> Meetings often happen over coffee or meals</li>
+                    <li><strong>Personal first:</strong> Start with personal chat before business</li>
+                    <li><strong>Long lunches:</strong> Business lunches can last 2+ hours - this is where decisions happen</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Communication Pitfalls to Avoid</strong>
+                    <ul>
+                        <li><strong>Over-familiarity:</strong> Don't use first names or informal "tu/tú" without invitation</li>
+                        <li><strong>Too direct:</strong> Blunt criticism without softening can offend</li>
+                        <li><strong>Rushing:</strong> Don't skip personal conversation to "get to business"</li>
+                        <li><strong>Skipping meals:</strong> Declining lunch invitations damages relationships</li>
+                        <li><strong>Email only:</strong> Important matters deserve face-to-face or phone discussion</li>
+                        <li><strong>Ignoring hierarchy:</strong> Bypassing chain of command causes problems</li>
+                    </ul>
+                </div>
+
+                <h3>🎯 Part 3: Essential Office Language Phrases</h3>
+
+                <h4>🌅 Greetings & Daily Interactions (Italian/French/Spanish/Portuguese):</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Buongiorno/Bonjour/Buenos días/Bom dia"</strong> - Good morning (use until afternoon)</li>
+                        <li><strong>"Buonasera/Bonsoir/Buenas tardes/Boa tarde"</strong> - Good afternoon/evening</li>
+                        <li><strong>"Come sta?/Comment allez-vous?/¿Cómo está?/Como está?"</strong> - How are you? (formal)</li>
+                        <li><strong>"Bene, grazie/Bien, merci/Bien, gracias/Bem, obrigado/a"</strong> - Well, thank you</li>
+                        <li><strong>"Arrivederci/Au revoir/Adiós/Adeus"</strong> - Goodbye (formal)</li>
+                        <li><strong>"Piacere/Enchanté/Encantado/a/Prazer"</strong> - Pleased to meet you</li>
+                    </ul>
+                </div>
+
+                <h4>☕ Coffee & Meal Culture:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Prendiamo un caffè?/On prend un café?/¿Tomamos un café?/Vamos tomar um café?"</strong> - Shall we have coffee?</li>
+                        <li><strong>"Andiamo a pranzo?/On déjeune ensemble?/¿Vamos a comer?/Vamos almoçar?"</strong> - Shall we have lunch together?</li>
+                        <li><strong>"Buon appetito!/Bon appétit!/¡Buen provecho!/Bom apetite!"</strong> - Enjoy your meal!</li>
+                        <li><strong>"È delizioso!/C'est délicieux!/¡Está delicioso!/Está delicioso!"</strong> - It's delicious!</li>
+                        <li><strong>Note:</strong> Meals are social events - never rush, always participate</li>
+                    </ul>
+                </div>
+
+                <h4>💼 Work Tasks & Requests:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Potrebbe aiutarmi?/Pourriez-vous m'aider?/¿Podría ayudarme?/Poderia ajudar-me?"</strong> - Could you help me? (formal)</li>
+                        <li><strong>"Grazie mille/Merci beaucoup/Muchas gracias/Muito obrigado/a"</strong> - Thank you very much</li>
+                        <li><strong>"Mi scusi/Excusez-moi/Disculpe/Desculpe"</strong> - Excuse me (formal)</li>
+                        <li><strong>"Non ho capito/Je n'ai pas compris/No he entendido/Não entendi"</strong> - I didn't understand</li>
+                        <li><strong>"Può ripetere?/Pouvez-vous répéter?/¿Puede repetir?/Pode repetir?"</strong> - Can you repeat?</li>
+                    </ul>
+                </div>
+
+                <h4>🤝 Meetings & Formal Situations:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Sono d'accordo/Je suis d'accord/Estoy de acuerdo/Concordo"</strong> - I agree</li>
+                        <li><strong>"Capisco il Suo punto/Je comprends votre point/Entiendo su punto/Entendo o seu ponto"</strong> - I understand your point</li>
+                        <li><strong>"Potremmo discuterne?/On pourrait en discuter?/¿Podríamos discutirlo?/Poderíamos discutir?"</strong> - Could we discuss this?</li>
+                        <li><strong>"Ottima idea!/Excellente idée!/¡Excelente idea!/Excelente ideia!"</strong> - Excellent idea!</li>
+                    </ul>
+                </div>
+
+                <h4>🎉 Social Phrases:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Buon fine settimana!/Bon week-end!/¡Buen fin de semana!/Bom fim de semana!"</strong> - Have a good weekend!</li>
+                        <li><strong>"Com'è andata la vacanza?/Comment se sont passées vos vacances?/¿Cómo fueron las vacaciones?/Como foram as férias?"</strong> - How was your vacation?</li>
+                        <li><strong>"Salute!/Santé!/¡Salud!/Saúde!"</strong> - Cheers!</li>
+                        <li><strong>"Congratulazioni!/Félicitations!/¡Felicitaciones!/Parabéns!"</strong> - Congratulations!</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>🗣️ Language Priority</strong>
+                    <p>Speaking the local language is highly valued in Mediterranean countries, especially in France. Even basic attempts show respect and help integration. Focus on mastering formal greetings first - using proper "Lei/Vous/Usted/o Senhor" forms is crucial for professional respect.</p>
+                </div>
+
+                <h3>🌍 Part 4: Building Relationships & Social Integration</h3>
+
+                <h4>🍽️ Dining Culture - The Heart of Mediterranean Business:</h4>
+                <ul>
+                    <li><strong>Long lunches:</strong> 1.5-2 hour lunches are normal - important for relationship building</li>
+                    <li><strong>Business over meals:</strong> More deals happen over meals than in conference rooms</li>
+                    <li><strong>Food appreciation:</strong> Show interest in cuisine - it's cultural pride</li>
+                    <li><strong>Wine with lunch:</strong> Often normal (except strict company policies) - moderate amounts</li>
+                    <li><strong>Dinner invitations:</strong> Accepting home dinner invitations builds deep relationships</li>
+                    <li><strong>Gift etiquette:</strong> Bring wine, dessert, or flowers when invited to homes</li>
+                </ul>
+
+                <h4>☕ Coffee Culture:</h4>
+                <ul>
+                    <li><strong>Multiple breaks:</strong> Coffee breaks throughout the day are social and professional</li>
+                    <li><strong>Stand at the bar:</strong> In Italy, espresso at the bar is quick and cheap</li>
+                    <li><strong>Café conversations:</strong> Important discussions often happen over coffee</li>
+                    <li><strong>After lunch espresso:</strong> Cappuccino only for breakfast; espresso after meals</li>
+                    <li><strong>Never rush:</strong> Even "quick" coffee has social component</li>
+                </ul>
+
+                <h4>🎯 Professional Relationships:</h4>
+                <ul>
+                    <li><strong>Personal connection first:</strong> Build personal rapport before expecting professional collaboration</li>
+                    <li><strong>Respect hierarchy:</strong> Show deference to senior colleagues and managers</li>
+                    <li><strong>Loyalty valued:</strong> Long-term commitment to company and colleagues is respected</li>
+                    <li><strong>Face-to-face:</strong> Important conversations should be in person, not just email</li>
+                    <li><strong>Family matters:</strong> Ask about family - Mediterranean culture is family-centric</li>
+                    <li><strong>Dress well always:</strong> Good presentation shows respect for colleagues</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🍷 Wine and Dining Etiquette</strong>
+                    <p>Food and wine are central to Mediterranean culture. Key rules: don't rush meals, appreciate quality ingredients, engage in food discussions, accept wine offers (or politely decline), never skip lunch invitations, and show interest in local cuisine. Your appreciation of food culture directly affects professional relationships.</p>
+                </div>
+
+                <h3>📚 Part 5: Understanding Mediterranean Work Culture</h3>
+
+                <h4>⏰ Time and Schedule:</h4>
+                <ul>
+                    <li><strong>Flexible punctuality:</strong> Meetings may start 10-15 minutes late - stay patient</li>
+                    <li><strong>Extended hours:</strong> Work day may start later (9-10 AM) and end later (6-8 PM)</li>
+                    <li><strong>Lunch break sacred:</strong> 1-2+ hour lunch breaks are normal, especially in Spain/Portugal</li>
+                    <li><strong>August closures:</strong> Many businesses close for 2-4 weeks in August - plan accordingly</li>
+                    <li><strong>Family time:</strong> Evenings and Sundays are family time - respect boundaries</li>
+                    <li><strong>Siesta tradition:</strong> Some areas still observe afternoon rest (less common in cities)</li>
+                </ul>
+
+                <h4>🎨 Workplace Aesthetics:</h4>
+                <ul>
+                    <li><strong>Appearance matters:</strong> Dress well, maintain good grooming, invest in quality clothes</li>
+                    <li><strong>Office aesthetics:</strong> Workspaces often more decorated and personal than Northern Europe</li>
+                    <li><strong>Style consciousness:</strong> Especially in Italy and France, fashion and style are noticed</li>
+                    <li><strong>Quality over quantity:</strong> Better to have few good items than many cheap ones</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 Your 90-Day Integration Roadmap</strong>
+                    <p><strong>Days 1-30:</strong> Focus on relationships - participate in lunches, learn formal greetings, observe hierarchy, ask about families, dress well, show food appreciation.</p>
+                    <p><strong>Days 31-60:</strong> Deepen connections - initiate coffee invitations, contribute in meetings respectfully, learn more language, understand company politics, build trust.</p>
+                    <p><strong>Days 61-90:</strong> Become part of the team - balance formal and friendly, navigate hierarchy naturally, participate in social events, demonstrate loyalty, communicate culturally.</p>
+                </div>
+
+                <h3>✅ Part 6: Success Checklist</h3>
+
+                <h4>🏆 You're Successfully Integrated When You Can:</h4>
+                <ul>
+                    <li>✅ Use formal greetings and titles naturally in local language</li>
+                    <li>✅ Participate comfortably in 2-hour business lunches</li>
+                    <li>✅ Navigate formal/informal address (Lei/tu, Vous/tu, etc.)</li>
+                    <li>✅ Build genuine personal relationships with colleagues</li>
+                    <li>✅ Understand and respect workplace hierarchy</li>
+                    <li>✅ Appreciate and discuss local cuisine knowledgeably</li>
+                    <li>✅ Handle flexible punctuality without frustration</li>
+                    <li>✅ Dress appropriately for Mediterranean office culture</li>
+                    <li>✅ Join animated discussions without seeing them as conflicts</li>
+                    <li>✅ Accept dinner/lunch invitations graciously</li>
+                    <li>✅ Balance professional and personal conversation naturally</li>
+                    <li>✅ Understand regional differences within Mediterranean</li>
+                    <li>✅ Show proper respect while building warmth</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💪 Remember: La Dolce Vita at Work</strong>
+                    <p>Mediterranean workplace culture balances professional achievement with quality of life. Don't mistake relationship-building for inefficiency - the personal connections you build are the foundation of professional success. Take time to enjoy meals, build real friendships, and appreciate the culture. Work is important, but so is living well! 🌟</p>
+                </div>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Successful team onboarding in the Mediterranean combines: <strong>respecting hierarchy and formality</strong> (titles, proper address, chain of command), <strong>building personal relationships</strong> (meals, coffee, family discussions), and <strong>appreciating cultural values</strong> (food, style, work-life balance). 🤝</p>
+                    <p>Focus on being both respectful and warm. Participate fully in social meals, learn the language, dress well, and build genuine friendships. Mediterranean colleagues value loyalty, personal connection, and shared enjoyment of life. Show these qualities, and you'll thrive! Benvenuti! 🇮🇹🇫🇷🇪🇸🇵🇹💼</p>
+                </div>
+            `
         }
     },
     scandinavia: {
@@ -6424,6 +6668,246 @@ const culturalData = {
                     <strong>Tip:</strong> If your faith is important to you, seek out communities early. They provide social networks and cultural connections, especially valuable during dark winter months.
                 </div>
             `
+        },
+        teamOnboarding: {
+            title: "🏢 Module 9: Team Onboarding & Language Essentials 🌍",
+            content: `
+                <h2>Välkommen! Welcome to Your Scandinavian Team Onboarding Guide! 🎉</h2>
+                <p>This comprehensive module helps international hires integrate successfully into Scandinavian (Sweden 🇸🇪, Norway 🇳🇴, Denmark 🇩🇰) workplace culture. Scandinavian work culture is characterized by <strong>flat hierarchies, consensus-building, work-life balance, and equality</strong>. Let's get you set up for success! 💼</p>
+
+                <h3>📋 Part 1: First Week Essentials - The Scandinavian Way</h3>
+                
+                <h4>🗓️ Before Day One:</h4>
+                <ul>
+                    <li><strong>Personal number first:</strong> Register and get your personnummer/personnummer/CPR-nummer immediately - you'll need it for everything</li>
+                    <li><strong>Bank account:</strong> Set up your account early - digital payments are essential in Scandinavia</li>
+                    <li><strong>Punctuality matters:</strong> Do a trial commute - being on time is important but not obsessive</li>
+                    <li><strong>Casual dress code:</strong> Scandinavian workplaces are typically casual - smart casual is usually appropriate</li>
+                    <li><strong>Learn basic phrases:</strong> Even if working in English, learn greetings in Swedish/Norwegian/Danish</li>
+                </ul>
+
+                <h4>📅 Day One - Equality and Simplicity:</h4>
+                <ul>
+                    <li><strong>Arrive on time:</strong> Exactly on time is perfect - neither early nor late</li>
+                    <li><strong>First-name basis:</strong> Everyone uses first names from day one, including the CEO</li>
+                    <li><strong>Handshakes all around:</strong> Firm handshakes, eye contact, smile</li>
+                    <li><strong>Fika participation:</strong> Accept coffee break invitations - this is where team bonding happens</li>
+                    <li><strong>Ask questions:</strong> Asking is valued; no one expects you to know everything</li>
+                    <li><strong>Lunch together:</strong> Join colleagues for lunch - important social time</li>
+                    <li><strong>Leave on time:</strong> Don't overstay - work-life balance is respected from day one</li>
+                </ul>
+
+                <h4>📆 First Week Goals:</h4>
+                <ul>
+                    <li><strong>Understand team structure:</strong> Learn who does what in the flat hierarchy</li>
+                    <li><strong>Participate in fika:</strong> Coffee breaks are social and professional networking opportunities</li>
+                    <li><strong>Set up digital tools:</strong> Get access to all systems - everything is digital</li>
+                    <li><strong>Schedule 1-on-1s:</strong> Book time with team members to learn their roles</li>
+                    <li><strong>Clarify expectations:</strong> Discuss goals with your manager as equals</li>
+                    <li><strong>Join social activities:</strong> After-work events are important but optional</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 The Lagom Principle</strong>
+                    <p>Scandinavian culture values "lagom" (not too much, not too little - just right). Apply this to work: don't overcommit, maintain balance, contribute your share but don't dominate. Your first 90 days should focus on: observing team dynamics, building equal relationships, delivering consistent work, and finding your work-life balance.</p>
+                </div>
+
+                <h3>🗣️ Part 2: Scandinavian Workplace Communication Culture</h3>
+
+                <h4>🇸🇪🇳🇴🇩🇰 Understanding Scandinavian Direct-but-Polite Communication:</h4>
+                <ul>
+                    <li><strong>Consensus-driven:</strong> Decisions are made through discussion and agreement, not top-down directives</li>
+                    <li><strong>Silence is normal:</strong> Pauses in conversation are thinking time, not awkwardness</li>
+                    <li><strong>Direct but kind:</strong> People speak honestly but without aggression</li>
+                    <li><strong>"That's interesting"</strong> = Usually genuine interest, unlike British indirectness</li>
+                    <li><strong>"We should discuss this"</strong> = Let's involve everyone in the decision</li>
+                    <li><strong>"I think differently"</strong> = Polite disagreement</li>
+                    <li><strong>"Let's take a fika break"</strong> = Important conversations often happen over coffee</li>
+                    <li><strong>Flat communication:</strong> Everyone's opinion matters equally regardless of position</li>
+                </ul>
+
+                <h4>✉️ Email Etiquette:</h4>
+                <ul>
+                    <li><strong>Greetings:</strong> "Hej/Hei" or "Hi" is standard - very informal compared to other regions</li>
+                    <li><strong>Subject lines:</strong> Clear and direct</li>
+                    <li><strong>Brevity valued:</strong> Keep emails concise and to the point</li>
+                    <li><strong>Tone:</strong> Friendly and direct, not overly formal</li>
+                    <li><strong>Response time:</strong> Within 24 hours, but work-life balance respected</li>
+                    <li><strong>Out of office:</strong> Always set OOO - vacation is sacred</li>
+                    <li><strong>Sign-offs:</strong> "Mvh/Hilsen" (Swedish/Norwegian), "Venlig hilsen" (Danish), or simple "Hej/Hei"</li>
+                </ul>
+
+                <h4>💬 Meeting Culture:</h4>
+                <ul>
+                    <li><strong>Punctuality:</strong> Start and end exactly on time - respect for everyone's time</li>
+                    <li><strong>Preparation:</strong> Review agenda - everyone should contribute</li>
+                    <li><strong>Equal participation:</strong> Everyone expected to share opinions regardless of rank</li>
+                    <li><strong>Consensus-seeking:</strong> Decisions made collectively; voting is rare</li>
+                    <li><strong>Silence welcomed:</strong> Long pauses for thinking are completely normal</li>
+                    <li><strong>Informal atmosphere:</strong> First names, casual tone, coffee during meetings</li>
+                    <li><strong>Action-oriented:</strong> Meetings should have clear outcomes and next steps</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Communication Pitfalls to Avoid</strong>
+                    <ul>
+                        <li><strong>Hierarchical behavior:</strong> Don't defer excessively to managers or act superior to juniors</li>
+                        <li><strong>Overly aggressive:</strong> Forceful arguing is seen as disrespectful, even if common elsewhere</li>
+                        <li><strong>Interrupting:</strong> Let people finish speaking; silence doesn't mean they're done</li>
+                        <li><strong>Bragging:</strong> Downplay achievements; humility is valued (Janteloven)</li>
+                        <li><strong>Skipping fika:</strong> Coffee breaks are crucial social and professional time</li>
+                    </ul>
+                </div>
+
+                <h3>🎯 Part 3: Essential Office Language Phrases</h3>
+
+                <h4>🌅 Greetings & Daily Interactions:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Hej!" (Swedish), "Hei!" (Norwegian), "Hej!" (Danish)</strong> - Hello (universal greeting)</li>
+                        <li><strong>"God morgon/morgen/morgen"</strong> - Good morning</li>
+                        <li><strong>"Hur mår du?/Hvordan går det?/Hvordan har du det?"</strong> - How are you?</li>
+                        <li><strong>"Bra, tack/takk/tak"</strong> - Good, thanks</li>
+                        <li><strong>"Hej då/Ha det/Hej hej"</strong> - Goodbye</li>
+                        <li><strong>"Vi ses!"</strong> - See you!</li>
+                    </ul>
+                </div>
+
+                <h4>☕ Fika Culture (Essential!):</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Ska vi fika?/Skal vi ha fika?/Skal vi have fika?"</strong> - Shall we have a coffee break?</li>
+                        <li><strong>"Kaffe eller te?"</strong> - Coffee or tea?</li>
+                        <li><strong>"Vill du ha en kaka?/Vil du ha en kake?/Vil du have en kage?"</strong> - Would you like a cookie/cake?</li>
+                        <li><strong>"Tack för fikat!"</strong> - Thanks for the coffee break!</li>
+                        <li><strong>Note:</strong> Fika is sacred - a social institution, not just a coffee break</li>
+                    </ul>
+                </div>
+
+                <h4>💼 Work Tasks & Requests:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Kan du hjälpa mig?/Kan du hjelpe meg?/Kan du hjælpe mig?"</strong> - Can you help me?</li>
+                        <li><strong>"Jag behöver hjälp med.../Jeg trenger hjelp med.../Jeg har brug for hjælp med..."</strong> - I need help with...</li>
+                        <li><strong>"Tack så mycket!/Tusen takk!/Mange tak!"</strong> - Thank you very much!</li>
+                        <li><strong>"Förlåt/Unnskyld/Undskyld"</strong> - Sorry/Excuse me</li>
+                        <li><strong>"Jag förstår/Jeg forstår/Jeg forstår"</strong> - I understand</li>
+                        <li><strong>"Kan du förklara det igen?/Kan du forklare igjen?/Kan du forklare det igen?"</strong> - Can you explain again?</li>
+                    </ul>
+                </div>
+
+                <h4>🤝 Meetings & Discussions:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Vad tycker ni?/Hva synes dere?/Hvad synes I?"</strong> - What do you think? (seeking consensus)</li>
+                        <li><strong>"Jag håller med/Jeg er enig/Jeg er enig"</strong> - I agree</li>
+                        <li><strong>"Jag ser det annorlunda/Jeg ser det annerledes/Jeg ser det anderledes"</strong> - I see it differently</li>
+                        <li><strong>"Kan vi diskutera detta mer?/Kan vi diskutere dette mer?/Kan vi diskutere dette mere?"</strong> - Can we discuss this more?</li>
+                        <li><strong>"Bra förslag!/Bra forslag!/Godt forslag!"</strong> - Good suggestion!</li>
+                    </ul>
+                </div>
+
+                <h4>🎉 Social & Informal:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Vad gör du i helgen?/Hva gjør du i helgen?/Hvad laver du i weekenden?"</strong> - What are you doing this weekend?</li>
+                        <li><strong>"Trevlig helg!/God helg!/God weekend!"</strong> - Have a nice weekend!</li>
+                        <li><strong>"Hur var semestern?/Hvordan var ferien?/Hvordan var ferien?"</strong> - How was your vacation?</li>
+                        <li><strong>"Ska vi gå ut efter jobbet?/Skal vi gå ut etter jobb?/Skal vi gå ud efter arbejde?"</strong> - Shall we go out after work?</li>
+                        <li><strong>"Skål!"</strong> - Cheers! (look in eyes when toasting!)</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>🗣️ Language Learning Tip</strong>
+                    <p>Scandinavians generally speak excellent English, but learning local phrases shows respect and helps integration. Start with fika phrases and greetings. Most colleagues will switch to English if you struggle, but they'll appreciate your effort to speak Swedish/Norwegian/Danish!</p>
+                </div>
+
+                <h3>🌍 Part 4: Building Relationships & Team Integration</h3>
+
+                <h4>☕ Fika Culture & Social Integration:</h4>
+                <ul>
+                    <li><strong>Never skip fika:</strong> Morning and afternoon coffee breaks are sacred team bonding time</li>
+                    <li><strong>Participate in lunch:</strong> Eating together is important; bring lunch or buy from canteen</li>
+                    <li><strong>After-work socializing:</strong> Optional but valuable for relationships (Afterwork/AW)</li>
+                    <li><strong>Equality in socializing:</strong> Junior and senior employees socialize as equals</li>
+                    <li><strong>Outdoor activities:</strong> Many teams do hiking, skiing, or outdoor activities together</li>
+                    <li><strong>Respectful distance:</strong> Scandinavians value personal space even in social settings</li>
+                </ul>
+
+                <h4>🎯 Professional Relationship Building:</h4>
+                <ul>
+                    <li><strong>Flat hierarchy:</strong> Build relationships across all levels equally</li>
+                    <li><strong>Direct communication:</strong> Ask questions directly; no need for excessive formality</li>
+                    <li><strong>Collaborative approach:</strong> Offer help and collaboration, not competition</li>
+                    <li><strong>Respect autonomy:</strong> People value independence; don't micromanage or be over-dependent</li>
+                    <li><strong>Work-life boundaries:</strong> Don't contact colleagues outside work hours unless urgent</li>
+                    <li><strong>Humble contribution:</strong> Share credit, avoid boasting, practice Janteloven (Law of Jante)</li>
+                </ul>
+
+                <div class="important">
+                    <strong>⚖️ Understanding Janteloven (Law of Jante)</strong>
+                    <p>A key Scandinavian cultural concept: don't think you're better than others, don't boast, value collective over individual. This means: downplay personal achievements, share credit, avoid showing off, maintain humility, and treat everyone as equals. Breaking Janteloven can make you seem arrogant and hurt relationships.</p>
+                </div>
+
+                <h3>📚 Part 5: Work-Life Balance & Scandinavian Values</h3>
+
+                <h4>⏰ Time Management & Balance:</h4>
+                <ul>
+                    <li><strong>Leave on time:</strong> Staying late is seen as poor time management, not dedication</li>
+                    <li><strong>Vacation is sacred:</strong> Use all your vacation days - it's expected and healthy</li>
+                    <li><strong>Parental leave:</strong> Both parents take leave; it's normal and encouraged</li>
+                    <li><strong>Sick days:</strong> Stay home when sick - don't spread illness to colleagues</li>
+                    <li><strong>Flexible hours:</strong> Many workplaces offer flexible start/end times</li>
+                    <li><strong>Remote work:</strong> Working from home is common and trusted</li>
+                </ul>
+
+                <h4>🌲 Outdoor Life & Nature Connection:</h4>
+                <ul>
+                    <li><strong>Friluftsliv:</strong> Outdoor life is important - join team hiking/skiing trips</li>
+                    <li><strong>Weather discussions:</strong> Common small talk topic, especially in winter</li>
+                    <li><strong>Seasonal activities:</strong> Expect team activities to change with seasons</li>
+                    <li><strong>Midsummer celebrations:</strong> Major summer holiday - offices often close</li>
+                    <li><strong>Winter darkness:</strong> Understand energy levels may be lower in dark months</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 Your 90-Day Integration Roadmap</strong>
+                    <p><strong>Days 1-30:</strong> Learn the equality culture - understand flat hierarchies, participate in fika, observe consensus decision-making, build equal relationships with all levels.</p>
+                    <p><strong>Days 31-60:</strong> Contribute actively - share opinions in meetings, take initiative within boundaries, balance work and life, learn local language basics.</p>
+                    <p><strong>Days 61-90:</strong> Become integrated - practice Janteloven, participate in outdoor activities, respect work-life balance fully, communicate directly and equally with all.</p>
+                </div>
+
+                <h3>✅ Part 6: Success Checklist</h3>
+
+                <h4>🏆 You're Successfully Integrated When You Can:</h4>
+                <ul>
+                    <li>✅ Participate naturally in fika conversations</li>
+                    <li>✅ Use first names comfortably with everyone, including executives</li>
+                    <li>✅ Contribute opinions in meetings without deferring to hierarchy</li>
+                    <li>✅ Practice work-life balance without guilt</li>
+                    <li>✅ Understand and practice Janteloven (humility, equality)</li>
+                    <li>✅ Leave work on time and use vacation days</li>
+                    <li>✅ Navigate consensus decision-making processes</li>
+                    <li>✅ Handle comfortable silences in meetings</li>
+                    <li>✅ Say basic greetings and fika phrases in local language</li>
+                    <li>✅ Join outdoor team activities comfortably</li>
+                    <li>✅ Build equal relationships across all organizational levels</li>
+                    <li>✅ Communicate directly but kindly</li>
+                    <li>✅ Respect personal space and autonomy</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💪 Remember: Integration is About Equality</strong>
+                    <p>Scandinavian workplace culture is built on trust, equality, and balance. You're not expected to prove yourself through long hours or deference to authority. Instead, focus on: contributing your expertise as an equal, building genuine relationships, maintaining work-life balance, and practicing humility. Welcome to a culture where everyone's voice matters equally! 🌟</p>
+                </div>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Successful team onboarding in Scandinavia combines: <strong>embracing flat hierarchies</strong> (first names, equal opinions, consensus), <strong>participating in fika culture</strong> (coffee breaks, social bonding, informal networking), and <strong>maintaining work-life balance</strong> (leave on time, use vacation, prioritize health). 🤝</p>
+                    <p>Focus on being an equal colleague, not subordinate or superior. Participate in social activities, practice Janteloven humility, and respect the balance between work and life. Scandinavian colleagues value collaboration, trust, and mutual respect. Show these qualities, and you'll thrive! Välkommen! 🇸🇪🇳🇴🇩🇰💼</p>
+                </div>
+            `
         }
     },
     balkans: {
@@ -7009,6 +7493,243 @@ const culturalData = {
                     <li>Finding your religious community can provide social network</li>
                     <li>Churches, mosques, temples welcome those seeking their communities</li>
                 </ul>
+            `
+        },
+        teamOnboarding: {
+            title: "🏢 Module 9: Team Onboarding & Language Essentials 🌍",
+            content: `
+                <h2>Dobrodošli! Welcome to Your Balkans Team Onboarding Guide! 🎉</h2>
+                <p>This comprehensive module helps international hires integrate successfully into Balkans (Serbia 🇷🇸, Croatia 🇭🇷, Bosnia & Herzegovina 🇧🇦, Montenegro, North Macedonia, etc.) workplace culture. Balkan work culture is characterized by <strong>personal relationships, hospitality, adaptability, and family values</strong>. Let's get you set up for success! 💼</p>
+
+                <h3>📋 Part 1: First Week Essentials - The Balkan Way</h3>
+                
+                <h4>🗓️ Before Day One:</h4>
+                <ul>
+                    <li><strong>Documentation ready:</strong> Have all work permits and documents - bureaucracy can be complex</li>
+                    <li><strong>Learn greetings:</strong> Basic greetings in local language show respect and effort</li>
+                    <li><strong>Flexible mindset:</strong> Be prepared for plans to change - adaptability is valued</li>
+                    <li><strong>Dress formally:</strong> First impressions matter - dress well for day one</li>
+                    <li><strong>Build connections:</strong> If you know anyone in the company, reach out beforehand</li>
+                </ul>
+
+                <h4>📅 Day One - Relationships and Warmth:</h4>
+                <ul>
+                    <li><strong>Arrive on time:</strong> Punctuality shows respect, though flexibility is common</li>
+                    <li><strong>Warm greetings:</strong> Handshakes, maybe cheek kisses among same gender once familiar</li>
+                    <li><strong>Accept coffee/rakija:</strong> Social rituals are important - participate even briefly</li>
+                    <li><strong>Share about yourself:</strong> Balkan culture values personal connection - share where you're from</li>
+                    <li><strong>Join for lunch:</strong> Eating together builds relationships - never decline</li>
+                    <li><strong>Show interest in people:</strong> Ask about families, background - personal questions are normal</li>
+                    <li><strong>Be humble:</strong> Modesty and warmth appreciated more than formal distance</li>
+                </ul>
+
+                <h4>📆 First Week Goals:</h4>
+                <ul>
+                    <li><strong>Build personal connections:</strong> Relationships are foundation of work success</li>
+                    <li><strong>Learn the informal culture:</strong> Much happens through personal networks</li>
+                    <li><strong>Participate in coffee culture:</strong> Extended coffee breaks are social and professional</li>
+                    <li><strong>Understand hierarchy:</strong> Respect seniority but relationships matter more than titles</li>
+                    <li><strong>Be flexible:</strong> Plans change, processes adapt - go with the flow</li>
+                    <li><strong>Accept invitations:</strong> After-work socializing is where bonds form</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💡 Relationships Are Everything</strong>
+                    <p>In Balkan culture, who you know matters as much as what you know. Your first 90 days should focus on: building genuine friendships, participating in coffee culture, showing interest in colleagues' lives, accepting hospitality graciously, and demonstrating loyalty. Business relationships are personal relationships first.</p>
+                </div>
+
+                <h3>🗣️ Part 2: Balkan Workplace Communication Culture</h3>
+
+                <h4>🇷🇸🇭🇷🇧🇦 Understanding Balkan Communication:</h4>
+                <ul>
+                    <li><strong>Warm and expressive:</strong> Emotion in conversation is normal, not unprofessional</li>
+                    <li><strong>Direct but personal:</strong> Honesty valued but wrapped in relationship context</li>
+                    <li><strong>Storytelling culture:</strong> Expect anecdotes and personal stories in discussions</li>
+                    <li><strong>Humor important:</strong> Self-deprecating humor and jokes build rapport</li>
+                    <li><strong>Coffee conversations:</strong> Important decisions often made over extended coffee chats</li>
+                    <li><strong>Family references:</strong> Asking about family is normal and expected</li>
+                    <li><strong>Flexible formality:</strong> Can shift from formal to informal quickly once relationship established</li>
+                </ul>
+
+                <h4>✉️ Email Etiquette:</h4>
+                <ul>
+                    <li><strong>Greetings:</strong> "Poštovani/Poštovana" (Respected) - formal, but relationships allow informality quickly</li>
+                    <li><strong>Personal touch:</strong> Include friendly phrases - pure business emails seem cold</li>
+                    <li><strong>Flexible response:</strong> Response times can vary - follow up by phone if urgent</li>
+                    <li><strong>Phone preferred:</strong> For important matters, calling often better than email</li>
+                    <li><strong>WhatsApp common:</strong> Much business communication happens via messaging apps</li>
+                </ul>
+
+                <h4>💬 Meeting Culture:</h4>
+                <ul>
+                    <li><strong>Flexible timing:</strong> Meetings may start late - relationship building comes first</li>
+                    <li><strong>Coffee essential:</strong> Meetings often over coffee; Turkish/Bosnian coffee ritual important</li>
+                    <li><strong>Personal first:</strong> Begin with personal chat before business</li>
+                    <li><strong>Animated discussion:</strong> Passionate conversation is engagement, not conflict</li>
+                    <li><strong>Informal decisions:</strong> Real decisions often happen in side conversations</li>
+                    <li><strong>Hierarchical respect:</strong> Senior people have authority but relationships influence outcomes</li>
+                </ul>
+
+                <div class="warning">
+                    <strong>⚠️ Communication Pitfalls to Avoid</strong>
+                    <ul>
+                        <li><strong>Too cold/formal:</strong> Purely transactional approach seems unfriendly</li>
+                        <li><strong>Ignoring history:</strong> Be sensitive to regional history and ethnic dynamics</li>
+                        <li><strong>Declining hospitality:</strong> Refusing coffee/food/rakija can offend</li>
+                        <li><strong>Rushing business:</strong> Skipping personal connection to "get to work" damages relationships</li>
+                        <li><strong>Over-scheduling:</strong> Rigid schedules don't account for Balkan flexibility</li>
+                    </ul>
+                </div>
+
+                <h3>🎯 Part 3: Essential Office Language Phrases</h3>
+
+                <h4>🌅 Greetings & Daily Interactions:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Dobro jutro"</strong> - Good morning (Serbian/Croatian/Bosnian)</li>
+                        <li><strong>"Dobar dan"</strong> - Good day/afternoon</li>
+                        <li><strong>"Dobro veče"</strong> - Good evening</li>
+                        <li><strong>"Kako si?/Kako ste?"</strong> - How are you? (informal/formal)</li>
+                        <li><strong>"Hvala, dobro"</strong> - Thanks, well</li>
+                        <li><strong>"Doviđenja/Zbogom"</strong> - Goodbye</li>
+                        <li><strong>"Drago mi je"</strong> - Pleased to meet you</li>
+                    </ul>
+                </div>
+
+                <h4>☕ Coffee Culture (Essential!):</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Idemo na kafu?"</strong> - Shall we go for coffee?</li>
+                        <li><strong>"Šta ćeš popiti?"</strong> - What will you drink?</li>
+                        <li><strong>"Bosanska kafa/Turska kafa"</strong> - Bosnian/Turkish coffee (traditional)</li>
+                        <li><strong>"Domaća kafa"</strong> - Homemade coffee (traditional style)</li>
+                        <li><strong>"Espresso/Cappuccino"</strong> - Western-style coffee (also common)</li>
+                        <li><strong>"Sa mlekom/Sa šećerom?"</strong> - With milk/With sugar?</li>
+                        <li><strong>Note:</strong> Coffee culture is central - expect long, leisurely coffee sessions</li>
+                    </ul>
+                </div>
+
+                <h4>💼 Work Tasks & Requests:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Možeš li mi pomoći?"</strong> - Can you help me? (informal)</li>
+                        <li><strong>"Molim te/Molim vas"</strong> - Please (informal/formal)</li>
+                        <li><strong>"Hvala/Hvala puno"</strong> - Thanks/Thanks very much</li>
+                        <li><strong>"Izvini/Izvinite"</strong> - Sorry (informal/formal)</li>
+                        <li><strong>"Nisam razumeo/razumela"</strong> - I didn't understand (m/f)</li>
+                        <li><strong>"Možeš li ponoviti?"</strong> - Can you repeat?</li>
+                    </ul>
+                </div>
+
+                <h4>🎉 Social Phrases:</h4>
+                <div class="language-section">
+                    <ul>
+                        <li><strong>"Živeli!"</strong> - Cheers! (when drinking rakija or wine)</li>
+                        <li><strong>"Prijatno!"</strong> - Enjoy (your meal)!</li>
+                        <li><strong>"Srećan vikend!"</strong> - Happy weekend!</li>
+                        <li><strong>"Kako je bilo na odmoru?"</strong> - How was your vacation?</li>
+                        <li><strong>"Daj Bože!"</strong> - God willing! (common expression)</li>
+                        <li><strong>"Nema problema"</strong> - No problem</li>
+                    </ul>
+                </div>
+
+                <div class="tip">
+                    <strong>🗣️ Language Notes</strong>
+                    <p>Serbian, Croatian, and Bosnian are mutually intelligible - knowing basic phrases helps everywhere. People appreciate effort to learn, and English is often spoken by younger professionals. Focus on greetings and coffee phrases - these will get you far!</p>
+                </div>
+
+                <h3>🌍 Part 4: Building Relationships & Social Integration</h3>
+
+                <h4>☕ Coffee Culture - The Heart of Balkan Business:</h4>
+                <ul>
+                    <li><strong>Extended sessions:</strong> Coffee meetings can last 1-2 hours - this is normal</li>
+                    <li><strong>Business over coffee:</strong> Many decisions made informally over coffee</li>
+                    <li><strong>Never rush:</strong> Rushing coffee shows disrespect for the relationship</li>
+                    <li><strong>Multiple invitations:</strong> Say yes to coffee invitations - this is relationship building</li>
+                    <li><strong>Café culture:</strong> Outdoor cafés are social hubs, especially in warm weather</li>
+                    <li><strong>Split or treat:</strong> Taking turns paying is common; sometimes one person treats</li>
+                </ul>
+
+                <h4>🍽️ Food and Hospitality:</h4>
+                <ul>
+                    <li><strong>Generous hospitality:</strong> Expect abundant food and drink when invited to homes</li>
+                    <li><strong>Always accept:</strong> Declining food/drink can offend - at least try something</li>
+                    <li><strong>"Malo malo, hvala":</strong> "Just a little, thanks" - polite way to accept modestly</li>
+                    <li><strong>Rakija tradition:</strong> Homemade fruit brandy offered as welcome - sip, don't refuse</li>
+                    <li><strong>Long meals:</strong> Lunches and dinners are extended social events</li>
+                    <li><strong>Bring gifts:</strong> Wine, sweets, or flowers when invited to homes</li>
+                </ul>
+
+                <h4>🎯 Professional Relationships:</h4>
+                <ul>
+                    <li><strong>Personal connections crucial:</strong> Network through friends and family of colleagues</li>
+                    <li><strong>Loyalty valued:</strong> Stand by colleagues and they'll stand by you</li>
+                    <li><strong>Help freely given:</strong> Ask for help when needed - it builds relationships</li>
+                    <li><strong>Remember celebrations:</strong> Birthdays, name days (slava), family events matter</li>
+                    <li><strong>Flexible boundaries:</strong> Work and personal life blend more than Western Europe</li>
+                    <li><strong>Patient with process:</strong> Bureaucracy can be slow - relationships help navigate it</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🍷 Understanding Balkan Hospitality</strong>
+                    <p>Hospitality is a core value - refusing food, drink, or invitations is seen as rejecting the relationship. Key principles: always accept something (even if small amount), compliment the host/food, spend time (don't rush), reciprocate invitations, and show appreciation. Your social participation directly affects professional success.</p>
+                </div>
+
+                <h3>📚 Part 5: Understanding Balkan Work Culture</h3>
+
+                <h4>⏰ Time and Flexibility:</h4>
+                <ul>
+                    <li><strong>Flexible scheduling:</strong> Times are approximate - relationships matter more than rigid punctuality</li>
+                    <li><strong>Plan for changes:</strong> Last-minute changes are common - adapt gracefully</li>
+                    <li><strong>Siesta influence:</strong> Some regions have midday breaks, especially in summer</li>
+                    <li><strong>Evening culture:</strong> Social life often extends late into evening</li>
+                    <li><strong>Family first:</strong> Family obligations take priority - this is respected</li>
+                </ul>
+
+                <h4>🤝 Navigating History and Sensitivity:</h4>
+                <ul>
+                    <li><strong>Complex history:</strong> Recent wars and ethnic tensions - be very sensitive</li>
+                    <li><strong>Avoid politics:</strong> Don't discuss Balkan politics unless you know people very well</li>
+                    <li><strong>Respect all groups:</strong> Never take sides in historical/ethnic discussions</li>
+                    <li><strong>Focus on common ground:</strong> Emphasize shared experiences, not differences</li>
+                    <li><strong>Learn history:</strong> Understanding context helps avoid mistakes</li>
+                </ul>
+
+                <div class="important">
+                    <strong>🎯 Your 90-Day Integration Roadmap</strong>
+                    <p><strong>Days 1-30:</strong> Build relationships - accept all coffee invitations, join meals, ask about families, share about yourself, show genuine interest in people, participate in social events.</p>
+                    <p><strong>Days 31-60:</strong> Deepen connections - initiate coffee meetings, visit colleagues' homes if invited, learn more language, understand informal networks, show loyalty.</p>
+                    <p><strong>Days 61-90:</strong> Become part of the family - reciprocate hospitality, navigate informal decision-making, balance work and social naturally, demonstrate you're trustworthy.</p>
+                </div>
+
+                <h3>✅ Part 6: Success Checklist</h3>
+
+                <h4>🏆 You're Successfully Integrated When You Can:</h4>
+                <ul>
+                    <li>✅ Participate comfortably in extended coffee sessions</li>
+                    <li>✅ Use basic greetings and phrases in local language</li>
+                    <li>✅ Accept food and rakija graciously</li>
+                    <li>✅ Build genuine personal friendships with colleagues</li>
+                    <li>✅ Navigate informal decision-making networks</li>
+                    <li>✅ Handle schedule changes and flexibility with ease</li>
+                    <li>✅ Participate in social gatherings and celebrations</li>
+                    <li>✅ Understand when to be formal vs. informal</li>
+                    <li>✅ Reciprocate hospitality appropriately</li>
+                    <li>✅ Balance warmth with professional competence</li>
+                    <li>✅ Respect regional sensitivities and history</li>
+                    <li>✅ Show loyalty to your team and colleagues</li>
+                </ul>
+
+                <div class="tip">
+                    <strong>💪 Remember: You're Joining a Family</strong>
+                    <p>Balkan workplace culture operates like an extended family - warm, supportive, sometimes chaotic, but deeply loyal. Don't mistake informality for lack of professionalism or flexibility for disorganization. These relationships and adaptability are strengths that help navigate challenges together. 🌟</p>
+                </div>
+
+                <div class="important">
+                    <strong>🎯 The Bottom Line</strong>
+                    <p>Successful team onboarding in the Balkans combines: <strong>building personal relationships</strong> (coffee culture, meals, genuine friendship), <strong>embracing hospitality</strong> (accepting invitations, reciprocating, showing appreciation), and <strong>cultural sensitivity</strong> (respecting history, avoiding politics, valuing adaptability). 🤝</p>
+                    <p>Focus on being warm, genuine, and loyal. Participate fully in coffee culture, accept hospitality graciously, learn basic phrases, and build real friendships. Balkan colleagues will embrace you as family if you show genuine interest and respect. Dobrodošli! 🇷🇸🇭🇷🇧🇦💼</p>
+                </div>
             `
         }
     },
