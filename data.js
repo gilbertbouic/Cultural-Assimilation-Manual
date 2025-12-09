@@ -6115,6 +6115,447 @@ const culturalData = {
                     <li>Volunteering through religious or community organizations is common</li>
                 </ul>
             `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare Systems in the Balkans 💊",
+            content: `
+                <h3>Healthcare Overview</h3>
+                <p>Balkan healthcare systems vary significantly by country but share common challenges: mix of public and private care, infrastructure gaps, and reliance on personal connections. EU member states (Croatia, Slovenia) have more integrated systems.</p>
+                
+                <h3>Public Healthcare Access</h3>
+                <ul>
+                    <li><strong>Mandatory health insurance:</strong> Registration required for residents and workers</li>
+                    <li><strong>Health cards:</strong> Issued upon registration with health insurance authority</li>
+                    <li><strong>Primary care centers:</strong> Dom zdravlja (health centers) provide basic services</li>
+                    <li><strong>Specialist referrals:</strong> GP referral typically required for specialist visits</li>
+                    <li><strong>Hospital care:</strong> Public hospitals provide inpatient and emergency services</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Reality Check:</strong> Public healthcare can be underfunded with long wait times, especially for non-emergency procedures. Many residents supplement with private care or travel abroad for major treatments.
+                </div>
+                
+                <h3>Country-Specific Systems</h3>
+                
+                <h4>Serbia:</h4>
+                <ul>
+                    <li>Register with RFZO (Republican Health Insurance Fund)</li>
+                    <li>Health booklet (zdravstvena knjižica) required</li>
+                    <li>Co-payments for some services</li>
+                    <li>Private clinics widely used for faster service</li>
+                </ul>
+                
+                <h4>Croatia (EU):</h4>
+                <ul>
+                    <li>HZZO (Croatian Health Insurance Institute) administers system</li>
+                    <li>EU health insurance card valid for EU citizens</li>
+                    <li>Better integrated with EU healthcare standards</li>
+                    <li>Mix of public and private providers</li>
+                </ul>
+                
+                <h4>Bosnia and Herzegovina:</h4>
+                <ul>
+                    <li>Complex system divided by entities (Federation and Republika Srpska)</li>
+                    <li>Health insurance through employment or separate registration</li>
+                    <li>Limited resources in public system</li>
+                </ul>
+                
+                <h3>Private Healthcare</h3>
+                <ul>
+                    <li><strong>Widely used:</strong> Many use private clinics alongside public system</li>
+                    <li><strong>Costs moderate:</strong> More affordable than Western Europe</li>
+                    <li><strong>Faster service:</strong> Shorter wait times and often better facilities</li>
+                    <li><strong>Specialists accessible:</strong> Direct access without referrals</li>
+                    <li><strong>Medical tourism:</strong> Some Balkans countries (Serbia) attract medical tourists for dental, cosmetic procedures</li>
+                </ul>
+                
+                <h3>Emergency Care</h3>
+                <ul>
+                    <li><strong>Emergency number: 194</strong> (ambulance in Serbia); 112 works across most countries</li>
+                    <li><strong>Hitna pomoć:</strong> Emergency departments at hospitals</li>
+                    <li><strong>24-hour pharmacies:</strong> Available in larger cities (dežurna apoteka)</li>
+                </ul>
+                
+                <h3>Pharmacies</h3>
+                <ul>
+                    <li>Prescription required for most medications</li>
+                    <li>Some antibiotics more readily available than Western Europe</li>
+                    <li>Generic medications available and affordable</li>
+                    <li>Pharmacists knowledgeable and provide advice</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Build a relationship with a trusted GP in private practice. Personal connections can facilitate access to specialists and expedite care. Having the doctor's mobile number is common and useful.
+                </div>
+                
+                <h3>Health Insurance</h3>
+                <ul>
+                    <li>Employed: Insurance through employer contributions</li>
+                    <li>Self-employed: Must register and pay independently</li>
+                    <li>Private insurance: Optional supplemental insurance available</li>
+                    <li>International insurance: Recommended for comprehensive coverage</li>
+                </ul>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "🏛️ Module 6: Navigating Officialdom in the Balkans 📋",
+            content: `
+                <h3>Bureaucratic Reality</h3>
+                <p>Balkan bureaucracy can be complex, slow, and frustrating. Personal connections (veze/veza) often facilitate processes. Patience, persistence, and keeping all documentation organized are essential. Systems are improving but remain challenging.</p>
+                
+                <div class="important">
+                    <strong>Key Principle:</strong> In the Balkans, personal relationships often matter as much as official procedures. Having a local friend or contact to help navigate bureaucracy is invaluable. Don't hesitate to ask for help.
+                </div>
+                
+                <h3>Essential Registration Steps</h3>
+                
+                <h4>Upon Arrival:</h4>
+                <ul>
+                    <li><strong>Register residence:</strong> Report to local police station within specified timeframe (typically 24-48 hours)</li>
+                    <li><strong>Temporary residence permit:</strong> Non-EU citizens apply at police/immigration office</li>
+                    <li><strong>Address registration:</strong> Must register at local municipality (opština/općina)</li>
+                    <li><strong>Personal ID number:</strong> Essential for all transactions (JMBG in Serbia, OIB in Croatia)</li>
+                </ul>
+                
+                <h3>Key Documents and Numbers</h3>
+                <ul>
+                    <li><strong>Personal identification number:</strong> Unique ID (JMBG, OIB, etc.) needed for everything</li>
+                    <li><strong>Residence permit:</strong> Temporary or permanent (boravišna dozvola)</li>
+                    <li><strong>Work permit:</strong> Required for non-EU citizens (radna dozvola)</li>
+                    <li><strong>Tax number:</strong> For employment and business (PIB in Serbia)</li>
+                </ul>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li>Proof of residence required (landlord's confirmation)</li>
+                    <li>Personal ID number essential</li>
+                    <li>Employment contract or proof of income often needed</li>
+                    <li>International banks (Raiffeisen, UniCredit) present in many Balkan countries</li>
+                    <li>Cash still widely used; have both cash and cards</li>
+                </ul>
+                
+                <h3>Documentation Tips</h3>
+                <ul>
+                    <li><strong>Certified translations:</strong> Foreign documents must be officially translated</li>
+                    <li><strong>Apostille required:</strong> For recognizing foreign official documents</li>
+                    <li><strong>Multiple copies:</strong> Always have several certified copies of important documents</li>
+                    <li><strong>Original documents:</strong> Bring originals plus copies to every office</li>
+                    <li><strong>Notarization common:</strong> Many documents require notary certification</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Bureaucratic Challenges:</strong>
+                    <ul>
+                        <li>Information inconsistent - different officials may give different answers</li>
+                        <li>Long waiting times at offices common</li>
+                        <li>Limited English in government offices</li>
+                        <li>Processes can take longer than officially stated</li>
+                        <li>Patience and multiple visits often necessary</li>
+                    </ul>
+                </div>
+                
+                <h3>Employment and Social Security</h3>
+                <ul>
+                    <li><strong>Work permit:</strong> Employer typically applies on your behalf</li>
+                    <li><strong>Employment contract:</strong> Must be registered with authorities</li>
+                    <li><strong>Social security registration:</strong> Automatic through employment</li>
+                    <li><strong>Contributions:</strong> Employer and employee both contribute to pension, health, unemployment</li>
+                </ul>
+                
+                <h3>Taxation</h3>
+                <ul>
+                    <li><strong>Income tax:</strong> Withheld by employer; rates vary by country (typically 10-20%)</li>
+                    <li><strong>Social contributions:</strong> Substantial additional deductions (25-35%)</li>
+                    <li><strong>Tax residence:</strong> Determined by where you spend most of year</li>
+                    <li><strong>Annual declaration:</strong> May be required depending on income sources</li>
+                </ul>
+                
+                <h3>Property and Utilities</h3>
+                <ul>
+                    <li><strong>Rental contracts:</strong> Should be registered with tax authorities</li>
+                    <li><strong>Utilities:</strong> Often require physical payment at post office or bank (modernizing)</li>
+                    <li><strong>Property ownership:</strong> Foreigners face restrictions in some countries; research carefully</li>
+                </ul>
+                
+                <h3>Driving</h3>
+                <ul>
+                    <li><strong>Driver's license:</strong> EU licenses valid; others may need to exchange or get local license</li>
+                    <li><strong>Vehicle registration:</strong> Complex if importing; local assistance recommended</li>
+                    <li><strong>Insurance mandatory:</strong> Third-party liability minimum</li>
+                    <li><strong>Annual registration:</strong> Vehicles must be re-registered annually with technical inspection</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Consider hiring an agency or lawyer for complex bureaucratic procedures (residence permits, business registration, property purchases). The cost is often worth the time and frustration saved.
+                </div>
+                
+                <h3>Corruption and "Facilitation"</h3>
+                <p>While improving, corruption persists in some areas. Be aware:</p>
+                <ul>
+                    <li>Never offer bribes - it's illegal and risky</li>
+                    <li>"Expediting fees" through official channels sometimes exist</li>
+                    <li>Personal connections (veze) can help without corruption</li>
+                    <li>Report any demands for unofficial payments to supervisors or anti-corruption agencies</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in the Balkans 📚",
+            content: `
+                <h3>Education System Overview</h3>
+                <p>Balkan education systems are undergoing reform but maintain traditional structures. Education is free and compulsory through secondary level. Quality varies significantly between urban and rural areas.</p>
+                
+                <h3>School Structure</h3>
+                
+                <h4>Pre-Primary (3-6 years):</h4>
+                <ul>
+                    <li><strong>Vrtić/Vrtec (kindergarten):</strong> Optional, some fees apply</li>
+                    <li>Limited availability, especially in rural areas</li>
+                    <li>Waitlists common in cities</li>
+                    <li>Prepare children for primary school entry</li>
+                </ul>
+                
+                <h4>Primary School (6-14/15 years):</h4>
+                <ul>
+                    <li><strong>Osnovna škola:</strong> Compulsory, free, 8-9 years</li>
+                    <li><strong>Grade 1-4:</strong> General primary education, single teacher</li>
+                    <li><strong>Grade 5-8/9:</strong> Subject-specific teachers</li>
+                    <li>Traditional teaching methods, emphasis on memorization</li>
+                    <li>Homework substantial from early grades</li>
+                </ul>
+                
+                <h4>Secondary School (14/15-18 years):</h4>
+                <ul>
+                    <li><strong>Gimnazija (general/academic track):</strong> Prepares for university</li>
+                    <li><strong>Vocational schools:</strong> Trade-specific education (3-4 years)</li>
+                    <li><strong>Entrance exams:</strong> Required for some competitive schools</li>
+                    <li><strong>Matura/Graduation exam:</strong> Final exam determines university entrance</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>School Culture:</strong>
+                    <ul>
+                        <li>Respect for teachers (nastavnik/učitelj) is paramount</li>
+                        <li>Formal relationships between students and teachers</li>
+                        <li>Competitive academic environment</li>
+                        <li>Private tutoring very common for extra support</li>
+                        <li>Traditional values emphasized</li>
+                    </ul>
+                </div>
+                
+                <h3>School Schedule</h3>
+                <ul>
+                    <li><strong>Hours:</strong> Typically 8:00 AM - 1:00/2:00 PM</li>
+                    <li><strong>Shifts:</strong> Some schools run double shifts due to space constraints</li>
+                    <li><strong>Saturday:</strong> Occasionally classes on Saturday mornings</li>
+                    <li><strong>Breaks:</strong> Short recess periods; no extended lunch break</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public schools:</strong> Free, majority attend these</li>
+                    <li><strong>Private schools:</strong> Growing sector, tuition fees, often higher quality facilities</li>
+                    <li><strong>International schools:</strong> Available in capitals and major cities; expensive; English instruction</li>
+                    <li><strong>Religious schools:</strong> Some church-affiliated schools exist</li>
+                </ul>
+                
+                <h3>University and Higher Education</h3>
+                <ul>
+                    <li><strong>Public universities:</strong> Low tuition (often minimal or free for high achievers)</li>
+                    <li><strong>Entrance exams:</strong> Competitive; matura scores crucial</li>
+                    <li><strong>Bologna Process:</strong> Three-cycle system implemented (Bachelor, Master, PhD)</li>
+                    <li><strong>Language:</strong> Primarily taught in national language; some English programs</li>
+                    <li><strong>Student life:</strong> Vibrant student culture; affordable living</li>
+                </ul>
+                
+                <h3>Academic Approach</h3>
+                <ul>
+                    <li>Lecture-based teaching dominant</li>
+                    <li>Emphasis on theoretical knowledge</li>
+                    <li>Memorization important for exams</li>
+                    <li>Less interactive than Western European classrooms</li>
+                    <li>Respect for academic hierarchy strong</li>
+                </ul>
+                
+                <h3>For Foreign Students</h3>
+                <ul>
+                    <li><strong>Language barrier:</strong> Learning local language essential for public schools</li>
+                    <li><strong>Language support:</strong> Limited; varies by school</li>
+                    <li><strong>Credential recognition:</strong> Foreign qualifications assessed for grade placement</li>
+                    <li><strong>Integration:</strong> Children often integrate faster through school friendships</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Private tutoring (instrukcije/privatni časovi) is extremely common and socially accepted. If your child needs extra help or language support, hiring a tutor is normal and affordable.
+                </div>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-teacher meetings (roditeljski sastanak) periodically</li>
+                    <li>Parents expected to monitor homework and academic progress closely</li>
+                    <li>School councils include parent representatives</li>
+                    <li>Fundraising for school improvements common</li>
+                </ul>
+                
+                <h3>Holiday Schedule</h3>
+                <ul>
+                    <li><strong>Summer:</strong> June-August (long break)</li>
+                    <li><strong>Winter:</strong> Two weeks around Orthodox or Catholic Christmas (varies)</li>
+                    <li><strong>Spring:</strong> Easter break (1-2 weeks)</li>
+                    <li><strong>Religious holidays:</strong> Slava, Patron Saint days (regional)</li>
+                </ul>
+                
+                <h3>Challenges</h3>
+                <ul>
+                    <li>Infrastructure can be dated, especially in rural areas</li>
+                    <li>Teacher salaries low, affecting quality in some cases</li>
+                    <li>Political interference in curricula (especially history) in some countries</li>
+                    <li>Brain drain: many educated young people emigrate</li>
+                </ul>
+            `
+        },
+        religionFaith: {
+            title: "🛐 Module 8: Religion & Faith in the Balkans 🤝",
+            content: `
+                <h3>Religious Landscape</h3>
+                <p>The Balkans is one of Europe's most religiously diverse regions. Orthodox Christianity, Catholicism, and Islam coexist, shaped by complex history. Religion is intertwined with national and cultural identity, particularly after Yugoslav Wars.</p>
+                
+                <div class="important">
+                    <strong>Historical Context:</strong> Religious identity in the Balkans is deeply connected to ethnicity and history. The 1990s conflicts were partly along religious/ethnic lines. Be respectful and sensitive - these topics can evoke strong emotions.
+                </div>
+                
+                <h3>Major Religious Communities</h3>
+                
+                <h4>Orthodox Christianity:</h4>
+                <ul>
+                    <li><strong>Predominant in:</strong> Serbia, Montenegro, North Macedonia, parts of Bosnia</li>
+                    <li><strong>Serbian Orthodox Church:</strong> Important national institution</li>
+                    <li><strong>Traditions:</strong> Christmas (January 7), Easter, Slava (patron saint day) celebrations</li>
+                    <li><strong>Churches:</strong> Beautiful monasteries; important cultural heritage</li>
+                    <li><strong>Practices:</strong> Icons, fasting periods, rich liturgical tradition</li>
+                </ul>
+                
+                <h4>Catholicism:</h4>
+                <ul>
+                    <li><strong>Predominant in:</strong> Croatia, Slovenia, parts of Bosnia</li>
+                    <li><strong>Vatican ties:</strong> Strong connection to Catholic Church</li>
+                    <li><strong>Traditions:</strong> Christmas (December 25), Easter, saints' days</li>
+                    <li><strong>Pilgrimage sites:</strong> Medjugorje in Bosnia is major Catholic pilgrimage destination</li>
+                </ul>
+                
+                <h4>Islam:</h4>
+                <ul>
+                    <li><strong>Predominant in:</strong> Albania, Kosovo, Bosnia (Bosniaks), parts of North Macedonia</li>
+                    <li><strong>Mainly Sunni:</strong> Ottoman heritage</li>
+                    <li><strong>Mosques:</strong> Historic mosques in cities (many from Ottoman period)</li>
+                    <li><strong>Practices:</strong> Mix of traditional and more secular approaches</li>
+                    <li><strong>Ramadan:</strong> Observed by practicing Muslims; some businesses adjust hours</li>
+                </ul>
+                
+                <h3>Religion and National Identity</h3>
+                <p>In the Balkans, religion often overlaps with ethnic identity:</p>
+                <ul>
+                    <li>Serbs: Predominantly Orthodox Christian</li>
+                    <li>Croats: Predominantly Catholic</li>
+                    <li>Bosniaks: Predominantly Muslim</li>
+                    <li>Slovenes: Predominantly Catholic</li>
+                    <li>Albanians: Predominantly Muslim, some Catholic</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Sensitivity Required:</strong> Avoid making assumptions about someone's religion based on ethnicity. Don't bring up religious/ethnic conflicts unless they raise it. Respect that for many, religious identity is cultural rather than strictly about faith.
+                </div>
+                
+                <h3>Religious Observance</h3>
+                <ul>
+                    <li><strong>Varies widely:</strong> From devout to culturally religious to secular</li>
+                    <li><strong>Life events:</strong> Baptisms, weddings, funerals often religious even for non-practicing individuals</li>
+                    <li><strong>Holidays observed:</strong> Major religious holidays are public holidays</li>
+                    <li><strong>Church attendance:</strong> Higher than Western Europe but varies by region and age</li>
+                </ul>
+                
+                <h3>Religious Holidays</h3>
+                
+                <h4>Orthodox:</h4>
+                <ul>
+                    <li>Christmas: January 7 (Julian calendar)</li>
+                    <li>Easter: Date varies (Julian calendar)</li>
+                    <li>Slava: Family patron saint day (uniquely Serbian tradition)</li>
+                    <li>St. Sava: January 27 (Serbia's patron saint)</li>
+                </ul>
+                
+                <h4>Catholic:</h4>
+                <ul>
+                    <li>Christmas: December 25</li>
+                    <li>Easter: Date varies (Gregorian calendar)</li>
+                    <li>Assumption: August 15</li>
+                    <li>All Saints: November 1</li>
+                </ul>
+                
+                <h4>Islamic:</h4>
+                <ul>
+                    <li>Ramadan: Month of fasting</li>
+                    <li>Eid al-Fitr: End of Ramadan</li>
+                    <li>Eid al-Adha: Festival of Sacrifice</li>
+                    <li>Kurban Bajram: Major celebration in Bosnia, Albania</li>
+                </ul>
+                
+                <h3>Slava - Unique Serbian Tradition</h3>
+                <p>Slava is celebration of family's patron saint - uniquely Serbian Orthodox custom:</p>
+                <ul>
+                    <li>Each family has patron saint (inherited through paternal line)</li>
+                    <li>Annual celebration with specific rituals</li>
+                    <li>Guests invited to family home</li>
+                    <li>Food, drink, blessing of bread and wheat</li>
+                    <li>Important social and religious event</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> If invited to Slava, it's an honor. Bring a gift (wine, sweets), dress nicely, and participate respectfully in rituals even if not Orthodox yourself.
+                </div>
+                
+                <h3>Religious Freedom</h3>
+                <ul>
+                    <li>Guaranteed by law in all Balkan countries</li>
+                    <li>Freedom to practice any faith or none</li>
+                    <li>Religious discrimination illegal but social tensions can exist</li>
+                    <li>Mixed marriages exist but can face family/social challenges</li>
+                </ul>
+                
+                <h3>Interfaith Relations</h3>
+                <ul>
+                    <li>Generally peaceful coexistence in most areas</li>
+                    <li>Some regions have mixed communities with good relations</li>
+                    <li>Legacy of conflict means sensitivities remain in some areas</li>
+                    <li>Younger generations often more tolerant</li>
+                </ul>
+                
+                <h3>Religious Sites</h3>
+                <ul>
+                    <li><strong>Monasteries:</strong> Studenica, Visoki Dečani, etc. - important cultural heritage</li>
+                    <li><strong>Mosques:</strong> Gazi Husrev-beg (Sarajevo), historic Ottoman mosques</li>
+                    <li><strong>Catholic churches:</strong> Zagreb Cathedral, pilgrimage sites</li>
+                    <li>Many sites open to respectful visitors regardless of faith</li>
+                </ul>
+                
+                <h3>Workplace and Daily Life</h3>
+                <ul>
+                    <li>Religious holidays are public holidays (varies by country/region)</li>
+                    <li>Accommodation for prayer or fasting generally available</li>
+                    <li>Religious symbols worn openly by some</li>
+                    <li>Halal food available in areas with Muslim populations</li>
+                    <li>Fasting periods (Orthodox Lent, Ramadan) respected</li>
+                </ul>
+                
+                <h3>For Newcomers</h3>
+                <ul>
+                    <li>Learn about local religious landscape and history</li>
+                    <li>Respect religious observances even if not participating</li>
+                    <li>Avoid discussing religious/ethnic politics unless well-informed</li>
+                    <li>Finding your religious community can provide social network</li>
+                    <li>Churches, mosques, temples welcome those seeking their communities</li>
+                </ul>
+            `
         }
     },
     greece: {
