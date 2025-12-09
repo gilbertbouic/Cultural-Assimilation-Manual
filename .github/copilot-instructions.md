@@ -21,7 +21,6 @@ This is a **pure vanilla JavaScript web application** with no frameworks or buil
 
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
 - **Storage**: Browser Local Storage API (for privacy-friendly progress tracking)
-- **Optional**: TensorFlow.js for hand-tracking features
 - **No Backend**: Runs entirely in the browser, can be served from any static host
 - **No Build Process**: Direct file serving, no compilation or bundling required
 
