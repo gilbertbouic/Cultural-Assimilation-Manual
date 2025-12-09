@@ -365,6 +365,398 @@ const quizzes = {
                 explanation: "British workplace communication is often indirect. This phrase usually means polite dismissal."
             }
         ]
+    },
+    relationshipsRespect: {
+        title: "Relationships & Respect",
+        questions: [
+            {
+                question: "What is the age of consent in the UK?",
+                options: [
+                    "14 years old",
+                    "16 years old",
+                    "18 years old",
+                    "21 years old"
+                ],
+                correct: 1,
+                explanation: "The age of consent in the UK is 16. Sexual contact with anyone under 16 is a serious crime with no exceptions."
+            },
+            {
+                question: "How should you handle rejection when dating in the UK?",
+                options: [
+                    "Keep trying to change their mind",
+                    "Ask their friends to convince them",
+                    "Accept it politely and move on",
+                    "Wait a few days and ask again"
+                ],
+                correct: 2,
+                explanation: "Polite acceptance and moving on is the only acceptable response. Persistence damages your reputation."
+            },
+            {
+                question: "What is considered appropriate public affection in the UK?",
+                options: [
+                    "Extended passionate displays of affection",
+                    "No physical contact at all",
+                    "Holding hands and brief kisses",
+                    "Only handholding, no kissing"
+                ],
+                correct: 2,
+                explanation: "Holding hands and brief kisses are acceptable, but extended passionate displays make people uncomfortable."
+            },
+            {
+                question: "What type of compliments are safest in British culture?",
+                options: [
+                    "Comments about physical appearance",
+                    "Comments about body shape or size",
+                    "Compliments about choices like clothing or accessories",
+                    "Compliments should be avoided entirely"
+                ],
+                correct: 2,
+                explanation: "It's safest to compliment choices (clothing, accessories). Comments about physical appearance can seem forward."
+            }
+        ]
+    },
+    publicConductEtiquette: {
+        title: "Public & Community Conduct",
+        questions: [
+            {
+                question: "What is the fine for littering in the UK?",
+                options: [
+                    "£10-£20",
+                    "£50-£150 fixed penalty, up to £2,500 in court",
+                    "Just a warning for first offense",
+                    "Community service only"
+                ],
+                correct: 1,
+                explanation: "Littering carries fixed penalty fines of £50-£150, with court fines up to £2,500 for serious violations."
+            },
+            {
+                question: "On an escalator in London, where should you stand?",
+                options: [
+                    "Stand left, walk right",
+                    "Stand right, walk left",
+                    "Stand in the middle",
+                    "Either side is fine"
+                ],
+                correct: 1,
+                explanation: "On London Underground escalators, stand right and walk left. This is essential etiquette."
+            },
+            {
+                question: "What is the most important rule about queuing in the UK?",
+                options: [
+                    "Form orderly queues and never push in",
+                    "Queuing is optional",
+                    "Elderly people can skip the queue",
+                    "You can save spots for friends"
+                ],
+                correct: 0,
+                explanation: "Queuing is sacred in the UK. Always join the back of the queue and never push in."
+            },
+            {
+                question: "When is it generally acceptable to do noisy DIY work?",
+                options: [
+                    "Anytime, it's your property",
+                    "Before 7 AM is best",
+                    "Reasonable weekday hours, avoid early Sunday mornings",
+                    "Only on weekends"
+                ],
+                correct: 2,
+                explanation: "Keep disruptive DIY work to reasonable weekday hours and avoid noisy activities (drilling, lawn mowing) before 10 AM on Sundays."
+            }
+        ]
+    },
+    communicationMindset: {
+        title: "Communication & Mindset",
+        questions: [
+            {
+                question: "What does 'That's interesting' often mean in British communication?",
+                options: [
+                    "They find it genuinely fascinating",
+                    "They want to hear more",
+                    "They disagree or think it's a terrible idea",
+                    "They need time to think about it"
+                ],
+                correct: 2,
+                explanation: "British indirect communication means 'That's interesting' often indicates disagreement or thinking it's a bad idea."
+            },
+            {
+                question: "Which words are essential in every British interaction?",
+                options: [
+                    "Hello and goodbye only",
+                    "Please, thank you, and sorry",
+                    "Yes and no",
+                    "Formal titles"
+                ],
+                correct: 1,
+                explanation: "'Please,' 'thank you,' and 'sorry' are fundamental to British social interaction and must be used constantly."
+            },
+            {
+                question: "What does 'not bad' typically mean in British understatement?",
+                options: [
+                    "Actually quite poor",
+                    "Exactly average",
+                    "Actually quite good or excellent",
+                    "Needs improvement"
+                ],
+                correct: 2,
+                explanation: "British understatement means 'not bad' actually means quite good or excellent."
+            },
+            {
+                question: "Which topic should you generally avoid in British small talk?",
+                options: [
+                    "Weather",
+                    "Sports and football",
+                    "Money and salary",
+                    "Holidays and travel"
+                ],
+                correct: 2,
+                explanation: "Money and salary are very private topics. Never ask what someone earns in the UK."
+            }
+        ]
+    },
+    economicIntegration: {
+        title: "Economic Integration & Work Culture",
+        questions: [
+            {
+                question: "What is most valued in British work culture?",
+                options: [
+                    "Brilliant but unreliable performance",
+                    "Talking about how hard you work",
+                    "Consistent reliability and punctuality",
+                    "Working the minimum hours required"
+                ],
+                correct: 2,
+                explanation: "British work culture values consistent reliability and punctuality more than occasional brilliance."
+            },
+            {
+                question: "What does arriving 'on time' to work mean in the UK?",
+                options: [
+                    "Exactly at start time",
+                    "Within 15 minutes of start time",
+                    "5-10 minutes early (on-time is borderline late)",
+                    "Anytime before lunch"
+                ],
+                correct: 2,
+                explanation: "In British work culture, you should arrive 5-10 minutes early. Being exactly on time is considered borderline late."
+            },
+            {
+                question: "How should you respond to work difficulties?",
+                options: [
+                    "Complain frequently to show effort",
+                    "Complete work despite difficulties with minimal complaining",
+                    "Refuse tasks that are too difficult",
+                    "Delegate everything to others"
+                ],
+                correct: 1,
+                explanation: "British work culture expects you to 'get on with it' - complete work despite difficulties with minimal complaining."
+            },
+            {
+                question: "What is a major advantage of rural employment in the UK?",
+                options: [
+                    "Higher wages than cities",
+                    "More office jobs available",
+                    "Lower cost of living, especially housing",
+                    "No need for transportation"
+                ],
+                correct: 2,
+                explanation: "While rural wages are often lower, they're offset by lower cost of living, especially housing costs."
+            }
+        ]
+    },
+    healthcareNHS: {
+        title: "Healthcare & NHS",
+        questions: [
+            {
+                question: "What is the first step to accessing NHS healthcare?",
+                options: [
+                    "Go directly to hospital",
+                    "Register with a GP (General Practitioner)",
+                    "Call 999 for every health issue",
+                    "Buy private health insurance"
+                ],
+                correct: 1,
+                explanation: "Registering with a GP practice should be one of the first things you do. Your GP is your gateway to all NHS services."
+            },
+            {
+                question: "Can a GP practice refuse to register you for not having ID or proof of address?",
+                options: [
+                    "Yes, ID is always required",
+                    "Yes, proof of address is mandatory",
+                    "No, they cannot refuse for lack of ID or proof of address",
+                    "Only if you're not a UK citizen"
+                ],
+                correct: 2,
+                explanation: "GP practices cannot refuse to register you because you don't have ID, proof of address, or an NHS number."
+            },
+            {
+                question: "Which NHS service should you use for urgent but non-life-threatening issues?",
+                options: [
+                    "Always call 999",
+                    "Go directly to A&E",
+                    "Use NHS 111 for advice",
+                    "Wait for your next GP appointment"
+                ],
+                correct: 2,
+                explanation: "NHS 111 provides advice for urgent but non-life-threatening issues. 999 is for emergencies only."
+            },
+            {
+                question: "What happens if you miss a GP appointment without canceling?",
+                options: [
+                    "Nothing, appointments are flexible",
+                    "You may be charged a fee",
+                    "You may forfeit your appointment slot",
+                    "You get automatically rescheduled"
+                ],
+                correct: 2,
+                explanation: "Missing appointments without canceling is frowned upon, and you may forfeit your slot. Always cancel if you can't attend."
+            }
+        ]
+    },
+    navigatingOfficialdom: {
+        title: "Navigating Officialdom",
+        questions: [
+            {
+                question: "When should you register your residence after moving to the UK?",
+                options: [
+                    "Whenever convenient",
+                    "Within the required legal timeframe",
+                    "Only if you plan to stay permanently",
+                    "Registration is optional"
+                ],
+                correct: 1,
+                explanation: "You must register within required timeframes. Delaying beyond legal deadlines can cause serious problems."
+            },
+            {
+                question: "What should you bring to official appointments?",
+                options: [
+                    "Just your passport",
+                    "Only the documents specifically requested",
+                    "All requested documents plus extras and copies",
+                    "Nothing, they have everything on file"
+                ],
+                correct: 2,
+                explanation: "Always bring all requested documents plus extras and make copies of everything. Over-preparation is better than under-preparation."
+            },
+            {
+                question: "How should you handle bureaucratic delays and processing times?",
+                options: [
+                    "Complain loudly to speed things up",
+                    "Skip the process and come back later",
+                    "Be patient and accept processing times",
+                    "Demand immediate service"
+                ],
+                correct: 2,
+                explanation: "Be patient with processing times. Bureaucratic processes take time, and getting frustrated won't help."
+            },
+            {
+                question: "What should you do immediately when starting work in the UK?",
+                options: [
+                    "Wait for your employer to handle everything",
+                    "Register for tax immediately",
+                    "Tax registration can wait until year-end",
+                    "Only register if earning over a threshold"
+                ],
+                correct: 1,
+                explanation: "Register for tax immediately when starting work. Keep all income and expense records from day one."
+            }
+        ]
+    },
+    educationSchools: {
+        title: "Education & Schools",
+        questions: [
+            {
+                question: "What is the UK school starting age?",
+                options: [
+                    "3 years old",
+                    "4-5 years old (Reception year)",
+                    "6 years old",
+                    "7 years old"
+                ],
+                correct: 1,
+                explanation: "Children typically start primary school in Reception year at age 4-5 in the UK."
+            },
+            {
+                question: "What should you do if your child is sick and cannot attend school?",
+                options: [
+                    "Just keep them home, no need to inform",
+                    "Send a note the next day",
+                    "Inform the school on the morning of absence",
+                    "Only inform for absences longer than a week"
+                ],
+                correct: 2,
+                explanation: "You must inform the school on the morning of any absence. Unexplained absences are taken seriously."
+            },
+            {
+                question: "How should you communicate with teachers about concerns?",
+                options: [
+                    "Confront them publicly at school gates",
+                    "Wait for the annual parent meeting",
+                    "Schedule an appointment or use provided communication channels",
+                    "Send your child with a verbal message"
+                ],
+                correct: 2,
+                explanation: "Schedule proper appointments or use school communication channels. Don't confront teachers publicly."
+            },
+            {
+                question: "What is the role of parent involvement in UK schools?",
+                options: [
+                    "Parents should not be involved",
+                    "Only attend if specifically requested",
+                    "Involvement through PTA, volunteering, and school events is valued",
+                    "Teachers handle everything"
+                ],
+                correct: 2,
+                explanation: "Parent involvement through PTA, volunteering, and attending school events is highly valued and helps your child's integration."
+            }
+        ]
+    },
+    religionFaith: {
+        title: "Religion & Faith",
+        questions: [
+            {
+                question: "How is religion generally viewed in UK society?",
+                options: [
+                    "Mandatory church attendance expected",
+                    "Religion is banned in public",
+                    "Considered private; secular society with freedom of religion",
+                    "Only Christianity is accepted"
+                ],
+                correct: 2,
+                explanation: "The UK is largely secular with freedom of religion. Religion is considered a private matter, and all faiths are protected."
+            },
+            {
+                question: "Can you request time off for religious observances at work?",
+                options: [
+                    "No, work always comes first",
+                    "Yes, employers must make reasonable accommodations",
+                    "Only for Christian holidays",
+                    "Only if you're a religious leader"
+                ],
+                correct: 1,
+                explanation: "Employers must make reasonable accommodations for religious observances under UK equality laws."
+            },
+            {
+                question: "How should you discuss religion in the UK?",
+                options: [
+                    "Proselytize and convert others actively",
+                    "Keep it private unless others raise the topic",
+                    "Criticize other religions openly",
+                    "Religion should never be mentioned"
+                ],
+                correct: 1,
+                explanation: "Religion is considered private in the UK. Keep it to yourself unless others raise the topic, and always respect different beliefs."
+            },
+            {
+                question: "What is the UK's legal stance on religious discrimination?",
+                options: [
+                    "No protections exist",
+                    "Protected only in the workplace",
+                    "Illegal under equality laws with strong protections",
+                    "Only majority religions are protected"
+                ],
+                correct: 2,
+                explanation: "Religious discrimination is illegal under UK equality laws, with strong protections for all faiths and beliefs."
+            }
+        ]
     }
 };
 
