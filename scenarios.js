@@ -553,7 +553,7 @@ const scenarios = {
         }
     },
     teamOnboarding: {
-        title: "🏢 Team Onboarding & Corporate Integration",
+        title: "🏢 Team Onboarding & Workplace Integration",
         description: "Navigate your first weeks at a new company with confidence",
         contexts: {
             firstDay: {
