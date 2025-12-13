@@ -1447,6 +1447,12 @@ const scenarios = {
                                 "Skip informing authorities if required to report activities",
                                 "View volunteering as beneath your qualifications"
                             ]
+                        },
+                        culturalNuances: {
+                            england: "Volunteering highly valued culturally. Charity shops, food banks, and community centers welcome volunteers.",
+                            centralEurope: "Vereinskultur (club culture) important. Check Ehrenamtliche Tätigkeit (voluntary work) regulations carefully.",
+                            scandinavia: "Strong volunteer tradition. Check with Migrationsverket about permitted activities during asylum process.",
+                            mediterranean: "Community and church organizations active. Personal connections through volunteering highly valuable."
                         }
                     },
                     {
@@ -1466,6 +1472,12 @@ const scenarios = {
                                 "Ignore soft skills like communication and teamwork",
                                 "Dismiss non-traditional learning paths"
                             ]
+                        },
+                        culturalNuances: {
+                            england: "OpenLearn and FutureLearn UK-based. Libraries offer free digital skills courses. City & Guilds qualifications recognized.",
+                            centralEurope: "VHS (Volkshochschule) offers affordable in-person courses. IHK certificates highly valued for trades.",
+                            scandinavia: "Studyportalen and Folkuniversitetet offer courses. Digital skills highly valued in tech-forward societies.",
+                            mediterranean: "EU-funded programs available. Professional orders (ordini professionali) regulate many fields."
                         }
                     }
                 ]
@@ -1491,6 +1503,12 @@ const scenarios = {
                                 "Isolate yourself due to financial stress",
                                 "Engage in illegal work that risks your status"
                             ]
+                        },
+                        culturalNuances: {
+                            england: "Trussell Trust food banks widespread. Citizens Advice Bureau helps with benefits. NHS care varies by visa status.",
+                            centralEurope: "Tafel (food banks) available. Caritas and Diakonie provide support. Strict rules on Sozialhilfe (welfare) eligibility.",
+                            scandinavia: "Strong social safety net but eligibility varies. Red Cross and Save the Children active. Municipality (kommun) provides support.",
+                            mediterranean: "Church and family networks important. Caritas, Red Cross active. Informal economy exists but avoid it."
                         }
                     },
                     {
@@ -1509,6 +1527,12 @@ const scenarios = {
                                 "Assume 'everyone does it' regarding unauthorized work",
                                 "Risk your immigration status for short-term income"
                             ]
+                        },
+                        culturalNuances: {
+                            england: "Right to work checks strictly enforced. Some asylum seekers can apply for permission to work after 12 months.",
+                            centralEurope: "Arbeitserlaubnis (work permit) required. Schwarzarbeit (illegal work) heavily penalized. Self-employment rules complex.",
+                            scandinavia: "Work permit required before starting. Tax registration mandatory. Digital payment systems reduce cash work opportunities.",
+                            mediterranean: "Work permits vary by country. Grey economy exists but risky. Autonomo (self-employment) registration possible in some cases."
                         }
                     }
                 ]
@@ -1534,6 +1558,12 @@ const scenarios = {
                                 "Give up on planning for the future",
                                 "Let uncertainty paralyze all activity"
                             ]
+                        },
+                        culturalNuances: {
+                            england: "Mind and Samaritans offer support. GP can refer to NHS mental health services. Stiff upper lip culture exists but seeking help increasingly accepted.",
+                            centralEurope: "Psychotherapie covered by insurance in some cases. Employee assistance programs common. Some stigma around mental health remains.",
+                            scandinavia: "Strong mental health support systems. 1177 (Sweden), Helsedirektoratet (Norway) provide info. Therapy culturally accepted.",
+                            mediterranean: "Family support emphasized. Growing acceptance of mental health services. NGOs active in providing counseling."
                         }
                     },
                     {
@@ -1553,6 +1583,12 @@ const scenarios = {
                                 "Hide your background or status unnecessarily",
                                 "Give up on professional aspirations"
                             ]
+                        },
+                        culturalNuances: {
+                            england: "National Careers Service and Jobcentre Plus offer support. CV format: no photo, 2 pages max. Modesty valued in interviews.",
+                            centralEurope: "Arbeitsagentur (employment agency) provides support. CV includes photo. Qualifications and certificates crucial.",
+                            scandinavia: "Arbetsförmedlingen (Sweden), NAV (Norway) provide extensive support. Equality valued - don't oversell or undersell.",
+                            mediterranean: "Personal connections important. Cover letters should show enthusiasm. Professional networks (LinkedIn) increasingly used."
                         }
                     }
                 ]
@@ -1603,6 +1639,12 @@ const scenarios = {
                                 "Exaggerate language proficiency levels",
                                 "Use overly complex language or jargon"
                             ]
+                        },
+                        culturalNuances: {
+                            england: "No photo on CV. 2 pages maximum. Focus on achievements. Cover letter important. 'References available upon request'.",
+                            centralEurope: "Photo required (professional headshot). Lebenslauf format standardized. Certificates attached. Europass CV format accepted.",
+                            scandinavia: "Photo optional but common. Brief and concise (1-2 pages). Personal letter (personligt brev) crucial. List references.",
+                            mediterranean: "Photo common. Educational background emphasized. Cover letter shows personality and motivation. European CV format (Europass) used."
                         }
                     }
                 ]
