@@ -136,6 +136,16 @@ php -S localhost:8000
 
 Then visit `http://localhost:8000` in your browser.
 
+### GitHub Pages Deployment
+
+This project is designed to be hosted on GitHub Pages:
+
+1. **Enable GitHub Pages** in your repository settings
+2. Select "main" branch and "/ (root)" directory as the source
+3. Your site will be live at `https://[username].github.io/The-Cultural-User-Manual/`
+
+See [CONFIGURATION.md](CONFIGURATION.md) for detailed setup instructions, including how to configure the feedback form and customize features.
+
 ---
 
 ## 🎮 Interactive Features Guide
