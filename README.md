@@ -2,7 +2,7 @@
 
 **Your Interactive Guide to Cultural Integration in Europe**
 
-An open-source web application providing scenario-based, interactive cultural guidance for immigrants and international professionals moving to Europe. Now featuring interactive quizzes, role-based personalization, and B2B corporate onboarding capabilities.
+An open-source web application providing scenario-based, interactive cultural guidance for immigrants and international professionals moving to Europe. Now featuring interactive quizzes, role-based personalization, and comprehensive cultural learning modules.
 
 **✨ NEW: Special guidance for migrants awaiting documentation and preparing for workforce entry**
 
@@ -16,7 +16,6 @@ The Cultural User Manual helps immigrants successfully integrate into European c
 - **Interactive Learning**: Quizzes, "dos/don'ts" cards, simulations, and etiquette scoreboards
 - **Role-Based Guidance**: Personalized content for students, remote workers, spouses, professionals, entrepreneurs, retirees, and **migrants awaiting documentation**
 - **Pathways to Employment**: Comprehensive guidance for those preparing to enter the workforce, including credential recognition, language learning, and alternative pathways
-- **Professional Onboarding**: B2B capabilities for companies to use for multicultural team onboarding
 - **Localized Nuance**: Detailed guidance on dialects, nonverbal cues, negotiation styles, humor, and gifting customs
 - **Privacy-Friendly**: No ads, no tracking, minimal data collection—all progress stored locally on your device
 
@@ -79,15 +78,6 @@ Monitor your cultural competency:
 - Visual scoreboard with badges
 - All data stored locally (privacy-friendly!)
 
-### 🏢 B2B Corporate Features
-
-For companies onboarding international teams:
-- Team cultural training programs
-- Progress tracking for team members
-- Compliance-ready diversity training documentation
-- Customizable content for specific industries
-- Enterprise licensing options
-
 ### 🎨 Modern Interactive UI
 
 - Flip cards for dos and don'ts
@@ -128,8 +118,6 @@ The app covers essential areas of cultural integration:
    - Explore scenario-based guidance
    - Select a role profile for personalized content
    - Track your progress on the scoreboard
-
-3. **For Companies**: Check out the B2B section for corporate onboarding options
 
 ### Running Locally with a Server
 
@@ -178,31 +166,6 @@ Then visit `http://localhost:8000` in your browser.
 1. Select a role profile that matches your situation
 2. Get personalized content recommendations
 3. Your preference is saved locally for future visits
-
----
-
-## 🏢 For Companies & Organizations
-
-### B2B Features
-
-The Cultural User Manual can be customized for corporate use:
-
-- **Onboarding Programs**: Structured cultural training for international hires
-- **Team Training**: Group sessions with progress tracking
-- **Compliance**: Meet diversity and inclusion requirements
-- **Custom Content**: Tailor scenarios to your industry
-- **Reporting**: Track team cultural competency development
-- **White-Label Options**: Brand the experience for your organization
-
-### Benefits
-
-- ✅ Reduce integration time for international employees
-- ✅ Improve retention through better cultural fit
-- ✅ Enhance cross-cultural team collaboration
-- ✅ Meet legal diversity training requirements
-- ✅ Privacy-focused with no external data sharing
-
-For enterprise inquiries, please open an issue on GitHub or contact us at the repository.
 
 ---
 
@@ -526,7 +489,6 @@ Please ensure:
 - [x] Scenario-based learning modules
 - [x] Role-based personalization
 - [x] Progress tracking scoreboard
-- [x] B2B/corporate features
 - [ ] Additional quiz categories
 - [ ] More workplace scenarios
 - [ ] Video scenario demonstrations
@@ -547,7 +509,6 @@ Please ensure:
 - [ ] Community-contributed scenarios
 - [ ] Virtual reality cultural simulations
 - [ ] Integration with language learning platforms
-- [ ] Corporate API for enterprise systems
 - [ ] Certification programs
 - [ ] Mentor matching system
 
@@ -599,7 +560,6 @@ See the LICENSE file for full details.
 - **Issues**: Use GitHub Issues for bug reports and feature requests
 - **Discussions**: Use GitHub Discussions for questions and ideas
 - **Security**: Report security issues privately via GitHub Security Advisories
-- **Enterprise**: Contact via GitHub for B2B licensing inquiries
 
 ---
 
