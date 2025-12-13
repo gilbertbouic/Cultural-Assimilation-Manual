@@ -877,11 +877,12 @@ body.country-baltics footer {
     border-radius: 15px;
     text-align: center;
     cursor: pointer;
-    transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+    transition: all 0.3s ease;
     border: 2px solid #e8e8ff;
     box-shadow: 0 4px 15px rgba(102, 126, 234, 0.1);
     position: relative;
     overflow: hidden;
+    will-change: transform;
 }
 
 .scenario-category-card::before {
@@ -901,7 +902,7 @@ body.country-baltics footer {
 }
 
 .scenario-category-card:hover {
-    transform: translateY(-8px) scale(1.02);
+    transform: translateY(-8px);
     box-shadow: 0 15px 35px rgba(102, 126, 234, 0.25);
     border-color: #667eea;
     background: linear-gradient(135deg, #ffffff 0%, #e8e8ff 100%);
@@ -915,7 +916,7 @@ body.country-baltics footer {
 }
 
 .scenario-category-card:hover .scenario-icon {
-    transform: scale(1.1) rotate(5deg);
+    transform: scale(1.1);
 }
 
 .scenario-category-card h3 {
