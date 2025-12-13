@@ -11,8 +11,7 @@ function showSection(sectionName) {
         'role-selection',
         'scenarios-section',
         'quizzes-section',
-        'scoreboard-section',
-        'b2b-section'
+        'scoreboard-section'
     ];
     
     sections.forEach(id => {
@@ -41,10 +40,6 @@ function showSection(sectionName) {
             targetSection = 'scoreboard-section';
             document.body.className = '';
             renderScoreboard();
-            break;
-        case 'b2b':
-            targetSection = 'b2b-section';
-            document.body.className = '';
             break;
         case 'roles':
             targetSection = 'role-selection';
