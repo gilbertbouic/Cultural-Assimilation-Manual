@@ -1326,21 +1326,144 @@ body.country-baltics footer {
 @media (max-width: 768px) {
     .header-nav {
         gap: 0.5rem;
+        flex-wrap: wrap;
     }
     
     .nav-btn {
-        padding: 0.4rem 0.8rem;
-        font-size: 0.85rem;
+        padding: 0.5rem 1rem;
+        font-size: 0.9rem;
     }
     
     .scenario-categories,
     .quiz-selection-grid,
     .b2b-features {
         grid-template-columns: 1fr;
+        gap: 1rem;
+    }
+    
+    .scenario-category-card,
+    .quiz-card {
+        padding: 1.5rem;
+    }
+    
+    .scenario-icon,
+    .quiz-icon {
+        font-size: 2.5rem;
+    }
+    
+    .scenario-context-detail {
+        padding: 1.5rem;
+    }
+    
+    .situation-group {
+        padding: 1.5rem;
+    }
+    
+    .situation-card {
+        padding: 1.5rem;
+    }
+    
+    .situation-card h5 {
+        font-size: 1.1rem;
+    }
+    
+    .cultural-nuances {
+        padding: 1rem;
+    }
+    
+    .nuance-item {
+        padding: 0.6rem;
+        font-size: 0.95rem;
+    }
+    
+    .dos-donts-card {
+        height: auto;
+        min-height: 400px;
+    }
+    
+    .card-front, .card-back {
+        padding: 1.5rem;
+    }
+    
+    .card-list li {
+        padding: 0.75rem;
+        padding-left: 2.5rem;
+        font-size: 0.9rem;
     }
     
     .footer-content {
         grid-template-columns: 1fr;
         gap: 1rem;
+    }
+    
+    h1 {
+        font-size: 1.8rem;
+    }
+    
+    h2 {
+        font-size: 1.5rem;
+    }
+    
+    .intro-content {
+        padding: 1.5rem;
+    }
+}
+
+@media (max-width: 480px) {
+    .header-nav {
+        gap: 0.3rem;
+    }
+    
+    .nav-btn {
+        padding: 0.4rem 0.7rem;
+        font-size: 0.8rem;
+    }
+    
+    .scenario-category-card,
+    .quiz-card {
+        padding: 1.25rem;
+    }
+    
+    .scenario-icon,
+    .quiz-icon {
+        font-size: 2.2rem;
+    }
+    
+    .scenario-category-card h3,
+    .quiz-card h3 {
+        font-size: 1rem;
+    }
+    
+    .scenario-category-card p,
+    .quiz-card p {
+        font-size: 0.85rem;
+    }
+    
+    .scenario-context-detail {
+        padding: 1rem;
+    }
+    
+    .situation-group {
+        padding: 1rem;
+    }
+    
+    .situation-card {
+        padding: 1rem;
+    }
+    
+    .situation-card h5 {
+        font-size: 1rem;
+    }
+    
+    .card-list li {
+        font-size: 0.85rem;
+    }
+    
+    h1 {
+        font-size: 1.5rem;
+    }
+    
+    h2 {
+        font-size: 1.3rem;
     }
 }
