@@ -59,13 +59,17 @@ const scenarios = {
                                 "Come prepared with agenda items reviewed",
                                 "Wait for appropriate moments to speak",
                                 "Support your points with clear reasoning",
-                                "Acknowledge others' contributions"
+                                "Acknowledge others' contributions",
+                                "Take notes on action items",
+                                "Follow up on commitments made"
                             ],
                             donts: [
                                 "Dominate the discussion",
                                 "Interrupt or talk over colleagues",
                                 "Check your phone during presentations",
-                                "Introduce new topics without relevance"
+                                "Introduce new topics without relevance",
+                                "Arrive late without apology",
+                                "Leave early without explanation"
                             ]
                         },
                         culturalNuances: {
@@ -73,6 +77,27 @@ const scenarios = {
                             centralEurope: "Direct communication expected. Silence means thinking, not agreement.",
                             scandinavia: "Consensus-driven. Everyone's opinion matters equally regardless of rank.",
                             mediterranean: "Animated discussion is normal. Overlap in conversation is acceptable."
+                        }
+                    },
+                    {
+                        scenario: "Video conference etiquette",
+                        dosAndDonts: {
+                            dos: [
+                                "Test technology before the meeting",
+                                "Use a professional background or blur",
+                                "Mute when not speaking",
+                                "Look at the camera when speaking",
+                                "Dress professionally from waist up",
+                                "Have good lighting on your face"
+                            ],
+                            donts: [
+                                "Eat during video calls",
+                                "Have distracting backgrounds",
+                                "Multitask obviously",
+                                "Forget to unmute when speaking",
+                                "Attend from bed or inappropriate locations",
+                                "Have poor lighting making you hard to see"
+                            ]
                         }
                     }
                 ]
@@ -87,13 +112,64 @@ const scenarios = {
                                 "Use appropriate greetings (Dear/Hi based on relationship)",
                                 "Keep messages clear and concise",
                                 "Use proper grammar and punctuation",
-                                "Sign off professionally (Best regards, Kind regards)"
+                                "Sign off professionally (Best regards, Kind regards)",
+                                "Include clear subject lines",
+                                "Respond within 24 hours"
                             ],
                             donts: [
                                 "Use excessive exclamation marks",
                                 "Write in all caps",
                                 "Send emails late at night expecting immediate responses",
-                                "Use emojis in formal business communication"
+                                "Use emojis in formal business communication",
+                                "Reply-all unnecessarily",
+                                "Forward without context"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Using instant messaging at work",
+                        dosAndDonts: {
+                            dos: [
+                                "Set status to indicate availability",
+                                "Keep messages professional",
+                                "Use threads to organize conversations",
+                                "Respect 'Do Not Disturb' status",
+                                "Use appropriate channels for topics",
+                                "Respond within reasonable time during work hours"
+                            ],
+                            donts: [
+                                "Message people constantly without regard to their status",
+                                "Share sensitive information via chat",
+                                "Use excessive GIFs or memes",
+                                "Expect instant responses outside work hours",
+                                "Have important discussions that should be in email",
+                                "Send 'hello' and wait for response before asking question"
+                            ]
+                        }
+                    }
+                ]
+            },
+            presentations: {
+                title: "Presentations & Public Speaking",
+                situations: [
+                    {
+                        scenario: "Giving workplace presentations",
+                        dosAndDonts: {
+                            dos: [
+                                "Practice your presentation beforehand",
+                                "Prepare for technical difficulties",
+                                "Start with clear objectives",
+                                "Use visual aids appropriately",
+                                "Engage your audience with questions",
+                                "End with clear takeaways and next steps"
+                            ],
+                            donts: [
+                                "Read slides word-for-word",
+                                "Go over allocated time",
+                                "Use too much jargon",
+                                "Ignore audience questions",
+                                "Have cluttered, text-heavy slides",
+                                "Turn your back to the audience"
                             ]
                         }
                     }
@@ -143,13 +219,75 @@ const scenarios = {
                                 "Understand prescription charges in your country",
                                 "Ask pharmacist for advice on minor ailments",
                                 "Keep prescription records organized",
-                                "Set up repeat prescription systems if needed"
+                                "Set up repeat prescription systems if needed",
+                                "Check medication instructions carefully",
+                                "Ask about potential side effects"
                             ],
                             donts: [
                                 "Expect immediate availability of all medications",
                                 "Argue about prescription charges",
                                 "Self-diagnose serious conditions",
-                                "Skip doses or alter prescribed amounts"
+                                "Skip doses or alter prescribed amounts",
+                                "Share prescription medications",
+                                "Ignore pharmacist's advice"
+                            ]
+                        }
+                    }
+                ]
+            },
+            mentalHealth: {
+                title: "Mental Health Services",
+                situations: [
+                    {
+                        scenario: "Accessing mental health support",
+                        dosAndDonts: {
+                            dos: [
+                                "Talk to your GP as first step",
+                                "Be honest about your symptoms",
+                                "Ask about available services and waiting times",
+                                "Consider both NHS and private options",
+                                "Use helplines for immediate support",
+                                "Follow through with recommended treatments"
+                            ],
+                            donts: [
+                                "Minimize your symptoms to appear 'strong'",
+                                "Wait until crisis point to seek help",
+                                "Stop medication without consulting doctor",
+                                "Be ashamed to ask for help",
+                                "Ignore warning signs in yourself or others",
+                                "Dismiss therapy as 'not for you'"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Mental health increasingly accepted. NHS provides services. Use IAPT for therapy referral.",
+                            centralEurope: "Professional support available. Less stigma than past. Private options common.",
+                            scandinavia: "Mental health support strong. Work-life balance emphasized. Open discussion encouraged.",
+                            mediterranean: "Growing awareness. Family support important. Professional services expanding."
+                        }
+                    }
+                ]
+            },
+            specialists: {
+                title: "Seeing Specialists",
+                situations: [
+                    {
+                        scenario: "Attending specialist appointments",
+                        dosAndDonts: {
+                            dos: [
+                                "Bring referral letter from GP",
+                                "Arrive with all medical records and test results",
+                                "Write down questions beforehand",
+                                "Take notes during the appointment",
+                                "Ask about next steps and follow-up",
+                                "Understand treatment options and timelines"
+                            ],
+                            donts: [
+                                "Attend without proper referral",
+                                "Be late for appointments",
+                                "Withhold medical history",
+                                "Forget to ask about costs (if private)",
+                                "Ignore follow-up appointments",
+                                "Self-discharge against medical advice"
                             ]
                         }
                     }
@@ -199,13 +337,69 @@ const scenarios = {
                                 "Register for tax immediately when starting work",
                                 "Keep all income and expense records",
                                 "File tax returns on time",
-                                "Seek professional help if needed"
+                                "Seek professional help if needed",
+                                "Understand tax brackets and allowances",
+                                "Keep correspondence from tax authorities"
                             ],
                             donts: [
                                 "Ignore tax obligations",
                                 "Miss filing deadlines",
                                 "Mix personal and business finances",
-                                "Assume your home country tax rules apply"
+                                "Assume your home country tax rules apply",
+                                "Ignore letters from tax authorities",
+                                "Claim false deductions"
+                            ]
+                        }
+                    }
+                ]
+            },
+            visaImmigration: {
+                title: "Visa & Immigration Matters",
+                situations: [
+                    {
+                        scenario: "Managing visa requirements",
+                        dosAndDonts: {
+                            dos: [
+                                "Keep track of visa expiry dates",
+                                "Apply for extensions well in advance",
+                                "Maintain required documentation",
+                                "Report address changes if required",
+                                "Understand your visa conditions and restrictions",
+                                "Keep copies of all immigration documents"
+                            ],
+                            donts: [
+                                "Let visa expire",
+                                "Work beyond visa restrictions",
+                                "Ignore correspondence from immigration",
+                                "Travel without proper documentation",
+                                "Provide false information",
+                                "Miss biometric appointments"
+                            ]
+                        }
+                    }
+                ]
+            },
+            utilities: {
+                title: "Setting Up Utilities",
+                situations: [
+                    {
+                        scenario: "Connecting utilities and services",
+                        dosAndDonts: {
+                            dos: [
+                                "Set up utilities before moving in if possible",
+                                "Take meter readings on moving day",
+                                "Compare providers and tariffs",
+                                "Set up direct debit payments",
+                                "Understand contract terms and cancellation policies",
+                                "Keep records of all communications"
+                            ],
+                            donts: [
+                                "Assume utilities transfer automatically",
+                                "Ignore final bills from previous address",
+                                "Sign long contracts without reading terms",
+                                "Forget to notify when moving out",
+                                "Leave bills unpaid",
+                                "Share utility accounts with strangers"
                             ]
                         }
                     }
@@ -255,20 +449,103 @@ const scenarios = {
                                 "Participate in 'rounds' system where applicable",
                                 "Know your drinking limits",
                                 "Engage in friendly conversation",
-                                "Say goodbye when leaving"
+                                "Say goodbye when leaving",
+                                "Order at the bar (not table service)",
+                                "Respect personal space in crowded venues"
                             ],
                             donts: [
                                 "Skip your round",
                                 "Get excessively drunk",
                                 "Discuss sensitive work matters",
-                                "Sneak away without saying goodbye (Irish goodbye)"
+                                "Sneak away without saying goodbye (Irish goodbye)",
+                                "Be loud or disruptive",
+                                "Pressure others to drink more"
                             ]
                         },
                         culturalNuances: {
                             england: "Rounds system is important. Don't lean on the bar. Queue properly.",
-                            centralEurope: "Beer culture is serious. Quality over quantity.",
-                            scandinavia: "Alcohol is expensive. Pre-drinking is common.",
-                            mediterranean: "Wine with meals. Coffee culture may be stronger than alcohol."
+                            centralEurope: "Beer culture is serious. Quality over quantity. Toast properly.",
+                            scandinavia: "Alcohol is expensive. Pre-drinking is common. Know your limits.",
+                            mediterranean: "Wine with meals. Coffee culture may be stronger than alcohol. Social, not excessive."
+                        }
+                    }
+                ]
+            },
+            celebrations: {
+                title: "Celebrations & Gift-Giving",
+                situations: [
+                    {
+                        scenario: "Birthday and holiday celebrations",
+                        dosAndDonts: {
+                            dos: [
+                                "Acknowledge colleagues' birthdays",
+                                "Contribute to group gifts when appropriate",
+                                "Respect different holiday traditions",
+                                "Bring treats if it's your birthday (some cultures)",
+                                "Send cards or messages for major holidays",
+                                "Be inclusive of all celebrations"
+                            ],
+                            donts: [
+                                "Assume everyone celebrates the same holidays",
+                                "Give overly expensive or inappropriate gifts",
+                                "Force participation in celebrations",
+                                "Forget to thank gift-givers",
+                                "Make holidays all about your religion",
+                                "Ignore office birthday traditions"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Wedding and formal event invitations",
+                        dosAndDonts: {
+                            dos: [
+                                "RSVP by the deadline",
+                                "Follow dress code specified",
+                                "Give gifts from registry if provided",
+                                "Arrive on time",
+                                "Stay for the ceremony and meal",
+                                "Thank hosts before leaving"
+                            ],
+                            donts: [
+                                "Bring uninvited guests",
+                                "Wear white to weddings (unless bride)",
+                                "Get drunk and cause scenes",
+                                "Leave immediately after dinner",
+                                "Complain about food or venue",
+                                "Post photos before the couple does"
+                            ]
+                        }
+                    }
+                ]
+            },
+            dating: {
+                title: "Dating & Romantic Social Situations",
+                situations: [
+                    {
+                        scenario: "Dating etiquette and expectations",
+                        dosAndDonts: {
+                            dos: [
+                                "Be honest about your intentions",
+                                "Respect boundaries and consent",
+                                "Split bills or take turns paying",
+                                "Communicate clearly about expectations",
+                                "Be punctual for dates",
+                                "Accept rejection gracefully"
+                            ],
+                            donts: [
+                                "Pressure anyone into activities",
+                                "Move too fast without consent",
+                                "Play games or be dishonest",
+                                "Discuss marriage on first dates",
+                                "Stalk on social media excessively",
+                                "Ghost people without explanation"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Dating apps common. Split bills increasingly normal. Reserved at first.",
+                            centralEurope: "More traditional gender roles may exist. Direct communication valued.",
+                            scandinavia: "Very egalitarian. Equality expected. Casual dating common.",
+                            mediterranean: "Family involvement earlier. More traditional courtship in some areas."
                         }
                     }
                 ]
@@ -460,6 +737,608 @@ const scenarios = {
                                 "Avoid asking for language help",
                                 "Assume perfect English is required"
                             ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    transportation: {
+        title: "🚇 Transportation & Public Transit",
+        description: "Navigate public transportation systems with confidence",
+        contexts: {
+            publicTransit: {
+                title: "Using Public Transportation",
+                situations: [
+                    {
+                        scenario: "Riding buses and trains",
+                        dosAndDonts: {
+                            dos: [
+                                "Have payment ready before boarding",
+                                "Let passengers exit before boarding",
+                                "Offer seats to elderly, pregnant, or disabled passengers",
+                                "Keep bags close and out of the way",
+                                "Move into the carriage, don't block doorways",
+                                "Use headphones at reasonable volume"
+                            ],
+                            donts: [
+                                "Push to get on before others exit",
+                                "Take up multiple seats with bags",
+                                "Eat smelly food on public transit",
+                                "Play music or videos without headphones",
+                                "Block doors or aisles",
+                                "Talk loudly on your phone"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Queue properly at bus stops. Say 'thank you' to the driver when exiting. Minimal conversation expected.",
+                            centralEurope: "Have validated tickets before boarding. Punctuality is strict. Silent travel is preferred.",
+                            scandinavia: "Minimal conversation. Personal space is important. Mobile tickets are common.",
+                            mediterranean: "More relaxed timing. Conversations are normal. Family seating together is expected."
+                        }
+                    },
+                    {
+                        scenario: "Taking taxis and ride-sharing",
+                        dosAndDonts: {
+                            dos: [
+                                "Verify the vehicle and driver details",
+                                "Sit in back seat unless invited to front",
+                                "Have destination address ready",
+                                "Tip appropriately based on local customs",
+                                "Rate drivers fairly",
+                                "Keep conversation polite but brief"
+                            ],
+                            donts: [
+                                "Get in unmarked vehicles",
+                                "Be rude or demanding",
+                                "Eat or drink without asking",
+                                "Leave trash in the vehicle",
+                                "Slam doors",
+                                "Share personal information freely"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Cycling in the city",
+                        dosAndDonts: {
+                            dos: [
+                                "Wear a helmet and use lights at night",
+                                "Follow traffic rules and signals",
+                                "Use designated bike lanes where available",
+                                "Signal your turns clearly",
+                                "Lock your bike securely",
+                                "Respect pedestrians on shared paths"
+                            ],
+                            donts: [
+                                "Cycle on pavements/sidewalks unless permitted",
+                                "Run red lights",
+                                "Weave dangerously through traffic",
+                                "Cycle while using your phone",
+                                "Leave bikes blocking walkways",
+                                "Ignore local cycling regulations"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Cycling infrastructure varies. Follow highway code. High-vis clothing recommended.",
+                            centralEurope: "Excellent cycling infrastructure. Strict rules. Cyclists have clear rights and responsibilities.",
+                            scandinavia: "Cycling is common year-round. Well-maintained paths. Winter cycling gear needed.",
+                            mediterranean: "Less cycling infrastructure in many areas. More defensive cycling required."
+                        }
+                    }
+                ]
+            },
+            driving: {
+                title: "Driving and Car Ownership",
+                situations: [
+                    {
+                        scenario: "Driving etiquette and parking",
+                        dosAndDonts: {
+                            dos: [
+                                "Learn local traffic rules and signs",
+                                "Use indicators/turn signals properly",
+                                "Thank other drivers with a wave when appropriate",
+                                "Display valid parking permits",
+                                "Check parking restrictions carefully",
+                                "Be patient in traffic"
+                            ],
+                            donts: [
+                                "Honk unnecessarily or aggressively",
+                                "Block driveways or crosswalks",
+                                "Park in disabled spaces without a badge",
+                                "Speed in residential areas",
+                                "Use mobile phone while driving",
+                                "Engage in road rage"
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    shopping: {
+        title: "🛒 Shopping & Consumer Behavior",
+        description: "Navigate shopping customs and consumer expectations",
+        contexts: {
+            grocery: {
+                title: "Grocery Shopping",
+                situations: [
+                    {
+                        scenario: "Shopping in supermarkets",
+                        dosAndDonts: {
+                            dos: [
+                                "Bring reusable bags or purchase bags at checkout",
+                                "Queue properly at checkouts",
+                                "Have payment ready",
+                                "Return trolleys/carts to designated areas",
+                                "Check expiration dates",
+                                "Respect store closing times"
+                            ],
+                            donts: [
+                                "Open packages before purchasing",
+                                "Leave refrigerated items in wrong aisles",
+                                "Block aisles with your trolley",
+                                "Let children misbehave in stores",
+                                "Haggle over prices at supermarkets",
+                                "Take items from others' baskets"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Self-service checkouts common. Bag your own groceries quickly. Small talk with cashiers acceptable.",
+                            centralEurope: "Efficiency expected. Bag groceries yourself quickly. Sundays many shops closed.",
+                            scandinavia: "Self-service is norm. Bag your own. Recycling stations at stores important.",
+                            mediterranean: "Markets and small shops still popular. Longer shopping hours. More personal service."
+                        }
+                    },
+                    {
+                        scenario: "Shopping at local markets",
+                        dosAndDonts: {
+                            dos: [
+                                "Greet vendors politely",
+                                "Ask before touching produce",
+                                "Bring cash as many don't take cards",
+                                "Accept recommendations from vendors",
+                                "Return regularly to build relationships",
+                                "Be patient with queues"
+                            ],
+                            donts: [
+                                "Squeeze or damage produce excessively",
+                                "Haggle aggressively",
+                                "Skip the queue",
+                                "Compare prices loudly",
+                                "Take photos without asking",
+                                "Ignore vendors' greetings"
+                            ]
+                        }
+                    }
+                ]
+            },
+            retail: {
+                title: "Retail Shopping",
+                situations: [
+                    {
+                        scenario: "Shopping for clothing and goods",
+                        dosAndDonts: {
+                            dos: [
+                                "Greet staff when entering smaller shops",
+                                "Ask for help when needed",
+                                "Try clothes on properly in fitting rooms",
+                                "Understand return policies before purchasing",
+                                "Keep receipts for returns",
+                                "Respect closing times"
+                            ],
+                            donts: [
+                                "Damage items through careless handling",
+                                "Argue with sales assistants",
+                                "Return worn or damaged items",
+                                "Take items into fitting rooms without permission",
+                                "Leave clothes in heaps in fitting rooms",
+                                "Demand discounts without reason"
+                            ]
+                        }
+                    },
+                    {
+                        scenario: "Handling returns and complaints",
+                        dosAndDonts: {
+                            dos: [
+                                "Bring receipt and item in original condition",
+                                "Explain the issue calmly and clearly",
+                                "Know your consumer rights",
+                                "Be patient with the process",
+                                "Accept reasonable solutions",
+                                "Thank staff for their help"
+                            ],
+                            donts: [
+                                "Shout or be aggressive with staff",
+                                "Return items without proof of purchase",
+                                "Make unreasonable demands",
+                                "Threaten legal action immediately",
+                                "Blame individual staff for store policies",
+                                "Leave damaged items as 'found'"
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    housing: {
+        title: "🏠 Housing & Accommodation",
+        description: "Navigate rental markets and housing etiquette",
+        contexts: {
+            renting: {
+                title: "Renting Accommodation",
+                situations: [
+                    {
+                        scenario: "Viewing and applying for rentals",
+                        dosAndDonts: {
+                            dos: [
+                                "Arrive on time for viewings",
+                                "Ask about utilities, council tax, and contracts",
+                                "Take photos/notes during viewings",
+                                "Prepare references and employment proof",
+                                "Read tenancy agreements carefully",
+                                "Document existing damage before moving in"
+                            ],
+                            donts: [
+                                "Miss viewing appointments",
+                                "Criticize property rudely",
+                                "Make offers you can't commit to",
+                                "Skip reading the contract",
+                                "Provide false information",
+                                "Pay deposits to unlicensed landlords"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Deposits protected by law. Council tax separate. Six-month minimum leases common.",
+                            centralEurope: "Unfurnished is norm. Longer notice periods. Kitchen may not be included in some places.",
+                            scandinavia: "Queue systems for popular areas. High deposits. Strong tenant protections.",
+                            mediterranean: "Personal connections help. Longer negotiation processes. Furnished more common."
+                        }
+                    },
+                    {
+                        scenario: "Living in shared accommodation",
+                        dosAndDonts: {
+                            dos: [
+                                "Establish house rules early",
+                                "Clean up after yourself immediately",
+                                "Respect quiet hours",
+                                "Replace shared items you use",
+                                "Pay bills on time",
+                                "Communicate openly about issues"
+                            ],
+                            donts: [
+                                "Leave dirty dishes in shared areas",
+                                "Take others' food without asking",
+                                "Have parties without prior notice",
+                                "Monopolize shared spaces",
+                                "Skip your share of cleaning",
+                                "Leave bathroom in a mess"
+                            ]
+                        }
+                    }
+                ]
+            },
+            neighbors: {
+                title: "Neighbor Relations",
+                situations: [
+                    {
+                        scenario: "Being a good neighbor",
+                        dosAndDonts: {
+                            dos: [
+                                "Introduce yourself when moving in",
+                                "Keep noise down, especially at night",
+                                "Inform neighbors of any loud events in advance",
+                                "Maintain your property/garden",
+                                "Help elderly neighbors when appropriate",
+                                "Respect parking spaces and shared areas"
+                            ],
+                            donts: [
+                                "Play loud music late at night",
+                                "Let pets disturb neighbors",
+                                "Block shared hallways or driveways",
+                                "Have frequent loud parties",
+                                "Let your property become unsightly",
+                                "Ignore neighbor complaints"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Privacy valued. Brief friendly chats acceptable. Noise complaints taken seriously.",
+                            centralEurope: "Sunday quiet laws exist. Separate waste properly. Maintain properties well.",
+                            scandinavia: "Respect personal space. Noise regulations strict. Community responsibility valued.",
+                            mediterranean: "More social interaction. Outdoor living common. Later noise tolerance."
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    emergencies: {
+        title: "🚨 Emergency Situations",
+        description: "Handle urgent situations appropriately and safely",
+        contexts: {
+            medical: {
+                title: "Medical Emergencies",
+                situations: [
+                    {
+                        scenario: "Calling emergency services",
+                        dosAndDonts: {
+                            dos: [
+                                "Know emergency numbers (112 EU-wide, 999 UK, 911 some places)",
+                                "Stay calm and speak clearly",
+                                "Provide exact location and situation details",
+                                "Follow dispatcher instructions",
+                                "Stay on line until told to hang up",
+                                "Provide medical history if relevant"
+                            ],
+                            donts: [
+                                "Call for non-emergencies",
+                                "Panic or shout",
+                                "Hang up before giving information",
+                                "Move injured persons unnecessarily",
+                                "Leave before help arrives (if safe)",
+                                "Provide false information"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "999 or 112 for emergencies. NHS 111 for urgent non-emergency. A&E for serious issues only.",
+                            centralEurope: "112 Europe-wide. Separate numbers for police, fire, ambulance in some countries.",
+                            scandinavia: "112 universal. Emergency services highly efficient. Use appropriately only.",
+                            mediterranean: "112 emergency number. Response times vary by area. Private hospitals option."
+                        }
+                    },
+                    {
+                        scenario: "First aid and helping others",
+                        dosAndDonts: {
+                            dos: [
+                                "Ask before providing help",
+                                "Call professional help immediately",
+                                "Provide comfort and reassurance",
+                                "Follow Good Samaritan principles",
+                                "Stay until help arrives if possible",
+                                "Give clear information to paramedics"
+                            ],
+                            donts: [
+                                "Perform medical procedures you're not trained for",
+                                "Move accident victims without need",
+                                "Leave someone in danger",
+                                "Film or photograph victims",
+                                "Crowd around injured persons",
+                                "Remove protective equipment from professionals"
+                            ]
+                        }
+                    }
+                ]
+            },
+            safety: {
+                title: "Personal Safety",
+                situations: [
+                    {
+                        scenario: "Staying safe in public",
+                        dosAndDonts: {
+                            dos: [
+                                "Be aware of your surroundings",
+                                "Trust your instincts",
+                                "Keep valuables secure and hidden",
+                                "Know safe routes home",
+                                "Stay in well-lit, populated areas at night",
+                                "Have emergency contacts easily accessible"
+                            ],
+                            donts: [
+                                "Display expensive items openly",
+                                "Walk alone in unfamiliar areas late at night",
+                                "Accept drinks from strangers",
+                                "Share personal details with strangers",
+                                "Use phone while walking in risky areas",
+                                "Ignore suspicious behavior"
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    banking: {
+        title: "🏦 Banking & Financial Services",
+        description: "Navigate banking systems and financial transactions",
+        contexts: {
+            accounts: {
+                title: "Opening and Managing Accounts",
+                situations: [
+                    {
+                        scenario: "Opening a bank account",
+                        dosAndDonts: {
+                            dos: [
+                                "Bring required ID and proof of address",
+                                "Research banks and compare fees",
+                                "Book appointments in advance",
+                                "Ask about international transfers if needed",
+                                "Set up online banking immediately",
+                                "Understand overdraft terms"
+                            ],
+                            donts: [
+                                "Provide false information",
+                                "Ignore terms and conditions",
+                                "Skip reading fee structures",
+                                "Use accounts for illegal activities",
+                                "Share account details or PINs",
+                                "Ignore suspicious activity"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Proof of address essential. Many online-only banks. Current accounts usually free.",
+                            centralEurope: "Registration address required. Fees common for accounts. Efficient online banking.",
+                            scandinavia: "Digital-first banking. Personal number essential. Mobile banking advanced.",
+                            mediterranean: "Traditional banking still common. Branch visits normal. Personal relationships matter."
+                        }
+                    },
+                    {
+                        scenario: "Using ATMs and cash machines",
+                        dosAndDonts: {
+                            dos: [
+                                "Shield PIN when entering",
+                                "Check for card skimmers",
+                                "Use machines in safe, well-lit locations",
+                                "Check your balance regularly",
+                                "Report lost cards immediately",
+                                "Keep receipts secure or destroy them"
+                            ],
+                            donts: [
+                                "Share your PIN with anyone",
+                                "Count money openly at ATM",
+                                "Leave receipts at machine",
+                                "Use suspicious-looking machines",
+                                "Let strangers help with transactions",
+                                "Write PIN on card"
+                            ]
+                        }
+                    }
+                ]
+            },
+            transactions: {
+                title: "Payments and Transactions",
+                situations: [
+                    {
+                        scenario: "Making everyday payments",
+                        dosAndDonts: {
+                            dos: [
+                                "Know whether to use chip-and-PIN or contactless",
+                                "Keep contactless limit in mind",
+                                "Verify amounts before confirming",
+                                "Keep receipts for large purchases",
+                                "Use secure payment methods online",
+                                "Monitor account for fraud"
+                            ],
+                            donts: [
+                                "Share card details over unsecure channels",
+                                "Save card details on public computers",
+                                "Ignore unusual transactions",
+                                "Use public WiFi for banking",
+                                "Keep all cards in one place",
+                                "Ignore payment confirmation emails"
+                            ]
+                        }
+                    }
+                ]
+            }
+        }
+    },
+    workplace_advanced: {
+        title: "💼 Advanced Workplace Scenarios",
+        description: "Navigate complex professional situations",
+        contexts: {
+            performance: {
+                title: "Performance Reviews and Feedback",
+                situations: [
+                    {
+                        scenario: "Preparing for performance reviews",
+                        dosAndDonts: {
+                            dos: [
+                                "Document your achievements throughout the year",
+                                "Prepare specific examples of successes",
+                                "Reflect honestly on areas for improvement",
+                                "Set realistic goals for next period",
+                                "Ask for clarification on feedback",
+                                "Take notes during the review"
+                            ],
+                            donts: [
+                                "Become defensive about criticism",
+                                "Make excuses for poor performance",
+                                "Blame colleagues for problems",
+                                "Exaggerate achievements",
+                                "Ignore feedback after the review",
+                                "Demand unrealistic raises or promotions"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Feedback often indirect and softened. 'Areas for development' means problems.",
+                            centralEurope: "Direct feedback expected. Criticism seen as professional, not personal.",
+                            scandinavia: "Collaborative approach. Self-assessment valued. Mutual dialogue expected.",
+                            mediterranean: "Relationship matters. Face-to-face preferred. More personal approach."
+                        }
+                    },
+                    {
+                        scenario: "Giving feedback to colleagues",
+                        dosAndDonts: {
+                            dos: [
+                                "Focus on specific behaviors, not personality",
+                                "Use 'I' statements and observations",
+                                "Offer feedback privately",
+                                "Balance criticism with recognition",
+                                "Provide actionable suggestions",
+                                "Choose appropriate timing"
+                            ],
+                            donts: [
+                                "Give feedback in anger",
+                                "Criticize publicly",
+                                "Make personal attacks",
+                                "Compare to other colleagues",
+                                "Bring up old issues repeatedly",
+                                "Offer unsolicited feedback constantly"
+                            ]
+                        }
+                    }
+                ]
+            },
+            conflicts: {
+                title: "Workplace Conflict Resolution",
+                situations: [
+                    {
+                        scenario: "Addressing disagreements with colleagues",
+                        dosAndDonts: {
+                            dos: [
+                                "Address issues early before they escalate",
+                                "Seek to understand their perspective",
+                                "Focus on the work problem, not personalities",
+                                "Propose solutions, not just complaints",
+                                "Keep discussions private",
+                                "Involve HR or management if needed"
+                            ],
+                            donts: [
+                                "Gossip about the conflict with others",
+                                "Send angry emails",
+                                "Give silent treatment",
+                                "Escalate unnecessarily to management",
+                                "Make threats or ultimatums",
+                                "Hold grudges long-term"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Indirect approach common. 'Clear the air' conversations. Mediation often used.",
+                            centralEurope: "Direct discussion acceptable. Professional focus. Clear resolution expected.",
+                            scandinavia: "Consensus-seeking. Open dialogue. Everyone's voice matters equally.",
+                            mediterranean: "Personal relationships important. Face-to-face preferred. Emotional expression acceptable."
+                        }
+                    }
+                ]
+            },
+            remote: {
+                title: "Remote and Hybrid Work",
+                situations: [
+                    {
+                        scenario: "Working effectively from home",
+                        dosAndDonts: {
+                            dos: [
+                                "Set up proper workspace",
+                                "Maintain regular working hours",
+                                "Communicate availability clearly",
+                                "Join video calls with camera on (when expected)",
+                                "Respond to messages promptly during work hours",
+                                "Take proper breaks and maintain boundaries"
+                            ],
+                            donts: [
+                                "Be unreachable during work hours",
+                                "Attend video calls in inappropriate settings",
+                                "Multitask obviously during meetings",
+                                "Miss deadlines without communication",
+                                "Work all hours without breaks",
+                                "Ignore team communication"
+                            ]
+                        },
+                        culturalNuances: {
+                            england: "Flexible working accepted. Trust-based. Results matter more than hours visible.",
+                            centralEurope: "Clear schedules expected. Structured approach. Punctuality for video calls.",
+                            scandinavia: "Strong work-life balance. Autonomy trusted. Results-focused.",
+                            mediterranean: "Building in-person relationships still valued. Video calls more personal."
                         }
                     }
                 ]
