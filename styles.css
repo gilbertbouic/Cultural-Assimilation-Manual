@@ -149,9 +149,9 @@ main {
     margin: 0;
 }
 
-/* Add extra margin for the country selection heading */
-#country-selection .heading-with-stars {
-    margin-bottom: 2rem;
+/* Remove extra margin for the country selection heading - now in hero-section */
+#country-selection .hero-section .heading-with-stars {
+    margin-bottom: 1rem;
 }
 
 .star-circle .star {
