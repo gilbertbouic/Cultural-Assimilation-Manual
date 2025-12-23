@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cultural Assimilation Manual</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/interactive-styles.css">
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Cultural Assimilation Manual 🌍</h1>
+            <p>Your Interactive Guide to Cultural Integration</p>
+        </div>
+        <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false">&#9776;</button>
+        <nav id="main-nav" aria-label="Main navigation">
+            <ul>
+                <li><a href="#region-select">Select Region</a></li>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#roles">Your Role</a></li>
+                <li><a href="#employment">Employment</a></li>
+                <li><a href="#progress">My Progress</a></li>
+                <li><a href="#snapshot">Snapshot</a></li>
+                <li><a href="#quizzes">Quizzes</a></li>
+                <li><a href="#scenarios">Scenarios</a></li>
+            </ul>
+        </nav>
+    </header>
+
+    <main>
+        <section id="region-select">
+            <h2>🌍 Select Your Region</h2>
+            <p>Choose the region you're moving to or interested in learning about:</p>
+            <div id="region-selector" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+                <button class="region-btn" data-region="united_states">🇺🇸 United States</button>
+                <button class="region-btn" data-region="united_kingdom">🇬🇧 United Kingdom</button>
+                <button class="region-btn" data-region="central_europe">🇩🇪🇦🇹🇨🇭 Central Europe</button>
+                <button class="region-btn" data-region="scandinavia">🇸🇪🇳🇴🇩🇰 Scandinavia</button>
+                <button class="region-btn" data-region="finland">🇫🇮 Finland</button>
+                <button class="region-btn" data-region="baltics">🇪🇪🇱🇻🇱🇹 Baltics</button>
+                <button class="region-btn" data-region="balkans">🇷🇸🇭🇷🇧🇦 Balkans</button>
+                <button class="region-btn" data-region="greece">🇬🇷 Greece</button>
+                <button class="region-btn" data-region="mediterranean">🇮🇹🇫🇷🇪🇸🇵🇹 Mediterranean</button>
+            </div>
+            <div id="current-region-display" style="margin-top: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; display: none;">
+                <strong>Currently viewing:</strong> <span id="current-region-name"></span>
+                <button id="change-region" style="margin-left: 10px;">Change Region</button>
+            </div>
+        </section>
+
+        <section id="about">
+            <h2>📖 About</h2>
+            <p>The Cultural-Assimilation-Manual helps immigrants successfully integrate into new cultures through:</p>
+            <ul>
+                <li><strong>Depth over Breadth</strong>: Highly structured, scenario-based cultural guidance tailored to specific contexts (workplace, healthcare, bureaucracy, social gatherings)</li>
+                <li><strong>Interactive Learning</strong>: Quizzes, "dos/don'ts" cards, simulations, and etiquette scoreboards</li>
+                <li><strong>Role-Based Guidance</strong>: Personalized content for students, remote workers, spouses, professionals, entrepreneurs, retirees, and **migrants awaiting documentation**</li>
+                <li><strong>Pathways to Employment</strong>: Comprehensive guidance for those preparing to enter the workforce, including credential recognition, language learning, and alternative pathways</li>
+                <li><strong>Localized Nuance</strong>: Detailed guidance on dialects, nonverbal cues, negotiation styles, humor, and gifting customs</li>
+                <li><strong>Privacy-Friendly</strong>: No ads, no tracking, minimal data collection—all progress stored locally on your device</li>
+            </ul>
+        </section>
+
+        <section id="features">
+            <h2>✨ Key Features</h2>
+            <h3>🎯 Scenario-Based Learning</h3>
+            <p>Navigate real-life situations with confidence.</p>
+            <h3>📝 Interactive Quizzes</h3>
+            <p>Test and reinforce your cultural knowledge.</p>
+            <h3>👤 Role-Based Personalization</h3>
+            <p>Select your profile for tailored guidance.</p>
+            <h3>📊 Progress Tracking</h3>
+            <p>Monitor your cultural competency.</p>
+            <h3>🎨 Modern Interactive UI</h3>
+            <p>Engaging and user-friendly interface.</p>
+        </section>
+
+        <section id="roles">
+            <h2>👤 Select Your Role</h2>
+            <div id="role-selection">
+                <label><input type="radio" name="role" value="student"> 🎓 International Student</label>
+                <label><input type="radio" name="role" value="remote"> 💻 Remote Worker</label>
+                <label><input type="radio" name="role" value="spouse"> 👨‍👩‍👧 Trailing Spouse/Partner</label>
+                <label><input type="radio" name="role" value="professional"> 💼 Working Professional</label>
+                <label><input type="radio" name="role" value="entrepreneur"> 🚀 Entrepreneur/Business Owner</label>
+                <label><input type="radio" name="role" value="retiree"> 🌅 Retiree</label>
+                <label><input type="radio" name="role" value="undocumented"> 📋 Awaiting Documentation</label>
+            </div>
+        </section>
+
+        <section id="employment">
+            <h2>📋 Pathways to Employment</h2>
+            <p>Special resources for those preparing to enter the workforce.</p>
+            
+            <h4>What You'll Find:</h4>
+            <ul>
+                <li><strong>Documentation Navigation</strong>: Understanding visa processes, credential recognition, and documentation requirements across different countries</li>
+                <li><strong>Language Learning Strategies</strong>: Free and low-cost resources, practice methods, and tips for achieving job-ready language proficiency</li>
+                <li><strong>Skills Development</strong>: Online learning opportunities, certification programs, and ways to build portfolios while waiting</li>
+                <li><strong>Volunteer Pathways</strong>: Legal volunteering opportunities to gain local experience, references, and professional networks</li>
+                <li><strong>Financial Survival</strong>: Managing limited resources, accessing support services, and understanding what work is legal during waiting periods</li>
+                <li><strong>Mental Resilience</strong>: Coping strategies for uncertainty, maintaining motivation, and building confidence for future employment</li>
+                <li><strong>Alternative Pathways</strong>: Bridge programs, apprenticeships, stepping-stone opportunities, and unconventional routes to employment</li>
+                <li><strong>CV/Resume Preparation</strong>: Adapting your credentials to local market expectations and explaining gaps positively</li>
+            </ul>
+
+            <h4>Your Time Waiting Is Not Wasted:</h4>
+            <ul>
+                <li>Build language proficiency that opens doors</li>
+                <li>Develop understanding of workplace culture and expectations</li>
+                <li>Create networks through community engagement and volunteering</li>
+                <li>Gain local references and experience</li>
+                <li>Prepare mentally and practically for successful integration</li>
+                <li>Learn regional nuances that help you stand out to employers</li>
+            </ul>
+            
+            <p><strong>Remember</strong>: Successful integration begins before formal employment. Use this resource to transform waiting time into preparation time.</p>
+        </section>
+
+        <section id="progress">
+            <h2>📊 My Progress</h2>
+            <div id="progress-container">
+                <!-- Progress will be displayed here -->
+            </div>
+            <button id="reset-progress">Reset Progress</button>
+        </section>
+
+        <section id="snapshot">
+            <h2>📸 Your Cultural Snapshot</h2>
+            <p>Generate a shareable snapshot of your cultural knowledge!</p>
+            <button id="generate-snapshot">Generate Snapshot</button>
+            <div id="snapshot-message" role="status" aria-live="polite" style="display: none; margin: 10px 0; color: #2ecc71; font-weight: bold;"></div>
+            <canvas id="snapshot-canvas" width="800" height="400" style="display: none;"></canvas>
+            <button id="download-snapshot" style="display: none; margin-top: 10px;">Download Snapshot</button>
+        </section>
+
+        <section id="quizzes">
+            <h2>📝 Interactive Quizzes</h2>
+        </section>
+
+        <section id="scenarios">
+            <h2>🎯 Scenario-Based Learning</h2>
+        </section>
+
+    </main>
+
+    <footer>
+        <p><a href="PRIVACY.md">Privacy Policy</a> | <a href="CONFIGURATION.md">Configuration</a></p>
+        <p>Open source project. All data stored locally.</p>
+    </footer>
+
+    <!-- Core scripts -->
+    <script src="scripts/core/data.core.js" defer></script>
+    <script src="scripts/app.js" defer></script>
+    <script src="scripts/navigation.js" defer></script>
+    <script src="scripts/interactive.js" defer></script>
+    
+    <!-- Region data files -->
+    <script src="scripts/regions/united_states.data.js" defer></script>
+    <script src="scripts/regions/united_kingdom.data.js" defer></script>
+    <script src="scripts/regions/central_europe.data.js" defer></script>
+    <script src="scripts/regions/scandinavia.data.js" defer></script>
+    <script src="scripts/regions/finland.data.js" defer></script>
+    <script src="scripts/regions/baltics.data.js" defer></script>
+    <script src="scripts/regions/balkans.data.js" defer></script>
+    <script src="scripts/regions/greece.data.js" defer></script>
+    <script src="scripts/regions/mediterranean.data.js" defer></script>
+    
+    <!-- Region scenarios files -->
+    <script src="scripts/scenarios/united_states.scenarios.js" defer></script>
+    <script src="scripts/scenarios/united_kingdom.scenarios.js" defer></script>
+    <script src="scripts/scenarios/central_europe.scenarios.js" defer></script>
+
+</body>
+</html>

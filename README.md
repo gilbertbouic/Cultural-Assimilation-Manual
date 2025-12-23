@@ -2,9 +2,26 @@
 
 **Your Interactive Guide to Cultural Integration**
 
-An open-source web application providing scenario-based, interactive cultural guidance for immigrants and international professionals. Now featuring interactive quizzes, role-based personalization, and comprehensive cultural learning modules.
+An open-source application providing scenario-based, interactive cultural guidance for immigrants and international professionals. Available as both a **web application** and **Android app**.
 
-**✨ NEW: Special guidance for migrants awaiting documentation and preparing for workforce entry**
+**✨ NEW: Now available as an Android app! See [ANDROID_BUILD.md](ANDROID_BUILD.md) for build instructions.**
+
+**✨ ALSO NEW: Special guidance for migrants awaiting documentation and preparing for workforce entry**
+
+---
+
+## 🚀 Platforms
+
+### 🌐 Web Application
+- **Live Site**: [https://gilbertbouic.github.io/Cultural-Assimilation-Manual/](https://gilbertbouic.github.io/Cultural-Assimilation-Manual/)
+- Pure vanilla JavaScript, runs entirely in the browser
+- No installation required
+
+### 📱 Android Application  
+- Built with Android WebView wrapping the web content
+- Native Android app with offline capability
+- See [ANDROID_BUILD.md](ANDROID_BUILD.md) for build instructions
+- Minimum Android 7.0 (API 24), Target Android 14 (API 34)
 
 ---
 
@@ -154,7 +171,80 @@ This project is designed to be hosted on GitHub Pages:
 
 See [CONFIGURATION.md](CONFIGURATION.md) for detailed setup instructions, including how to configure the feedback form and customize features.
 
+### Building the Android App
+
+For Android builds, see the comprehensive guide: [ANDROID_BUILD.md](ANDROID_BUILD.md)
+
+Quick summary:
+1. Open project in Android Studio
+2. Sync Gradle dependencies
+3. Build APK via Build → Build Bundle(s) / APK(s) → Build APK(s)
+4. Find APK in `app/build/outputs/apk/debug/`
+
+The Android app wraps the web content in a WebView with full offline capability and local storage support.
+
 ---
+
+## 📁 Project Structure
+
+### Web Application Files (Root Directory)
+```
+├── index.html              # Main HTML file
+├── styles.css              # Main stylesheet
+├── interactive-styles.css  # Interactive component styles
+├── app.js                  # Core application logic
+├── data.js                 # Cultural data (quizzes)
+├── scenarios.js            # Scenario content
+├── interactive.js          # Interactive components
+├── navigation.js           # Navigation management
+├── hand-tracking.js        # Optional hand-tracking features
+├── sw.js                   # Service worker
+└── manifest.json           # PWA manifest
+```
+
+### Android App Structure
+```
+app/
+├── build.gradle.kts                    # App module build configuration
+├── src/main/
+│   ├── AndroidManifest.xml            # App manifest with permissions
+│   ├── java/com/culturalassimilation/manual/
+│   │   └── MainActivity.kt            # Main WebView activity
+│   ├── res/                           # Android resources
+│   │   ├── layout/
+│   │   │   └── activity_main.xml     # Main activity layout
+│   │   ├── values/
+│   │   │   ├── strings.xml           # String resources
+│   │   │   ├── colors.xml            # Color resources
+│   │   │   └── themes.xml            # App themes
+│   │   ├── drawable/                  # Vector drawables (icons)
+│   │   └── mipmap-*/                  # Launcher icons (density-specific)
+│   └── assets/                        # Web app assets
+│       ├── index.html                 # Main entry point
+│       ├── shared/                    # Shared JS/CSS files
+│       │   ├── *.js                   # JavaScript files
+│       │   └── *.css                  # Stylesheets
+│       └── regions/                   # Region-specific content
+│           ├── uk/index.html          # UK-specific page
+│           ├── us/index.html          # US-specific page
+│           └── ce/index.html          # Central Europe page
+```
+
+### Content Organization by Region
+
+Each region has its own directory under `app/src/main/assets/regions/`:
+- **UK** - United Kingdom cultural guide
+- **US** - United States cultural guide  
+- **CE** - Central Europe (Germany, Austria, Switzerland, Liechtenstein)
+- Additional regions can be added following the same pattern
+
+This structure allows for:
+- Easy navigation between regions in the Android app
+- Filtered content display per region
+- Modular content management
+- Future expansion to more regions
+
+
 
 ## 🎮 Interactive Features Guide
 

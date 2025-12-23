@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Cultural Assimilation Manual</string>
+    <string name="uk_title">United Kingdom</string>
+    <string name="us_title">United States</string>
+    <string name="ce_title">Central Europe</string>
+    <string name="scandinavia_title">Scandinavia</string>
+    <string name="mediterranean_title">Mediterranean</string>
+    <string name="balkans_title">Balkans</string>
+    <string name="greece_title">Greece</string>
+    <string name="finland_title">Finland</string>
+    <string name="baltics_title">Baltics</string>
+</resources>
