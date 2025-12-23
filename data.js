@@ -9725,5 +9725,503 @@ const culturalData = {
                 </ul>
             `
         }
+    },
+    usa: {
+        name: "United States",
+        flag: "🇺🇸",
+        relationships: {
+            title: "💕 Module 1: Relationships & Respect in the United States 🤝",
+            content: `
+                <h3>General Social Norms</h3>
+                <p>American society values individualism, optimism, and friendliness. The concept of the "American Dream" - that anyone can succeed through hard work - shapes cultural attitudes toward opportunity and personal achievement.</p>
+                
+                <h3>Greetings</h3>
+                <ul>
+                    <li>Firm handshakes are standard in professional settings</li>
+                    <li>Casual "Hi" or "Hey" with a smile is common in informal settings</li>
+                    <li>First names are used quickly, even in business contexts</li>
+                    <li>Personal space: maintain arm's length distance in conversations</li>
+                    <li>Eye contact shows confidence and honesty</li>
+                </ul>
+                
+                <h3>Friendliness vs. Friendship</h3>
+                <p>Americans are often perceived as very friendly, but this surface friendliness doesn't always translate to deep friendship. "Let's hang out sometime!" may be a polite expression rather than a genuine invitation.</p>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Americans value positivity and enthusiasm. A smile and positive attitude go a long way in social and professional interactions.
+                </div>
+                
+                <h3>Direct Communication</h3>
+                <p>Americans tend to be direct and explicit in communication. "Yes" means yes, "No" means no. Silence or indirect responses can be confusing.</p>
+                
+                <div class="important">
+                    <strong>Important:</strong> Political correctness is taken seriously. Be mindful of language around race, gender, religion, and other sensitive topics. What might be acceptable elsewhere could be offensive in the US.
+                </div>
+            `
+        },
+        communicationMindset: {
+            title: "🗣️ Module 3: Communication & Mindset in the United States 🧠",
+            content: `
+                <h3>Communication Style</h3>
+                <p>American communication is generally direct, informal, and action-oriented. Time is valuable, and efficiency is appreciated.</p>
+                
+                <h3>Good Topics</h3>
+                <ul>
+                    <li>Sports (football, basketball, baseball)</li>
+                    <li>Work and career achievements</li>
+                    <li>Entertainment (movies, TV shows, music)</li>
+                    <li>Hobbies and personal interests</li>
+                    <li>Travel experiences</li>
+                    <li>Local events and community activities</li>
+                </ul>
+                
+                <h3>Topics to Handle Carefully</h3>
+                <ul>
+                    <li>Politics (highly polarized - avoid unless you know someone well)</li>
+                    <li>Religion (personal matter)</li>
+                    <li>Income and salary (considered private)</li>
+                    <li>Weight and appearance</li>
+                    <li>Gun control</li>
+                    <li>Immigration policy</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Note:</strong> Americans value optimism. Constant complaining or negativity is viewed unfavorably. Focus on solutions rather than problems.
+                </div>
+                
+                <h3>Small Talk</h3>
+                <p>Small talk is essential in American culture. Weather, weekend plans, sports, and general pleasantries are common conversation starters. It's a way to build rapport before deeper conversations.</p>
+                
+                <h3>Workplace Communication</h3>
+                <ul>
+                    <li>Be direct about your needs and expectations</li>
+                    <li>Email is primary business communication</li>
+                    <li>"How are you?" is a greeting, not a genuine inquiry - respond briefly and positively</li>
+                    <li>Networking is crucial for career advancement</li>
+                </ul>
+            `
+        },
+        dating: {
+            title: "Dating Culture in the United States",
+            content: `
+                <h3>Meeting People</h3>
+                <p>Americans meet potential partners through various channels:</p>
+                <ul>
+                    <li>Dating apps (Tinder, Bumble, Hinge - extremely popular)</li>
+                    <li>Social events, bars, and clubs</li>
+                    <li>Through friends and social circles</li>
+                    <li>Work or school (though workplace dating can be complicated)</li>
+                    <li>Hobby groups and activities</li>
+                </ul>
+                
+                <h3>Dating Norms</h3>
+                <ul>
+                    <li>Dating culture varies widely by region, age, and background</li>
+                    <li>Casual dating (seeing multiple people) is common initially</li>
+                    <li>"Going steady" or becoming "exclusive" requires explicit conversation</li>
+                    <li>First dates often involve coffee, drinks, or casual dining</li>
+                    <li>Splitting the bill is increasingly common, especially among younger people</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> Consent is paramount. "No" means no, and enthusiastic consent is expected. Sexual harassment and assault are taken very seriously, with legal and social consequences.
+                </div>
+                
+                <h3>Relationship Progression</h3>
+                <p>Relationships typically progress from casual dating to exclusivity to commitment. Cohabitation before marriage is common and socially accepted. Marriage rates have declined but remain culturally significant.</p>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Communication about relationship status is direct. If you're unsure where you stand, it's acceptable to ask "What are we?" or "Are we exclusive?"
+                </div>
+            `
+        },
+        economicIntegration: {
+            title: "💷 Module 4: Economic Integration in the United States 💼",
+            content: `
+                <h3>Workplace Culture</h3>
+                <p>American workplace culture emphasizes productivity, individualism, and results. The concept of "work ethic" is central to professional identity.</p>
+                
+                <h3>Key Values</h3>
+                <ul>
+                    <li>Time is money - punctuality and efficiency are crucial</li>
+                    <li>Individual achievement is celebrated and rewarded</li>
+                    <li>Networking and self-promotion are essential for career growth</li>
+                    <li>At-will employment means job security is lower than in many countries</li>
+                    <li>Long work hours are common, especially in professional sectors</li>
+                </ul>
+                
+                <h3>Work-Life Balance</h3>
+                <p>Work-life balance varies greatly by industry and company. Americans typically have fewer vacation days (10-15 days annually) compared to Europeans. There's a cultural expectation to be available and responsive, even outside work hours.</p>
+                
+                <div class="warning">
+                    <strong>Reality Check:</strong> The US has minimal labor protections compared to Europe. Limited paid leave, healthcare tied to employment, and at-will employment are standard. Understand your rights and benefits carefully.
+                </div>
+                
+                <h3>Professional Etiquette</h3>
+                <ul>
+                    <li>Dress code varies by industry - tech is casual, finance is formal</li>
+                    <li>First names are used across hierarchies</li>
+                    <li>Meetings should have clear agendas and actionable outcomes</li>
+                    <li>Email response within 24 hours is expected</li>
+                    <li>Self-advocacy is necessary - don't assume recognition will come automatically</li>
+                </ul>
+                
+                <h3>Job Search</h3>
+                <ul>
+                    <li>Resume should be one page (maximum two for extensive experience)</li>
+                    <li>Networking is crucial - many jobs filled through connections</li>
+                    <li>LinkedIn presence is essential for professionals</li>
+                    <li>References and background checks are standard</li>
+                    <li>Salary negotiation is expected and accepted</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Confidence and enthusiasm are valued in job interviews. Practice your "elevator pitch" - a 30-second summary of who you are and what you offer.
+                </div>
+            `
+        },
+        publicConduct: {
+            title: "🏛️ Module 2: Public & Community Conduct in the United States 🤝",
+            content: `
+                <h3>Registration and Documentation</h3>
+                <p>Unlike many European countries, the US doesn't have a centralized registration system. You'll need to establish residency in your state and update various documents separately.</p>
+                
+                <h3>Key Requirements</h3>
+                <ul>
+                    <li><strong>Social Security Number:</strong> Essential for work, banking, credit</li>
+                    <li><strong>Driver's license or State ID:</strong> Primary identification document</li>
+                    <li><strong>Address proof:</strong> Utility bills, lease agreements establish residency</li>
+                    <li><strong>Credit history:</strong> Build credit through credit cards and loans - crucial for housing, loans, etc.</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> Building credit history is essential in the US. Without credit, you may struggle to rent apartments, get phone contracts, or secure loans. Start building credit early, even with a secured credit card.
+                </div>
+                
+                <h3>Public Behavior</h3>
+                <ul>
+                    <li><strong>Tipping:</strong> 15-20% in restaurants, bars, taxis is mandatory custom (servers rely on tips for income)</li>
+                    <li><strong>Jaywalking:</strong> Crossing outside crosswalks can result in fines</li>
+                    <li><strong>Public drinking:</strong> Illegal in most places - alcohol must be in brown bag or closed container</li>
+                    <li><strong>Smoking:</strong> Banned in most public indoor spaces; designated areas only</li>
+                    <li><strong>Littering:</strong> Fines vary by location but can be substantial</li>
+                </ul>
+                
+                <h3>Driving Culture</h3>
+                <ul>
+                    <li>Car-dependent culture outside major cities</li>
+                    <li>Automatic transmission is standard</li>
+                    <li>Right turns on red are allowed (unless signed otherwise)</li>
+                    <li>Speed limits strictly enforced - tickets are expensive</li>
+                    <li>Car insurance is mandatory and expensive</li>
+                </ul>
+                
+                <h3>Community Integration</h3>
+                <ul>
+                    <li>Volunteer work is highly valued and common</li>
+                    <li>Community centers, libraries offer free programs and resources</li>
+                    <li>Sports leagues (softball, soccer, running clubs) are social hubs</li>
+                    <li>Meetup.com and similar platforms help find interest groups</li>
+                    <li>Church communities often provide social support (see Religion & Faith module)</li>
+                </ul>
+                
+                <h3>Safety and Law Enforcement</h3>
+                <div class="warning">
+                    <strong>Police Interactions:</strong> If stopped by police, remain calm, keep hands visible, comply with instructions. Say "I invoke my right to remain silent" and "I want a lawyer" if arrested. Police interactions can escalate quickly - prioritize your safety.
+                </div>
+            `
+        },
+        healthcareNHS: {
+            title: "🏥 Module 5: Healthcare System in the United States 💊",
+            content: `
+                <h3>US Healthcare System</h3>
+                <p>The US has a privatized healthcare system - there is no universal healthcare. Healthcare is primarily accessed through employer-sponsored insurance or private purchase. Costs are significantly higher than in most developed countries.</p>
+                
+                <div class="warning">
+                    <strong>Critical:</strong> Healthcare is expensive. Medical emergencies can lead to bankruptcy. Having health insurance is essential - even with insurance, out-of-pocket costs can be substantial.
+                </div>
+                
+                <h3>Health Insurance</h3>
+                <ul>
+                    <li><strong>Employer-sponsored:</strong> Most common - employer pays portion of premium</li>
+                    <li><strong>Affordable Care Act (ACA/Obamacare):</strong> Marketplace for individual insurance</li>
+                    <li><strong>Medicaid:</strong> Government program for low-income individuals (eligibility varies by state)</li>
+                    <li><strong>Medicare:</strong> Government program for 65+ and certain disabilities</li>
+                    <li><strong>No insurance:</strong> Pay full cost out-of-pocket (extremely expensive)</li>
+                </ul>
+                
+                <h3>Understanding Your Insurance</h3>
+                <ul>
+                    <li><strong>Premium:</strong> Monthly payment for insurance coverage</li>
+                    <li><strong>Deductible:</strong> Amount you pay before insurance covers anything (often $1,000-$5,000+)</li>
+                    <li><strong>Copay:</strong> Fixed amount per visit (e.g., $25 for doctor visit)</li>
+                    <li><strong>Coinsurance:</strong> Percentage you pay after deductible (e.g., 20% of costs)</li>
+                    <li><strong>Out-of-pocket maximum:</strong> Maximum you pay in a year before insurance covers 100%</li>
+                    <li><strong>In-network vs. out-of-network:</strong> Stay in-network to avoid massive extra costs</li>
+                </ul>
+                
+                <h3>Accessing Care</h3>
+                <ul>
+                    <li><strong>Primary Care Physician (PCP):</strong> Your main doctor; schedule appointments</li>
+                    <li><strong>Specialists:</strong> Often require referral from PCP</li>
+                    <li><strong>Urgent Care:</strong> For non-life-threatening issues; faster than ER, cheaper</li>
+                    <li><strong>Emergency Room (ER):</strong> Life-threatening emergencies only - extremely expensive</li>
+                    <li><strong>Telemedicine:</strong> Video/phone consultations increasingly common and cheaper</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Appointment Booking:</strong> Book appointments weeks in advance for routine care. Arrive 15 minutes early for paperwork. Bring insurance card and ID. You may need to pay copay upfront.
+                </div>
+                
+                <h3>Prescriptions</h3>
+                <ul>
+                    <li>Filled at pharmacies (CVS, Walgreens, etc.)</li>
+                    <li>Generic drugs much cheaper than brand-name</li>
+                    <li>Insurance may not cover all medications</li>
+                    <li>Prescription discount apps (GoodRx) can reduce costs</li>
+                </ul>
+                
+                <h3>Costs (With Insurance)</h3>
+                <ul>
+                    <li><strong>Doctor visit:</strong> $25-50 copay (or full cost until deductible met)</li>
+                    <li><strong>Specialist:</strong> $50-100 copay</li>
+                    <li><strong>Emergency room:</strong> $500-3,000+ (even with insurance)</li>
+                    <li><strong>Hospital stay:</strong> Thousands to tens of thousands (depends on deductible/coinsurance)</li>
+                </ul>
+                
+                <h3>Emergency Care</h3>
+                <ul>
+                    <li>Call 911 for life-threatening emergencies</li>
+                    <li>Ambulance rides cost $500-2,000+ (often not fully covered)</li>
+                    <li>ERs must treat emergencies regardless of insurance</li>
+                    <li>Non-urgent issues: use urgent care or telemedicine to save money</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Cost-Saving Tips:</strong> Always ask about costs upfront. Request generic medications. Use in-network providers. Consider telemedicine for minor issues. Shop around for procedures when possible. Negotiate medical bills - many providers offer payment plans or discounts.
+                </div>
+            `
+        },
+        navigatingOfficialdom: {
+            title: "📄 Module 6: Navigating Officialdom in the United States 🗃️",
+            content: `
+                <h3>Bureaucracy Overview</h3>
+                <p>US bureaucracy is decentralized - federal, state, and local governments each have separate systems. Processes vary significantly by state and locality.</p>
+                
+                <h3>Essential Documents</h3>
+                <ul>
+                    <li><strong>Social Security Number (SSN):</strong> Apply at Social Security Administration office</li>
+                    <li><strong>State ID/Driver's License:</strong> Apply at DMV (Department of Motor Vehicles)</li>
+                    <li><strong>Work visa/documents:</strong> Maintain valid immigration status</li>
+                    <li><strong>Tax documents:</strong> W-2, 1099 forms for tax filing</li>
+                </ul>
+                
+                <h3>Department of Motor Vehicles (DMV)</h3>
+                <p>The DMV handles driver's licenses, state IDs, and vehicle registration. Known for long wait times and complex requirements.</p>
+                
+                <div class="tip">
+                    <strong>Tip:</strong> Make appointments online when possible. Bring all required documents (varies by state - check website). Some DMV services can be done online or by mail.
+                </div>
+                
+                <h3>Taxes</h3>
+                <ul>
+                    <li>Federal income tax filed with IRS (Internal Revenue Service)</li>
+                    <li>State income tax (varies - some states have none)</li>
+                    <li>Local taxes (property, sales tax)</li>
+                    <li>Tax filing deadline: April 15th annually</li>
+                    <li>Self-employment requires quarterly estimated tax payments</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> US tax system is complex. Consider using tax software (TurboTax, H&R Block) or hiring an accountant, especially if you have foreign income or complicated situations.
+                </div>
+                
+                <h3>Banking</h3>
+                <ul>
+                    <li>SSN required to open bank account</li>
+                    <li>Major banks: Chase, Bank of America, Wells Fargo, Citibank</li>
+                    <li>Credit unions often offer better rates and lower fees</li>
+                    <li>Online banks (Ally, Marcus) offer high-interest savings</li>
+                    <li>Overdraft fees common - monitor account carefully</li>
+                </ul>
+                
+                <h3>Utilities</h3>
+                <ul>
+                    <li>Electricity, gas, water billed separately</li>
+                    <li>Internet/cable providers vary by location (often limited options)</li>
+                    <li>Tenant usually pays utilities (varies by lease)</li>
+                    <li>Deposits often required for new service</li>
+                </ul>
+                
+                <h3>Customer Service</h3>
+                <ul>
+                    <li>Phone customer service often involves long hold times</li>
+                    <li>Persistence and escalation may be necessary</li>
+                    <li>Document everything - names, dates, reference numbers</li>
+                    <li>Written complaints more effective than verbal</li>
+                </ul>
+            `
+        },
+        educationSchools: {
+            title: "🎓 Module 7: Education & Schools in the United States 📚",
+            content: `
+                <h3>School System Overview</h3>
+                <p>The US education system is decentralized - quality and curriculum vary significantly by state and even by school district. Public schools are funded primarily through local property taxes.</p>
+                
+                <h3>Structure</h3>
+                <ul>
+                    <li><strong>Elementary School:</strong> Kindergarten through 5th or 6th grade (ages 5-11)</li>
+                    <li><strong>Middle School/Junior High:</strong> 6th-8th or 7th-9th grade (ages 11-14)</li>
+                    <li><strong>High School:</strong> 9th-12th grade (ages 14-18)</li>
+                    <li><strong>College/University:</strong> Post-secondary (4-year degree or 2-year associate's)</li>
+                </ul>
+                
+                <h3>Public vs. Private Schools</h3>
+                <ul>
+                    <li><strong>Public schools:</strong> Free, funded by taxes, assigned by residential address</li>
+                    <li><strong>Private schools:</strong> Tuition-based ($10,000-$50,000+ annually)</li>
+                    <li><strong>Charter schools:</strong> Publicly funded but independently operated</li>
+                    <li><strong>Magnet schools:</strong> Public schools with specialized curricula</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Important:</strong> School quality varies dramatically by neighborhood due to local tax funding. Research school ratings when choosing where to live if you have children.
+                </div>
+                
+                <h3>Parent Involvement</h3>
+                <ul>
+                    <li>Parent-Teacher Association (PTA) fundraising and volunteering</li>
+                    <li>Parent-teacher conferences multiple times per year</li>
+                    <li>School events (sports, performances, fundraisers) expect parent attendance</li>
+                    <li>Communication through email and online portals</li>
+                </ul>
+                
+                <h3>Higher Education</h3>
+                <ul>
+                    <li>Extremely expensive - tuition $10,000-$70,000+ per year</li>
+                    <li>Student loans create significant debt for many graduates</li>
+                    <li>Community colleges offer affordable 2-year programs</li>
+                    <li>College admissions highly competitive for top universities</li>
+                    <li>SAT/ACT standardized tests required for admission</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Cost Warning:</strong> US higher education is among the most expensive globally. Average student loan debt exceeds $30,000. Explore scholarships, financial aid, and community college options carefully.
+                </div>
+            `
+        },
+        religionFaith: {
+            title: "⛪ Module 8: Religion & Faith in the United States 🕌",
+            content: `
+                <h3>Religious Landscape - Judeo-Christian Foundation</h3>
+                <p>The United States has a Judeo-Christian cultural foundation that deeply influences values, holidays, social norms, and public life. While constitutionally secular (separation of church and state), religion plays a much more prominent role in American society than in most of Europe.</p>
+                
+                <div class="important">
+                    <strong>Judeo-Christian Culture:</strong> American cultural values are rooted in Judeo-Christian ethics - concepts of individual moral responsibility, work ethic, charity, and community service. Even secular Americans are often influenced by these values. Understanding this foundation is key to understanding American culture.
+                </div>
+                
+                <h3>Religious Composition</h3>
+                <ul>
+                    <li><strong>Christianity:</strong> ~65% (declining but still dominant)
+                        <ul>
+                            <li>Protestantism (Evangelical, Baptist, Methodist, etc.): ~40%</li>
+                            <li>Catholicism: ~20%</li>
+                            <li>Mormon (LDS): ~2%</li>
+                            <li>Various other Christian denominations</li>
+                        </ul>
+                    </li>
+                    <li><strong>Judaism:</strong> ~2% (significant cultural influence beyond numbers)</li>
+                    <li><strong>Islam:</strong> ~1%</li>
+                    <li><strong>Hinduism, Buddhism, other religions:</strong> ~2%</li>
+                    <li><strong>Unaffiliated/None:</strong> ~25% (growing, especially among young people)</li>
+                </ul>
+                
+                <h3>Religious Influence on Public Life</h3>
+                <p>Unlike much of Europe, religion is openly discussed and visible in American public life:</p>
+                <ul>
+                    <li>Politicians frequently reference faith and attend religious services publicly</li>
+                    <li>Prayer at public events is common (sports games, graduations, government meetings)</li>
+                    <li>"In God We Trust" appears on currency</li>
+                    <li>Religious organizations have significant political influence</li>
+                    <li>Churches, synagogues, and temples are social hubs</li>
+                </ul>
+                
+                <h3>Regional Variation</h3>
+                <ul>
+                    <li><strong>Bible Belt (South/Southeast):</strong> High religiosity, predominantly Evangelical Protestant</li>
+                    <li><strong>Northeast:</strong> More Catholic and Jewish, more secular overall</li>
+                    <li><strong>West Coast:</strong> More diverse, significant "spiritual but not religious" population</li>
+                    <li><strong>Midwest:</strong> Mix of Protestant denominations, Catholic areas</li>
+                    <li><strong>Utah:</strong> Majority Mormon (LDS)</li>
+                </ul>
+                
+                <div class="tip">
+                    <strong>Social Tip:</strong> It's common to be asked "What church do you go to?" especially in religious areas. This is friendly conversation, not necessarily proselytizing. You can politely say "I'm not religious" or name your faith tradition if comfortable.
+                </div>
+                
+                <h3>Religious Freedom and Expression</h3>
+                <ul>
+                    <li>First Amendment protects religious freedom strongly</li>
+                    <li>All major religions have established communities</li>
+                    <li>Wearing religious clothing/symbols (hijab, turban, cross, etc.) is legally protected</li>
+                    <li>Employers must provide reasonable religious accommodations</li>
+                    <li>Religious schools and homeschooling are legal options</li>
+                </ul>
+                
+                <h3>Churches as Community Centers</h3>
+                <p>Churches (and synagogues, mosques, temples) serve important social functions beyond worship:</p>
+                <ul>
+                    <li>Social networking and community building</li>
+                    <li>Charitable activities and volunteering opportunities</li>
+                    <li>Youth programs and activities</li>
+                    <li>Support during life challenges (illness, death, unemployment)</li>
+                    <li>Many immigrants find religious communities helpful for integration</li>
+                </ul>
+                
+                <h3>Judeo-Christian Values in Practice</h3>
+                <ul>
+                    <li><strong>Work ethic:</strong> Protestant work ethic influences attitudes toward employment and success</li>
+                    <li><strong>Charity:</strong> Americans donate more to charity (per capita) than most countries - religious influence</li>
+                    <li><strong>Individualism:</strong> Personal relationship with God mirrors individualistic culture</li>
+                    <li><strong>Morality:</strong> Public debates often have religious moral frameworks (abortion, marriage, etc.)</li>
+                    <li><strong>Holidays:</strong> Christmas is federal holiday; Christian calendar shapes school breaks</li>
+                </ul>
+                
+                <h3>Evangelical Christianity</h3>
+                <p>Evangelical Protestantism is particularly influential in American culture and politics:</p>
+                <ul>
+                    <li>Emphasis on personal conversion ("born again")</li>
+                    <li>Biblical literalism common</li>
+                    <li>Active evangelism and missionary work</li>
+                    <li>Significant political activism and voting bloc</li>
+                    <li>Megachurches with thousands of members</li>
+                </ul>
+                
+                <div class="warning">
+                    <strong>Be Prepared:</strong> In some areas, particularly the South and rural regions, atheism or non-Christian religions may face social stigma. While legally protected, openly rejecting religious belief can affect social relationships in conservative communities.
+                </div>
+                
+                <h3>For Non-Religious or Non-Christian Newcomers</h3>
+                <ul>
+                    <li><strong>Respect religious culture:</strong> Even if you're secular, understand religion's importance to many Americans</li>
+                    <li><strong>Navigate politely:</strong> If invited to religious events, you can politely decline or attend respectfully</li>
+                    <li><strong>Find your community:</strong> Secular, humanist, and non-Christian communities exist, especially in cities</li>
+                    <li><strong>Don't assume secularism:</strong> Unlike Europe, assuming someone is non-religious is often wrong</li>
+                    <li><strong>Workplace:</strong> Religious expression is protected; coworkers may discuss faith openly</li>
+                </ul>
+                
+                <h3>Holidays and Observances</h3>
+                <ul>
+                    <li><strong>Christian holidays:</strong> Christmas and Easter widely celebrated (culturally even by non-Christians)</li>
+                    <li><strong>Jewish holidays:</strong> Hanukkah recognized, especially in diverse areas</li>
+                    <li><strong>Other religious holidays:</strong> Generally not public holidays but increasingly acknowledged</li>
+                    <li><strong>Schools:</strong> Holiday concerts often include religious music; some sensitivity toward inclusion</li>
+                </ul>
+                
+                <div class="important">
+                    <strong>Bottom Line:</strong> The United States is more religious than most developed nations, with Judeo-Christian values deeply embedded in culture. Understanding this religious context is essential for cultural integration, even if you're not religious yourself. Religion shapes American attitudes toward work, community, morality, politics, and social life in ways that may surprise Europeans or others from more secular societies.
+                </div>
+            `
+        }
     }
 };

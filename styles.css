@@ -796,6 +796,26 @@ body.country-baltics {
     background-attachment: fixed;
 }
 
+body.country-usa {
+    background: repeating-linear-gradient(
+        to bottom,
+        #B22234 0%, #B22234 7.69%,
+        #FFFFFF 7.69%, #FFFFFF 15.38%,
+        #B22234 15.38%, #B22234 23.07%,
+        #FFFFFF 23.07%, #FFFFFF 30.76%,
+        #B22234 30.76%, #B22234 38.45%,
+        #FFFFFF 38.45%, #FFFFFF 46.14%,
+        #B22234 46.14%, #B22234 53.83%,
+        #FFFFFF 53.83%, #FFFFFF 61.52%,
+        #B22234 61.52%, #B22234 69.21%,
+        #FFFFFF 69.21%, #FFFFFF 76.9%,
+        #B22234 76.9%, #B22234 84.59%,
+        #FFFFFF 84.59%, #FFFFFF 92.28%,
+        #B22234 92.28%, #B22234 100%
+    );
+    background-attachment: fixed;
+}
+
 /* Ensure content is readable over flag backgrounds */
 body.country-england main,
 body.country-centralEurope main,
@@ -804,7 +824,8 @@ body.country-mediterranean main,
 body.country-balkans main,
 body.country-greece main,
 body.country-finland main,
-body.country-baltics main {
+body.country-baltics main,
+body.country-usa main {
     background: transparent;
 }
 
@@ -823,7 +844,9 @@ body.country-greece .content-section,
 body.country-finland .selection-section,
 body.country-finland .content-section,
 body.country-baltics .selection-section,
-body.country-baltics .content-section {
+body.country-baltics .content-section,
+body.country-usa .selection-section,
+body.country-usa .content-section {
     background: rgba(255, 255, 255, 0.95);
 }
 
@@ -834,7 +857,8 @@ body.country-mediterranean header,
 body.country-balkans header,
 body.country-greece header,
 body.country-finland header,
-body.country-baltics header {
+body.country-baltics header,
+body.country-usa header {
     background: rgba(255, 255, 255, 0.95);
 }
 
@@ -845,7 +869,8 @@ body.country-mediterranean footer,
 body.country-balkans footer,
 body.country-greece footer,
 body.country-finland footer,
-body.country-baltics footer {
+body.country-baltics footer,
+body.country-usa footer {
     background: rgba(0, 0, 0, 0.3);
     color: white;
     text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.5);
