@@ -102,7 +102,7 @@ function showCountrySelection() {
     currentCategory = null;
     
     // Remove country-specific background and intro-active
-    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics');
+    document.body.classList.remove('country-england', 'country-centralEurope', 'country-scandinavia', 'country-mediterranean', 'country-balkans', 'country-greece', 'country-finland', 'country-baltics', 'country-usa');
     document.body.classList.remove('intro-active');
     
     // Add white background for country selection
