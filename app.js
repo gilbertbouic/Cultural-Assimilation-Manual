@@ -1,13 +1,22 @@
-document.addEventListener('DOMContentLoaded', () => {
-    console.log('Cultural Assimilation Manual app is running.');
+/**
+ * Cultural Assimilation Manual - Main Application Module
+ * Handles service worker registration for offline functionality.
+ */
+(function() {
+    'use strict';
 
-    if ('serviceWorker' in navigator) {
-        navigator.serviceWorker.register('/sw.js')
-            .then(registration => {
-                console.log('ServiceWorker registration successful with scope: ', registration.scope);
-            })
-            .catch(error => {
-                console.log('ServiceWorker registration failed: ', error);
-            });
-    }
-});
+    document.addEventListener('DOMContentLoaded', () => {
+        console.log('Cultural Assimilation Manual app is running.');
+
+        // Register service worker for offline support
+        if ('serviceWorker' in navigator) {
+            navigator.serviceWorker.register('/sw.js')
+                .then(registration => {
+                    console.log('ServiceWorker registration successful with scope: ', registration.scope);
+                })
+                .catch(error => {
+                    console.log('ServiceWorker registration failed: ', error);
+                });
+        }
+    });
+})();

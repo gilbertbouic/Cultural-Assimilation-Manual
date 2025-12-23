@@ -1,22 +1,33 @@
-document.addEventListener('DOMContentLoaded', () => {
-    const menuToggle = document.getElementById('menu-toggle');
-    const mainNav = document.getElementById('main-nav');
-    const navLinks = mainNav.querySelectorAll('a');
+/**
+ * Cultural Assimilation Manual - Navigation Module
+ * Handles responsive menu toggle and smooth scrolling navigation.
+ * No dependencies on data or scenarios modules.
+ */
+(function() {
+    'use strict';
 
-    menuToggle.addEventListener('click', () => {
-        mainNav.classList.toggle('active');
-    });
+    document.addEventListener('DOMContentLoaded', () => {
+        const menuToggle = document.getElementById('menu-toggle');
+        const mainNav = document.getElementById('main-nav');
+        const navLinks = mainNav.querySelectorAll('a');
 
-    navLinks.forEach(link => {
-        link.addEventListener('click', (e) => {
-            e.preventDefault();
-            const targetId = e.target.getAttribute('href');
-            const targetSection = document.querySelector(targetId);
+        // Toggle mobile menu visibility
+        menuToggle.addEventListener('click', () => {
+            mainNav.classList.toggle('active');
+        });
 
-            if (targetSection) {
-                targetSection.scrollIntoView({ behavior: 'smooth' });
-                mainNav.classList.remove('active'); // Close menu on link click
-            }
+        // Handle navigation link clicks with smooth scrolling
+        navLinks.forEach(link => {
+            link.addEventListener('click', (e) => {
+                e.preventDefault();
+                const targetId = e.target.getAttribute('href');
+                const targetSection = document.querySelector(targetId);
+
+                if (targetSection) {
+                    targetSection.scrollIntoView({ behavior: 'smooth' });
+                    mainNav.classList.remove('active'); // Close menu on link click
+                }
+            });
         });
     });
-});
+})();
