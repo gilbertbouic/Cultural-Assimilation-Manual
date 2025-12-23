@@ -1,6 +1,17 @@
-// Content for scenario-based learning
+/**
+ * Cultural Assimilation Manual - Scenarios Module
+ * Contains scenario-based learning content for different regions and contexts.
+ * Exposed via window.CAM_SCENARIOS namespace to avoid global pollution.
+ */
+(function() {
+    'use strict';
 
-const scenarios = {
+    /**
+     * Main scenarios object containing scenario-based learning content
+     * for workplace, social, healthcare, and bureaucracy contexts
+     * @type {Object}
+     */
+    const scenarios = {
     uk: {
         workplace: {
             title: "First Day at a UK Office",
@@ -152,3 +163,12 @@ const scenarios = {
         }
     }
 };
+
+    // Expose to global namespace
+    window.CAM_SCENARIOS = {
+        scenarios: scenarios
+    };
+
+    // Backward compatibility: keep scenarios as global (can be removed later if desired)
+    window.scenarios = scenarios;
+})();

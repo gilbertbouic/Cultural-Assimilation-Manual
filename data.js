@@ -1,6 +1,16 @@
-// Data for cultural modules, quizzes, and scenarios
+/**
+ * Cultural Assimilation Manual - Data Module
+ * Contains quiz questions and cultural data for different regions.
+ * Exposed via window.CAM_DATA namespace to avoid global pollution.
+ */
+(function() {
+    'use strict';
 
-const culturalData = {
+    /**
+     * Main data object containing cultural quizzes for different regions
+     * @type {Object}
+     */
+    const culturalData = {
     quizzes: {
         uk: {
             id: "quiz_uk",
@@ -111,4 +121,13 @@ const culturalData = {
             ]
         }
     }
-};
+    };
+
+    // Expose to global namespace
+    window.CAM_DATA = {
+        culturalData: culturalData
+    };
+
+    // Backward compatibility: keep culturalData as global (can be removed later if desired)
+    window.culturalData = culturalData;
+})();
