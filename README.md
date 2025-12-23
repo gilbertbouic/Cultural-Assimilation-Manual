@@ -1,4 +1,4 @@
-# Cultural-Assimilation-Manual 🌍
+"""# Cultural-Assimilation-Manual 🌍
 
 **Your Interactive Guide to Cultural Integration**
 
@@ -20,6 +20,7 @@ The Cultural-Assimilation-Manual helps immigrants successfully integrate into ne
 - **Privacy-Friendly**: No ads, no tracking, minimal data collection—all progress stored locally on your device
 
 **Currently featured regions:**
+- 🇺🇸 **United States**
 - 🇬🇧 **United Kingdom**
 - 🇩🇪🇦🇹🇨🇭🇱🇮 **Central Europe** (Germany, Austria, Switzerland, Liechtenstein)
 - 🇸🇪🇳🇴🇩🇰 **Scandinavia** (Sweden, Norway, Denmark)
@@ -85,7 +86,6 @@ Monitor your cultural competency:
 - Progress bars and visual feedback
 - Responsive design for all devices
 - Smooth animations and transitions
-- Hand-tracking features (optional)
 
 ---
 
@@ -210,6 +210,7 @@ Understanding different cultural landscapes helps immigrants navigate regional d
 
 | Group | Countries | Key Traits |
 |-------|-----------|------------|
+| **United States** | USA | Informality, direct communication, strong individualism, customer service focus |
 | **United Kingdom** | England, Scotland, Wales, N. Ireland | Queuing culture, indirect communication, understatement, pub culture |
 | **Central Europe** | Germany, Austria, Switzerland, Liechtenstein | Punctuality, directness, order (Ordnung), privacy valued |
 | **Scandinavia** | Sweden, Norway, Denmark | Egalitarian, consensus-driven, work-life balance, lagom philosophy |
@@ -218,6 +219,23 @@ Understanding different cultural landscapes helps immigrants navigate regional d
 | **Balkans** | Serbia, Croatia, Bosnia, Montenegro, etc. | Hospitality, family ties, coffee culture, regional diversity |
 | **Greece** | Greece | Philoxenia hospitality, Mediterranean pace, family-centric, animated conversation |
 | **Mediterranean** | Italy, France, Spain, Portugal | Food culture, formal greetings, work-life balance, expressive communication |
+
+---
+
+### United States
+
+**Country covered:** United States of America
+
+The United States is a large, diverse country with a culture that prioritizes individualism, directness, and a friendly, informal communication style. While regional differences are significant, several core values and behaviors are broadly shared.
+
+**Distinguishing features:**
+- **Informality:** First names are used almost immediately in most situations, including with superiors.
+- **Direct Communication:** Americans tend to be direct and explicit in their communication. They generally say what they mean.
+- **Individualism:** High value is placed on personal achievement, independence, and self-reliance.
+- **Customer Service Culture:** A strong emphasis is placed on customer satisfaction, often with a "customer is always right" attitude.
+- **Tipping:** Tipping is expected and considered mandatory in many service situations (restaurants, taxis, etc.) and is not included in the bill.
+- **Enthusiasm:** Displaying enthusiasm and a positive, "can-do" attitude is often valued in social and professional settings.
+- **Punctuality:** Being on time for appointments and meetings is expected.
 
 ---
 
@@ -374,7 +392,6 @@ The Mediterranean cultural zone shares characteristics shaped by climate, geogra
 ├── scenarios.js            # Scenario-based guidance content
 ├── interactive.js          # Interactive components (quizzes, cards, simulations)
 ├── navigation.js           # Enhanced navigation and section management
-├── hand-tracking.js        # Optional hand-tracking features
 ├── README.md               # This file
 └── PRIVACY.md              # Privacy policy
 ```
@@ -385,7 +402,6 @@ The Mediterranean cultural zone shares characteristics shaped by climate, geogra
 
 - **Pure HTML/CSS/JavaScript**: No frameworks required
 - **Local Storage API**: Privacy-friendly progress tracking
-- **TensorFlow.js** (optional): Hand-tracking features
 - **Modern CSS**: Flexbox, Grid, animations
 - **Responsive Design**: Works on all screen sizes
 
@@ -560,7 +576,6 @@ See the LICENSE file for full details.
 - Cultural guidance compiled from various sources and personal experiences
 - Built with contributions from the immigrant and expat community
 - Inspired by the need for practical, honest cultural integration resources
-- Hand-tracking features powered by TensorFlow.js
 - Flag design in background honors cultural diversity
 
 ---
@@ -580,3 +595,4 @@ To all immigrants, expats, and cultural bridges who contributed insights and fee
 ---
 
 **Made with ❤️ for cultural understanding and successful integration worldwide**
+""

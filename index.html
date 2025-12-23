@@ -3,563 +3,136 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:;">
-    <title>Cultural-Assimilation-Manual - Your Interactive Guide to Cultural Integration</title>
+    <title>Cultural Assimilation Manual</title>
     <link rel="stylesheet" href="styles.css">
     <link rel="stylesheet" href="interactive-styles.css">
+    <link rel="manifest" href="manifest.json">
 </head>
-<body class="intro-active">
+<body>
     <header>
-        <h1>🌍 Cultural-Assimilation-Manual</h1>
-        <p class="subtitle">Your interactive guide to cultural integration</p>
-        <nav class="header-nav">
-            <button class="nav-btn" onclick="showSection('intro')">Home</button>
-            <button class="nav-btn" onclick="showSection('scenarios')">Scenarios</button>
-            <button class="nav-btn" onclick="showSection('quizzes')">Quizzes</button>
-            <button class="nav-btn" onclick="showSection('scoreboard')">My Progress</button>
+        <div class="header-content">
+            <h1>Cultural Assimilation Manual 🌍</h1>
+            <p>Your Interactive Guide to Cultural Integration</p>
+        </div>
+        <button class="menu-toggle" id="menu-toggle">&#9776;</button>
+        <nav id="main-nav">
+            <ul>
+                <li><a href="#about">About</a></li>
+                <li><a href="#features">Features</a></li>
+                <li><a href="#roles">Your Role</a></li>
+                <li><a href="#employment">Employment</a></li>
+                <li><a href="#progress">My Progress</a></li>
+                <li><a href="#snapshot">Snapshot</a></li>
+                <li><a href="#quizzes">Quizzes</a></li>
+                <li><a href="#scenarios">Scenarios</a></li>
+            </ul>
         </nav>
     </header>
 
     <main>
-        <section id="intro-section" class="selection-section">
-            <div class="intro-content">
-                <div class="hero-section">
-                    <h2>Welcome to Cultural-Assimilation-Manual</h2>
-                    <p class="intro-tagline">Your Interactive Guide to Cultural Integration</p>
-                    
-                    <div class="intro-description">
-                        <p class="lead-text">Moving to a new country is more than just a change of address—it's an opportunity to become part of a new community, understand different values, and build meaningful connections across cultures.</p>
-                        <p>This <strong>open-source, privacy-friendly</strong> guide provides practical, honest insights into the cultural norms, social expectations, and everyday customs of various nations, helping you navigate your new home with confidence and respect.</p>
-                        <p><strong>Whether you're already working, studying, or awaiting documentation to enter the workforce</strong>, you'll find guidance tailored to your situation—including resources for making productive use of waiting periods through language learning, skill development, and community engagement.</p>
-                    </div>
+        <section id="about">
+            <h2>📖 About</h2>
+            <p>The Cultural-Assimilation-Manual helps immigrants successfully integrate into new cultures through:</p>
+            <ul>
+                <li><strong>Depth over Breadth</strong>: Highly structured, scenario-based cultural guidance tailored to specific contexts (workplace, healthcare, bureaucracy, social gatherings)</li>
+                <li><strong>Interactive Learning</strong>: Quizzes, "dos/don'ts" cards, simulations, and etiquette scoreboards</li>
+                <li><strong>Role-Based Guidance</strong>: Personalized content for students, remote workers, spouses, professionals, entrepreneurs, retirees, and **migrants awaiting documentation**</li>
+                <li><strong>Pathways to Employment</strong>: Comprehensive guidance for those preparing to enter the workforce, including credential recognition, language learning, and alternative pathways</li>
+                <li><strong>Localized Nuance</strong>: Detailed guidance on dialects, nonverbal cues, negotiation styles, humor, and gifting customs</li>
+                <li><strong>Privacy-Friendly</strong>: No ads, no tracking, minimal data collection—all progress stored locally on your device</li>
+            </ul>
+        </section>
 
-                    <div class="cta-buttons">
-                        <button id="start-btn" class="start-btn primary-cta">
-                            <span>Start Your Journey</span>
-                            <span class="btn-arrow">→</span>
-                        </button>
-                        <button class="secondary-cta" onclick="scrollToFeedback()">
-                            <span>Give Feedback</span>
-                            <span class="btn-icon">💬</span>
-                        </button>
-                    </div>
-                </div>
+        <section id="features">
+            <h2>✨ Key Features</h2>
+            <h3>🎯 Scenario-Based Learning</h3>
+            <p>Navigate real-life situations with confidence.</p>
+            <h3>📝 Interactive Quizzes</h3>
+            <p>Test and reinforce your cultural knowledge.</p>
+            <h3>👤 Role-Based Personalization</h3>
+            <p>Select your profile for tailored guidance.</p>
+            <h3>📊 Progress Tracking</h3>
+            <p>Monitor your cultural competency.</p>
+            <h3>🎨 Modern Interactive UI</h3>
+            <p>Engaging and user-friendly interface.</p>
+        </section>
 
-                <div class="cultural-overview">
-                    <div class="heading-with-stars">
-                        <div class="star-circle" id="star-circle-1">
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                        </div>
-                        <h3>Understanding Cultural Diversity</h3>
-                        <div class="star-circle" id="star-circle-2">
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                        </div>
-                    </div>
-                    <p>The world is home to a rich tapestry of cultures, each with unique characteristics shaped by history, geography, and tradition. Our guide organizes these into cultural groupings to help you understand the broader context:</p>
-                    
-                    <div class="cultural-groups-grid">
-                        <div class="cultural-group">
-                            <span class="group-icon">🇸🇪🇳🇴🇩🇰</span>
-                            <h4>Scandinavia</h4>
-                            <p>Egalitarian societies valuing consensus, work-life balance, and the "lagom" philosophy of moderation.</p>
-                        </div>
-                        <div class="cultural-group">
-                            <span class="group-icon">🇫🇮</span>
-                            <h4>Finland</h4>
-                            <p>Known for "sisu" resilience, sauna culture, comfort with silence, and world-class education.</p>
-                        </div>
-                        <div class="cultural-group">
-                            <span class="group-icon">🇬🇧</span>
-                            <h4>United Kingdom</h4>
-                            <p>Famous for queuing, indirect communication, understatement, and the essential "please" and "sorry."</p>
-                        </div>
-                        <div class="cultural-group">
-                            <span class="group-icon">🇩🇪🇦🇹🇨🇭🇱🇮</span>
-                            <h4>Central Europe</h4>
-                            <p>Punctuality, directness, "Ordnung" (order), and the important Sie/Du distinction across Germany, Austria, Switzerland, and Liechtenstein.</p>
-                        </div>
-                        <div class="cultural-group">
-                            <span class="group-icon">🇪🇪🇱🇻🇱🇹</span>
-                            <h4>Baltics</h4>
-                            <p>Song festival traditions, nature orientation, digital innovation, and deep historical awareness.</p>
-                        </div>
-                        <div class="cultural-group">
-                            <span class="group-icon">🇷🇸🇭🇷🇧🇦</span>
-                            <h4>Balkans</h4>
-                            <p>Strong hospitality, extended family ties, coffee culture, and rich regional diversity.</p>
-                        </div>
-                        <div class="cultural-group">
-                            <span class="group-icon">🇬🇷</span>
-                            <h4>Greece</h4>
-                            <p>Philoxenia hospitality, Mediterranean pace, family primacy, and animated conversation.</p>
-                        </div>
-                        <div class="cultural-group">
-                            <span class="group-icon">🇮🇹🇫🇷🇪🇸🇵🇹</span>
-                            <h4>Mediterranean</h4>
-                            <p>Food as culture, formal greetings, work-life balance, and the art of communal dining.</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="intro-principles">
-                    <h3>Our Guiding Principles</h3>
-                    <ul>
-                        <li><strong>📚 Practical knowledge:</strong> Real insights that help you navigate daily life</li>
-                        <li><strong>🤝 Respect and curiosity:</strong> Approaching cultural differences with genuine interest</li>
-                        <li><strong>👤 Individual awareness:</strong> Cultural patterns describe tendencies, not absolutes</li>
-                        <li><strong>⏳ Patient adaptation:</strong> Integration is a gradual journey of observation and learning</li>
-                    </ul>
-                </div>
-
-                <div class="features-preview" id="features-section">
-                    <h3>🚀 What's New & Coming Soon</h3>
-                    <div class="features-grid">
-                        <div class="feature-card completed">
-                            <div class="feature-icon">✅</div>
-                            <h4>Interactive Quizzes</h4>
-                            <p>Test your cultural knowledge with engaging quizzes and track your progress</p>
-                        </div>
-                        <div class="feature-card completed">
-                            <div class="feature-icon">✅</div>
-                            <h4>Scenario-Based Learning</h4>
-                            <p>Learn through real-life situations across 12 different contexts</p>
-                        </div>
-                        <div class="feature-card completed">
-                            <div class="feature-icon">✅</div>
-                            <h4>8 Cultural Regions</h4>
-                            <p>Coverage for UK, Central region, Scandinavia, Mediterranean, and more</p>
-                        </div>
-                        <div class="feature-card in-progress">
-                            <div class="feature-icon">🔄</div>
-                            <h4>Multi-Language Support</h4>
-                            <p>Coming soon: Content in multiple languages</p>
-                        </div>
-                        <div class="feature-card in-progress">
-                            <div class="feature-icon">🔄</div>
-                            <h4>Video Demonstrations</h4>
-                            <p>Planned: Visual guides for cultural scenarios</p>
-                        </div>
-                        <div class="feature-card in-progress">
-                            <div class="feature-icon">🔄</div>
-                            <h4>Mobile App</h4>
-                            <p>Future: Native apps for iOS and Android</p>
-                        </div>
-                    </div>
-                </div>
-
-                <div class="feedback-section" id="feedback-section">
-                    <h3>💬 We Value Your Feedback</h3>
-                    <p class="feedback-intro">Help us improve this cultural integration guide! Your insights and suggestions make this resource better for everyone.</p>
-                    
-                    <div class="feedback-options">
-                        <div class="feedback-card">
-                            <div class="feedback-icon">🐛</div>
-                            <h4>Report Issues or Suggest Features</h4>
-                            <p>Found a bug? Have an idea? Share it on our GitHub Issues page.</p>
-                            <a href="https://github.com/gilbertbouic/The-Cultural-User-Manual/issues" target="_blank" class="feedback-btn">
-                                <span>Open GitHub Issues</span>
-                                <span class="btn-external">↗</span>
-                            </a>
-                        </div>
-                        
-                        <div class="feedback-card">
-                            <div class="feedback-icon">📝</div>
-                            <h4>Share Your Experience</h4>
-                            <p>Tell us about your cultural integration journey and how we can help better.</p>
-                            <a href="https://docs.google.com/forms/d/e/1FAIpQLScCSRhECPcWMB0VDkQN0v4Otiz3IOE7zuVTHH2sA2V9UhKaWQ/viewform?usp=header" id="feedback-form-btn" class="feedback-btn secondary" target="_blank">
-                                <span>Fill Feedback Form</span>
-                                <span class="btn-external">↗</span>
-                            </a>
-                        </div>
-                    </div>
-                </div>
+        <section id="roles">
+            <h2>👤 Select Your Role</h2>
+            <div id="role-selection">
+                <label><input type="radio" name="role" value="student"> 🎓 International Student</label>
+                <label><input type="radio" name="role" value="remote"> 💻 Remote Worker</label>
+                <label><input type="radio" name="role" value="spouse"> 👨‍👩‍👧 Trailing Spouse/Partner</label>
+                <label><input type="radio" name="role" value="professional"> 💼 Working Professional</label>
+                <label><input type="radio" name="role" value="entrepreneur"> 🚀 Entrepreneur/Business Owner</label>
+                <label><input type="radio" name="role" value="retiree"> 🌅 Retiree</label>
+                <label><input type="radio" name="role" value="undocumented"> 📋 Awaiting Documentation</label>
             </div>
         </section>
 
-        <section id="country-selection" class="selection-section hidden">
-            <div class="intro-content">
-                <button class="back-btn" id="back-to-intro">← Back to Introduction</button>
-                <div class="hero-section">
-                    <div class="heading-with-stars">
-                        <div class="star-circle" id="star-circle-3">
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                        </div>
-                        <h2>Select your Destination Region</h2>
-                        <div class="star-circle" id="star-circle-4">
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                            <span class="star">⭐</span>
-                        </div>
-                    </div>
-                    <p class="intro-tagline">Choose the region where you're planning to live or work</p>
-                </div>
-                
-                <div class="country-grid">
-                    <button class="country-btn" data-country="england">
-                        <span class="flag">🇬🇧</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏾</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏻</span>
-                        </div>
-                        <span class="country-name">United Kingdom</span>
-                    </button>
-                    <button class="country-btn" data-country="centralEurope">
-                        <span class="flag">🇩🇪🇦🇹🇨🇭🇱🇮</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏽</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏼</span>
-                        </div>
-                        <span class="country-name">Central Europe</span>
-                    </button>
-                    <button class="country-btn" data-country="scandinavia">
-                        <span class="flag">🇸🇪🇳🇴🇩🇰</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏾</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏼</span>
-                        </div>
-                        <span class="country-name">Scandinavia</span>
-                    </button>
-                    <button class="country-btn" data-country="mediterranean">
-                        <span class="flag">🇮🇹🇫🇷🇪🇸🇵🇹</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏿</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏻</span>
-                        </div>
-                        <span class="country-name">Mediterranean</span>
-                    </button>
-                    <button class="country-btn" data-country="balkans">
-                        <span class="flag">🇷🇸🇭🇷🇧🇦</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏽</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏻</span>
-                        </div>
-                        <span class="country-name">Balkans</span>
-                    </button>
-                    <button class="country-btn" data-country="greece">
-                        <span class="flag">🇬🇷</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏽</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏻</span>
-                        </div>
-                        <span class="country-name">Greece</span>
-                    </button>
-                    <button class="country-btn" data-country="finland">
-                        <span class="flag">🇫🇮</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏾</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏼</span>
-                        </div>
-                        <span class="country-name">Finland</span>
-                    </button>
-                    <button class="country-btn" data-country="baltics">
-                        <span class="flag">🇪🇪🇱🇻🇱🇹</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏽</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏼</span>
-                        </div>
-                        <span class="country-name">Baltics</span>
-                    </button>
-                    <button class="country-btn" data-country="usa">
-                        <span class="flag">🇺🇸</span>
-                        <div class="couple-container">
-                            <span class="person person-man">👨🏾</span>
-                            <span class="hug-heart">💕</span>
-                            <span class="person person-woman">👩🏻</span>
-                        </div>
-                        <span class="country-name">United States</span>
-                    </button>
-                </div>
-            </div>
-        </section>
-
-        <section id="category-selection" class="selection-section hidden">
-            <button class="back-btn" id="back-to-regions">← Back to Regions</button>
-            <h2 id="selected-country-title">Cultural Guidelines for <span id="country-name-display"></span></h2>
-            <div class="category-grid">
-                <button class="category-btn" data-category="relationships">
-                    <span class="category-icon">💕🤝</span>
-                    <span class="category-name">Module 1: Relationships & Respect</span>
-                </button>
-                <button class="category-btn" data-category="publicConduct">
-                    <span class="category-icon">🏛️🤝</span>
-                    <span class="category-name">Module 2: Public & Community Conduct</span>
-                </button>
-                <button class="category-btn" data-category="communicationMindset">
-                    <span class="category-icon">🗣️🧠</span>
-                    <span class="category-name">Module 3: Communication & Mindset</span>
-                </button>
-                <button class="category-btn" data-category="economicIntegration">
-                    <span class="category-icon">💼💰</span>
-                    <span class="category-name">Module 4: Economic Integration</span>
-                </button>
-                <button class="category-btn" data-category="healthcareNHS">
-                    <span class="category-icon">🏥💊</span>
-                    <span class="category-name">Module 5: Healthcare & NHS</span>
-                </button>
-                <button class="category-btn" data-category="navigatingOfficialdom">
-                    <span class="category-icon">🏛️📋</span>
-                    <span class="category-name">Module 6: Navigating Officialdom</span>
-                </button>
-                <button class="category-btn" data-category="educationSchools">
-                    <span class="category-icon">🎓📚</span>
-                    <span class="category-name">Module 7: Education & Schools</span>
-                </button>
-                <button class="category-btn" data-category="religionFaith">
-                    <span class="category-icon">🛐🤝</span>
-                    <span class="category-name">Module 8: Religion & Faith</span>
-                </button>
-                <button class="category-btn" data-category="teamOnboarding">
-                    <span class="category-icon">🏢🌍</span>
-                    <span class="category-name">Module 9: Team Onboarding & Language</span>
-                </button>
-            </div>
-        </section>
-
-        <section id="content-display" class="content-section hidden">
-            <button class="back-btn" id="back-to-categories">← Back to Categories</button>
-            <div id="content-container">
-                <h2 id="content-title"></h2>
-                <div id="content-body"></div>
-            </div>
-        </section>
-
-        <!-- New Interactive Sections -->
-        
-        <!-- Role Profile Selection -->
-        <section id="role-selection" class="selection-section hidden">
-            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
-            <div class="role-selector">
-                <h3>👤 Select Your Profile</h3>
-                <p class="text-center">Choose your role to get personalized cultural guidance</p>
-                <div class="role-grid" id="role-grid"></div>
-            </div>
-        </section>
-
-        <!-- Scenarios Section -->
-        <section id="scenarios-section" class="selection-section hidden">
-            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
-            <h2 class="text-center">🎭 Scenario-Based Cultural Guidance</h2>
-            <p class="text-center">Learn through real-life situations and interactive scenarios</p>
+        <section id="employment">
+            <h2>📋 Pathways to Employment</h2>
+            <p>Special resources for those preparing to enter the workforce.</p>
             
-            <div class="scenario-categories">
-                <div class="scenario-category-card" onclick="showScenarioContext('workplace')">
-                    <div class="scenario-icon">🏢</div>
-                    <h3>Workplace Scenarios</h3>
-                    <p>Navigate professional situations with cultural awareness</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('healthcare')">
-                    <div class="scenario-icon">🏥</div>
-                    <h3>Healthcare & Medical</h3>
-                    <p>Handle healthcare interactions confidently</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('bureaucracy')">
-                    <div class="scenario-icon">🏛️</div>
-                    <h3>Bureaucracy & Admin</h3>
-                    <p>Navigate official procedures efficiently</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('socialGatherings')">
-                    <div class="scenario-icon">🎉</div>
-                    <h3>Social Gatherings</h3>
-                    <p>Master social situations and etiquette</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('teamOnboarding')">
-                    <div class="scenario-icon">🏢</div>
-                    <h3>Team Onboarding</h3>
-                    <p>Workplace integration and professional language essentials</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('transportation')">
-                    <div class="scenario-icon">🚇</div>
-                    <h3>Transportation & Transit</h3>
-                    <p>Navigate public transportation and travel confidently</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('shopping')">
-                    <div class="scenario-icon">🛒</div>
-                    <h3>Shopping & Retail</h3>
-                    <p>Master shopping etiquette and consumer behavior</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('housing')">
-                    <div class="scenario-icon">🏠</div>
-                    <h3>Housing & Neighbors</h3>
-                    <p>Navigate rentals and build good neighbor relations</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('emergencies')">
-                    <div class="scenario-icon">🚨</div>
-                    <h3>Emergency Situations</h3>
-                    <p>Handle urgent situations safely and appropriately</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('banking')">
-                    <div class="scenario-icon">🏦</div>
-                    <h3>Banking & Finance</h3>
-                    <p>Manage finances and banking with confidence</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('workplace_advanced')">
-                    <div class="scenario-icon">💼</div>
-                    <h3>Advanced Workplace</h3>
-                    <p>Performance reviews, conflict resolution, remote work</p>
-                </div>
-                <div class="scenario-category-card" onclick="showScenarioContext('documentationPathways')">
-                    <div class="scenario-icon">📋</div>
-                    <h3>Documentation & Pathways</h3>
-                    <p>Navigate documentation and prepare for workforce entry</p>
-                </div>
-            </div>
+            <h4>What You'll Find:</h4>
+            <ul>
+                <li><strong>Documentation Navigation</strong>: Understanding visa processes, credential recognition, and documentation requirements across different countries</li>
+                <li><strong>Language Learning Strategies</strong>: Free and low-cost resources, practice methods, and tips for achieving job-ready language proficiency</li>
+                <li><strong>Skills Development</strong>: Online learning opportunities, certification programs, and ways to build portfolios while waiting</li>
+                <li><strong>Volunteer Pathways</strong>: Legal volunteering opportunities to gain local experience, references, and professional networks</li>
+                <li><strong>Financial Survival</strong>: Managing limited resources, accessing support services, and understanding what work is legal during waiting periods</li>
+                <li><strong>Mental Resilience</strong>: Coping strategies for uncertainty, maintaining motivation, and building confidence for future employment</li>
+                <li><strong>Alternative Pathways</strong>: Bridge programs, apprenticeships, stepping-stone opportunities, and unconventional routes to employment</li>
+                <li><strong>CV/Resume Preparation</strong>: Adapting your credentials to local market expectations and explaining gaps positively</li>
+            </ul>
+
+            <h4>Your Time Waiting Is Not Wasted:</h4>
+            <ul>
+                <li>Build language proficiency that opens doors</li>
+                <li>Develop understanding of workplace culture and expectations</li>
+                <li>Create networks through community engagement and volunteering</li>
+                <li>Gain local references and experience</li>
+                <li>Prepare mentally and practically for successful integration</li>
+                <li>Learn regional nuances that help you stand out to employers</li>
+            </ul>
             
-            <div id="scenario-content" class="mt-2"></div>
+            <p><strong>Remember</strong>: Successful integration begins before formal employment. Use this resource to transform waiting time into preparation time.</p>
         </section>
 
-        <!-- Quizzes Section -->
-        <section id="quizzes-section" class="selection-section hidden">
-            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
-            <h2 class="text-center">📝 Test Your Cultural Knowledge</h2>
-            <p class="text-center">Take interactive quizzes to reinforce your understanding</p>
-            
-            <div class="quiz-selection-grid">
-                <div class="quiz-card" onclick="startQuiz('relationshipsRespect')">
-                    <div class="quiz-icon">💕</div>
-                    <h3>Module 1: Relationships & Respect</h3>
-                    <p>Test your knowledge of dating, consent, and social boundaries</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
-                <div class="quiz-card" onclick="startQuiz('publicConductEtiquette')">
-                    <div class="quiz-icon">🏛️</div>
-                    <h3>Module 2: Public & Community Conduct</h3>
-                    <p>Master public behavior and community etiquette</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
-                <div class="quiz-card" onclick="startQuiz('communicationMindset')">
-                    <div class="quiz-icon">🗣️</div>
-                    <h3>Module 3: Communication & Mindset</h3>
-                    <p>Understand British indirect communication and mindset</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
-                <div class="quiz-card" onclick="startQuiz('economicIntegration')">
-                    <div class="quiz-icon">💼</div>
-                    <h3>Module 4: Economic Integration</h3>
-                    <p>Learn about work culture and employment expectations</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
-                <div class="quiz-card" onclick="startQuiz('healthcareNHS')">
-                    <div class="quiz-icon">🏥</div>
-                    <h3>Module 5: Healthcare & NHS</h3>
-                    <p>Navigate the NHS and healthcare system confidently</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
-                <div class="quiz-card" onclick="startQuiz('navigatingOfficialdom')">
-                    <div class="quiz-icon">📋</div>
-                    <h3>Module 6: Navigating Officialdom</h3>
-                    <p>Handle bureaucracy and official procedures effectively</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
-                <div class="quiz-card" onclick="startQuiz('educationSchools')">
-                    <div class="quiz-icon">🎓</div>
-                    <h3>Module 7: Education & Schools</h3>
-                    <p>Understand the UK education system and school culture</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
-                <div class="quiz-card" onclick="startQuiz('religionFaith')">
-                    <div class="quiz-icon">🛐</div>
-                    <h3>Module 8: Religion & Faith</h3>
-                    <p>Learn about religious freedom and faith in the UK</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
-                <div class="quiz-card" onclick="startQuiz('teamOnboarding')">
-                    <div class="quiz-icon">🏢</div>
-                    <h3>Module 9: Team Onboarding & Language</h3>
-                    <p>Master workplace integration and essential office phrases</p>
-                    <span class="quiz-badge">4 Questions</span>
-                </div>
+        <section id="progress">
+            <h2>📊 My Progress</h2>
+            <div id="progress-container">
+                <!-- Progress will be displayed here -->
             </div>
-            
-            <div id="quiz-content" class="mt-2"></div>
+            <button id="reset-progress">Reset Progress</button>
         </section>
 
-        <!-- Scoreboard Section -->
-        <section id="scoreboard-section" class="selection-section hidden">
-            <button class="back-btn" onclick="showSection('intro')">← Back to Home</button>
-            <div id="scoreboard-content"></div>
+        <section id="snapshot">
+            <h2>📸 Your Cultural Snapshot</h2>
+            <p>Generate a shareable snapshot of your cultural knowledge!</p>
+            <button id="generate-snapshot">Generate Snapshot</button>
+            <canvas id="snapshot-canvas" width="800" height="400"></canvas>
+        </section>
+
+        <section id="quizzes">
+            <h2>📝 Interactive Quizzes</h2>
+        </section>
+
+        <section id="scenarios">
+            <h2>🎯 Scenario-Based Learning</h2>
         </section>
 
     </main>
 
     <footer>
-        <div class="footer-content">
-            <div class="footer-section">
-                <h4>About</h4>
-                <p>Privacy-friendly cultural guidance for integration</p>
-            </div>
-            <div class="footer-section">
-                <h4>Privacy</h4>
-                <p>Ad-free • No tracking • Local storage only</p>
-                <a href="#" onclick="showPrivacyPolicy()">Privacy Policy</a>
-            </div>
-            <div class="footer-section">
-                <h4>Resources</h4>
-                <a href="https://github.com/gilbertbouic/The-Cultural-User-Manual" target="_blank">GitHub</a>
-            </div>
-        </div>
-        <p class="copyright">© 2024 Cultural-Assimilation-Manual | Open Source Cultural Integration Guide</p>
+        <p><a href="PRIVACY.md">Privacy Policy</a> | <a href="CONFIGURATION.md">Configuration</a></p>
+        <p>Open source project. All data stored locally.</p>
     </footer>
 
-    <!-- TensorFlow.js and HandPose for hand tracking -->
-    <script src="https://unpkg.com/@tensorflow/tfjs@3.11.0/dist/tf.min.js"></script>
-    <script src="https://unpkg.com/@tensorflow-models/handpose@0.0.7/dist/handpose.min.js"></script>
-    
-    <!-- Application Scripts -->
+    <script src="app.js"></script>
     <script src="data.js"></script>
     <script src="scenarios.js"></script>
     <script src="interactive.js"></script>
-    <script src="app.js"></script>
-    <script src="hand-tracking.js"></script>
     <script src="navigation.js"></script>
 </body>
 </html>
