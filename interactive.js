@@ -1,3 +1,4 @@
+copilot/refactor-front-end-javascript
 /**
  * Cultural Assimilation Manual - Interactive Module
  * Handles all interactive features: quizzes, scenarios, progress tracking, and snapshot generation.
@@ -6,11 +7,9 @@
 (function() {
     'use strict';
 
-    // ============================================================================
-    // PROGRESS STORE MODULE
+       // PROGRESS STORE MODULE
     // Responsible for loading, saving, and resetting user progress in localStorage
-    // ============================================================================
-
+   
     /**
      * ProgressStore - Manages user progress persistence in localStorage
      * @namespace
@@ -71,14 +70,69 @@
          */
         setUserRole: function(role) {
             localStorage.setItem(this.ROLE_KEY, role);
+document.addEventListener('DOMContentLoaded', () => {
+    const quizContainer = document.querySelector('#quizzes');
+    const scenariosContainer = document.querySelector('#scenarios');
+    const roleSelectionContainer = document.querySelector('#role-selection');
+    const progressContainer = document.querySelector('#progress-container');
+    const resetButton = document.querySelector('#reset-progress');
+    const generateSnapshotButton = document.querySelector('#generate-snapshot');
+    const snapshotCanvas = document.querySelector('#snapshot-canvas');
+
+    let progress = JSON.parse(localStorage.getItem('progress')) || { quizzes: {}, scenarios: [] };
+
+    // Migration: Convert old title-based keys to id-based keys
+    function migrateProgress() {
+        if (!culturalData || !culturalData.quizzes) return;
+        
+        let needsMigration = false;
+        const newQuizProgress = {};
+        
+        // Create a mapping from title to id
+        const titleToIdMap = {};
+        for (const key in culturalData.quizzes) {
+            const quiz = culturalData.quizzes[key];
+            if (quiz.id && quiz.title) {
+                titleToIdMap[quiz.title] = quiz.id;
+            }
+        }
+        
+        // Check if any progress keys match titles (old format)
+        for (const key in progress.quizzes) {
+            if (titleToIdMap[key]) {
+                // Old format detected - migrate to id-based key
+                needsMigration = true;
+                newQuizProgress[titleToIdMap[key]] = progress.quizzes[key];
+            } else {
+                // Already using id or unknown key - keep as is
+                newQuizProgress[key] = progress.quizzes[key];
+            }
+        }
+        
+        if (needsMigration) {
+            progress.quizzes = newQuizProgress;
+            saveProgress();
+        }
+    }
+
+    function saveProgress() {
+        localStorage.setItem('progress', JSON.stringify(progress));
+    }
+
+    function displayQuiz(quiz) {
+        const quizTitle = document.createElement('h3');
+        quizTitle.innerText = quiz.title;
+        quizContainer.appendChild(quizTitle);
+
+        if (!progress.quizzes[quiz.id]) {
+            progress.quizzes[quiz.id] = { score: 0, total: quiz.questions.length };
+main
         }
     };
 
-    // ============================================================================
     // QUIZ RENDERER MODULE
     // Responsible for rendering quizzes, handling answer selection, and updating quiz progress
-    // ============================================================================
-
+    
     /**
      * QuizRenderer - Handles quiz display and interaction
      * @namespace
@@ -153,7 +207,7 @@
             const optionsContainer = document.createElement('div');
             optionsContainer.classList.add('quiz-options');
 
-            const questionName = `question-${index}-${quiz.title.replace(/\s/g, '-')}`;
+            const questionName = `question-${index}-${quiz.id}`;
 
             // Create option inputs
             for (const key in question.options) {
@@ -178,7 +232,29 @@
             // Answer change handler
             const self = this;
             optionsContainer.addEventListener('change', (event) => {
+            copilot/refactor-front-end-javascript
                 self.handleAnswerSelection(event, question, quiz, feedbackElement);
+                const selectedOption = event.target.value;
+                const previouslyCorrect = event.target.dataset.answeredCorrectly === 'true';
+
+                if (selectedOption === question.correct) {
+                    feedbackElement.innerText = "Correct! " + question.explanation;
+                    feedbackElement.style.color = 'green';
+                    if (!previouslyCorrect) {
+                        progress.quizzes[quiz.id].score++;
+                        event.target.dataset.answeredCorrectly = 'true';
+                    }
+                } else {
+                    feedbackElement.innerText = `Incorrect. The correct answer is ${question.correct.toUpperCase()}. ${question.explanation}`;
+                    feedbackElement.style.color = 'red';
+                    if (previouslyCorrect) {
+                        progress.quizzes[quiz.id].score--;
+                        event.target.dataset.answeredCorrectly = 'false';
+                    }
+                }
+                saveProgress();
+                renderProgress();
+        main
             });
 
             return questionElement;
@@ -218,12 +294,10 @@
         }
     };
 
-    // ============================================================================
     // SCENARIO RENDERER MODULE
     // Responsible for rendering scenarios with flip cards and updating scenario completion
-    // ============================================================================
-
-    /**
+    
+  /**
      * ScenarioRenderer - Handles scenario display and interaction
      * @namespace
      */
@@ -499,6 +573,7 @@
                 }
             }
 
+       copilot/refactor-front-end-javascript
             // Use CAM_SCENARIOS namespace, fallback to global
             const scenarios = window.CAM_SCENARIOS ? window.CAM_SCENARIOS.scenarios : window.scenarios;
             
@@ -506,6 +581,18 @@
                 let scenarioCount = 0;
                 for (const countryCode in scenarios) {
                     scenarioCount += Object.keys(scenarios[countryCode]).length;
+
+        function calculateOverallProgress() {
+        let totalScore = 0;
+        let totalPossible = 0;
+
+        if (culturalData && culturalData.quizzes) {
+            for (const key in culturalData.quizzes) {
+                const quiz = culturalData.quizzes[key];
+                if (quiz.id && progress.quizzes[quiz.id]) {
+                    totalScore += progress.quizzes[quiz.id].score;
+                    totalPossible += progress.quizzes[quiz.id].total;
+        main
                 }
                 totalScore += this.progress.scenarios.length;
                 totalPossible += scenarioCount;
@@ -554,8 +641,58 @@
                 quizProgress.innerHTML += '<p>No quizzes attempted yet.</p>';
             }
 
+      copilot/refactor-front-end-javascript
             this.container.appendChild(quizProgress);
         },
+
+        return totalPossible > 0 ? (totalScore / totalPossible) * 100 : 0;
+    }
+
+    function renderProgress() {
+        progressContainer.innerHTML = ''; // Clear previous progress
+
+        const overallProgress = calculateOverallProgress();
+        const overallProgressBarContainer = document.createElement('div');
+        overallProgressBarContainer.classList.add('progress-bar-container');
+        const overallProgressBar = document.createElement('div');
+        overallProgressBar.classList.add('progress-bar');
+        overallProgressBar.style.width = `${overallProgress}%`;
+        overallProgressBar.innerText = `${Math.round(overallProgress)}%`;
+        overallProgressBarContainer.appendChild(overallProgressBar);
+        progressContainer.appendChild(overallProgressBarContainer);
+
+        const quizProgress = document.createElement('div');
+        quizProgress.innerHTML = '<h4>Quiz Scores</h4>';
+        if (Object.keys(progress.quizzes).length > 0) {
+            for (const quizId in progress.quizzes) {
+                const quiz = progress.quizzes[quizId];
+                const percentage = (quiz.score / quiz.total) * 100;
+                
+                // Find the quiz title from the ID
+                let quizTitle = quizId; // Fallback to ID if title not found
+                if (culturalData && culturalData.quizzes) {
+                    for (const key in culturalData.quizzes) {
+                        if (culturalData.quizzes[key].id === quizId) {
+                            quizTitle = culturalData.quizzes[key].title;
+                            break;
+                        }
+                    }
+                }
+                
+                const progressBarContainer = document.createElement('div');
+                progressBarContainer.classList.add('progress-bar-container');
+                const progressBar = document.createElement('div');
+                progressBar.classList.add('progress-bar');
+                progressBar.style.width = `${percentage}%`;
+                progressBar.innerText = `${Math.round(percentage)}%`;
+                quizProgress.appendChild(document.createTextNode(quizTitle));
+                progressBarContainer.appendChild(progressBar);
+                quizProgress.appendChild(progressBarContainer);
+            }
+        } else {
+            quizProgress.innerHTML += '<p>No quizzes attempted yet.</p>';
+        }
+      main
 
         /**
          * Render completed scenarios section
@@ -601,6 +738,7 @@
                 }
             }
 
+       copilot/refactor-front-end-javascript
             let allScenariosCompleted = true;
             // Use CAM_SCENARIOS namespace, fallback to global
             const scenarios = window.CAM_SCENARIOS ? window.CAM_SCENARIOS.scenarios : window.scenarios;
@@ -612,6 +750,15 @@
                 }
                 if (this.progress.scenarios.length < scenarioCount) {
                     allScenariosCompleted = false;
+
+        let allQuizzesCompleted = true;
+        if (culturalData && culturalData.quizzes) {
+            for (const key in culturalData.quizzes) {
+                const quiz = culturalData.quizzes[key];
+                if (!quiz.id || !progress.quizzes[quiz.id] || progress.quizzes[quiz.id].score < progress.quizzes[quiz.id].total) {
+                    allQuizzesCompleted = false;
+                    break;
+     main
                 }
             }
 
@@ -720,14 +867,15 @@
          * Load and restore saved user role
          */
         function loadUserRole() {
-            const savedRole = ProgressStore.getUserRole();
-            if (savedRole) {
-                const radioToCheck = document.querySelector(`input[name='role'][value='${savedRole}']`);
+        const savedRole = ProgressStore.getUserRole();
+        if (savedRole) {
+        const radioToCheck = document.querySelector(`input[name='role'][value='${savedRole}']`);
                 if (radioToCheck) {
                     radioToCheck.checked = true;
                 }
             }
         }
+       copilot/refactor-front-end-javascript
 
         // Initial setup
         loadUserRole();
@@ -736,3 +884,14 @@
         ProgressRenderer.render();
     });
 })();
+
+    }
+
+    // Initial setup
+    migrateProgress();
+    loadUserRole();
+    renderQuizzes();
+    renderScenarios();
+    renderProgress();
+});
+ main
