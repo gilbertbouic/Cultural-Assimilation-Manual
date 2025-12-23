@@ -3,6 +3,7 @@
 const culturalData = {
     quizzes: {
         uk: {
+            id: "quiz_uk",
             title: "United Kingdom Cultural Quiz",
             questions: [
                 {
@@ -38,6 +39,7 @@ const culturalData = {
             ]
         },
         us: {
+            id: "quiz_us",
             title: "United States Cultural Quiz",
             questions: [
                 {
@@ -73,6 +75,7 @@ const culturalData = {
             ]
         },
         ce: {
+            id: "quiz_ce",
             title: "Central Europe Cultural Quiz",
             questions: [
                 {
