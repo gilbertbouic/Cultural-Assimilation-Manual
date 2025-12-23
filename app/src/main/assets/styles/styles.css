@@ -142,3 +142,49 @@ footer a:hover {
         padding: 1rem;
     }
 }
+
+/* Region selector styles */
+.region-btn {
+    padding: 15px 20px;
+    font-size: 1rem;
+    font-weight: 600;
+    background: linear-gradient(135deg, var(--primary-color), var(--secondary-color));
+    color: white;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+    transition: all 0.3s ease;
+    box-shadow: 0 2px 5px var(--shadow-color);
+}
+
+.region-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 10px var(--shadow-color);
+}
+
+.region-btn:active {
+    transform: translateY(0);
+}
+
+.region-btn.active {
+    background: linear-gradient(135deg, #2ecc71, #27ae60);
+    box-shadow: 0 0 0 3px rgba(46, 204, 113, 0.3);
+}
+
+#current-region-display {
+    text-align: center;
+}
+
+#change-region {
+    padding: 8px 16px;
+    background: var(--primary-color);
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 0.9rem;
+}
+
+#change-region:hover {
+    background: #357ABD;
+}

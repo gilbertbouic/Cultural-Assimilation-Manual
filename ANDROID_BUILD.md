@@ -25,22 +25,30 @@ This repository contains an Android application that wraps the Cultural Assimila
 │   │       │   ├── drawable/         # Launcher icon drawables
 │   │       │   └── mipmap-*/         # Launcher icon bitmaps (density-specific)
 │   │       └── assets/               # Web app assets
-│   │           ├── index.html        # Main entry point
-│   │           ├── shared/           # Shared JS/CSS files
-│   │           │   ├── app.js
-│   │           │   ├── data.js
-│   │           │   ├── scenarios.js
-│   │           │   ├── interactive.js
-│   │           │   ├── navigation.js
+│   │           ├── index.html        # Main entry point with region selector
+│   │           ├── styles/           # CSS files
 │   │           │   ├── styles.css
 │   │           │   └── interactive-styles.css
-│   │           └── regions/          # Region-specific HTML files
-│   │               ├── uk/
-│   │               │   └── index.html
-│   │               ├── us/
-│   │               │   └── index.html
-│   │               └── ce/
-│   │                   └── index.html
+│   │           └── scripts/          # JavaScript files
+│   │               ├── app.js        # Main app logic
+│   │               ├── navigation.js
+│   │               ├── interactive.js
+│   │               ├── core/
+│   │               │   └── data.core.js   # Core data structures
+│   │               ├── regions/          # Region-specific data
+│   │               │   ├── united_states.data.js
+│   │               │   ├── united_kingdom.data.js
+│   │               │   ├── central_europe.data.js
+│   │               │   ├── scandinavia.data.js
+│   │               │   ├── finland.data.js
+│   │               │   ├── baltics.data.js
+│   │               │   ├── balkans.data.js
+│   │               │   ├── greece.data.js
+│   │               │   └── mediterranean.data.js
+│   │               └── scenarios/        # Region-specific scenarios
+│   │                   ├── united_states.scenarios.js
+│   │                   ├── united_kingdom.scenarios.js
+│   │                   └── central_europe.scenarios.js
 ├── build.gradle.kts                  # Root project Gradle build script
 ├── settings.gradle.kts               # Gradle settings
 ├── gradle.properties                 # Gradle configuration
@@ -49,19 +57,22 @@ This repository contains an Android application that wraps the Cultural Assimila
 
 ## Region Organization
 
-The content is organized by country/region in the `app/src/main/assets/regions/` directory:
+The content is organized by region using a modular file structure:
 
-- **UK** (`regions/uk/`) - United Kingdom cultural guide
-- **US** (`regions/us/`) - United States cultural guide  
-- **CE** (`regions/ce/`) - Central Europe (Germany, Austria, Switzerland, Liechtenstein)
-- **Scandinavia** - Coming soon
-- **Mediterranean** - Coming soon
-- **Balkans** - Coming soon
-- **Greece** - Coming soon
-- **Finland** - Coming soon
-- **Baltics** - Coming soon
+- **United States** - American cultural guidance (data + scenarios)
+- **United Kingdom** - British cultural guidance (data + scenarios)  
+- **Central Europe** - Germany, Austria, Switzerland, Liechtenstein (data + scenarios)
+- **Scandinavia** - Sweden, Norway, Denmark (placeholder)
+- **Finland** - Finnish cultural guidance (placeholder)
+- **Baltics** - Estonia, Latvia, Lithuania (placeholder)
+- **Balkans** - Serbia, Croatia, Bosnia, Montenegro (placeholder)
+- **Greece** - Greek cultural guidance (placeholder)
+- **Mediterranean** - Italy, France, Spain, Portugal (placeholder)
 
-Each region has its own `index.html` that filters and displays region-specific content.
+Each region has:
+- A data file in `scripts/regions/` containing quiz questions
+- A scenarios file in `scripts/scenarios/` containing situation-based guidance
+- Content is loaded dynamically based on user's region selection
 
 ## Prerequisites
 
@@ -180,13 +191,28 @@ The MainActivity configures the WebView with:
 
 ## Adding New Regions
 
-To add a new region (e.g., Scandinavia):
+To add a new region (e.g., Scandinavia with full content):
 
-1. Create directory: `app/src/main/assets/regions/scandinavia/`
-2. Create `index.html` in that directory (copy from existing region)
-3. Update the HTML to filter for the new region code
-4. Add region name to `app/src/main/res/values/strings.xml`
-5. (Optional) Add navigation link from main index.html
+1. **Create data file**: `app/src/main/assets/scripts/regions/scandinavia.data.js`
+   - Follow the structure of existing region data files
+   - Add quiz questions specific to Scandinavia
+   - Register the region using `window.CAM_DATA.registerRegion('scandinavia', scandinaviaData)`
+
+2. **Create scenarios file**: `app/src/main/assets/scripts/scenarios/scandinavia.scenarios.js`
+   - Follow the structure of existing scenario files
+   - Add workplace, social, healthcare scenarios
+   - Register scenarios using `window.CAM_SCENARIOS.registerRegion('scandinavia', scandinaviaScenarios)`
+
+3. **Update index.html**: The region button already exists in the region selector
+   - Ensure the button's `data-region` attribute matches the region key
+
+4. **Load the files**: Add script tags in `index.html` (already included for placeholders):
+   ```html
+   <script src="scripts/regions/scandinavia.data.js" defer></script>
+   <script src="scripts/scenarios/scandinavia.scenarios.js" defer></script>
+   ```
+
+5. **Test**: Verify the region appears in selector and loads content correctly
 
 ## Privacy & Permissions
 

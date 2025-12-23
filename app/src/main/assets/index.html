@@ -4,8 +4,8 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Cultural Assimilation Manual</title>
-    <link rel="stylesheet" href="shared/styles.css">
-    <link rel="stylesheet" href="shared/interactive-styles.css">
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/interactive-styles.css">
 </head>
 <body>
     <header>
@@ -16,6 +16,7 @@
         <button class="menu-toggle" id="menu-toggle" aria-label="Toggle navigation menu" aria-expanded="false">&#9776;</button>
         <nav id="main-nav" aria-label="Main navigation">
             <ul>
+                <li><a href="#region-select">Select Region</a></li>
                 <li><a href="#about">About</a></li>
                 <li><a href="#features">Features</a></li>
                 <li><a href="#roles">Your Role</a></li>
@@ -29,6 +30,26 @@
     </header>
 
     <main>
+        <section id="region-select">
+            <h2>🌍 Select Your Region</h2>
+            <p>Choose the region you're moving to or interested in learning about:</p>
+            <div id="region-selector" style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 15px; margin: 20px 0;">
+                <button class="region-btn" data-region="united_states">🇺🇸 United States</button>
+                <button class="region-btn" data-region="united_kingdom">🇬🇧 United Kingdom</button>
+                <button class="region-btn" data-region="central_europe">🇩🇪🇦🇹🇨🇭 Central Europe</button>
+                <button class="region-btn" data-region="scandinavia">🇸🇪🇳🇴🇩🇰 Scandinavia</button>
+                <button class="region-btn" data-region="finland">🇫🇮 Finland</button>
+                <button class="region-btn" data-region="baltics">🇪🇪🇱🇻🇱🇹 Baltics</button>
+                <button class="region-btn" data-region="balkans">🇷🇸🇭🇷🇧🇦 Balkans</button>
+                <button class="region-btn" data-region="greece">🇬🇷 Greece</button>
+                <button class="region-btn" data-region="mediterranean">🇮🇹🇫🇷🇪🇸🇵🇹 Mediterranean</button>
+            </div>
+            <div id="current-region-display" style="margin-top: 20px; padding: 10px; background: #f0f0f0; border-radius: 5px; display: none;">
+                <strong>Currently viewing:</strong> <span id="current-region-name"></span>
+                <button id="change-region" style="margin-left: 10px;">Change Region</button>
+            </div>
+        </section>
+
         <section id="about">
             <h2>📖 About</h2>
             <p>The Cultural-Assimilation-Manual helps immigrants successfully integrate into new cultures through:</p>
@@ -130,10 +151,27 @@
         <p>Open source project. All data stored locally.</p>
     </footer>
 
-    <script src="shared/app.js" defer></script>
-    <script src="shared/data.js" defer></script>
-    <script src="shared/scenarios.js" defer></script>
-    <script src="shared/interactive.js" defer></script>
-    <script src="shared/navigation.js" defer></script>
+    <!-- Core scripts -->
+    <script src="scripts/core/data.core.js" defer></script>
+    <script src="scripts/app.js" defer></script>
+    <script src="scripts/navigation.js" defer></script>
+    <script src="scripts/interactive.js" defer></script>
+    
+    <!-- Region data files -->
+    <script src="scripts/regions/united_states.data.js" defer></script>
+    <script src="scripts/regions/united_kingdom.data.js" defer></script>
+    <script src="scripts/regions/central_europe.data.js" defer></script>
+    <script src="scripts/regions/scandinavia.data.js" defer></script>
+    <script src="scripts/regions/finland.data.js" defer></script>
+    <script src="scripts/regions/baltics.data.js" defer></script>
+    <script src="scripts/regions/balkans.data.js" defer></script>
+    <script src="scripts/regions/greece.data.js" defer></script>
+    <script src="scripts/regions/mediterranean.data.js" defer></script>
+    
+    <!-- Region scenarios files -->
+    <script src="scripts/scenarios/united_states.scenarios.js" defer></script>
+    <script src="scripts/scenarios/united_kingdom.scenarios.js" defer></script>
+    <script src="scripts/scenarios/central_europe.scenarios.js" defer></script>
+
 </body>
 </html>
