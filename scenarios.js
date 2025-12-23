@@ -2,6 +2,34 @@
  * Cultural Assimilation Manual - Scenarios Module
  * Contains scenario-based learning content for different regions and contexts.
  * Exposed via window.CAM_SCENARIOS namespace to avoid global pollution.
+ * 
+ * ============================================================================
+ * SCHEMA DOCUMENTATION
+ * ============================================================================
+ * 
+ * Scenario Schema:
+ * {
+ *   id: string,              // Required: Unique identifier (e.g., "scenario_uk_workplace")
+ *   title: string,           // Required: Human-readable scenario title
+ *   description?: string,    // Optional: Brief description of the scenario
+ *   region: string,          // Required: Region code (e.g., "uk", "us", "ce")
+ *   category: string,        // Required: Category (e.g., "workplace", "social", "healthcare")
+ *   roles?: Array<string>,   // Optional: User roles this scenario applies to
+ *                            //   (e.g., ["student", "professional", "remote"])
+ *   steps: Array<Step>       // Required: Array of step objects
+ * }
+ * 
+ * Step Schema:
+ * {
+ *   title: string,           // Required: Step title
+ *   description: string,     // Required: Step description/context
+ *   dos?: Array<string>,     // Optional: List of recommended actions
+ *   donts?: Array<string>    // Optional: List of actions to avoid
+ * }
+ * 
+ * Note: This structure is designed to support future JSON-based content loading.
+ *       The schema can be validated and content can be easily migrated to .json files.
+ * ============================================================================
  */
 (function() {
     'use strict';
@@ -14,7 +42,10 @@
     const scenarios = {
     uk: {
         workplace: {
+            id: "scenario_uk_workplace",
             title: "First Day at a UK Office",
+            region: "uk",
+            category: "workplace",
             roles: ["professional", "remote", "entrepreneur"],
             steps: [
                 {
@@ -64,7 +95,10 @@
     },
     us: {
         workplace: {
+            id: "scenario_us_workplace",
             title: "First Day at a US Office",
+            region: "us",
+            category: "workplace",
             roles: ["professional", "remote", "entrepreneur"],
             steps: [
                 {
@@ -114,7 +148,10 @@
     },
     ce: {
         social: {
+            id: "scenario_ce_social",
             title: "Sunday in a German Neighborhood",
+            region: "ce",
+            category: "social",
             roles: ["student", "spouse", "retiree"],
             steps: [
                 {

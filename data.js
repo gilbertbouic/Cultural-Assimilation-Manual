@@ -2,6 +2,33 @@
  * Cultural Assimilation Manual - Data Module
  * Contains quiz questions and cultural data for different regions.
  * Exposed via window.CAM_DATA namespace to avoid global pollution.
+ * 
+ * ============================================================================
+ * SCHEMA DOCUMENTATION
+ * ============================================================================
+ * 
+ * Quiz Schema:
+ * {
+ *   id: string,              // Required: Unique identifier (e.g., "quiz_uk", "quiz_us")
+ *   title: string,           // Required: Human-readable quiz title
+ *   description?: string,    // Optional: Brief description of the quiz
+ *   region: string,          // Required: Region code (e.g., "uk", "us", "ce")
+ *   category: string,        // Required: Category (e.g., "workplace", "social", "general")
+ *   questions: Array<Question>  // Required: Array of question objects
+ * }
+ * 
+ * Question Schema:
+ * {
+ *   question: string,        // Required: The question text
+ *   options: Object,         // Required: Answer options keyed by letter (a, b, c, etc.)
+ *                            //   Example: { a: "Option A", b: "Option B", c: "Option C" }
+ *   correct: string,         // Required: The correct answer key (e.g., "a", "b", "c")
+ *   explanation: string      // Required: Explanation of the correct answer
+ * }
+ * 
+ * Note: This structure is designed to support future JSON-based content loading.
+ *       The schema can be validated and content can be easily migrated to .json files.
+ * ============================================================================
  */
 (function() {
     'use strict';
@@ -15,6 +42,8 @@
         uk: {
             id: "quiz_uk",
             title: "United Kingdom Cultural Quiz",
+            region: "uk",
+            category: "general",
             questions: [
                 {
                     question: "You arrive at a bus stop where several people are waiting. What is the most appropriate action?",
@@ -51,6 +80,8 @@
         us: {
             id: "quiz_us",
             title: "United States Cultural Quiz",
+            region: "us",
+            category: "general",
             questions: [
                 {
                     question: "You are meeting your new American manager, John Smith, for the first time. How should you greet him?",
@@ -87,6 +118,8 @@
         ce: {
             id: "quiz_ce",
             title: "Central Europe Cultural Quiz",
+            region: "ce",
+            category: "general",
             questions: [
                 {
                     question: "You have a business meeting in Germany at 10:00 AM. What is the best time to arrive?",

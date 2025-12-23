@@ -70,66 +70,73 @@ copilot/refactor-front-end-javascript
          */
         setUserRole: function(role) {
             localStorage.setItem(this.ROLE_KEY, role);
-document.addEventListener('DOMContentLoaded', () => {
-    const quizContainer = document.querySelector('#quizzes');
-    const scenariosContainer = document.querySelector('#scenarios');
-    const roleSelectionContainer = document.querySelector('#role-selection');
-    const progressContainer = document.querySelector('#progress-container');
-    const resetButton = document.querySelector('#reset-progress');
-    const generateSnapshotButton = document.querySelector('#generate-snapshot');
-    const snapshotCanvas = document.querySelector('#snapshot-canvas');
-
-    let progress = JSON.parse(localStorage.getItem('progress')) || { quizzes: {}, scenarios: [] };
-
-    // Migration: Convert old title-based keys to id-based keys
-    function migrateProgress() {
-        if (!culturalData || !culturalData.quizzes) return;
-        
-        let needsMigration = false;
-        const newQuizProgress = {};
-        
-        // Create a mapping from title to id
-        const titleToIdMap = {};
-        for (const key in culturalData.quizzes) {
-            const quiz = culturalData.quizzes[key];
-            if (quiz.id && quiz.title) {
-                titleToIdMap[quiz.title] = quiz.id;
-            }
-        }
-        
-        // Check if any progress keys match titles (old format)
-        for (const key in progress.quizzes) {
-            if (titleToIdMap[key]) {
-                // Old format detected - migrate to id-based key
-                needsMigration = true;
-                newQuizProgress[titleToIdMap[key]] = progress.quizzes[key];
-            } else {
-                // Already using id or unknown key - keep as is
-                newQuizProgress[key] = progress.quizzes[key];
-            }
-        }
-        
-        if (needsMigration) {
-            progress.quizzes = newQuizProgress;
-            saveProgress();
-        }
-    }
-
-    function saveProgress() {
-        localStorage.setItem('progress', JSON.stringify(progress));
-    }
-
-    function displayQuiz(quiz) {
-        const quizTitle = document.createElement('h3');
-        quizTitle.innerText = quiz.title;
-        quizContainer.appendChild(quizTitle);
-
-        if (!progress.quizzes[quiz.id]) {
-            progress.quizzes[quiz.id] = { score: 0, total: quiz.questions.length };
-main
         }
     };
 
+    // ============================================================================
+    // DATA LOADER MODULE
+    // Abstracts data access to prepare for future JSON-based content loading
+    // ============================================================================
+    
+    /**
+     * DataLoader - Provides unified interface for accessing quiz and scenario data
+     * Currently loads from global JS variables, but can be extended to fetch from JSON
+     * @namespace
+     */
+    const DataLoader = {
+        /**
+         * Get all quizzes from the data source
+         * @returns {Object} Object containing all quiz data keyed by region
+         */
+        getAllQuizzes: function() {
+            // Use CAM_DATA namespace, fallback to global for backward compatibility
+            const culturalData = window.CAM_DATA ? window.CAM_DATA.culturalData : window.culturalData;
+            return culturalData && culturalData.quizzes ? culturalData.quizzes : {};
+        },
+
+        /**
+         * Get a specific quiz by region code
+         * @param {string} regionCode - Region code (e.g., "uk", "us", "ce")
+         * @returns {Object|null} Quiz object or null if not found
+         */
+        getQuizByRegion: function(regionCode) {
+            const quizzes = this.getAllQuizzes();
+            return quizzes[regionCode] || null;
+        },
+
+        /**
+         * Get all scenarios from the data source
+         * @returns {Object} Object containing all scenario data keyed by region
+         */
+        getAllScenarios: function() {
+            // Use CAM_SCENARIOS namespace, fallback to global for backward compatibility
+            const scenarios = window.CAM_SCENARIOS ? window.CAM_SCENARIOS.scenarios : window.scenarios;
+            return scenarios || {};
+        },
+
+        /**
+         * Get scenarios for a specific region
+         * @param {string} regionCode - Region code (e.g., "uk", "us", "ce")
+         * @returns {Object} Object containing scenarios for the region keyed by category
+         */
+        getScenariosByRegion: function(regionCode) {
+            const scenarios = this.getAllScenarios();
+            return scenarios[regionCode] || {};
+        },
+
+        /**
+         * Get a specific scenario by region and category
+         * @param {string} regionCode - Region code (e.g., "uk", "us", "ce")
+         * @param {string} category - Category (e.g., "workplace", "social")
+         * @returns {Object|null} Scenario object or null if not found
+         */
+        getScenario: function(regionCode, category) {
+            const regionScenarios = this.getScenariosByRegion(regionCode);
+            return regionScenarios[category] || null;
+        }
+    };
+
+    // ============================================================================
     // QUIZ RENDERER MODULE
     // Responsible for rendering quizzes, handling answer selection, and updating quiz progress
     
@@ -159,13 +166,11 @@ main
             
             this.container.innerHTML = '<h2>📝 Interactive Quizzes</h2>';
             
-            // Use CAM_DATA namespace, fallback to global for backward compatibility
-            const culturalData = window.CAM_DATA ? window.CAM_DATA.culturalData : window.culturalData;
+            // Use DataLoader to get quiz data
+            const quizzes = DataLoader.getAllQuizzes();
             
-            if (culturalData && culturalData.quizzes) {
-                for (const key in culturalData.quizzes) {
-                    this.displayQuiz(culturalData.quizzes[key]);
-                }
+            for (const key in quizzes) {
+                this.displayQuiz(quizzes[key]);
             }
         },
 
@@ -324,8 +329,8 @@ main
             this.container.innerHTML = '<h2>🎯 Scenario-Based Learning</h2>';
             const userRole = ProgressStore.getUserRole();
 
-            // Use CAM_SCENARIOS namespace, fallback to global for backward compatibility
-            const scenarios = window.CAM_SCENARIOS ? window.CAM_SCENARIOS.scenarios : window.scenarios;
+            // Use DataLoader to get scenario data
+            const scenarios = DataLoader.getAllScenarios();
 
             if (scenarios) {
                 for (const countryCode in scenarios) {
@@ -724,24 +729,21 @@ main
             badgesContainer.innerHTML = '<h4>Badges</h4>';
 
             let allQuizzesCompleted = true;
-            // Use CAM_DATA namespace, fallback to global
-            const culturalData = window.CAM_DATA ? window.CAM_DATA.culturalData : window.culturalData;
+            // Use DataLoader to get quiz data
+            const quizzes = DataLoader.getAllQuizzes();
             
-            if (culturalData && culturalData.quizzes) {
-                for (const key in culturalData.quizzes) {
-                    const quizTitle = culturalData.quizzes[key].title;
-                    if (!this.progress.quizzes[quizTitle] || 
-                        this.progress.quizzes[quizTitle].score < this.progress.quizzes[quizTitle].total) {
-                        allQuizzesCompleted = false;
-                        break;
-                    }
+            for (const key in quizzes) {
+                const quizTitle = quizzes[key].title;
+                if (!this.progress.quizzes[quizTitle] || 
+                    this.progress.quizzes[quizTitle].score < this.progress.quizzes[quizTitle].total) {
+                    allQuizzesCompleted = false;
+                    break;
                 }
             }
 
-       copilot/refactor-front-end-javascript
             let allScenariosCompleted = true;
-            // Use CAM_SCENARIOS namespace, fallback to global
-            const scenarios = window.CAM_SCENARIOS ? window.CAM_SCENARIOS.scenarios : window.scenarios;
+            // Use DataLoader to get scenario data
+            const scenarios = DataLoader.getAllScenarios();
             
             if (scenarios) {
                 let scenarioCount = 0;
