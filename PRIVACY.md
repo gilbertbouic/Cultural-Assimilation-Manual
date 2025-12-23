@@ -4,7 +4,7 @@
 
 ## Our Commitment to Privacy
 
-The Cultural User Manual is built with privacy as a core principle. We believe cultural guidance should be accessible without compromising your personal information.
+The Cultural-Assimilation-Manual is built with privacy as a core principle. We believe cultural guidance should be accessible without compromising your personal information.
 
 ## What We DON'T Do
 

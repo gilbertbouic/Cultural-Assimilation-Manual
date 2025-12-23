@@ -1,4 +1,4 @@
-// Interactive Components for Cultural User Manual
+// Interactive Components for Cultural-Assimilation-Manual
 
 // Quiz System
 class CulturalQuiz {

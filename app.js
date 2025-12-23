@@ -178,4 +178,4 @@ function scrollToFeedback() {
     }
 }
 
-console.log('Cultural User Manual initialized successfully!');
+console.log('Cultural-Assimilation-Manual initialized successfully!');

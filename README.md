@@ -1,8 +1,8 @@
-# The Cultural User Manual 🌍
+# Cultural-Assimilation-Manual 🌍
 
-**Your Interactive Guide to Cultural Integration in Europe**
+**Your Interactive Guide to Cultural Integration**
 
-An open-source web application providing scenario-based, interactive cultural guidance for immigrants and international professionals moving to Europe. Now featuring interactive quizzes, role-based personalization, and comprehensive cultural learning modules.
+An open-source web application providing scenario-based, interactive cultural guidance for immigrants and international professionals. Now featuring interactive quizzes, role-based personalization, and comprehensive cultural learning modules.
 
 **✨ NEW: Special guidance for migrants awaiting documentation and preparing for workforce entry**
 
@@ -10,7 +10,7 @@ An open-source web application providing scenario-based, interactive cultural gu
 
 ## 📖 About
 
-The Cultural User Manual helps immigrants successfully integrate into European cultures through:
+The Cultural-Assimilation-Manual helps immigrants successfully integrate into new cultures through:
 
 - **Depth over Breadth**: Highly structured, scenario-based cultural guidance tailored to specific contexts (workplace, healthcare, bureaucracy, social gatherings)
 - **Interactive Learning**: Quizzes, "dos/don'ts" cards, simulations, and etiquette scoreboards
@@ -202,9 +202,9 @@ See our full [Privacy Policy](PRIVACY.md) for details.
 
 ---
 
-## 🌍 European Cultural Groupings
+## 🌍 Cultural Groupings
 
-Understanding Europe's cultural landscape helps immigrants navigate regional differences. Our groupings are based on regional, linguistic, and historical similarities:
+Understanding different cultural landscapes helps immigrants navigate regional differences. Our groupings are based on regional, linguistic, and historical similarities:
 
 ### Summary Table
 
@@ -309,7 +309,7 @@ The Baltic states share geographic proximity and some historical experiences but
 
 **Countries covered:** Serbia, Croatia, Bosnia and Herzegovina, Montenegro, North Macedonia, Albania, Kosovo, Slovenia
 
-The Balkans represent one of Europe's most culturally diverse regions. Rather than selecting a single national archetype, this grouping acknowledges the rich tapestry of traditions, languages, and histories that characterize Southeastern Europe.
+The Balkans represent one of the world's most culturally diverse regions. Rather than selecting a single national archetype, this grouping acknowledges the rich tapestry of traditions, languages, and histories that characterize Southeastern regions.
 
 **Distinguishing features:**
 - **Hospitality culture:** Strong traditions of welcoming guests; generosity is highly valued
@@ -317,7 +317,7 @@ The Balkans represent one of Europe's most culturally diverse regions. Rather th
 - **Family centricity:** Extended family networks are important; multi-generational households common
 - **Religious diversity:** Orthodox Christianity, Catholicism, and Islam coexist with varying regional distributions
 - **Complex histories:** Navigating historical sensitivities requires awareness and respect
-- **Animated expression:** More demonstrative communication styles compared to Northern Europe
+- **Animated expression:** More demonstrative communication styles compared to Northern regions
 - **Regional cuisine:** Shared dishes (ćevapi, burek, rakija) with local variations across borders
 - **Resilience and adaptability:** Historical experiences have fostered resourcefulness and flexibility
 
@@ -329,7 +329,7 @@ The Balkans represent one of Europe's most culturally diverse regions. Rather th
 
 **Country covered:** Greece
 
-Greece occupies a unique cultural position bridging Southern Europe and the Eastern Mediterranean. Its ancient heritage, Orthodox Christian traditions, and Mediterranean lifestyle create a distinctive cultural environment.
+Greece occupies a unique cultural position bridging Southern regions and the Eastern Mediterranean. Its ancient heritage, Orthodox Christian traditions, and Mediterranean lifestyle create a distinctive cultural environment.
 
 **Distinguishing features:**
 - **Philoxenia (hospitality):** Deep cultural tradition of welcoming strangers; generosity to guests is a point of honor
@@ -355,7 +355,7 @@ The Mediterranean cultural zone shares characteristics shaped by climate, geogra
 - **Formal greetings:** Proper salutations are essential; "Bonjour," "Buongiorno" before any interaction
 - **Formal/informal distinction:** Vous/tu (French), Lei/tu (Italian) distinctions in address are important
 - **Work-life balance:** Quality of life prioritized; lunch breaks are substantial; August vacations are sacred
-- **Expressive communication:** More animated gestures and emotional expression than Northern Europe
+- **Expressive communication:** More animated gestures and emotional expression than Northern regions
 - **Aesthetic appreciation:** Art, fashion, design, and beauty are valued in daily life
 - **Regional pride:** Strong local and regional identities; cuisine and traditions vary significantly by area
 - **Social dining:** Never rush through meals; eating alone is less common; meals are communal events
@@ -415,10 +415,10 @@ The Mediterranean cultural zone shares characteristics shaped by climate, geogra
 
 ### Special Resources for Those Preparing to Enter the Workforce
 
-We understand that many migrants arrive in Europe with hope and qualifications but face waiting periods while documentation is processed. This guide offers dedicated resources to help you make productive use of this time:
+We understand that many migrants arrive in their new country with hope and qualifications but face waiting periods while documentation is processed. This guide offers dedicated resources to help you make productive use of this time:
 
 #### What You'll Find:
-- **Documentation Navigation**: Understanding visa processes, credential recognition, and documentation requirements across European countries
+- **Documentation Navigation**: Understanding visa processes, credential recognition, and documentation requirements across different countries
 - **Language Learning Strategies**: Free and low-cost resources, practice methods, and tips for achieving job-ready language proficiency
 - **Skills Development**: Online learning opportunities, certification programs, and ways to build portfolios while waiting
 - **Volunteer Pathways**: Legal volunteering opportunities to gain local experience, references, and professional networks
@@ -458,7 +458,7 @@ Key principles for effective cultural integration:
 Contributions are welcome! Here's how you can help:
 
 ### Adding Content
-- **New Regions**: Add cultural guidance for additional European countries
+- **New Regions**: Add cultural guidance for additional countries
 - **New Scenarios**: Create realistic situations for existing contexts
 - **Quiz Questions**: Develop new quiz questions with explanations
 - **Cultural Nuances**: Add detailed regional variations
@@ -505,7 +505,7 @@ Please ensure:
 - [ ] Printable cultural reference cards
 
 #### Medium-term (v3.0)
-- [ ] Multi-language support (starting with major European languages)
+- [ ] Multi-language support (starting with major languages)
 - [ ] Dialect and accent guides with audio
 - [ ] Nonverbal communication visual guides
 - [ ] Negotiation style comparisons
@@ -561,7 +561,7 @@ See the LICENSE file for full details.
 - Built with contributions from the immigrant and expat community
 - Inspired by the need for practical, honest cultural integration resources
 - Hand-tracking features powered by TensorFlow.js
-- EU flag design in background honors European unity
+- Flag design in background honors cultural diversity
 
 ---
 
@@ -579,4 +579,4 @@ To all immigrants, expats, and cultural bridges who contributed insights and fee
 
 ---
 
-**Made with ❤️ for cultural understanding and successful integration across Europe**
+**Made with ❤️ for cultural understanding and successful integration worldwide**
