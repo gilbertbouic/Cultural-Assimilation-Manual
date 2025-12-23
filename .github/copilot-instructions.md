@@ -1,11 +1,11 @@
-# Copilot Instructions for The Cultural User Manual
+# Copilot Instructions for Cultural-Assimilation-Manual
 
 ## Project Overview
 
-The Cultural User Manual is an **open-source web application** that provides scenario-based, interactive cultural guidance for immigrants and international professionals moving to Europe. The project helps users navigate cultural integration through interactive quizzes, role-based personalization, and practical scenario guidance.
+The Cultural-Assimilation-Manual is an **open-source web application** that provides scenario-based, interactive cultural guidance for immigrants and international professionals. The project helps users navigate cultural integration through interactive quizzes, role-based personalization, and practical scenario guidance.
 
 ### Mission
-Help immigrants successfully integrate into European cultures by providing depth over breadth with highly structured, scenario-based cultural guidance tailored to specific contexts.
+Help immigrants successfully integrate into new cultures by providing depth over breadth with highly structured, scenario-based cultural guidance tailored to specific contexts.
 
 ### Key Features
 - Interactive quizzes with scoring and progress tracking
@@ -13,7 +13,7 @@ Help immigrants successfully integrate into European cultures by providing depth
 - Role-based personalization (students, remote workers, professionals, etc.)
 - Privacy-first design (no tracking, local storage only)
 - B2B corporate onboarding capabilities
-- Support for multiple European regions and cultures
+- Support for multiple cultural regions and countries
 
 ## Technology Stack
 
@@ -172,7 +172,7 @@ Then open `http://localhost:8000` in your browser.
 
 ## Common Tasks
 
-### Adding a New European Region
+### Adding a New Cultural Region
 
 1. Add region data to `data.js` in the `culturalData` object
 2. Include all required categories (relationships, communication, economy, etc.)

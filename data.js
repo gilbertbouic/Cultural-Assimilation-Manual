@@ -2781,7 +2781,7 @@ const culturalData = {
                 <h3>🏭 Teil 2: Job Market Realities Across Central Europe</h3>
                 <p>The economic landscape varies significantly across the region. Let's break it down by country and sector: 🗺️</p>
 
-                <h4>🇩🇪 Germany – Europe's Economic Powerhouse:</h4>
+                <h4>🇩🇪 Germany – Major Economic Hub:</h4>
                 <ul>
                     <li>🏭 <strong>Manufacturing & Engineering:</strong> Automotive (VW, BMW, Mercedes), machinery, chemicals. Strong demand for skilled workers.</li>
                     <li>🏥 <strong>Healthcare & Social Care:</strong> Massive demand for nurses, care workers (Pflegekräfte), medical technicians. Good entry point for many.</li>
@@ -2812,7 +2812,7 @@ const culturalData = {
 
                 <div class="warning">
                     <strong>⚠️ The Swiss Reality Check</strong>
-                    <p>Switzerland offers the highest salaries in Europe – but also the highest cost of living. 💰 Rent in Zurich or Geneva can consume 30-40% of a good salary. Health insurance is mandatory and expensive (CHF 300-500+ per month). Getting a work permit is difficult for non-EU citizens. Do the math carefully before moving to Switzerland! 🧮</p>
+                    <p>Switzerland offers the highest salaries in the region – but also the highest cost of living. 💰 Rent in Zurich or Geneva can consume 30-40% of a good salary. Health insurance is mandatory and expensive (CHF 300-500+ per month). Getting a work permit is difficult for non-EU citizens. Do the math carefully before moving to Switzerland! 🧮</p>
                 </div>
 
                 <h4>🎯 How to Find Work:</h4>
@@ -2840,7 +2840,7 @@ const culturalData = {
 
                 <h4>💼 Why This Matters:</h4>
                 <ul>
-                    <li>✅ <strong>Recognized Qualifications:</strong> An Ausbildung certificate is highly respected across Germany and recognized throughout the EU.</li>
+                    <li>✅ <strong>Recognized Qualifications:</strong> An Ausbildung certificate is highly respected across Germany and recognized internationally.</li>
                     <li>💰 <strong>Good Long-Term Prospects:</strong> After completing an Ausbildung, you're a qualified professional (Fachkraft) with solid earning potential.</li>
                     <li>📈 <strong>Career Ladder:</strong> You can advance to become a Meister (master craftsman) or Techniker (technician), often earning more than university graduates!</li>
                     <li>🌍 <strong>Open to Adults:</strong> While most apprentices are young, adult apprenticeships exist. Don't rule it out!</li>
@@ -3080,7 +3080,7 @@ const culturalData = {
                     <strong>🎯 The Bottom Line</strong>
                     <p>Economic integration in Central Europe rests on several pillars: <strong>Reliability (Zuverlässigkeit)</strong> ⏰ – show up, deliver, keep promises. <strong>Quality (Qualität)</strong> 🎯 – do things properly, take pride in your work. <strong>Self-Sufficiency (Eigenverantwortung)</strong> 💪 – support yourself and contribute to society. <strong>Continuous Learning (Weiterbildung)</strong> 📚 – never stop improving your skills.</p>
                     <p>Germany 🇩🇪 offers strong worker protections and excellent training systems. Austria 🇦🇹 combines German thoroughness with Alpine charm and a thriving tourism sector. Switzerland 🇨🇭 provides the highest salaries but demands the highest standards and self-reliance. </p>
-                    <p>Work hard, work smart, respect the systems, and build your economic foundation. Central Europeans respect those who contribute and stand on their own two feet. Do that, and you'll build not just a career – but a solid, prosperous life in the heart of Europe! 🇩🇪🇦🇹🇨🇭🇱🇮✨</p>
+                    <p>Work hard, work smart, respect the systems, and build your economic foundation. Central region countries respect those who contribute and stand on their own two feet. Do that, and you'll build not just a career – but a solid, prosperous life! 🇩🇪🇦🇹🇨🇭🇱🇮✨</p>
                 </div>
             `
         },
@@ -3428,7 +3428,7 @@ const culturalData = {
 
                 <h4>🆘 Emergencies:</h4>
                 <ul>
-                    <li>🚑 <strong>Emergency Number:</strong> 112 for ambulance/fire/police throughout Europe!</li>
+                    <li>🚑 <strong>Emergency Number:</strong> 112 for ambulance/fire/police (international standard)!</li>
                     <li>🏥 <strong>Emergency Rooms (Notaufnahme):</strong> Go for serious emergencies only. Waiting times can be long for non-urgent cases.</li>
                     <li>📞 <strong>Ärztlicher Bereitschaftsdienst (116 117):</strong> For non-life-threatening urgent care outside office hours. They'll direct you to open practices or arrange house calls.</li>
                 </ul>
@@ -3466,7 +3466,7 @@ const culturalData = {
 
                 <h4>🆘 Emergencies in Austria:</h4>
                 <ul>
-                    <li>🚑 <strong>Emergency Number:</strong> 112 (Europe-wide) or 144 (Austrian ambulance specifically).</li>
+                    <li>🚑 <strong>Emergency Number:</strong> 112 (international standard) or 144 (Austrian ambulance specifically).</li>
                     <li>🏥 <strong>Ambulanz:</strong> Hospital emergency departments for serious cases.</li>
                     <li>📞 <strong>Ärztefunkdienst (141):</strong> Emergency doctor service for urgent non-life-threatening issues outside office hours.</li>
                 </ul>
@@ -4971,7 +4971,7 @@ const culturalData = {
             title: "💕 Module 1: Relationships & Respect in the Mediterranean 🤝",
             content: `
                 <h3>General Social Norms</h3>
-                <p>Mediterranean culture values warmth, expressiveness, and strong family bonds. Social interactions are typically more demonstrative than in Northern Europe, with emphasis on personal connections and emotional expression.</p>
+                <p>Mediterranean culture values warmth, expressiveness, and strong family bonds. Social interactions are typically more demonstrative than in Northern regions, with emphasis on personal connections and emotional expression.</p>
                 
                 <h3>Greetings and Personal Space</h3>
                 <ul>
@@ -5023,7 +5023,7 @@ const culturalData = {
             title: "🏛️ Module 2: Public & Community Conduct in the Mediterranean 🤝",
             content: `
                 <h3>Public Behavior and Social Norms</h3>
-                <p>Mediterranean public spaces blend formality with warmth. Proper etiquette and presentation are important, but social interactions are warmer and more animated than in Northern Europe.</p>
+                <p>Mediterranean public spaces blend formality with warmth. Proper etiquette and presentation are important, but social interactions are warmer and more animated than in Northern regions.</p>
                 
                 <h3>Daily Courtesies</h3>
                 <ul>
@@ -5039,7 +5039,7 @@ const culturalData = {
                 
                 <h3>Noise and Quiet Hours</h3>
                 <ul>
-                    <li><strong>Animated conversation normal:</strong> Louder, more expressive public conversation than Northern Europe</li>
+                    <li><strong>Animated conversation normal:</strong> Louder, more expressive public conversation than Northern regions</li>
                     <li><strong>Quiet hours:</strong> Typically 10 PM - 7 AM on weekdays; respect in apartments</li>
                     <li><strong>Siesta time (Spain, parts of Italy):</strong> Reduced noise 2-5 PM in some areas; many shops close</li>
                     <li><strong>Late evening culture:</strong> Dinner often 9-10 PM; social life extends late, especially weekends</li>
@@ -5056,7 +5056,7 @@ const culturalData = {
                 
                 <h3>Environmental Consciousness</h3>
                 <ul>
-                    <li>Recycling programs exist but less comprehensive than Northern Europe</li>
+                    <li>Recycling programs exist but less comprehensive than Northern regions</li>
                     <li>Bring reusable bags for shopping (plastic bags often charged)</li>
                     <li>Water conservation important in southern regions</li>
                     <li>Historic city centers - drive carefully, many pedestrian zones</li>
@@ -5077,7 +5077,7 @@ const culturalData = {
                 <h3>Public Transport and Driving</h3>
                 <ul>
                     <li><strong>Validate tickets:</strong> Public transport requires validation (fines for non-validation)</li>
-                    <li><strong>Driving style:</strong> More aggressive than Northern Europe; horns used liberally</li>
+                    <li><strong>Driving style:</strong> More aggressive than Northern regions; horns used liberally</li>
                     <li><strong>Parking:</strong> Creative parking common; rules sometimes loosely interpreted</li>
                     <li><strong>Strikes:</strong> Public transport strikes common; plan accordingly</li>
                 </ul>
@@ -5137,7 +5137,7 @@ const culturalData = {
                 
                 <h3>Workplace Communication</h3>
                 <ul>
-                    <li><strong>Hierarchy present:</strong> More formal than Northern Europe; respect for authority and seniority</li>
+                    <li><strong>Hierarchy present:</strong> More formal than Northern regions; respect for authority and seniority</li>
                     <li><strong>Titles used:</strong> Monsieur, Madame, Dottore, Señor/Señora in professional contexts</li>
                     <li><strong>Meeting style:</strong> Can be lengthy; building consensus through discussion</li>
                     <li><strong>Email:</strong> Formal openings and closings required; French business emails quite elaborate</li>
@@ -5166,7 +5166,7 @@ const culturalData = {
                 <h3>Key Workplace Values</h3>
                 <ul>
                     <li><strong>Relationships matter:</strong> Personal connections facilitate business; invest time in relationship-building</li>
-                    <li><strong>Hierarchy respected:</strong> More vertical structures than Northern Europe; formal with superiors</li>
+                    <li><strong>Hierarchy respected:</strong> More vertical structures than Northern regions; formal with superiors</li>
                     <li><strong>Long lunch breaks:</strong> 1-2 hours standard; meal times sacred</li>
                     <li><strong>Work hours:</strong> Often 9 AM - 6/7 PM, but with substantial lunch break; "presenteeism" can be expected</li>
                     <li><strong>Vacation sacred:</strong> August particularly - many businesses close for 2-3 weeks</li>
@@ -5489,7 +5489,7 @@ const culturalData = {
                     <strong>School Culture:</strong>
                     <ul>
                         <li><strong>Respect for teachers:</strong> Authority figures; vouvoyer/lei/usted used</li>
-                        <li><strong>Formal environment:</strong> More structured than Northern European schools</li>
+                        <li><strong>Formal environment:</strong> More structured than Northern schools</li>
                         <li><strong>Homework substantial:</strong> Expect significant homework from primary school onward</li>
                         <li><strong>Lunch breaks:</strong> Often 1.5-2 hours; students may go home (especially in Spain)</li>
                         <li><strong>No uniforms:</strong> Generally not required in public schools</li>
@@ -5597,7 +5597,7 @@ const culturalData = {
                     <li><strong>Islam:</strong> Second largest religion in France, Spain; growing in Italy and Portugal</li>
                     <li><strong>Judaism:</strong> Significant communities especially in France</li>
                     <li><strong>Protestantism:</strong> Minority but present, especially in France</li>
-                    <li><strong>Orthodoxy:</strong> Growing with immigration from Eastern Europe</li>
+                    <li><strong>Orthodoxy:</strong> Growing with immigration from Eastern regions</li>
                     <li><strong>Buddhism, Hinduism:</strong> Smaller communities in urban areas</li>
                     <li><strong>Non-religious:</strong> Growing, especially among young people</li>
                 </ul>
@@ -5644,7 +5644,7 @@ const culturalData = {
                 
                 <h3>Jewish Community</h3>
                 <ul>
-                    <li>Synagogues in major cities (especially France - largest Jewish population in Western Europe)</li>
+                    <li>Synagogues in major cities (especially France - significant Jewish population)</li>
                     <li>Kosher food available in Jewish neighborhoods</li>
                     <li>Some public awareness of Jewish holidays</li>
                     <li>Security presence at synagogues due to past attacks</li>
@@ -5684,7 +5684,7 @@ const culturalData = {
                 <ul>
                     <li><strong>Documentation prepared:</strong> Have all contracts, ID, and work permits ready - bureaucracy can be slow</li>
                     <li><strong>Learn greetings:</strong> Master formal greetings in the local language - essential for respect</li>
-                    <li><strong>Plan commute:</strong> Allow extra time - public transport may be less punctual than Northern Europe</li>
+                    <li><strong>Plan commute:</strong> Allow extra time - public transport may be less punctual than Northern regions</li>
                     <li><strong>Dress formally:</strong> Mediterranean workplaces value appearance - dress well for first day</li>
                     <li><strong>Research company culture:</strong> Family businesses and corporate culture differ significantly</li>
                 </ul>
@@ -5703,7 +5703,7 @@ const culturalData = {
                 <h4>📆 First Week Goals:</h4>
                 <ul>
                     <li><strong>Build relationships:</strong> Mediterranean business is personal - get to know colleagues</li>
-                    <li><strong>Understand hierarchy:</strong> More hierarchical than Northern Europe - respect seniority</li>
+                    <li><strong>Understand hierarchy:</strong> More hierarchical than Northern regions - respect seniority</li>
                     <li><strong>Participate in meals:</strong> Lunch and coffee breaks are networking opportunities</li>
                     <li><strong>Learn the culture:</strong> Each country has distinct characteristics - don't assume uniformity</li>
                     <li><strong>Master greetings:</strong> Proper greetings in local language essential for integration</li>
@@ -5873,7 +5873,7 @@ const culturalData = {
                 <h4>🎨 Workplace Aesthetics:</h4>
                 <ul>
                     <li><strong>Appearance matters:</strong> Dress well, maintain good grooming, invest in quality clothes</li>
-                    <li><strong>Office aesthetics:</strong> Workspaces often more decorated and personal than Northern Europe</li>
+                    <li><strong>Office aesthetics:</strong> Workspaces often more decorated and personal than Northern regions</li>
                     <li><strong>Style consciousness:</strong> Especially in Italy and France, fashion and style are noticed</li>
                     <li><strong>Quality over quantity:</strong> Better to have few good items than many cheap ones</li>
                 </ul>
@@ -6207,7 +6207,7 @@ const culturalData = {
                 
                 <h3>Family Values</h3>
                 <ul>
-                    <li>Nuclear families are common; extended family ties exist but are less central than in Southern Europe</li>
+                    <li>Nuclear families are common; extended family ties exist but are less central than in Southern regions</li>
                     <li>Children are raised with independence and autonomy</li>
                     <li>Shared parental leave is standard - fathers actively participate in childcare</li>
                     <li>Work-life balance is prioritized for all family members</li>
@@ -6998,7 +6998,7 @@ const culturalData = {
                 </div>
                 
                 <h3>Relationship Progression</h3>
-                <p>Relationships often develop within social circles. Once serious, partners are typically introduced to family relatively early compared to Western Europe.</p>
+                <p>Relationships often develop within social circles. Once serious, partners are typically introduced to family relatively early compared to Western regions.</p>
             `
         },
         economicIntegration: {
@@ -7101,7 +7101,7 @@ const culturalData = {
                 <h3>Private Healthcare</h3>
                 <ul>
                     <li><strong>Widely used:</strong> Many use private clinics alongside public system</li>
-                    <li><strong>Costs moderate:</strong> More affordable than Western Europe</li>
+                    <li><strong>Costs moderate:</strong> More affordable than Western regions</li>
                     <li><strong>Faster service:</strong> Shorter wait times and often better facilities</li>
                     <li><strong>Specialists accessible:</strong> Direct access without referrals</li>
                     <li><strong>Medical tourism:</strong> Some Balkans countries (Serbia) attract medical tourists for dental, cosmetic procedures</li>
@@ -7117,7 +7117,7 @@ const culturalData = {
                 <h3>Pharmacies</h3>
                 <ul>
                     <li>Prescription required for most medications</li>
-                    <li>Some antibiotics more readily available than Western Europe</li>
+                    <li>Some antibiotics more readily available than Western regions</li>
                     <li>Generic medications available and affordable</li>
                     <li>Pharmacists knowledgeable and provide advice</li>
                 </ul>
@@ -7311,7 +7311,7 @@ const culturalData = {
                     <li>Lecture-based teaching dominant</li>
                     <li>Emphasis on theoretical knowledge</li>
                     <li>Memorization important for exams</li>
-                    <li>Less interactive than Western European classrooms</li>
+                    <li>Less interactive than Western classrooms</li>
                     <li>Respect for academic hierarchy strong</li>
                 </ul>
                 
@@ -7409,7 +7409,7 @@ const culturalData = {
                     <li><strong>Varies widely:</strong> From devout to culturally religious to secular</li>
                     <li><strong>Life events:</strong> Baptisms, weddings, funerals often religious even for non-practicing individuals</li>
                     <li><strong>Holidays observed:</strong> Major religious holidays are public holidays</li>
-                    <li><strong>Church attendance:</strong> Higher than Western Europe but varies by region and age</li>
+                    <li><strong>Church attendance:</strong> Higher than Western regions but varies by region and age</li>
                 </ul>
                 
                 <h3>Religious Holidays</h3>
@@ -7666,7 +7666,7 @@ const culturalData = {
                     <li><strong>Loyalty valued:</strong> Stand by colleagues and they'll stand by you</li>
                     <li><strong>Help freely given:</strong> Ask for help when needed - it builds relationships</li>
                     <li><strong>Remember celebrations:</strong> Birthdays, name days (slava), family events matter</li>
-                    <li><strong>Flexible boundaries:</strong> Work and personal life blend more than Western Europe</li>
+                    <li><strong>Flexible boundaries:</strong> Work and personal life blend more than Western regions</li>
                     <li><strong>Patient with process:</strong> Bureaucracy can be slow - relationships help navigate it</li>
                 </ul>
 
@@ -7946,7 +7946,7 @@ const culturalData = {
                 <ul>
                     <li>Not covered by public system except emergencies</li>
                     <li>Private dentists widely available</li>
-                    <li>Costs moderate compared to Western Europe</li>
+                    <li>Costs moderate compared to Western regions</li>
                 </ul>
             `
         },
@@ -8275,7 +8275,7 @@ const culturalData = {
                 </div>
                 
                 <h3>Religious Diversity</h3>
-                <p>Greece is less religiously diverse than Western Europe:</p>
+                <p>Greece is less religiously diverse than Western regions:</p>
                 <ul>
                     <li><strong>Muslim minority:</strong> In Thrace (Pomaks, Turks); historic communities; mosques present</li>
                     <li><strong>Catholics:</strong> Small communities, especially Cyclades islands (Syros, Tinos)</li>
@@ -8885,7 +8885,7 @@ const culturalData = {
                 <ul>
                     <li><strong>Very low church attendance:</strong> Most don't attend except major holidays/lifecycle events</li>
                     <li><strong>Christmas:</strong> Main religious/cultural holiday; churchgoing common on Christmas Eve</li>
-                    <li><strong>Easter:</strong> Observed but less religious emphasis than Central/Southern Europe</li>
+                    <li><strong>Easter:</strong> Observed but less religious emphasis than Central/Southern regions</li>
                     <li><strong>Confirmation:</strong> ~80% of youth still go through Lutheran confirmation (rippileiri) - often seen as cultural tradition/coming-of-age</li>
                 </ul>
                 
@@ -9035,7 +9035,7 @@ const culturalData = {
             title: "🗣️ Module 3: Communication & Mindset in the Baltics 🧠",
             content: `
                 <h3>Communication Style</h3>
-                <p>Baltic communication tends to be direct and honest. Small talk is less common than in Western Europe, but this changes as relationships develop.</p>
+                <p>Baltic communication tends to be direct and honest. Small talk is less common than in Western regions, but this changes as relationships develop.</p>
                 
                 <h3>Good Topics</h3>
                 <ul>
@@ -9222,7 +9222,7 @@ const culturalData = {
                 <ul>
                     <li>Growing sector in all three countries</li>
                     <li>Faster appointments and English-speaking doctors</li>
-                    <li>Moderate costs compared to Western Europe</li>
+                    <li>Moderate costs compared to Western regions</li>
                     <li>Often used alongside public system</li>
                     <li>Major cities have modern private clinics</li>
                 </ul>
@@ -9514,7 +9514,7 @@ const culturalData = {
                 </ul>
                 
                 <div class="tip">
-                    <strong>Estonia's Tech Education:</strong> Estonia has highest number of startups per capita in Europe. Education system emphasizes digital skills, entrepreneurship, and innovation. Children learn coding from Grade 1. Great for tech-oriented families!
+                    <strong>Estonia's Tech Education:</strong> Estonia has highest number of startups per capita globally. Education system emphasizes digital skills, entrepreneurship, and innovation. Children learn coding from Grade 1. Great for tech-oriented families!
                 </div>
                 
                 <h3>For Foreign Students</h3>
@@ -9566,9 +9566,9 @@ const culturalData = {
             title: "🛐 Module 8: Religion & Faith in the Baltics 🤝",
             content: `
                 <h3>Religious Landscape</h3>
-                <p>The Baltic states have diverse religious histories influenced by various occupations and migrations. Current religiosity is low compared to most of Europe, with secularism strong especially in Estonia. Each country has different religious composition and relationship with faith.</p>
+                <p>The Baltic states have diverse religious histories influenced by various occupations and migrations. Current religiosity is low compared to most other regions, with secularism strong especially in Estonia. Each country has different religious composition and relationship with faith.</p>
                 
-                <h3>Estonia: Most Secular Country in Europe</h3>
+                <h3>Estonia: Most Secular Country Globally</h3>
                 <p>Estonia is one of the world's least religious societies:</p>
                 <ul>
                     <li><strong>Non-religious:</strong> ~70-75% claim no religious affiliation</li>
@@ -9851,10 +9851,10 @@ const culturalData = {
                 </ul>
                 
                 <h3>Work-Life Balance</h3>
-                <p>Work-life balance varies greatly by industry and company. Americans typically have fewer vacation days (10-15 days annually) compared to Europeans. There's a cultural expectation to be available and responsive, even outside work hours.</p>
+                <p>Work-life balance varies greatly by industry and company. Americans typically have fewer vacation days (10-15 days annually) compared to other Western countries. There's a cultural expectation to be available and responsive, even outside work hours.</p>
                 
                 <div class="warning">
-                    <strong>Reality Check:</strong> The US has minimal labor protections compared to Europe. Limited paid leave, healthcare tied to employment, and at-will employment are standard. Understand your rights and benefits carefully.
+                    <strong>Reality Check:</strong> The US has minimal labor protections compared to other Western countries. Limited paid leave, healthcare tied to employment, and at-will employment are standard. Understand your rights and benefits carefully.
                 </div>
                 
                 <h3>Professional Etiquette</h3>
@@ -9884,7 +9884,7 @@ const culturalData = {
             title: "🏛️ Module 2: Public & Community Conduct in the United States 🤝",
             content: `
                 <h3>Registration and Documentation</h3>
-                <p>Unlike many European countries, the US doesn't have a centralized registration system. You'll need to establish residency in your state and update various documents separately.</p>
+                <p>Unlike many other countries, the US doesn't have a centralized registration system. You'll need to establish residency in your state and update various documents separately.</p>
                 
                 <h3>Key Requirements</h3>
                 <ul>
@@ -10114,7 +10114,7 @@ const culturalData = {
             title: "⛪ Module 8: Religion & Faith in the United States 🕌",
             content: `
                 <h3>Religious Landscape - Judeo-Christian Foundation</h3>
-                <p>The United States has a Judeo-Christian cultural foundation that deeply influences values, holidays, social norms, and public life. While constitutionally secular (separation of church and state), religion plays a much more prominent role in American society than in most of Europe.</p>
+                <p>The United States has a Judeo-Christian cultural foundation that deeply influences values, holidays, social norms, and public life. While constitutionally secular (separation of church and state), religion plays a much more prominent role in American society than in most other Western countries.</p>
                 
                 <div class="important">
                     <strong>Judeo-Christian Culture:</strong> American cultural values are rooted in Judeo-Christian ethics - concepts of individual moral responsibility, work ethic, charity, and community service. Even secular Americans are often influenced by these values. Understanding this foundation is key to understanding American culture.
@@ -10137,7 +10137,7 @@ const culturalData = {
                 </ul>
                 
                 <h3>Religious Influence on Public Life</h3>
-                <p>Unlike much of Europe, religion is openly discussed and visible in American public life:</p>
+                <p>Unlike many other Western countries, religion is openly discussed and visible in American public life:</p>
                 <ul>
                     <li>Politicians frequently reference faith and attend religious services publicly</li>
                     <li>Prayer at public events is common (sports games, graduations, government meetings)</li>
@@ -10206,7 +10206,7 @@ const culturalData = {
                     <li><strong>Respect religious culture:</strong> Even if you're secular, understand religion's importance to many Americans</li>
                     <li><strong>Navigate politely:</strong> If invited to religious events, you can politely decline or attend respectfully</li>
                     <li><strong>Find your community:</strong> Secular, humanist, and non-Christian communities exist, especially in cities</li>
-                    <li><strong>Don't assume secularism:</strong> Unlike Europe, assuming someone is non-religious is often wrong</li>
+                    <li><strong>Don't assume secularism:</strong> Unlike some other Western countries, assuming someone is non-religious is often wrong</li>
                     <li><strong>Workplace:</strong> Religious expression is protected; coworkers may discuss faith openly</li>
                 </ul>
                 
@@ -10219,7 +10219,7 @@ const culturalData = {
                 </ul>
                 
                 <div class="important">
-                    <strong>Bottom Line:</strong> The United States is more religious than most developed nations, with Judeo-Christian values deeply embedded in culture. Understanding this religious context is essential for cultural integration, even if you're not religious yourself. Religion shapes American attitudes toward work, community, morality, politics, and social life in ways that may surprise Europeans or others from more secular societies.
+                    <strong>Bottom Line:</strong> The United States is more religious than most developed nations, with Judeo-Christian values deeply embedded in culture. Understanding this religious context is essential for cultural integration, even if you're not religious yourself. Religion shapes American attitudes toward work, community, morality, politics, and social life in ways that may surprise those from more secular societies.
                 </div>
             `
         }

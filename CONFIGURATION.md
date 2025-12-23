@@ -1,6 +1,6 @@
 # Configuration Guide
 
-This document provides instructions for configuring optional features of The Cultural User Manual.
+This document provides instructions for configuring optional features of the Cultural-Assimilation-Manual.
 
 ## Google Form Integration
 

@@ -1,4 +1,4 @@
-// Enhanced Navigation System for Cultural User Manual
+// Enhanced Navigation System for Cultural-Assimilation-Manual
 
 // Section visibility management
 function showSection(sectionName) {
@@ -203,7 +203,7 @@ function showPrivacyPolicy() {
             </div>
             <div class="modal-body">
                 <h3>🔒 Your Privacy Matters</h3>
-                <p>The Cultural User Manual is committed to your privacy:</p>
+                <p>The Cultural-Assimilation-Manual is committed to your privacy:</p>
                 
                 <h4>What We DON'T Do:</h4>
                 <ul>

@@ -1063,7 +1063,7 @@ const scenarios = {
                         scenario: "Calling emergency services",
                         dosAndDonts: {
                             dos: [
-                                "Know emergency numbers (112 EU-wide, 999 UK, 911 some places)",
+                                "Know emergency numbers (112 international, 999 UK, 911 some places)",
                                 "Stay calm and speak clearly",
                                 "Provide exact location and situation details",
                                 "Follow dispatcher instructions",
@@ -1477,7 +1477,7 @@ const scenarios = {
                             england: "OpenLearn and FutureLearn UK-based. Libraries offer free digital skills courses. City & Guilds qualifications recognized.",
                             centralEurope: "VHS (Volkshochschule) offers affordable in-person courses. IHK certificates highly valued for trades.",
                             scandinavia: "Studyportalen and Folkuniversitetet offer courses. Digital skills highly valued in tech-forward societies.",
-                            mediterranean: "EU-funded programs available. Professional orders (ordini professionali) regulate many fields."
+                            mediterranean: "Government-funded programs available. Professional orders (ordini professionali) regulate many fields."
                         }
                     }
                 ]
@@ -1625,7 +1625,7 @@ const scenarios = {
                         scenario: "CV/Resume preparation for local market",
                         dosAndDonts: {
                             dos: [
-                                "Research local CV format expectations (e.g., UK vs. EU format)",
+                                "Research local CV format expectations (e.g., UK vs. international format)",
                                 "Get CV reviewed by employment services or career advisors",
                                 "Translate and adapt your experience to local context",
                                 "Include volunteer work and skill development during waiting period",
@@ -1642,9 +1642,9 @@ const scenarios = {
                         },
                         culturalNuances: {
                             england: "No photo on CV. 2 pages maximum. Focus on achievements. Cover letter important. 'References available upon request'.",
-                            centralEurope: "Photo required (professional headshot). Lebenslauf format standardized. Certificates attached. Europass CV format accepted.",
+                            centralEurope: "Photo required (professional headshot). Lebenslauf format standardized. Certificates attached. Europass format accepted.",
                             scandinavia: "Photo optional but common. Brief and concise (1-2 pages). Personal letter (personligt brev) crucial. List references.",
-                            mediterranean: "Photo common. Educational background emphasized. Cover letter shows personality and motivation. European CV format (Europass) used."
+                            mediterranean: "Photo common. Educational background emphasized. Cover letter shows personality and motivation. Europass format used."
                         }
                     }
                 ]
