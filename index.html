@@ -111,7 +111,9 @@
             <h2>📸 Your Cultural Snapshot</h2>
             <p>Generate a shareable snapshot of your cultural knowledge!</p>
             <button id="generate-snapshot">Generate Snapshot</button>
-            <canvas id="snapshot-canvas" width="800" height="400"></canvas>
+            <div id="snapshot-message" role="status" aria-live="polite" style="display: none; margin: 10px 0; color: #2ecc71; font-weight: bold;"></div>
+            <canvas id="snapshot-canvas" width="800" height="400" style="display: none;"></canvas>
+            <button id="download-snapshot" style="display: none; margin-top: 10px;">Download Snapshot</button>
         </section>
 
         <section id="quizzes">
@@ -129,10 +131,10 @@
         <p>Open source project. All data stored locally.</p>
     </footer>
 
-    <script src="app.js"></script>
-    <script src="data.js"></script>
-    <script src="scenarios.js"></script>
-    <script src="interactive.js"></script>
-    <script src="navigation.js"></script>
+    <script src="app.js" defer></script>
+    <script src="data.js" defer></script>
+    <script src="scenarios.js" defer></script>
+    <script src="interactive.js" defer></script>
+    <script src="navigation.js" defer></script>
 </body>
 </html>

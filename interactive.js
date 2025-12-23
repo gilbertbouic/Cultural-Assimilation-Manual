@@ -741,6 +741,7 @@
     // ============================================================================
     // MAIN INITIALIZATION
     // Ties everything together when DOM is ready
+    // Implements lazy rendering for improved performance
     // ============================================================================
 
     document.addEventListener('DOMContentLoaded', () => {
@@ -752,9 +753,15 @@
         const resetButton = document.querySelector('#reset-progress');
         const generateSnapshotButton = document.querySelector('#generate-snapshot');
         const snapshotCanvas = document.querySelector('#snapshot-canvas');
+        const snapshotMessage = document.querySelector('#snapshot-message');
+        const downloadSnapshotButton = document.querySelector('#download-snapshot');
 
         // Load initial progress
         let progress = ProgressStore.load();
+
+        // Track whether sections have been initialized
+        let quizzesInitialized = false;
+        let scenariosInitialized = false;
 
         // Initialize all modules
         QuizRenderer.init({
@@ -780,11 +787,52 @@
             calculateProgress: () => ProgressRenderer.calculateOverallProgress()
         });
 
+        // Lazy rendering: Initialize quizzes on first interaction
+        const initializeQuizzes = () => {
+            if (!quizzesInitialized && quizContainer) {
+                QuizRenderer.renderAll();
+                quizzesInitialized = true;
+            }
+        };
+
+        // Lazy rendering: Initialize scenarios on first interaction
+        const initializeScenarios = () => {
+            if (!scenariosInitialized && scenariosContainer) {
+                ScenarioRenderer.renderAll();
+                scenariosInitialized = true;
+            }
+        };
+
+        // Set up intersection observer for lazy loading sections
+        if ('IntersectionObserver' in window) {
+            const sectionObserver = new IntersectionObserver((entries) => {
+                entries.forEach(entry => {
+                    if (entry.isIntersecting) {
+                        if (entry.target.id === 'quizzes') {
+                            initializeQuizzes();
+                            sectionObserver.unobserve(entry.target);
+                        } else if (entry.target.id === 'scenarios') {
+                            initializeScenarios();
+                            sectionObserver.unobserve(entry.target);
+                        }
+                    }
+                });
+            }, { rootMargin: '50px' });
+
+            if (quizContainer) sectionObserver.observe(quizContainer);
+            if (scenariosContainer) sectionObserver.observe(scenariosContainer);
+        } else {
+            // Fallback for browsers without IntersectionObserver
+            initializeQuizzes();
+            initializeScenarios();
+        }
+
         // Event handlers
         if (roleSelectionContainer) {
             roleSelectionContainer.addEventListener('change', (event) => {
                 const selectedRole = event.target.value;
                 ProgressStore.setUserRole(selectedRole);
+                initializeScenarios(); // Ensure scenarios are loaded before re-rendering
                 ScenarioRenderer.renderAll();
             });
         }
@@ -807,15 +855,64 @@
                 }
                 
                 // Re-render everything
-                QuizRenderer.renderAll();
-                ScenarioRenderer.renderAll();
+                initializeQuizzes();
+                initializeScenarios();
                 ProgressRenderer.render();
+                
+                // Hide snapshot and message
+                if (snapshotCanvas) snapshotCanvas.style.display = 'none';
+                if (snapshotMessage) snapshotMessage.style.display = 'none';
+                if (downloadSnapshotButton) downloadSnapshotButton.style.display = 'none';
             });
         }
 
         if (generateSnapshotButton) {
             generateSnapshotButton.addEventListener('click', () => {
                 SnapshotGenerator.generate();
+                
+                // Show canvas and success message
+                if (snapshotCanvas) {
+                    snapshotCanvas.style.display = 'block';
+                }
+                
+                if (snapshotMessage) {
+                    snapshotMessage.textContent = '✓ Snapshot generated! Right-click or long-press the image to save, or use the Download button below.';
+                    snapshotMessage.style.display = 'block';
+                }
+                
+                if (downloadSnapshotButton) {
+                    downloadSnapshotButton.style.display = 'inline-block';
+                }
+            });
+        }
+
+        if (downloadSnapshotButton && snapshotCanvas) {
+            downloadSnapshotButton.addEventListener('click', () => {
+                try {
+                    // Convert canvas to data URL
+                    const dataURL = snapshotCanvas.toDataURL('image/png');
+                    
+                    // Create a temporary link element
+                    const link = document.createElement('a');
+                    link.download = `cultural-snapshot-${Date.now()}.png`;
+                    link.href = dataURL;
+                    
+                    // Trigger download
+                    document.body.appendChild(link);
+                    link.click();
+                    document.body.removeChild(link);
+                    
+                    // Update message
+                    if (snapshotMessage) {
+                        snapshotMessage.textContent = '✓ Snapshot downloaded successfully!';
+                    }
+                } catch (error) {
+                    console.error('Error downloading snapshot:', error);
+                    if (snapshotMessage) {
+                        snapshotMessage.textContent = '✗ Error downloading snapshot. Please try right-clicking to save.';
+                        snapshotMessage.style.color = '#e74c3c';
+                    }
+                }
             });
         }
 
@@ -834,8 +931,9 @@
 
         // Initial setup
         loadUserRole();
-        QuizRenderer.renderAll();
-        ScenarioRenderer.renderAll();
         ProgressRenderer.render();
+        
+        // Don't render quizzes and scenarios immediately - wait for lazy loading
+        // This improves initial page load performance
     });
 })();
