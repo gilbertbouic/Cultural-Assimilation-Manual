@@ -57,14 +57,14 @@
                     ],
                     donts: [
                         "Don't accept unpaid overtime without understanding if it's legal.",
-                        "Don't tolerate unsafe working conditions - you have right to safe workplace.",
+                        "Don't tolerate unsafe working conditions - you have the right to a safe workplace.",
                         "Don't be afraid to report wage theft or mistreatment.",
-                        "Don't assume you have fewer rights because you're foreign - labor laws protect all workers."
+                        "Don't assume you have fewer rights because you're foreign - labour laws protect all workers."
                     ]
                 }
             ],
             culturalNotes: [
-                "Mediterranean countries have strong labor protections, but informal work exists - aim for legal employment.",
+                "Mediterranean countries have strong labour protections, but informal work exists - aim for legal employment.",
                 "Trade unions (sindicatos in Spain, syndicats in France) can help even if you're not a member.",
                 "Work culture varies: Spain and Greece tend to be more flexible, while Northern Italy and France may be more formal.",
                 "Building good relationships with colleagues is important - lunch breaks are often social times."
