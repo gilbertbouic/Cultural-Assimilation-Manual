@@ -1,0 +1,214 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>10 Important Phrases - Cultural Assimilation Manual</title>
+    <link rel="stylesheet" href="styles/styles.css">
+    <link rel="stylesheet" href="styles/interactive-styles.css">
+    <link rel="manifest" href="manifest.json">
+    <style>
+        .phrases-container {
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        
+        .country-section {
+            background: var(--card-bg-color);
+            margin-bottom: 30px;
+            padding: 30px;
+            border-radius: 12px;
+            box-shadow: 0 8px 16px var(--shadow-color);
+            border: 1px solid #EAECEF;
+        }
+        
+        .country-header {
+            display: flex;
+            align-items: center;
+            margin-bottom: 25px;
+            padding-bottom: 15px;
+            border-bottom: 2px solid var(--primary-color);
+        }
+        
+        .country-flag {
+            font-size: 3rem;
+            margin-right: 20px;
+        }
+        
+        .country-name {
+            font-size: 1.8rem;
+            color: var(--primary-color);
+            margin: 0;
+        }
+        
+        .language-info {
+            font-size: 0.9rem;
+            color: #666;
+            margin-top: 5px;
+        }
+        
+        .phrases-grid {
+            display: grid;
+            grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
+            gap: 20px;
+        }
+        
+        .phrase-card {
+            background: var(--background-color);
+            padding: 20px;
+            border-radius: 8px;
+            border-left: 4px solid var(--secondary-color);
+        }
+        
+        .phrase-number {
+            font-weight: 700;
+            color: var(--primary-color);
+            font-size: 0.9rem;
+            margin-bottom: 8px;
+        }
+        
+        .phrase-english {
+            font-size: 1rem;
+            color: var(--text-color);
+            margin-bottom: 10px;
+            font-weight: 600;
+        }
+        
+        .phrase-translation {
+            font-size: 1.3rem;
+            color: var(--primary-color);
+            font-weight: 700;
+            margin-bottom: 5px;
+        }
+        
+        .phrase-pronunciation {
+            font-size: 0.9rem;
+            color: #666;
+            font-style: italic;
+        }
+        
+        .back-btn {
+            background: var(--primary-color);
+            color: white;
+            border: none;
+            padding: 12px 24px;
+            border-radius: 8px;
+            font-size: 1rem;
+            cursor: pointer;
+            margin-bottom: 30px;
+            transition: all 0.3s ease;
+        }
+        
+        .back-btn:hover {
+            background: var(--secondary-color);
+            transform: translateX(-5px);
+        }
+        
+        .page-header {
+            text-align: center;
+            margin-bottom: 50px;
+        }
+        
+        .page-header h1 {
+            font-size: 2.5rem;
+            color: var(--primary-color);
+            margin-bottom: 15px;
+        }
+        
+        .page-header p {
+            font-size: 1.1rem;
+            color: #666;
+            max-width: 800px;
+            margin: 0 auto;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <div class="header-content">
+            <h1>Cultural Assimilation Manual 🌍</h1>
+            <p>Practical Survival Guide for Newcomers</p>
+        </div>
+    </header>
+
+    <main>
+        <div class="phrases-container">
+            <button class="back-btn" onclick="window.location.href='index.html'">← Back to Home</button>
+            
+            <div class="page-header">
+                <h1>🗣️ 10 Important Phrases</h1>
+                <p>Learn the most essential phrases in the local language of each country. These basic expressions will help you navigate daily interactions and show respect for the local culture.</p>
+            </div>
+
+            <div id="countries-container"></div>
+        </div>
+    </main>
+
+    <footer>
+        <p><a href="PRIVACY.md">Privacy Policy</a> | <a href="CONFIGURATION.md">Configuration</a></p>
+        <p>Open source project. All data stored locally.</p>
+    </footer>
+
+    <script src="phrases-data.js"></script>
+    <script>
+        // Render phrases for all countries
+        document.addEventListener('DOMContentLoaded', () => {
+            const container = document.getElementById('countries-container');
+            const phraseKeys = [
+                "Thank You",
+                "I'm Sorry",
+                "Hello / Hi",
+                "How Are You?",
+                "I Love You",
+                "Please",
+                "Goodbye",
+                "Excuse Me",
+                "What's Your Name?",
+                "Can You Help Me?"
+            ];
+
+            // Iterate through all countries in the data
+            Object.keys(phrasesData).forEach(countryName => {
+                const countryData = phrasesData[countryName];
+                
+                // Create country section
+                const section = document.createElement('div');
+                section.className = 'country-section';
+                
+                // Create header
+                const header = document.createElement('div');
+                header.className = 'country-header';
+                header.innerHTML = `
+                    <span class="country-flag">${countryData.flag}</span>
+                    <div>
+                        <h2 class="country-name">${countryName}</h2>
+                        <p class="language-info">Language: ${countryData.language}</p>
+                    </div>
+                `;
+                section.appendChild(header);
+                
+                // Create phrases grid
+                const phrasesGrid = document.createElement('div');
+                phrasesGrid.className = 'phrases-grid';
+                
+                phraseKeys.forEach((phraseKey, index) => {
+                    const phrase = countryData.phrases[phraseKey];
+                    if (phrase) {
+                        const card = document.createElement('div');
+                        card.className = 'phrase-card';
+                        card.innerHTML = `
+                            <div class="phrase-number">${index + 1}. ${phraseKey}</div>
+                            <div class="phrase-translation">${phrase.translation}</div>
+                            <div class="phrase-pronunciation">${phrase.pronunciation}</div>
+                        `;
+                        phrasesGrid.appendChild(card);
+                    }
+                });
+                
+                section.appendChild(phrasesGrid);
+                container.appendChild(section);
+            });
+        });
+    </script>
+</body>
+</html>

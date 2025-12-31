@@ -444,36 +444,9 @@
     });
 
     function initializeClusterNavigation() {
-        const menuToggle = document.getElementById('menu-toggle');
-        const mainNav = document.getElementById('main-nav');
-        const clusterLinks = document.querySelectorAll('.cluster-link');
         const clusterButtons = document.querySelectorAll('.cluster-btn');
         const backToHomeBtn = document.getElementById('back-to-home');
         const exploreClustersBtn = document.getElementById('explore-clusters-btn');
-
-        // Toggle menu
-        if (menuToggle) {
-            menuToggle.addEventListener('click', () => {
-                mainNav.classList.toggle('active');
-            });
-        }
-
-        // Close menu when clicking outside
-        document.addEventListener('click', (e) => {
-            if (mainNav && !mainNav.contains(e.target) && !menuToggle.contains(e.target)) {
-                mainNav.classList.remove('active');
-            }
-        });
-
-        // Cluster navigation from menu
-        clusterLinks.forEach(link => {
-            link.addEventListener('click', (e) => {
-                e.preventDefault();
-                const cluster = link.getAttribute('data-cluster');
-                showClusterDetail(cluster);
-                mainNav.classList.remove('active');
-            });
-        });
 
         // Cluster navigation from cards
         clusterButtons.forEach(btn => {
