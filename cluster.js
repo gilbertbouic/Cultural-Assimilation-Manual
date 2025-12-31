@@ -375,7 +375,7 @@
             }
         },
         'other-europe': {
-            title: 'Other European Countries',
+            title: 'Western European Countries',
             countries: '🇱🇺 Luxembourg • 🇧🇪 Belgium • 🇳🇱 Netherlands',
             keyTraits: ['Multilingualism - Many people speak multiple languages, making communication easier',
                        'Balanced Approach - Cultures value both tradition and progressive ideas, blending modernity with heritage',
