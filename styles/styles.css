@@ -8,6 +8,8 @@
     --card-bg-color: #FFFFFF;
     --shadow-color: rgba(0, 0, 0, 0.08);
     --font-family: 'Poppins', sans-serif;
+    --phrases-color: #7B68EE;
+    --phrases-secondary: #9370DB;
 }
 
 body {
@@ -291,7 +293,7 @@ footer a:hover {
 .phrases-section {
     text-align: center;
     padding: 60px 20px;
-    background: linear-gradient(135deg, #7B68EE, #9370DB);
+    background: linear-gradient(135deg, var(--phrases-color), var(--phrases-secondary));
     color: white;
     border-radius: 12px;
     margin-top: 40px;
@@ -312,8 +314,8 @@ footer a:hover {
 }
 
 .phrases-cta {
-    background: white;
-    color: #7B68EE;
+    background: var(--card-bg-color);
+    color: var(--phrases-color);
     border: none;
     padding: 15px 40px;
     font-size: 1.1rem;
