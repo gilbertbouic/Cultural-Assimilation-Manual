@@ -69,8 +69,8 @@
             }
         },
         'western-europe': {
-            title: 'Western Europe',
-            countries: '🇩🇪 Germany • 🇦🇹 Austria • 🇨🇭 Switzerland',
+            title: 'Central Europe',
+            countries: '🇩🇪 Germany • 🇦🇹 Austria • 🇨🇭 Switzerland • 🇱🇮 Liechtenstein • 🇵🇱 Poland • 🇨🇿 Czechia',
             keyTraits: ['Efficiency - Systems are highly organized, and tasks are expected to be completed promptly',
                        'Formality - Communication is formal and polite, especially upon first meetings',
                        'Rule-Focused - Following the law and respecting rules are strongly emphasized'],
