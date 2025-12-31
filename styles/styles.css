@@ -293,16 +293,38 @@ footer a:hover {
 .phrases-section {
     text-align: center;
     padding: 60px 20px;
-    background: linear-gradient(135deg, var(--phrases-color), var(--phrases-secondary));
-    color: white;
+    background: #FFFFFF;
+    color: var(--text-color);
     border-radius: 12px;
     margin-top: 40px;
+    border: 2px solid #E0E0E0;
+    position: relative;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
+}
+
+.phrases-section::before {
+    content: '🇸🇪 🇳🇴 🇩🇰 🇫🇮 🇮🇸 🇩🇪 🇦🇹 🇨🇭 🇵🇱 🇨🇿 🇪🇸 🇮🇹 🇵🇹 🇬🇷 🇫🇷 🇲🇹 🇨🇾 🇷🇸 🇭🇷 🇧🇦 🇲🇪 🇲🇰 🇦🇱 🇷🇴 🇧🇬 🇬🇪 🇸🇮 🇸🇰 🇪🇪 🇱🇻 🇱🇹 🇱🇺 🇧🇪 🇳🇱 🇬🇧 🇮🇪 🇺🇸 🇦🇺 🇳🇿';
+    position: absolute;
+    top: 10px;
+    left: 0;
+    right: 0;
+    font-size: 1.5rem;
+    opacity: 0.15;
+    line-height: 2;
+    pointer-events: none;
+    z-index: 0;
+    word-spacing: 8px;
+}
+
+.phrases-section > * {
+    position: relative;
+    z-index: 1;
 }
 
 .phrases-section h2 {
     font-size: 2.2rem;
     margin: 0 0 20px 0;
-    color: white;
+    color: var(--primary-color);
 }
 
 .phrases-description {
@@ -310,12 +332,12 @@ footer a:hover {
     line-height: 1.8;
     max-width: 700px;
     margin: 0 auto 30px;
-    opacity: 0.95;
+    color: var(--text-color);
 }
 
 .phrases-cta {
-    background: var(--card-bg-color);
-    color: var(--phrases-color);
+    background: var(--primary-color);
+    color: white;
     border: none;
     padding: 15px 40px;
     font-size: 1.1rem;
@@ -329,6 +351,7 @@ footer a:hover {
 .phrases-cta:hover {
     transform: translateY(-2px);
     box-shadow: 0 6px 16px rgba(0, 0, 0, 0.2);
+    background: var(--secondary-color);
 }
 
 /* Cluster Detail Page */

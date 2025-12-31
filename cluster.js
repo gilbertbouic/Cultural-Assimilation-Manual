@@ -498,6 +498,7 @@
         document.getElementById('hero').style.display = 'none';
         document.getElementById('topics-overview').style.display = 'none';
         document.getElementById('clusters-overview').style.display = 'none';
+        document.getElementById('phrases-section').style.display = 'none';
 
         // Show cluster detail
         const detailSection = document.getElementById('cluster-detail');
@@ -543,6 +544,7 @@
         document.getElementById('hero').style.display = 'block';
         document.getElementById('topics-overview').style.display = 'block';
         document.getElementById('clusters-overview').style.display = 'block';
+        document.getElementById('phrases-section').style.display = 'block';
 
         // Hide cluster detail
         document.getElementById('cluster-detail').style.display = 'none';
